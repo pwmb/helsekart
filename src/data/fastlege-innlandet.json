@@ -1,0 +1,4023 @@
+[
+  {
+    "title": "Ikra Abbas",
+    "address": "Storgata 51, 2406 ELVERUM",
+    "metadata": {
+      "legekontor": "Elverum Helsesenter AS",
+      "tlf": "62 41 61 66",
+      "ledigePlasser": 35,
+      "antallPlasser": 1050,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Ahmed Mustafa Abdul Sattar",
+    "address": "Tangstubakken 2, 2337 TANGEN",
+    "metadata": {
+      "legekontor": "Tangen Legesenter",
+      "tlf": "62 58 22 00",
+      "ledigePlasser": 6,
+      "antallPlasser": 1150,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Rinor Abdula",
+    "address": "Rådhusgata 6, 2270 FLISA",
+    "metadata": {
+      "legekontor": "Åsnes Legesenter",
+      "tlf": "62 95 08 40",
+      "ledigePlasser": 133,
+      "antallPlasser": 900,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Amer Abdulkarim",
+    "address": "Bruvegen 6, 2100 SKARNES",
+    "metadata": {
+      "legekontor": "Sentrum Legekontor",
+      "tlf": "62 96 60 00",
+      "ledigePlasser": 49,
+      "antallPlasser": 1100,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Ibrahim Abureya",
+    "address": "Brugata 4, 2212 Kongsvinger",
+    "metadata": {
+      "legekontor": "Brugata Legekontor",
+      "tlf": "62 81 40 00",
+      "ledigePlasser": 48,
+      "antallPlasser": 1300,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Hamid Achakzai",
+    "address": "Garlivegen 20, 2900 FAGERNES",
+    "metadata": {
+      "legekontor": "Fagernes legesenter",
+      "tlf": "61 35 98 88",
+      "ledigePlasser": 62,
+      "antallPlasser": 800,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Abdisa Tamirat Adugna",
+    "address": "Torggata 1, 2317 HAMAR",
+    "metadata": {
+      "legekontor": "Legehuset NOVA AS",
+      "tlf": "62 55 00 80",
+      "ledigePlasser": 98,
+      "antallPlasser": 1100,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Mohammad Reza Fatholahzadeh Aghdam",
+    "address": "Landmovegen 5B, 2870 DOKKA",
+    "metadata": {
+      "legekontor": "Landsbylegene Dokka",
+      "tlf": "61 11 46 00",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Taseen Ajaib",
+    "address": "Rådhusvegen 39, 2770 JAREN",
+    "metadata": {
+      "legekontor": "Jaren Legesenter",
+      "tlf": "61 33 67 60",
+      "antallPlasser": 1150
+    }
+  },
+  {
+    "title": "Gewan Al Mousa",
+    "address": "Meierihagan 20, 2847 KOLBU",
+    "metadata": {
+      "legekontor": "Kolbu Legesenter",
+      "tlf": "61 19 88 00",
+      "ledigePlasser": 5,
+      "antallPlasser": 675,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Ali Abdullahi Ali",
+    "address": "Botten Hansens Gate 9, 2670 OTTA",
+    "metadata": {
+      "legekontor": "Otta Legekontor",
+      "tlf": "61 70 09 00",
+      "antallPlasser": 650
+    }
+  },
+  {
+    "title": "Celinda Almaas",
+    "address": "Torggata 83, 2317 Hamar",
+    "metadata": {
+      "legekontor": "Stortorget Legesenter",
+      "tlf": "62 53 82 00",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Mushtak Alsaadi",
+    "address": "Våler Legesenter Vålgutua 200, 2436 VÅLER I SOLØR",
+    "metadata": {
+      "legekontor": "Våler Legesenter",
+      "tlf": "62 42 41 70",
+      "ledigePlasser": 26,
+      "antallPlasser": 800,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Trine Lindgård Andersen",
+    "address": "Storgata 23, 2815 GJØVIK",
+    "metadata": {
+      "legekontor": "Gjøvik Kommunale Legegruppe",
+      "tlf": "61 17 50 00",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Britt Oustad Andreassen",
+    "address": "Nymosvingen 6, 2609 Lillehammer",
+    "metadata": {
+      "legekontor": "Svingen legesenter AS",
+      "tlf": "61 05 79 00",
+      "antallPlasser": 1070
+    }
+  },
+  {
+    "title": "Tommy Andreassen",
+    "address": "Nygata 22A, 2380 BRUMUNDDAL",
+    "metadata": {
+      "legekontor": "Brumunddal Legesenter",
+      "tlf": "62 33 03 00",
+      "ledigePlasser": 1,
+      "antallPlasser": 1200,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Nikolaos Andrikopoulos",
+    "address": "Åsmarkveien 3 Pb34, 2390 MOELV",
+    "metadata": {
+      "legekontor": "Herredshuset legesenter",
+      "tlf": "62 34 95 50",
+      "ledigePlasser": 317,
+      "antallPlasser": 1050,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Jon Honerød Antonsen",
+    "address": "Berger Langmoens veg 6, 2386 Brumunddal",
+    "metadata": {
+      "legekontor": "Portalen Legesenter",
+      "tlf": "62 36 50 00",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Kamran Asghar",
+    "address": "Rådhusplassen 12, 2260 KIRKENÆR",
+    "metadata": {
+      "legekontor": "Grue Legesenter",
+      "tlf": "62 94 22 12",
+      "ledigePlasser": 20,
+      "antallPlasser": 1000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Iris Marianne Auel",
+    "address": "Brugata 24, 2212 Kongsvinger",
+    "metadata": {
+      "legekontor": "Midtbyen Legesenter Kongsvinger",
+      "tlf": "62 88 80 20",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Beata Anita Gorlas Aure",
+    "address": "Kyrkjevegen 12, 2890 ETNEDAL",
+    "metadata": {
+      "legekontor": "Etnedal kommunelegekontor",
+      "tlf": "61 12 13 30",
+      "ledigePlasser": 124,
+      "antallPlasser": 650,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Trygve Austeng",
+    "address": "Stasjonsvegen 13B, 2340 LØTEN",
+    "metadata": {
+      "legekontor": "Løten Legesenter",
+      "tlf": "62 56 42 00",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Taalib Avdal",
+    "address": "Torget 1, 2450 Rena",
+    "metadata": {
+      "legekontor": "Kommunelegekontoret på Rena",
+      "tlf": "488 84 001",
+      "antallPlasser": 300
+    }
+  },
+  {
+    "title": "Pojan Esfahani Azadfar",
+    "address": "Landmovegen 5B, 2870 DOKKA",
+    "metadata": {
+      "legekontor": "Landsbylegene Dokka",
+      "tlf": "61 11 46 00",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Ali Ullah Azizullah",
+    "address": "Rådhusgata 6, 2270 FLISA",
+    "metadata": {
+      "legekontor": "Åsnes Legesenter",
+      "tlf": "62 95 08 40",
+      "ledigePlasser": 114,
+      "antallPlasser": 900,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Nadir Shah Babor",
+    "address": "Rådhusplassen 12, 2260 KIRKENÆR",
+    "metadata": {
+      "legekontor": "Grue Legesenter",
+      "tlf": "62 94 22 12",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Egle Bacyte",
+    "address": "Lars Moens Veg 3, 2660 DOMBÅS",
+    "metadata": {
+      "legekontor": "Dovre kommunale legesenter",
+      "tlf": "61 24 22 00",
+      "ledigePlasser": 695,
+      "antallPlasser": 1200,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Sohail Baheer",
+    "address": "Boligveien 43, 2230 Skotterud",
+    "metadata": {
+      "legekontor": "Eidskog kommunale legesenter",
+      "tlf": "62 83 37 50",
+      "ledigePlasser": 7,
+      "antallPlasser": 1000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Khubeb Bakhsh",
+    "address": "Stasjonsveien 22, 2100 SKARNES",
+    "metadata": {
+      "legekontor": "Parken Legesenter",
+      "tlf": "62 96 60 20",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Klaus Bakke",
+    "address": "Torggata 3, 2317 HAMAR",
+    "metadata": {
+      "legekontor": "Hamar legesenter",
+      "tlf": "62 54 20 40",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Rasmus Ferdinand Lyngstad Bakken",
+    "address": "Nordre Byre 21, 2640 Vinstra",
+    "metadata": {
+      "legekontor": "Vinstra legekontor",
+      "tlf": "61 21 63 00",
+      "ledigePlasser": 8,
+      "antallPlasser": 600,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Marte Bakve",
+    "address": "Krokamyrvegen 18, 2686 LOM",
+    "metadata": {
+      "legekontor": "Lom Legekontor",
+      "tlf": "61 21 72 00",
+      "antallPlasser": 335
+    }
+  },
+  {
+    "title": "Bavan Balasingham",
+    "address": "Elvarheimgaten 10C, 2408 Elverum",
+    "metadata": {
+      "legekontor": "Labyrinten Legesenter",
+      "tlf": "62 41 91 60",
+      "ledigePlasser": 223,
+      "antallPlasser": 1000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Endre Balazs",
+    "address": "Vangsvegen 31, 2317 Hamar",
+    "metadata": {
+      "legekontor": "Innlandet Legesenter AS",
+      "tlf": "62 55 54 00",
+      "antallPlasser": 1400
+    }
+  },
+  {
+    "title": "Sri Ramya Balendra",
+    "address": "Nedre Hagalia 18, 2760 BRANDBU",
+    "metadata": {
+      "legekontor": "Brandbu legesenter",
+      "tlf": "61 32 96 00",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Sindre Barli",
+    "address": "Møllergata 3A, 2390 MOELV",
+    "metadata": {
+      "legekontor": "Moelv Legesenter",
+      "tlf": "62 33 55 30",
+      "ledigePlasser": 1,
+      "antallPlasser": 1100,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Nermina Basovic-Avdovic",
+    "address": "Elvarheimgata 10, 2408 ELVERUM",
+    "metadata": {
+      "legekontor": "Elverum Kommunale Legesenter",
+      "tlf": "62 41 01 40",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Håvard Bentdal-Strand",
+    "address": "Tingnesvegen 720, 2350 NES PÅ HEDMARKEN",
+    "metadata": {
+      "legekontor": "Tingnes Legesenter",
+      "tlf": "62 34 73 50",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Ingrid Marie Berg",
+    "address": "Lundgutua 4, 2319 Hamar",
+    "metadata": {
+      "legekontor": "Voll Legesenter",
+      "tlf": "62 53 66 00",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Sidsel Laderud Berge",
+    "address": "Hovsvegen 4, 2750 GRAN",
+    "metadata": {
+      "legekontor": "Gran Legesenter",
+      "tlf": "61 32 79 50",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Iselin Løfoll Bergersen",
+    "address": "Fahlstrøms Plass 1, 2815 GJØVIK",
+    "metadata": {
+      "legekontor": "Gjøvik Legesenter",
+      "tlf": "61 14 05 00",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Oline Sofie Palsgaard Berget",
+    "address": "Valdresvegen 4, 2816 GJØVIK",
+    "metadata": {
+      "legekontor": "Sørbyen Legegruppe",
+      "tlf": "61 13 88 00",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Eldbjørg Lie Bergheim",
+    "address": "Bygdinvegen 2134, 2940 HEGGENES",
+    "metadata": {
+      "legekontor": "Legekontoret i Øystre Slidre",
+      "tlf": "61 35 29 00",
+      "antallPlasser": 670
+    }
+  },
+  {
+    "title": "Hanna Bergheim",
+    "address": "Kommunevegen 1, 2647 Sør Fron",
+    "metadata": {
+      "legekontor": "Sør-Fron Legesenter",
+      "tlf": "61 29 91 00",
+      "antallPlasser": 750
+    }
+  },
+  {
+    "title": "Andreea Florina Dana Bjerkestrand",
+    "address": "Torggata 1, 2317 HAMAR",
+    "metadata": {
+      "legekontor": "Legehuset NOVA AS",
+      "tlf": "62 55 00 80",
+      "antallPlasser": 1350
+    }
+  },
+  {
+    "title": "Bjørn Tore Bjørkedal",
+    "address": "Boligveien 43, 2230 Skotterud",
+    "metadata": {
+      "legekontor": "Eidskog kommunale legesenter",
+      "tlf": "62 83 37 50",
+      "antallPlasser": 950
+    }
+  },
+  {
+    "title": "Brynjar Walthinsen Bjørklund",
+    "address": "Torvgata 1, 2500 TYNSET",
+    "metadata": {
+      "legekontor": "Tynset legekontor og helsestasjon",
+      "tlf": "62 48 51 60",
+      "antallPlasser": 920
+    }
+  },
+  {
+    "title": "Jan Fredrik Bjørnberg",
+    "address": "Lundevegen 3, 2420 Trysil",
+    "metadata": {
+      "legekontor": "Trysil Legesenter",
+      "tlf": "62 45 78 50",
+      "ledigePlasser": 35,
+      "antallPlasser": 1350,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Diane Cecile Cianciolo Bjørnstad",
+    "address": "Lundevegen 3, 2420 Trysil",
+    "metadata": {
+      "legekontor": "Trysil Legesenter",
+      "tlf": "62 45 78 50",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Tor Halvor Bjørnstad-Tuveng",
+    "address": "Torvgata 1, 2500 TYNSET",
+    "metadata": {
+      "legekontor": "Tynset legekontor og helsestasjon",
+      "tlf": "62 48 51 60",
+      "antallPlasser": 750
+    }
+  },
+  {
+    "title": "Kristian Bjørtomt",
+    "address": "Dr.Thorshaugs Veg 25, 2335 STANGE",
+    "metadata": {
+      "legekontor": "Stange Legesenter",
+      "tlf": "62 57 40 00",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Venugah Bloemhof",
+    "address": "Gågata 5, 2211 Kongsvinger",
+    "metadata": {
+      "legekontor": "Gågata legesenter",
+      "tlf": "62 88 89 00",
+      "antallPlasser": 600
+    }
+  },
+  {
+    "title": "Åse Ingeborg Borgos",
+    "address": "Granheimveien 3, 2480 KOPPANG",
+    "metadata": {
+      "legekontor": "Kommunelegene i Stor-Elvdal",
+      "tlf": "62 46 34 00",
+      "antallPlasser": 350
+    }
+  },
+  {
+    "title": "Line Boym",
+    "address": "Stasjonsvegen 13B, 2340 LØTEN",
+    "metadata": {
+      "legekontor": "Løten Legesenter",
+      "tlf": "62 56 42 00",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Anna Brandslien",
+    "address": "Hovsbakken 3, 2860 HOV",
+    "metadata": {
+      "legekontor": "Hov Legesenter",
+      "tlf": "61 12 99 20",
+      "ledigePlasser": 3,
+      "antallPlasser": 1000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Nicolai Nyhuus Brekke",
+    "address": "Hundervegen 19, 2636 Øyer",
+    "metadata": {
+      "legekontor": "Øyer og Tretten Legekontor",
+      "tlf": "61 26 82 00",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Kristine Brenden",
+    "address": "Kyrkjevegen 12, 2890 ETNEDAL",
+    "metadata": {
+      "legekontor": "Etnedal kommunelegekontor",
+      "tlf": "61 12 13 30",
+      "antallPlasser": 450
+    }
+  },
+  {
+    "title": "Anne Brose",
+    "address": "Bryggerigata 8, 2609 LILLEHAMMER",
+    "metadata": {
+      "legekontor": "Legetorget, Lillehammer DA",
+      "tlf": "917 66 000",
+      "antallPlasser": 1150
+    }
+  },
+  {
+    "title": "Alan Holstad Brunker",
+    "address": "Meierihagan 20, 2847 KOLBU",
+    "metadata": {
+      "legekontor": "Kolbu Legesenter",
+      "tlf": "61 19 88 00",
+      "antallPlasser": 600
+    }
+  },
+  {
+    "title": "Janne Fjelltun Buene",
+    "address": "Garlivegen 20, 2900 FAGERNES",
+    "metadata": {
+      "legekontor": "Fagernes legesenter",
+      "tlf": "61 35 98 88",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Esben Selmer Buhl",
+    "address": "Hovsbakken 3, 2860 HOV",
+    "metadata": {
+      "legekontor": "Hov Legesenter",
+      "tlf": "61 12 99 20",
+      "ledigePlasser": 9,
+      "antallPlasser": 950,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Mantas Busevicius",
+    "address": "Sigurd Østliens veg 4, 2830 RAUFOSS",
+    "metadata": {
+      "legekontor": "Sagatunet legesenter",
+      "tlf": "61 19 14 20",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Knut Erik Bækkedal",
+    "address": "Granheimveien 3, 2480 KOPPANG",
+    "metadata": {
+      "legekontor": "Kommunelegene i Stor-Elvdal",
+      "tlf": "62 46 34 00",
+      "ledigePlasser": 74,
+      "antallPlasser": 400,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Sondre Bøye",
+    "address": "Moavegen 30, 2690 SKJÅK",
+    "metadata": {
+      "legekontor": "Skjåk Legekontor",
+      "tlf": "61 21 71 00",
+      "antallPlasser": 440
+    }
+  },
+  {
+    "title": "Johan Baastad",
+    "address": "Lundevegen 3, 2420 Trysil",
+    "metadata": {
+      "legekontor": "Trysil Legesenter",
+      "tlf": "62 45 78 50",
+      "ledigePlasser": 11,
+      "antallPlasser": 950,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Abdul Latif Chaudhary",
+    "address": "Rådhusvegen 39, 2770 JAREN",
+    "metadata": {
+      "legekontor": "Jaren Legesenter",
+      "tlf": "61 33 67 60",
+      "ledigePlasser": 106,
+      "antallPlasser": 1250,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Ine Ripsrud Christensen",
+    "address": "Rådhusgata 6, 2270 FLISA",
+    "metadata": {
+      "legekontor": "Åsnes Legesenter",
+      "tlf": "62 95 08 40",
+      "antallPlasser": 500
+    }
+  },
+  {
+    "title": "Sofie Hundevadt Dahl",
+    "address": "Botten Hansens Gate 9, 2670 OTTA",
+    "metadata": {
+      "legekontor": "Otta Legekontor",
+      "tlf": "61 70 09 00",
+      "antallPlasser": 550
+    }
+  },
+  {
+    "title": "David Andre Danielsson",
+    "address": "Birivegen 97, 2836 BIRI",
+    "metadata": {
+      "legekontor": "Biri Helsesenter",
+      "tlf": "61 15 88 00",
+      "antallPlasser": 1065
+    }
+  },
+  {
+    "title": "Joseph De Luca",
+    "address": "Torggata 3, 2408 Elverum",
+    "metadata": {
+      "legekontor": "Helsetorget Legesenter AS",
+      "tlf": "62 43 36 50",
+      "antallPlasser": 1050
+    }
+  },
+  {
+    "title": "Pojan Dehnavi",
+    "address": "Rådhusgata 6, 2270 FLISA",
+    "metadata": {
+      "legekontor": "Åsnes Legesenter",
+      "tlf": "62 95 08 40",
+      "antallPlasser": 844
+    }
+  },
+  {
+    "title": "Abubakar Din",
+    "address": "Vangsvegen 31, 2317 Hamar",
+    "metadata": {
+      "legekontor": "Innlandet Legesenter AS",
+      "tlf": "62 55 54 00",
+      "ledigePlasser": 121,
+      "antallPlasser": 1700,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Goran Draskovic",
+    "address": "Nedre Hagalia 18, 2760 BRANDBU",
+    "metadata": {
+      "legekontor": "Brandbu legesenter",
+      "tlf": "61 32 96 00",
+      "antallPlasser": 1350
+    }
+  },
+  {
+    "title": "Aiken Christian Dybsjord",
+    "address": "Torget 1, 2450 Rena",
+    "metadata": {
+      "legekontor": "Kommunelegekontoret på Rena",
+      "tlf": "488 84 001",
+      "antallPlasser": 600
+    }
+  },
+  {
+    "title": "Ragnhild Dybvig",
+    "address": "Vangsvegen 121, 2318 HAMAR",
+    "metadata": {
+      "legekontor": "Disen Legesenter AS",
+      "tlf": "62 52 01 00",
+      "antallPlasser": 890
+    }
+  },
+  {
+    "title": "Lene Dæhlen",
+    "address": "Kinogt. 34, 2850 LENA",
+    "metadata": {
+      "legekontor": "Lena Legesenter",
+      "tlf": "61 16 87 00",
+      "antallPlasser": 680
+    }
+  },
+  {
+    "title": "Kim Ingulv Kristoffer Rossebø Eggen",
+    "address": "Rytrøa 17, 2550 OS I ØSTERDALEN",
+    "metadata": {
+      "legekontor": "Os Legekontor",
+      "tlf": "62 47 03 55",
+      "ledigePlasser": 39,
+      "antallPlasser": 650,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Guro Katrine Lie Eidal",
+    "address": "Trimvegen 1, 2634 Fåvang",
+    "metadata": {
+      "legekontor": "Ringebu Legekontor",
+      "tlf": "61 28 39 10",
+      "antallPlasser": 560
+    }
+  },
+  {
+    "title": "Emma Einhausen",
+    "address": "Landmovegen 5B, 2870 DOKKA",
+    "metadata": {
+      "legekontor": "Landsbylegene Dokka",
+      "tlf": "61 11 46 00",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Maren Elise Ekholdt",
+    "address": "Moavegen 30, 2690 SKJÅK",
+    "metadata": {
+      "legekontor": "Skjåk Legekontor",
+      "tlf": "61 21 71 00",
+      "antallPlasser": 600
+    }
+  },
+  {
+    "title": "Jakob Brustugun Ekre",
+    "address": "Nymosvingen 6, 2609 LILLEHAMMER",
+    "metadata": {
+      "legekontor": "Nymosvingen Legesenter AS",
+      "tlf": "61 59 60 00",
+      "ledigePlasser": 373,
+      "antallPlasser": 950,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Patrick Hovda Ekrem",
+    "address": "Sigurd Østliens veg 4, 2830 RAUFOSS",
+    "metadata": {
+      "legekontor": "Raufoss kommunelegekontor",
+      "tlf": "61 19 99 99",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Siri Kristin Engebretsen",
+    "address": "Nygata 22A, 2380 BRUMUNDDAL",
+    "metadata": {
+      "legekontor": "Brumunddal Legesenter",
+      "tlf": "62 33 03 00",
+      "antallPlasser": 1250
+    }
+  },
+  {
+    "title": "Randi Engen",
+    "address": "Ankerskogvegen 7, 2319 Hamar",
+    "metadata": {
+      "legekontor": "Ankerskogen legesenter",
+      "tlf": "62 55 25 95",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Truels Erikstad",
+    "address": "Nymosvingen 6, 2609 LILLEHAMMER",
+    "metadata": {
+      "legekontor": "Nymosvingen Legesenter AS",
+      "tlf": "61 59 60 00",
+      "ledigePlasser": 271,
+      "antallPlasser": 1300,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Mathias Eskelund",
+    "address": "Vestringvegen 10B, 2651 ØSTRE GAUSDAL",
+    "metadata": {
+      "legekontor": "Gausdal legesenter",
+      "tlf": "61 25 66 00",
+      "ledigePlasser": 179,
+      "antallPlasser": 733,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Ingeborg Eskerud",
+    "address": "Nymosvingen 6, 2609 Lillehammer",
+    "metadata": {
+      "legekontor": "Svingen legesenter AS",
+      "tlf": "61 05 79 00",
+      "antallPlasser": 860
+    }
+  },
+  {
+    "title": "Esben Trygve Evensen",
+    "address": "Garlivegen 20, 2900 FAGERNES",
+    "metadata": {
+      "legekontor": "Fagernes legesenter",
+      "tlf": "61 35 98 88",
+      "ledigePlasser": 1,
+      "antallPlasser": 800,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Marianne Evenstuen",
+    "address": "Måsåbekkveien 2, 2316 HAMAR",
+    "metadata": {
+      "legekontor": "Storhamar Legesenter",
+      "tlf": "62 54 04 80",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Marie Dent Evjenth",
+    "address": "Tingnesvegen 720, 2350 NES PÅ HEDMARKEN",
+    "metadata": {
+      "legekontor": "Tingnes Legesenter",
+      "tlf": "62 34 73 50",
+      "ledigePlasser": 3,
+      "antallPlasser": 800,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Øystein Fagerhaug",
+    "address": "Gimleveien 24, 2846 BØVERBRU",
+    "metadata": {
+      "legekontor": "Bøverbru Legekontor",
+      "tlf": "61 15 97 50",
+      "antallPlasser": 600
+    }
+  },
+  {
+    "title": "Jonas Rønningen Fainberg-Sandbu",
+    "address": "Hundervegen 19, 2636 Øyer",
+    "metadata": {
+      "legekontor": "Øyer og Tretten Legekontor",
+      "tlf": "61 26 82 00",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Julie Fainberg-Sandbu",
+    "address": "Hundervegen 19, 2636 Øyer",
+    "metadata": {
+      "legekontor": "Øyer og Tretten Legekontor",
+      "tlf": "61 26 82 00",
+      "antallPlasser": 750
+    }
+  },
+  {
+    "title": "Markus Fauske",
+    "address": "Nygata 22A, 2380 BRUMUNDDAL",
+    "metadata": {
+      "legekontor": "Brumunddal Legesenter",
+      "tlf": "62 33 03 00",
+      "antallPlasser": 1250
+    }
+  },
+  {
+    "title": "Ove Ingebrigtsvoll Feragen",
+    "address": "Torvgata 1, 2500 TYNSET",
+    "metadata": {
+      "legekontor": "Tynset legekontor og helsestasjon",
+      "tlf": "62 48 51 60",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Mads Engdal Fjellheim",
+    "address": "Stasjonsvegen 7, 2340 LØTEN",
+    "metadata": {
+      "legekontor": "Løten Kommune Bristol Legesenter",
+      "tlf": "62 54 70 70",
+      "antallPlasser": 860
+    }
+  },
+  {
+    "title": "Nana Fjellså",
+    "address": "Slidrevegen 16, 2966 SLIDRE",
+    "metadata": {
+      "legekontor": "Slidre Legesenter",
+      "tlf": "61 34 47 90",
+      "ledigePlasser": 16,
+      "antallPlasser": 400,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Malene Flock",
+    "address": "Ingrid Semmingsens veg 6, 2312 OTTESTAD",
+    "metadata": {
+      "legekontor": "Bekkelaget Legesenter AS",
+      "tlf": "62 58 58 58",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Marthe Nordseth Fondt",
+    "address": "Lundevegen 3, 2420 Trysil",
+    "metadata": {
+      "legekontor": "Trysil Legesenter",
+      "tlf": "62 45 78 50",
+      "antallPlasser": 650
+    }
+  },
+  {
+    "title": "Anders Fortun",
+    "address": "Elvarheimgaten 10C, 2408 Elverum",
+    "metadata": {
+      "legekontor": "Labyrinten Legesenter",
+      "tlf": "62 41 91 60",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Siw Odden Fosheim",
+    "address": "Slidrevegen 16, 2966 SLIDRE",
+    "metadata": {
+      "legekontor": "Slidre Legesenter",
+      "tlf": "61 34 47 90",
+      "ledigePlasser": 24,
+      "antallPlasser": 500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Lars Hektor Klensmeden Fosse",
+    "address": "Torvgata 1, 2500 TYNSET",
+    "metadata": {
+      "legekontor": "Tynset legekontor og helsestasjon",
+      "tlf": "62 48 51 60",
+      "antallPlasser": 750
+    }
+  },
+  {
+    "title": "Sjur Letnes Fossum",
+    "address": "Birivegen 97, 2836 BIRI",
+    "metadata": {
+      "legekontor": "Biri Helsesenter",
+      "tlf": "61 15 88 00",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Tobias Frischmuth",
+    "address": "Nordre Byre 21, 2640 Vinstra",
+    "metadata": {
+      "legekontor": "Vinstra legekontor",
+      "tlf": "61 21 63 00",
+      "ledigePlasser": 7,
+      "antallPlasser": 750,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Elina Reimer Førsund",
+    "address": "Winsnes gate 62, 2212 Kongsvinger",
+    "metadata": {
+      "legekontor": "Parkvegen legekontor",
+      "tlf": "62 82 30 00",
+      "antallPlasser": 610
+    }
+  },
+  {
+    "title": "Umesh Charitha Galappaththi-Arachchige",
+    "address": "Storgata 51, 2406 ELVERUM",
+    "metadata": {
+      "legekontor": "Elverum Helsesenter AS",
+      "tlf": "62 41 61 66",
+      "ledigePlasser": 11,
+      "antallPlasser": 875,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Luam Gidei Kassa Gebremedhin",
+    "address": "Nordre Byre 21, 2640 Vinstra",
+    "metadata": {
+      "legekontor": "Vinstra legekontor",
+      "tlf": "61 21 63 00",
+      "antallPlasser": 650
+    }
+  },
+  {
+    "title": "Kjetil Johnstad Gimse",
+    "address": "Lundgutua 4, 2319 Hamar",
+    "metadata": {
+      "legekontor": "Voll Legesenter",
+      "tlf": "62 53 66 00",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Nerijus Gintalas",
+    "address": "Tingvollbakkin 21, 2930 BAGN",
+    "metadata": {
+      "legekontor": "Bagn legesenter",
+      "tlf": "61 34 85 50",
+      "ledigePlasser": 4,
+      "antallPlasser": 900,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Hallgeir Gisleberg",
+    "address": "Rådhusvegen 39, 2770 JAREN",
+    "metadata": {
+      "legekontor": "Jaren Legesenter",
+      "tlf": "61 33 67 60",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Anette Heier Glasø",
+    "address": "Lillekollvegen 12, 2827 HUNNDALEN",
+    "metadata": {
+      "legekontor": "Lillekollen Legesenter",
+      "tlf": "61 13 68 00",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Jakub Konrad Gonet",
+    "address": "Nymosvingen 6, 2609 LILLEHAMMER",
+    "metadata": {
+      "legekontor": "Lillehammer Legesenter DA",
+      "tlf": "61 05 45 00",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Ludmila Gorina",
+    "address": "Nedre Hagalia 18, 2760 BRANDBU",
+    "metadata": {
+      "legekontor": "Brandbu legesenter",
+      "tlf": "61 32 96 00",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Magnus Gotfredsen",
+    "address": "Fahlstrøms Plass 1, 2815 GJØVIK",
+    "metadata": {
+      "legekontor": "Gjøvik Legesenter",
+      "tlf": "61 14 05 00",
+      "ledigePlasser": 10,
+      "antallPlasser": 900,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Hannah Skjellet Granerud",
+    "address": "Kirkegata 55, 2609 Lillehammer",
+    "metadata": {
+      "legekontor": "Sentrum legekontor Lillehammer",
+      "tlf": "61 26 30 40",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Steinar Kuvås Grue",
+    "address": "Elvegata 19, 2609 LILLEHAMMER",
+    "metadata": {
+      "legekontor": "Bryggeriet Legesenter DA",
+      "tlf": "61 22 19 10",
+      "antallPlasser": 1350
+    }
+  },
+  {
+    "title": "Dara Grujic",
+    "address": "Storgata 23, 2815 GJØVIK",
+    "metadata": {
+      "legekontor": "Gjøvik Kommunale Legegruppe",
+      "tlf": "61 17 50 00",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Frank Grund",
+    "address": "Brøttumsvegen 6, 2373 BRØTTUM",
+    "metadata": {
+      "legekontor": "Brøttum legesenter",
+      "tlf": "62 33 26 10",
+      "antallPlasser": 1140
+    }
+  },
+  {
+    "title": "Birgitte Henriksen Gryting",
+    "address": "Elvegata 19, 2609 LILLEHAMMER",
+    "metadata": {
+      "legekontor": "Bryggeriet Legesenter DA",
+      "tlf": "61 22 19 10",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Maria Grønland",
+    "address": "Gimleveien 24, 2846 BØVERBRU",
+    "metadata": {
+      "legekontor": "Bøverbru Legekontor",
+      "tlf": "61 15 97 50",
+      "antallPlasser": 598
+    }
+  },
+  {
+    "title": "Kristine Gaarder",
+    "address": "Torggata 3, 2408 Elverum",
+    "metadata": {
+      "legekontor": "Helsetorget Legesenter AS",
+      "tlf": "62 43 36 50",
+      "antallPlasser": 990
+    }
+  },
+  {
+    "title": "Natalie Hage",
+    "address": "Berger Langmoens veg 6, 2386 Brumunddal",
+    "metadata": {
+      "legekontor": "Portalen Legesenter",
+      "tlf": "62 36 50 00",
+      "ledigePlasser": 3,
+      "antallPlasser": 1400,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Pernille Hagen",
+    "address": "Nordre Byre 21, 2640 Vinstra",
+    "metadata": {
+      "legekontor": "Vinstra legekontor",
+      "tlf": "61 21 63 00",
+      "antallPlasser": 600
+    }
+  },
+  {
+    "title": "Tine Andrea Hagen-Aalerud",
+    "address": "Dr.Thorshaugs Veg 25, 2335 STANGE",
+    "metadata": {
+      "legekontor": "Stange Legesenter",
+      "tlf": "62 57 40 00",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Per Ove Hagestuen",
+    "address": "Trimvegen 1, 2634 Fåvang",
+    "metadata": {
+      "legekontor": "Ringebu Legekontor",
+      "tlf": "61 28 39 10",
+      "antallPlasser": 500
+    }
+  },
+  {
+    "title": "Irina Halgunset",
+    "address": "Storgata 34, 2830 Raufoss",
+    "metadata": {
+      "legekontor": "Torvet Legekontor",
+      "tlf": "61 19 17 34",
+      "ledigePlasser": 194,
+      "antallPlasser": 850,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Jann Sindre Hallem",
+    "address": "Dr.Thorshaugs Veg 25, 2335 STANGE",
+    "metadata": {
+      "legekontor": "Stange Legesenter",
+      "tlf": "62 57 40 00",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Tom Yngvar Halvorsen",
+    "address": "Brøttumsvegen 6, 2373 BRØTTUM",
+    "metadata": {
+      "legekontor": "Brøttum legesenter",
+      "tlf": "62 33 26 10",
+      "ledigePlasser": 74,
+      "antallPlasser": 1000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Ellen Marie Hammer",
+    "address": "Kinogt. 34, 2850 LENA",
+    "metadata": {
+      "legekontor": "Lena Legesenter",
+      "tlf": "61 16 87 00",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Irfan Hanbali",
+    "address": "Nordre Byre 21, 2640 Vinstra",
+    "metadata": {
+      "legekontor": "Vinstra legekontor",
+      "tlf": "61 21 63 00",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Thea Andersson Haug",
+    "address": "Stasjonsvegen 15, 2848 SKREIA",
+    "metadata": {
+      "legekontor": "Skreia Legesenter",
+      "tlf": "61 16 51 80",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Elena Haugen",
+    "address": "Elvarheimgata 10, 2408 ELVERUM",
+    "metadata": {
+      "legekontor": "Elverum Kommunale Legesenter",
+      "tlf": "62 41 01 40",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Sigrid Kristine Sele Haugtomt",
+    "address": "Vikaveien 15, 2312 OTTESTAD",
+    "metadata": {
+      "legekontor": "Åkersvika legesenter",
+      "tlf": "62 57 38 50",
+      "antallPlasser": 520
+    }
+  },
+  {
+    "title": "Guro Havig",
+    "address": "Møllergata 3A, 2390 MOELV",
+    "metadata": {
+      "legekontor": "Moelv Legesenter",
+      "tlf": "62 33 55 30",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Andreas Johannes Heck",
+    "address": "Torggata 1, 2317 HAMAR",
+    "metadata": {
+      "legekontor": "Legehuset NOVA AS",
+      "tlf": "62 55 00 80",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Inger-Louise Hegbom",
+    "address": "Nymosvingen 6, 2609 LILLEHAMMER",
+    "metadata": {
+      "legekontor": "Lillehammer Legesenter DA",
+      "tlf": "61 05 45 00",
+      "ledigePlasser": 26,
+      "antallPlasser": 600,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Marit Hegde",
+    "address": "Garlivegen 20, 2900 FAGERNES",
+    "metadata": {
+      "legekontor": "Fagernes legesenter",
+      "tlf": "61 35 98 88",
+      "antallPlasser": 400
+    }
+  },
+  {
+    "title": "Gunnar Heggelund",
+    "address": "Moavegen 20 A, 2680 VÅGÅ",
+    "metadata": {
+      "legekontor": "Vågå Helsesenter",
+      "tlf": "61 29 37 00",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Torunn Heggen",
+    "address": "Hovsbakken 3, 2860 HOV",
+    "metadata": {
+      "legekontor": "Hov Legesenter",
+      "tlf": "61 12 99 20",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Ayad Ainalla Nouralla Heidari",
+    "address": "Rådhusgata 6, 2270 FLISA",
+    "metadata": {
+      "legekontor": "Åsnes Legesenter",
+      "tlf": "62 95 08 40",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Nora Isolde Heidsve",
+    "address": "Torvgata 1, 2500 TYNSET",
+    "metadata": {
+      "legekontor": "Tynset legekontor og helsestasjon",
+      "tlf": "62 48 51 60",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Kristine Løkse Helgesen",
+    "address": "Valdresvegen 4, 2816 GJØVIK",
+    "metadata": {
+      "legekontor": "Sørbyen Legegruppe",
+      "tlf": "61 13 88 00",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Pål Jacob Helmen",
+    "address": "Hovsvegen 4, 2750 GRAN",
+    "metadata": {
+      "legekontor": "Gran Legesenter",
+      "tlf": "61 32 79 50",
+      "antallPlasser": 910
+    }
+  },
+  {
+    "title": "Håkon Spæren Henningsen",
+    "address": "Gjelen 3, 2560 ALVDAL",
+    "metadata": {
+      "legekontor": "Alvdal Kommune Alminnelig Helsevern",
+      "tlf": "62 48 90 00",
+      "ledigePlasser": 102,
+      "antallPlasser": 800,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Kristian Jostad Henriksveen",
+    "address": "Storgata 23, 2815 GJØVIK",
+    "metadata": {
+      "legekontor": "Gjøvik Kommunale Legegruppe",
+      "tlf": "61 17 50 00",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Laila Høiås Herlyng",
+    "address": "Rådhusgata 6, 2270 FLISA",
+    "metadata": {
+      "legekontor": "Åsnes Legesenter",
+      "tlf": "62 95 08 40",
+      "antallPlasser": 660
+    }
+  },
+  {
+    "title": "Magdalena Helena Dominczak Herud",
+    "address": "PB 668, 2204 Kongsvinger",
+    "metadata": {
+      "legekontor": "Sentrum Syd Legekontor",
+      "tlf": "62 82 68 40",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Anders Godø Hesbøl",
+    "address": "PB 668, 2204 Kongsvinger",
+    "metadata": {
+      "legekontor": "Sentrum Syd Legekontor",
+      "tlf": "62 82 68 40",
+      "antallPlasser": 650
+    }
+  },
+  {
+    "title": "Pål Ketil Hjorthol",
+    "address": "Storgata 89, 2615 LILLEHAMMER",
+    "metadata": {
+      "legekontor": "Toppen Legesenter",
+      "tlf": "61 22 16 00",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Jan Ove Hoddø",
+    "address": "Berger Langmoens veg 6, 2386 Brumunddal",
+    "metadata": {
+      "legekontor": "Portalen Legesenter",
+      "tlf": "62 36 50 00",
+      "antallPlasser": 1420
+    }
+  },
+  {
+    "title": "Benedicte Karen Holager",
+    "address": "Kommunevegen 1, 2647 Sør Fron",
+    "metadata": {
+      "legekontor": "Sør-Fron Legesenter",
+      "tlf": "61 29 91 00",
+      "antallPlasser": 580
+    }
+  },
+  {
+    "title": "Ane Hole",
+    "address": "Botten Hansens Gate 9, 2670 OTTA",
+    "metadata": {
+      "legekontor": "Otta Legekontor",
+      "tlf": "61 70 09 00",
+      "antallPlasser": 600
+    }
+  },
+  {
+    "title": "Fredrik Gangsås Hole",
+    "address": "Romsdalsvegen 1382, 2665 Lesja, 2665 LESJA",
+    "metadata": {
+      "legekontor": "Lesja Legekontor",
+      "tlf": "61 24 42 00",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Bjørnar Holm",
+    "address": "Møllergata 3A, 2390 MOELV",
+    "metadata": {
+      "legekontor": "Moelv Legesenter",
+      "tlf": "62 33 55 30",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Yngve Mathias Bakken Holtsmark",
+    "address": "Slidrevegen 16, 2966 SLIDRE",
+    "metadata": {
+      "legekontor": "Slidre Legesenter",
+      "tlf": "61 34 47 90",
+      "ledigePlasser": 46,
+      "antallPlasser": 400,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Hassan Heider Hamid Hussein",
+    "address": "Nedre Hagalia 18, 2760 BRANDBU",
+    "metadata": {
+      "legekontor": "Brandbu legesenter",
+      "tlf": "61 32 96 00",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Janette Floriana Hustveit-Brunell",
+    "address": "Mågårdvegen 85, 2334 Romedal",
+    "metadata": {
+      "legekontor": "Romedal Legesenter DA",
+      "tlf": "62 58 89 90",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Torgeir Hystad",
+    "address": "Hovsvegen 4, 2750 GRAN",
+    "metadata": {
+      "legekontor": "Gran Legesenter",
+      "tlf": "61 32 79 50",
+      "antallPlasser": 910
+    }
+  },
+  {
+    "title": "Susanne Klevstad Høy",
+    "address": "Nordre Byre 21, 2640 Vinstra",
+    "metadata": {
+      "legekontor": "Vinstra legekontor",
+      "tlf": "61 21 63 00",
+      "antallPlasser": 650
+    }
+  },
+  {
+    "title": "Hanne Østby Håkonsen",
+    "address": "Hovsvegen 4, 2750 GRAN",
+    "metadata": {
+      "legekontor": "Gran Legesenter",
+      "tlf": "61 32 79 50",
+      "antallPlasser": 910
+    }
+  },
+  {
+    "title": "Ella Dobloug Haandlykken",
+    "address": "Møllergata 3A, 2390 MOELV",
+    "metadata": {
+      "legekontor": "Moelv Legesenter",
+      "tlf": "62 33 55 30",
+      "ledigePlasser": 193,
+      "antallPlasser": 800,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Tonje Haanæs Rensberg",
+    "address": "Rytrøa 17, 2550 OS I ØSTERDALEN",
+    "metadata": {
+      "legekontor": "Os Legekontor",
+      "tlf": "62 47 03 55",
+      "ledigePlasser": 85,
+      "antallPlasser": 650,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Ahad Imtiaz",
+    "address": "Våler Legesenter Vålgutua 200, 2436 VÅLER I SOLØR",
+    "metadata": {
+      "legekontor": "Våler Legesenter",
+      "tlf": "62 42 41 70",
+      "ledigePlasser": 42,
+      "antallPlasser": 700,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Helene Marjavara Inselseth",
+    "address": "Våler Legesenter Vålgutua 200, 2436 VÅLER I SOLØR",
+    "metadata": {
+      "legekontor": "Våler Legesenter",
+      "tlf": "62 42 41 70",
+      "antallPlasser": 660
+    }
+  },
+  {
+    "title": "Bilal Raza Ishaq",
+    "address": "Tiurveien 15, 2120 SAGSTUA",
+    "metadata": {
+      "legekontor": "Nord-Odal Legesenter",
+      "tlf": "62 97 82 00",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Nohman Hassan Ishaq",
+    "address": "Tiurveien 15, 2120 SAGSTUA",
+    "metadata": {
+      "legekontor": "Nord-Odal Legesenter",
+      "tlf": "62 97 82 00",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Hilde Johanne Løvstad Iversbakken",
+    "address": "Sigurd Østliens veg 4, 2830 RAUFOSS",
+    "metadata": {
+      "legekontor": "Raufoss kommunelegekontor",
+      "tlf": "61 19 99 99",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Per Einar Jahr",
+    "address": "Garlivegen 20, 2900 FAGERNES",
+    "metadata": {
+      "legekontor": "Fagernes legesenter",
+      "tlf": "61 35 98 88",
+      "ledigePlasser": 20,
+      "antallPlasser": 800,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Shahin Jamei",
+    "address": "Landmovegen 5B, 2870 DOKKA",
+    "metadata": {
+      "legekontor": "Landsbylegene Dokka",
+      "tlf": "61 11 46 00",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Dorthe Jensen",
+    "address": "Ankerskogvegen 7, 2319 Hamar",
+    "metadata": {
+      "legekontor": "Ankerskogen legesenter",
+      "tlf": "62 55 25 95",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Jørn Thomas Johansen",
+    "address": "Boligveien 43, 2230 Skotterud",
+    "metadata": {
+      "legekontor": "Eidskog kommunale legesenter",
+      "tlf": "62 83 37 50",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Roger Andre Jonassen",
+    "address": "Stasjonsvegen 7, 2340 LØTEN",
+    "metadata": {
+      "legekontor": "Løten Kommune Bristol Legesenter",
+      "tlf": "62 54 70 70",
+      "antallPlasser": 950
+    }
+  },
+  {
+    "title": "Bent Espen Joro",
+    "address": "Nymosvingen 6, 2609 LILLEHAMMER",
+    "metadata": {
+      "legekontor": "Lillehammer Legesenter DA",
+      "tlf": "61 05 45 00",
+      "antallPlasser": 1450
+    }
+  },
+  {
+    "title": "Martine Linge Joten",
+    "address": "Trimvegen 1, 2634 Fåvang",
+    "metadata": {
+      "legekontor": "Ringebu Legekontor",
+      "tlf": "61 28 39 10",
+      "antallPlasser": 560
+    }
+  },
+  {
+    "title": "Brede Woll Jørandli",
+    "address": "Slidrevegen 16, 2966 SLIDRE",
+    "metadata": {
+      "legekontor": "Slidre Legesenter",
+      "tlf": "61 34 47 90",
+      "ledigePlasser": 45,
+      "antallPlasser": 400,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Anne Guro Moen Jøranli",
+    "address": "Nord-Torpvegen 15, 2881 AUST-TORPA",
+    "metadata": {
+      "legekontor": "Torpa Legekontor DA",
+      "tlf": "61 11 46 50",
+      "antallPlasser": 1350
+    }
+  },
+  {
+    "title": "Torstein Jørstad",
+    "address": "Tyinvegen 5151, 2975 VANG I VALDRES",
+    "metadata": {
+      "legekontor": "Vang Legekontor",
+      "tlf": "61 36 95 00",
+      "ledigePlasser": 17,
+      "antallPlasser": 550,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Ebubekir Kacapor",
+    "address": "Elvarheimgata 10, 2408 ELVERUM",
+    "metadata": {
+      "legekontor": "Elverum Kommunale Legesenter",
+      "tlf": "62 41 01 40",
+      "ledigePlasser": 20,
+      "antallPlasser": 1100,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Marianne Kalbakken",
+    "address": "Torggata 3, 2408 Elverum",
+    "metadata": {
+      "legekontor": "Helsetorget Legesenter AS",
+      "tlf": "62 43 36 50",
+      "antallPlasser": 950
+    }
+  },
+  {
+    "title": "Marija Kalnite",
+    "address": "Krokamyrvegen 18, 2686 LOM",
+    "metadata": {
+      "legekontor": "Lom Legekontor",
+      "tlf": "61 21 72 00",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Antonia Selvamagal Karper",
+    "address": "Flatavegen 9, 2653 VESTRE GAUSDAL",
+    "metadata": {
+      "legekontor": "Antonia Karper",
+      "tlf": "61 05 50 90",
+      "ledigePlasser": 25,
+      "antallPlasser": 900,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Rikard Lennart Karsberg",
+    "address": "Ankerskogvegen 7, 2319 Hamar",
+    "metadata": {
+      "legekontor": "Ankerskogen legesenter",
+      "tlf": "62 55 25 95",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Magne Ragnar Karstensen",
+    "address": "Sykehusveien 24, 2100 SKARNES",
+    "metadata": {
+      "legekontor": "Skarnes Legesenter",
+      "tlf": "62 96 69 50",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Mari Kaspersen",
+    "address": "Tyinvegen 5151, 2975 VANG I VALDRES",
+    "metadata": {
+      "legekontor": "Vang Legekontor",
+      "tlf": "61 36 95 00",
+      "antallPlasser": 500
+    }
+  },
+  {
+    "title": "Ane Kaurstad",
+    "address": "Meierihagan 20, 2847 KOLBU",
+    "metadata": {
+      "legekontor": "Kolbu Legesenter",
+      "tlf": "61 19 88 00",
+      "antallPlasser": 600
+    }
+  },
+  {
+    "title": "Arne Willem Keilman",
+    "address": "Torggata 1, 2317 HAMAR",
+    "metadata": {
+      "legekontor": "Legehuset NOVA AS",
+      "tlf": "62 55 00 80",
+      "antallPlasser": 1180
+    }
+  },
+  {
+    "title": "Ahmad Khalid",
+    "address": "Tiurveien 15, 2120 SAGSTUA",
+    "metadata": {
+      "legekontor": "Nord-Odal Legesenter",
+      "tlf": "62 97 82 00",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Azhar Daud Khan",
+    "address": "Storgata 51, 2406 ELVERUM",
+    "metadata": {
+      "legekontor": "Elverum Helsesenter AS",
+      "tlf": "62 41 61 66",
+      "ledigePlasser": 26,
+      "antallPlasser": 1300,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Fatima Hanbali Khan",
+    "address": "Torggata 83, 2317 Hamar",
+    "metadata": {
+      "legekontor": "Stortorget Legesenter",
+      "tlf": "62 53 82 00",
+      "antallPlasser": 1250
+    }
+  },
+  {
+    "title": "Vahid Khazaei",
+    "address": "Trondhjemsvegen 8, 2821 Gjøvik",
+    "metadata": {
+      "legekontor": "Capio Fastleger Gjøvik",
+      "tlf": "61 17 42 50",
+      "ledigePlasser": 94,
+      "antallPlasser": 2200,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Øyvind Kjærner-Semb",
+    "address": "Vikaveien 15, 2312 OTTESTAD",
+    "metadata": {
+      "legekontor": "Åkersvika legesenter",
+      "tlf": "62 57 38 50",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Alexander Kjølner",
+    "address": "Nymosvingen 6, 2609 LILLEHAMMER",
+    "metadata": {
+      "legekontor": "Lillehammer Legesenter DA",
+      "tlf": "61 05 45 00",
+      "ledigePlasser": 59,
+      "antallPlasser": 1650,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Natalie Kjølner",
+    "address": "Nymosvingen 6, 2609 LILLEHAMMER",
+    "metadata": {
+      "legekontor": "Nymosvingen Legesenter AS",
+      "tlf": "61 59 60 00",
+      "ledigePlasser": 261,
+      "antallPlasser": 950,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Trine Engan Kjølner",
+    "address": "Nymosvingen 6, 2609 LILLEHAMMER",
+    "metadata": {
+      "legekontor": "Lillehammer Legesenter DA",
+      "tlf": "61 05 45 00",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Malin Kvelland Klauset",
+    "address": "Gjelen 3, 2560 ALVDAL",
+    "metadata": {
+      "legekontor": "Alvdal Kommune Alminnelig Helsevern",
+      "tlf": "62 48 90 00",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Heidi Katharina Knackstedt",
+    "address": "Torget 1, 2450 Rena",
+    "metadata": {
+      "legekontor": "Kommunelegekontoret på Rena",
+      "tlf": "488 84 001",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Karianne Knudsen",
+    "address": "Møllergata 3A, 2390 MOELV",
+    "metadata": {
+      "legekontor": "Moelv Legesenter",
+      "tlf": "62 33 55 30",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Monica Knutsen",
+    "address": "Storgata 89, 2615 LILLEHAMMER",
+    "metadata": {
+      "legekontor": "Toppen Legesenter",
+      "tlf": "61 22 16 00",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Vidar Kolloen",
+    "address": "Berger Langmoens veg 6, 2386 Brumunddal",
+    "metadata": {
+      "legekontor": "Portalen Legesenter",
+      "tlf": "62 36 50 00",
+      "antallPlasser": 1060
+    }
+  },
+  {
+    "title": "Lidija Kontic",
+    "address": "Nygata 22A, 2380 BRUMUNDDAL",
+    "metadata": {
+      "legekontor": "Brumunddal Legesenter",
+      "tlf": "62 33 03 00",
+      "ledigePlasser": 321,
+      "antallPlasser": 1500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Paal Herstad Koren",
+    "address": "Møllergata 3A, 2390 MOELV",
+    "metadata": {
+      "legekontor": "Moelv Legesenter",
+      "tlf": "62 33 55 30",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Gasper Kren",
+    "address": "Søndregate 2B, 2609 LILLEHAMMER",
+    "metadata": {
+      "legekontor": "Legekontor Kren",
+      "tlf": "61 10 05 50",
+      "ledigePlasser": 130,
+      "antallPlasser": 1400,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Ole Knut Kristiansen",
+    "address": "Kirkegata 55, 2609 Lillehammer",
+    "metadata": {
+      "legekontor": "Sentrum legekontor Lillehammer",
+      "tlf": "61 26 30 40",
+      "ledigePlasser": 25,
+      "antallPlasser": 1050,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Egon Krøll",
+    "address": "Nymosvingen 6, 2609 LILLEHAMMER",
+    "metadata": {
+      "legekontor": "Nymosvingen Legesenter AS",
+      "tlf": "61 59 60 00",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Eivind Røskar Krågebakk",
+    "address": "Fahlstrøms Plass 1, 2815 GJØVIK",
+    "metadata": {
+      "legekontor": "Gjøvik Legesenter",
+      "tlf": "61 14 05 00",
+      "antallPlasser": 750
+    }
+  },
+  {
+    "title": "Amanish Kumar",
+    "address": "Nygata 22A, 2380 BRUMUNDDAL",
+    "metadata": {
+      "legekontor": "Brumunddal Legesenter",
+      "tlf": "62 33 03 00",
+      "ledigePlasser": 251,
+      "antallPlasser": 800,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Brita Kumle",
+    "address": "Storgata 89, 2615 LILLEHAMMER",
+    "metadata": {
+      "legekontor": "Toppen Legesenter",
+      "tlf": "61 22 16 00",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Anna Kvalsvik",
+    "address": "Nymosvingen 6, 2609 LILLEHAMMER",
+    "metadata": {
+      "legekontor": "Nymosvingen Legesenter AS",
+      "tlf": "61 59 60 00",
+      "ledigePlasser": 11,
+      "antallPlasser": 600,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Guro Bjærum Kvidal",
+    "address": "Våler Legesenter Vålgutua 200, 2436 VÅLER I SOLØR",
+    "metadata": {
+      "legekontor": "Våler Legesenter",
+      "tlf": "62 42 41 70",
+      "antallPlasser": 600
+    }
+  },
+  {
+    "title": "Tone Anita Kvien",
+    "address": "Bygdinvegen 2134, 2940 HEGGENES",
+    "metadata": {
+      "legekontor": "Legekontoret i Øystre Slidre",
+      "tlf": "61 35 29 00",
+      "ledigePlasser": 4,
+      "antallPlasser": 900,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Karoline Henriksen Kvistad",
+    "address": "Gågata 5, 2211 Kongsvinger",
+    "metadata": {
+      "legekontor": "Gågata legesenter",
+      "tlf": "62 88 89 00",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Laila Lambrecht",
+    "address": "Trondhjemsvegen 8, 2821 Gjøvik",
+    "metadata": {
+      "legekontor": "Capio Fastleger Gjøvik",
+      "tlf": "61 17 42 50",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Nora Langballe",
+    "address": "Stasjonsvegen 15, 2848 SKREIA",
+    "metadata": {
+      "legekontor": "Skreia Legesenter",
+      "tlf": "61 16 51 80",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Terese Langlo",
+    "address": "Boligveien 43, 2230 Skotterud",
+    "metadata": {
+      "legekontor": "Eidskog kommunale legesenter",
+      "tlf": "62 83 37 50",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Mina Gjerdrum Leonardsen",
+    "address": "Fahlstrøms Plass 1, 2815 GJØVIK",
+    "metadata": {
+      "legekontor": "Gjøvik Legesenter",
+      "tlf": "61 14 05 00",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Gro Leonhardsen",
+    "address": "Lillekollvegen 12, 2827 HUNNDALEN",
+    "metadata": {
+      "legekontor": "Lillekollen Legesenter",
+      "tlf": "61 13 68 00",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Gunhild Lerstad",
+    "address": "Storgata 89, 2615 LILLEHAMMER",
+    "metadata": {
+      "legekontor": "Toppen Legesenter",
+      "tlf": "61 22 16 00",
+      "antallPlasser": 500
+    }
+  },
+  {
+    "title": "Kristoffer Langberg Lien",
+    "address": "Vangsvegen 121, 2318 HAMAR",
+    "metadata": {
+      "legekontor": "Disen Legesenter AS",
+      "tlf": "62 52 01 00",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Ingrid Eide Lindsheim",
+    "address": "Moavegen 30, 2690 SKJÅK",
+    "metadata": {
+      "legekontor": "Skjåk Legekontor",
+      "tlf": "61 21 71 00",
+      "antallPlasser": 540
+    }
+  },
+  {
+    "title": "Eivind Borg Lismoen",
+    "address": "Vangsvegen 31, 2317 Hamar",
+    "metadata": {
+      "legekontor": "Innlandet Legesenter AS",
+      "tlf": "62 55 54 00",
+      "antallPlasser": 1650
+    }
+  },
+  {
+    "title": "Ole Bodenvald Lohmann",
+    "address": "Torget 1, 2450 Rena",
+    "metadata": {
+      "legekontor": "Kommunelegekontoret på Rena",
+      "tlf": "488 84 001",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Inger Merete Lorgen",
+    "address": "Boligveien 43, 2230 Skotterud",
+    "metadata": {
+      "legekontor": "Eidskog kommunale legesenter",
+      "tlf": "62 83 37 50",
+      "antallPlasser": 880
+    }
+  },
+  {
+    "title": "Kjetil Tystad Lund",
+    "address": "Storgata 23, 2815 GJØVIK",
+    "metadata": {
+      "legekontor": "Gjøvik Kommunale Legegruppe",
+      "tlf": "61 17 50 00",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Hans Olof Anders Lundbom",
+    "address": "Stasjonsvegen 15, 2848 SKREIA",
+    "metadata": {
+      "legekontor": "Skreia Legesenter",
+      "tlf": "61 16 51 80",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Erlend Lundby",
+    "address": "Valdresvegen 4, 2816 GJØVIK",
+    "metadata": {
+      "legekontor": "Sørbyen Legegruppe",
+      "tlf": "61 13 88 00",
+      "antallPlasser": 950
+    }
+  },
+  {
+    "title": "Anne Synnøve Lunde",
+    "address": "Tyinvegen 5151, 2975 VANG I VALDRES",
+    "metadata": {
+      "legekontor": "Vang Legekontor",
+      "tlf": "61 36 95 00",
+      "ledigePlasser": 1,
+      "antallPlasser": 500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Ole Kaare Lunde",
+    "address": "Nygata 22A, 2380 BRUMUNDDAL",
+    "metadata": {
+      "legekontor": "Brumunddal Legesenter",
+      "tlf": "62 33 03 00",
+      "ledigePlasser": 4,
+      "antallPlasser": 1200,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Martin Lundeby",
+    "address": "Storgata 89, 2615 LILLEHAMMER",
+    "metadata": {
+      "legekontor": "Toppen Legesenter",
+      "tlf": "61 22 16 00",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Anders Stugaard Lundefaret",
+    "address": "Nygata 22A, 2380 BRUMUNDDAL",
+    "metadata": {
+      "legekontor": "Brumunddal Legesenter",
+      "tlf": "62 33 03 00",
+      "ledigePlasser": 213,
+      "antallPlasser": 1100,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Dag Roar Lunder",
+    "address": "Lillekollvegen 12, 2827 HUNNDALEN",
+    "metadata": {
+      "legekontor": "Lillekollen Legesenter",
+      "tlf": "61 13 68 00",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Karl Johan Løvsletten",
+    "address": "Kinogt. 34, 2850 LENA",
+    "metadata": {
+      "legekontor": "Lena Legesenter",
+      "tlf": "61 16 87 00",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Stefan Nils Johan Løvsletten",
+    "address": "Nord-Torpvegen 15, 2881 AUST-TORPA",
+    "metadata": {
+      "legekontor": "Torpa Legekontor DA",
+      "tlf": "61 11 46 50",
+      "ledigePlasser": 200,
+      "antallPlasser": 1300,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Siri Løvold Magnussen",
+    "address": "Meierihagan 20, 2847 KOLBU",
+    "metadata": {
+      "legekontor": "Kolbu Legesenter",
+      "tlf": "61 19 88 00",
+      "antallPlasser": 675
+    }
+  },
+  {
+    "title": "Khalid Mahmood",
+    "address": "Lundgutua 4, 2319 Hamar",
+    "metadata": {
+      "legekontor": "Voll Legesenter",
+      "tlf": "62 53 66 00",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Sushil Malhotra",
+    "address": "Landmovegen 5B, 2870 DOKKA",
+    "metadata": {
+      "legekontor": "Landsbylegene Dokka",
+      "tlf": "61 11 46 00",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Muhammad Anas Malik",
+    "address": "Elvarheimgaten 10C, 2408 Elverum",
+    "metadata": {
+      "legekontor": "Labyrinten Legesenter",
+      "tlf": "62 41 91 60",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Qasim Abbas Malik",
+    "address": "Rendalen Legekontor Søstuveien 6, 2485 RENDALEN",
+    "metadata": {
+      "legekontor": "Rendalen Legekontor",
+      "tlf": "62 46 63 50",
+      "ledigePlasser": 386,
+      "antallPlasser": 900,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Petter Gundersen Mattsson",
+    "address": "Vikaveien 15, 2312 OTTESTAD",
+    "metadata": {
+      "legekontor": "Åkersvika legesenter",
+      "tlf": "62 57 38 50",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Magolodi Moses Mazongo",
+    "address": "Elvarheimgata 10, 2408 ELVERUM",
+    "metadata": {
+      "legekontor": "Elverum Kommunale Legesenter",
+      "tlf": "62 41 01 40",
+      "antallPlasser": 950
+    }
+  },
+  {
+    "title": "Katarina Margareta Corell Melandsø",
+    "address": "Nygata 22A, 2380 BRUMUNDDAL",
+    "metadata": {
+      "legekontor": "Brumunddal Legesenter",
+      "tlf": "62 33 03 00",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Kristine Reiestad Michaelsen",
+    "address": "Ingrid Semmingsens veg 6, 2312 OTTESTAD",
+    "metadata": {
+      "legekontor": "Bekkelaget Legesenter AS",
+      "tlf": "62 58 58 58",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Mia Catrine Mikland",
+    "address": "Birivegen 97, 2836 BIRI",
+    "metadata": {
+      "legekontor": "Biri Helsesenter",
+      "tlf": "61 15 88 00",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Nena Mimic",
+    "address": "Dr.Thorshaugs Veg 25, 2335 STANGE",
+    "metadata": {
+      "legekontor": "Stange Legesenter",
+      "tlf": "62 57 40 00",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Trygve Julian Moe",
+    "address": "Mågårdvegen 85, 2334 Romedal",
+    "metadata": {
+      "legekontor": "Romedal Legesenter DA",
+      "tlf": "62 58 89 90",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Simon Kinly Mogensen",
+    "address": "Hundervegen 19, 2636 Øyer",
+    "metadata": {
+      "legekontor": "Øyer og Tretten Legekontor",
+      "tlf": "61 26 82 00",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Liv Monsbakken",
+    "address": "Vangsvegen 121, 2318 HAMAR",
+    "metadata": {
+      "legekontor": "Disen Legesenter AS",
+      "tlf": "62 52 01 00",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Gro Nørstebø Moshagen",
+    "address": "Krokamyrvegen 18, 2686 LOM",
+    "metadata": {
+      "legekontor": "Lom Legekontor",
+      "tlf": "61 21 72 00",
+      "antallPlasser": 500
+    }
+  },
+  {
+    "title": "Andrew David Moss",
+    "address": "Ankerskogvegen 7, 2319 Hamar",
+    "metadata": {
+      "legekontor": "Ankerskogen legesenter",
+      "tlf": "62 55 25 95",
+      "antallPlasser": 1030
+    }
+  },
+  {
+    "title": "Mohammed Hamad Mukhtar",
+    "address": "Rådhusgata 6, 2270 FLISA",
+    "metadata": {
+      "legekontor": "Åsnes Legesenter",
+      "tlf": "62 95 08 40",
+      "ledigePlasser": 145,
+      "antallPlasser": 750,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Maren Marie Myklebust",
+    "address": "Rådhusgata 6, 2270 FLISA",
+    "metadata": {
+      "legekontor": "Åsnes Legesenter",
+      "tlf": "62 95 08 40",
+      "antallPlasser": 555
+    }
+  },
+  {
+    "title": "Erik Myrvang",
+    "address": "St. Olavs gate 5, 2414 ELVERUM",
+    "metadata": {
+      "legekontor": "Activia Legesenter",
+      "tlf": "62 40 10 60",
+      "antallPlasser": 1500
+    }
+  },
+  {
+    "title": "Fredrik Myrvang",
+    "address": "Rendalen Legekontor Søstuveien 6, 2485 RENDALEN",
+    "metadata": {
+      "legekontor": "Rendalen Legekontor",
+      "tlf": "62 46 63 50",
+      "ledigePlasser": 239,
+      "antallPlasser": 900,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Thore Mæhlen",
+    "address": "Torggata 3, 2408 Elverum",
+    "metadata": {
+      "legekontor": "Helsetorget Legesenter AS",
+      "tlf": "62 43 36 50",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Marit Elise Mæhlum",
+    "address": "Bryggerigata 8, 2609 LILLEHAMMER",
+    "metadata": {
+      "legekontor": "Legetorget, Lillehammer DA",
+      "tlf": "917 66 000",
+      "ledigePlasser": 10,
+      "antallPlasser": 600,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Håvard Mæland",
+    "address": "Elvegata 19, 2609 LILLEHAMMER",
+    "metadata": {
+      "legekontor": "Bryggeriet Legesenter DA",
+      "tlf": "61 22 19 10",
+      "ledigePlasser": 5,
+      "antallPlasser": 1300,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Rita Hansen Møller",
+    "address": "Kommunevegen 1, 2647 Sør Fron",
+    "metadata": {
+      "legekontor": "Sør-Fron Legesenter",
+      "tlf": "61 29 91 00",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Lars Marius Bie Mørkved",
+    "address": "Vikaveien 15, 2312 OTTESTAD",
+    "metadata": {
+      "legekontor": "Åkersvika legesenter",
+      "tlf": "62 57 38 50",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Hanne Maartmann",
+    "address": "Torggata 3, 2408 Elverum",
+    "metadata": {
+      "legekontor": "Helsetorget Legesenter AS",
+      "tlf": "62 43 36 50",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Torstein Jøndal Nakling",
+    "address": "Hundervegen 19, 2636 Øyer",
+    "metadata": {
+      "legekontor": "Øyer og Tretten Legekontor",
+      "tlf": "61 26 82 00",
+      "ledigePlasser": 35,
+      "antallPlasser": 900,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Per Jonathan Narheim",
+    "address": "Trimvegen 1, 2634 Fåvang",
+    "metadata": {
+      "legekontor": "Ringebu Legekontor",
+      "tlf": "61 28 39 10",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Gurgen Nazaretian",
+    "address": "Lars Moens Veg 3, 2660 DOMBÅS",
+    "metadata": {
+      "legekontor": "Dovre kommunale legesenter",
+      "tlf": "61 24 22 00",
+      "ledigePlasser": 492,
+      "antallPlasser": 1200,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Nadezda Nazaretian",
+    "address": "Lars Moens Veg 3, 2660 DOMBÅS",
+    "metadata": {
+      "legekontor": "Dovre kommunale legesenter",
+      "tlf": "61 24 22 00",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Frøydis Nermoen",
+    "address": "Hundervegen 19, 2636 Øyer",
+    "metadata": {
+      "legekontor": "Øyer og Tretten Legekontor",
+      "tlf": "61 26 82 00",
+      "ledigePlasser": 271,
+      "antallPlasser": 750,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Anneli Reimer Nesland",
+    "address": "Winsnes gate 62, 2212 Kongsvinger",
+    "metadata": {
+      "legekontor": "Parkvegen legekontor",
+      "tlf": "62 82 30 00",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Michael Nesland",
+    "address": "Storgata 55, 2212 KONGSVINGER",
+    "metadata": {
+      "legekontor": "Doktorgården Legekontor AS",
+      "tlf": "62 80 85 90",
+      "antallPlasser": 1060
+    }
+  },
+  {
+    "title": "Bjørn Roger Ness",
+    "address": "Elvarheimgaten 10C, 2408 Elverum",
+    "metadata": {
+      "legekontor": "Labyrinten Legesenter",
+      "tlf": "62 41 91 60",
+      "ledigePlasser": 56,
+      "antallPlasser": 1000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Rebecca Frøen Nicolaysen",
+    "address": "Vestringvegen 10B, 2651 ØSTRE GAUSDAL",
+    "metadata": {
+      "legekontor": "Gausdal legesenter",
+      "tlf": "61 25 66 00",
+      "antallPlasser": 587
+    }
+  },
+  {
+    "title": "Torjus Bjørgo Nilsen",
+    "address": "Tingvollbakkin 21, 2930 BAGN",
+    "metadata": {
+      "legekontor": "Bagn legesenter",
+      "tlf": "61 34 85 50",
+      "antallPlasser": 400
+    }
+  },
+  {
+    "title": "Zdzislaw Jan Nizialek",
+    "address": "Botten Hansens Gate 9, 2670 OTTA",
+    "metadata": {
+      "legekontor": "Otta Legekontor",
+      "tlf": "61 70 09 00",
+      "antallPlasser": 1050
+    }
+  },
+  {
+    "title": "Gudmund Johan Nordstrøm",
+    "address": "Sykehusveien 24, 2100 SKARNES",
+    "metadata": {
+      "legekontor": "Skarnes Legesenter",
+      "tlf": "62 96 69 50",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Marie Alma Christina Nordvi",
+    "address": "Bryggerigata 8, 2609 LILLEHAMMER",
+    "metadata": {
+      "legekontor": "Legetorget, Lillehammer DA",
+      "tlf": "917 66 000",
+      "antallPlasser": 600
+    }
+  },
+  {
+    "title": "Marius Mathias Bygdås Nordvi",
+    "address": "Bryggerigata 8, 2609 LILLEHAMMER",
+    "metadata": {
+      "legekontor": "Legetorget, Lillehammer DA",
+      "tlf": "917 66 000",
+      "ledigePlasser": 16,
+      "antallPlasser": 800,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Ole-Christian Kreyberg Normann",
+    "address": "Nordre Byre 21, 2640 Vinstra",
+    "metadata": {
+      "legekontor": "Vinstra legekontor",
+      "tlf": "61 21 63 00",
+      "ledigePlasser": 38,
+      "antallPlasser": 700,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Adriana Elisabeth Nusselder",
+    "address": "Trimvegen 1, 2634 Fåvang",
+    "metadata": {
+      "legekontor": "Ringebu Legekontor",
+      "tlf": "61 28 39 10",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Audun Nygaard",
+    "address": "Måsåbekkveien 2, 2316 HAMAR",
+    "metadata": {
+      "legekontor": "Storhamar Legesenter",
+      "tlf": "62 54 04 80",
+      "antallPlasser": 950
+    }
+  },
+  {
+    "title": "Maud Nyhuus",
+    "address": "Futveien 8, 2443 Drevsjø",
+    "metadata": {
+      "legekontor": "Engerdal Helsesenter",
+      "tlf": "62 45 86 00",
+      "ledigePlasser": 252,
+      "antallPlasser": 800,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Karoline Olafsheim",
+    "address": "Elvegata 19, 2609 LILLEHAMMER",
+    "metadata": {
+      "legekontor": "Bryggeriet Legesenter DA",
+      "tlf": "61 22 19 10",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Caroline Olsen",
+    "address": "Sigurd Østliens veg 4, 2830 RAUFOSS",
+    "metadata": {
+      "legekontor": "Raufoss kommunelegekontor",
+      "tlf": "61 19 99 99",
+      "antallPlasser": 977
+    }
+  },
+  {
+    "title": "Ole Matti Stokstad Olsen",
+    "address": "Kinogt. 34, 2850 LENA",
+    "metadata": {
+      "legekontor": "Lena Legesenter",
+      "tlf": "61 16 87 00",
+      "antallPlasser": 450
+    }
+  },
+  {
+    "title": "Helene Onstad",
+    "address": "Vestringvegen 10B, 2651 ØSTRE GAUSDAL",
+    "metadata": {
+      "legekontor": "Gausdal legesenter",
+      "tlf": "61 25 66 00",
+      "ledigePlasser": 3,
+      "antallPlasser": 590,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Willem Leonard Den Ouden",
+    "address": "Åsmarkveien 3 Pb34, 2390 MOELV",
+    "metadata": {
+      "legekontor": "Herredshuset legesenter",
+      "tlf": "62 34 95 50",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Lina Ozolina",
+    "address": "Storgata 44, 2212 Kongsvinger",
+    "metadata": {
+      "legekontor": "Byparken legesenter",
+      "tlf": "62 81 02 22",
+      "antallPlasser": 950
+    }
+  },
+  {
+    "title": "Tonja Judith Pantelatos",
+    "address": "Granheimveien 3, 2480 KOPPANG",
+    "metadata": {
+      "legekontor": "Kommunelegene i Stor-Elvdal",
+      "tlf": "62 46 34 00",
+      "antallPlasser": 350
+    }
+  },
+  {
+    "title": "Anne Henriette Paulsen",
+    "address": "Moavegen 30, 2690 SKJÅK",
+    "metadata": {
+      "legekontor": "Skjåk Legekontor",
+      "tlf": "61 21 71 00",
+      "antallPlasser": 500
+    }
+  },
+  {
+    "title": "Håvard Erlend Paulsen",
+    "address": "Ingrid Semmingsens veg 6, 2312 OTTESTAD",
+    "metadata": {
+      "legekontor": "Bekkelaget Legesenter AS",
+      "tlf": "62 58 58 58",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Hasthanayakage Charitha Lakjeewa Perera",
+    "address": "Torget 1, 2450 Rena",
+    "metadata": {
+      "legekontor": "Kommunelegekontoret på Rena",
+      "tlf": "488 84 001",
+      "antallPlasser": 500
+    }
+  },
+  {
+    "title": "Branka Pilipovic",
+    "address": "Samfunnsparken 12, 2849 KAPP",
+    "metadata": {
+      "legekontor": "Kapp Legesenter",
+      "tlf": "61 14 70 00",
+      "antallPlasser": 500
+    }
+  },
+  {
+    "title": "Ilona Pliadiene",
+    "address": "Futveien 8, 2443 Drevsjø",
+    "metadata": {
+      "legekontor": "Engerdal Helsesenter",
+      "tlf": "62 45 86 00",
+      "ledigePlasser": 251,
+      "antallPlasser": 900,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Elvyra Podeniene",
+    "address": "Botten Hansens Gate 9, 2670 OTTA",
+    "metadata": {
+      "legekontor": "Otta Legekontor",
+      "tlf": "61 70 09 00",
+      "antallPlasser": 1150
+    }
+  },
+  {
+    "title": "Ljiljana Popovic",
+    "address": "Storgata 23, 2815 GJØVIK",
+    "metadata": {
+      "legekontor": "Gjøvik Kommunale Legegruppe",
+      "tlf": "61 17 50 00",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Marte Solum Prentice",
+    "address": "Lillekollvegen 12, 2827 HUNNDALEN",
+    "metadata": {
+      "legekontor": "Lillekollen Legesenter",
+      "tlf": "61 13 68 00",
+      "antallPlasser": 775
+    }
+  },
+  {
+    "title": "Torkil Rabbum",
+    "address": "Wilhelmsveg 15, 2580 FOLLDAL",
+    "metadata": {
+      "legekontor": "Folldal Legekontor",
+      "tlf": "62 49 11 00",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Anne Karen Rabl-Vøien",
+    "address": "Hovsvegen 4, 2750 GRAN",
+    "metadata": {
+      "legekontor": "Gran Legesenter",
+      "tlf": "61 32 79 50",
+      "antallPlasser": 910
+    }
+  },
+  {
+    "title": "Sam Rahmanpour",
+    "address": "Vangsvegen 31, 2317 Hamar",
+    "metadata": {
+      "legekontor": "Innlandet Legesenter AS",
+      "tlf": "62 55 54 00",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Katrine Maria Ramse",
+    "address": "Vikaveien 15, 2312 OTTESTAD",
+    "metadata": {
+      "legekontor": "Åkersvika legesenter",
+      "tlf": "62 57 38 50",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Linn Kristin Båvenäs Rastad",
+    "address": "Elvarheimgata 10, 2408 ELVERUM",
+    "metadata": {
+      "legekontor": "Elverum Kommunale Legesenter",
+      "tlf": "62 41 01 40",
+      "antallPlasser": 600
+    }
+  },
+  {
+    "title": "Achintpreet Singh Rattan",
+    "address": "Nygata 22A, 2380 BRUMUNDDAL",
+    "metadata": {
+      "legekontor": "Brumunddal Legesenter",
+      "tlf": "62 33 03 00",
+      "ledigePlasser": 207,
+      "antallPlasser": 1400,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Navnit Singh Rattan",
+    "address": "Nygata 22A, 2380 BRUMUNDDAL",
+    "metadata": {
+      "legekontor": "Brumunddal Legesenter",
+      "tlf": "62 33 03 00",
+      "ledigePlasser": 45,
+      "antallPlasser": 1950,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Roshak-Matthew Razavi",
+    "address": "Rådhusvegen 39, 2770 JAREN",
+    "metadata": {
+      "legekontor": "Jaren Legesenter",
+      "tlf": "61 33 67 60",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Pål Georg Rebni",
+    "address": "Gågata 5, 2211 Kongsvinger",
+    "metadata": {
+      "legekontor": "Gågata legesenter",
+      "tlf": "62 88 89 00",
+      "antallPlasser": 1600
+    }
+  },
+  {
+    "title": "Erlend Refsdal",
+    "address": "Lundgutua 4, 2319 Hamar",
+    "metadata": {
+      "legekontor": "Voll Legesenter",
+      "tlf": "62 53 66 00",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Mohammed Hassan Rehman",
+    "address": "Bruvegen 6, 2100 SKARNES",
+    "metadata": {
+      "legekontor": "Sentrum Legekontor",
+      "tlf": "62 96 60 00",
+      "ledigePlasser": 64,
+      "antallPlasser": 850,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Sten Reimer",
+    "address": "Winsnes gate 62, 2212 Kongsvinger",
+    "metadata": {
+      "legekontor": "Parkvegen legekontor",
+      "tlf": "62 82 30 00",
+      "antallPlasser": 2500
+    }
+  },
+  {
+    "title": "Michelle Benedicte Rékási",
+    "address": "Granheimveien 3, 2480 KOPPANG",
+    "metadata": {
+      "legekontor": "Kommunelegene i Stor-Elvdal",
+      "tlf": "62 46 34 00",
+      "ledigePlasser": 14,
+      "antallPlasser": 400,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Therese Renaa",
+    "address": "Botten Hansens Gate 9, 2670 OTTA",
+    "metadata": {
+      "legekontor": "Otta Legekontor",
+      "tlf": "61 70 09 00",
+      "antallPlasser": 650
+    }
+  },
+  {
+    "title": "Inese Riekstina",
+    "address": "Samfunnsparken 12, 2849 KAPP",
+    "metadata": {
+      "legekontor": "Kapp Legesenter",
+      "tlf": "61 14 70 00",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Jonas Patrik Riemann",
+    "address": "Storgata 55, 2212 KONGSVINGER",
+    "metadata": {
+      "legekontor": "Doktorgården Legekontor AS",
+      "tlf": "62 80 85 90",
+      "antallPlasser": 1165
+    }
+  },
+  {
+    "title": "Dag Gulleik Riksaasen",
+    "address": "Moavegen 20 A, 2680 VÅGÅ",
+    "metadata": {
+      "legekontor": "Vågå Helsesenter",
+      "tlf": "61 29 37 00",
+      "ledigePlasser": 9,
+      "antallPlasser": 800,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Marit Synnøve Riksaasen",
+    "address": "Moavegen 20 A, 2680 VÅGÅ",
+    "metadata": {
+      "legekontor": "Vågå Helsesenter",
+      "tlf": "61 29 37 00",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Håvar Rimfeldt-Kvale",
+    "address": "Storgata 44, 2212 Kongsvinger",
+    "metadata": {
+      "legekontor": "Byparken legesenter",
+      "tlf": "62 81 02 22",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Ida Marie Ringerud",
+    "address": "Trondhjemsvegen 8, 2821 Gjøvik",
+    "metadata": {
+      "legekontor": "Capio Fastleger Gjøvik",
+      "tlf": "61 17 42 50",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Vibeke Risvold",
+    "address": "Nymosvingen 6, 2609 LILLEHAMMER",
+    "metadata": {
+      "legekontor": "Lillehammer Legesenter DA",
+      "tlf": "61 05 45 00",
+      "ledigePlasser": 5,
+      "antallPlasser": 400,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Ellen Robberstad",
+    "address": "Lillekollvegen 12, 2827 HUNNDALEN",
+    "metadata": {
+      "legekontor": "Lillekollen Legesenter",
+      "tlf": "61 13 68 00",
+      "antallPlasser": 675
+    }
+  },
+  {
+    "title": "Atle Rosendal",
+    "address": "Garlivegen 20, 2900 FAGERNES",
+    "metadata": {
+      "legekontor": "Fagernes legesenter",
+      "tlf": "61 35 98 88",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Mari Hveem Rostad",
+    "address": "Måsåbekkveien 2, 2316 HAMAR",
+    "metadata": {
+      "legekontor": "Storhamar Legesenter",
+      "tlf": "62 54 04 80",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Emma Rudneva",
+    "address": "Torggata 83, 2317 Hamar",
+    "metadata": {
+      "legekontor": "Stortorget Legesenter",
+      "tlf": "62 53 82 00",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Anna Margareta Runering",
+    "address": "Trimvegen 1, 2634 Fåvang",
+    "metadata": {
+      "legekontor": "Ringebu Legekontor",
+      "tlf": "61 28 39 10",
+      "antallPlasser": 560
+    }
+  },
+  {
+    "title": "Hans Martin Gasmann Rustan",
+    "address": "Vestringvegen 10B, 2651 ØSTRE GAUSDAL",
+    "metadata": {
+      "legekontor": "Gausdal legesenter",
+      "tlf": "61 25 66 00",
+      "ledigePlasser": 15,
+      "antallPlasser": 593,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Ann-Charlotte Margita Rydell",
+    "address": "Nymosvingen 6, 2609 LILLEHAMMER",
+    "metadata": {
+      "legekontor": "Lillehammer Legesenter DA",
+      "tlf": "61 05 45 00",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Hanna Sofia Rydlöv",
+    "address": "Lundevegen 3, 2420 Trysil",
+    "metadata": {
+      "legekontor": "Trysil Legesenter",
+      "tlf": "62 45 78 50",
+      "antallPlasser": 650
+    }
+  },
+  {
+    "title": "Barbro Mestvedthagen Ryen",
+    "address": "Ivarsveien 2, 2540 TOLGA",
+    "metadata": {
+      "legekontor": "Tolga Kommune Allmenn Legetjeneste",
+      "tlf": "62 49 65 00",
+      "antallPlasser": 650
+    }
+  },
+  {
+    "title": "Cille Marie Braathen Røise",
+    "address": "Stasjonsvegen 15, 2848 SKREIA",
+    "metadata": {
+      "legekontor": "Skreia Legesenter",
+      "tlf": "61 16 51 80",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Ammar Subhi Salama",
+    "address": "Kommunevegen 1, 2647 Sør Fron",
+    "metadata": {
+      "legekontor": "Sør-Fron Legesenter",
+      "tlf": "61 29 91 00",
+      "ledigePlasser": 169,
+      "antallPlasser": 600,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Mohammad Reza Samimi",
+    "address": "Rådhusplassen 12, 2260 KIRKENÆR",
+    "metadata": {
+      "legekontor": "Grue Legesenter",
+      "tlf": "62 94 22 12",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Masoud Sayar",
+    "address": "Brugata 24, 2212 Kongsvinger",
+    "metadata": {
+      "legekontor": "Midtbyen Legesenter Kongsvinger",
+      "tlf": "62 88 80 20",
+      "ledigePlasser": 357,
+      "antallPlasser": 1200,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Ingeborg Schjelderup-Høye",
+    "address": "Rådhusgata 6, 2270 FLISA",
+    "metadata": {
+      "legekontor": "Åsnes Legesenter",
+      "tlf": "62 95 08 40",
+      "antallPlasser": 560
+    }
+  },
+  {
+    "title": "Tori Guldahl Seierstad",
+    "address": "Nymosvingen 6, 2609 Lillehammer",
+    "metadata": {
+      "legekontor": "Svingen legesenter AS",
+      "tlf": "61 05 79 00",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Knut-Mikael Selmer",
+    "address": "Granheimveien 3, 2480 KOPPANG",
+    "metadata": {
+      "legekontor": "Kommunelegene i Stor-Elvdal",
+      "tlf": "62 46 34 00",
+      "antallPlasser": 450
+    }
+  },
+  {
+    "title": "Magnus Selmer",
+    "address": "Dr.Thorshaugs Veg 25, 2335 STANGE",
+    "metadata": {
+      "legekontor": "Stange Legesenter",
+      "tlf": "62 57 40 00",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Arthur Nikolai Selvik",
+    "address": "Storgata 44, 2212 Kongsvinger",
+    "metadata": {
+      "legekontor": "Byparken legesenter",
+      "tlf": "62 81 02 22",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Benedicte Seterlund",
+    "address": "Vikaveien 15, 2312 OTTESTAD",
+    "metadata": {
+      "legekontor": "Åkersvika legesenter",
+      "tlf": "62 57 38 50",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Rebecca Setsaas",
+    "address": "Meierihagan 20, 2847 KOLBU",
+    "metadata": {
+      "legekontor": "Kolbu Legesenter",
+      "tlf": "61 19 88 00",
+      "antallPlasser": 550
+    }
+  },
+  {
+    "title": "Raheel Shafiq",
+    "address": "Sigurd Østliens veg 4, 2830 RAUFOSS",
+    "metadata": {
+      "legekontor": "Sagatunet legesenter",
+      "tlf": "61 19 14 20",
+      "ledigePlasser": 75,
+      "antallPlasser": 900,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Ulrike Barbara Silberhorn",
+    "address": "Tiurveien 15, 2120 SAGSTUA",
+    "metadata": {
+      "legekontor": "Nord-Odal Legesenter",
+      "tlf": "62 97 82 00",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Manpreet Singh",
+    "address": "Sigurd Østliens veg 4, 2830 RAUFOSS",
+    "metadata": {
+      "legekontor": "Sagatunet legesenter",
+      "tlf": "61 19 14 20",
+      "ledigePlasser": 66,
+      "antallPlasser": 750,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Niruja Sivakumar",
+    "address": "Garlivegen 20, 2900 FAGERNES",
+    "metadata": {
+      "legekontor": "Fagernes legesenter",
+      "tlf": "61 35 98 88",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Maria Skalleberg",
+    "address": "Lundgutua 4, 2319 Hamar",
+    "metadata": {
+      "legekontor": "Voll Legesenter",
+      "tlf": "62 53 66 00",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Guro Ek Skarnes",
+    "address": "Storgata 44, 2212 Kongsvinger",
+    "metadata": {
+      "legekontor": "Byparken legesenter",
+      "tlf": "62 81 02 22",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Øystein Skjåk",
+    "address": "Nymosvingen 6, 2609 Lillehammer",
+    "metadata": {
+      "legekontor": "Svingen legesenter AS",
+      "tlf": "61 05 79 00",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Ståle Skogen",
+    "address": "Moavegen 20 A, 2680 VÅGÅ",
+    "metadata": {
+      "legekontor": "Vågå Helsesenter",
+      "tlf": "61 29 37 00",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Rune Skogheim",
+    "address": "Garlivegen 20, 2900 FAGERNES",
+    "metadata": {
+      "legekontor": "Fagernes legesenter",
+      "tlf": "61 35 98 88",
+      "antallPlasser": 400
+    }
+  },
+  {
+    "title": "Annette Skogholt",
+    "address": "Berger Langmoens veg 6, 2386 Brumunddal",
+    "metadata": {
+      "legekontor": "Portalen Legesenter",
+      "tlf": "62 36 50 00",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Marina Skrode",
+    "address": "Fahlstrøms Plass 1, 2815 GJØVIK",
+    "metadata": {
+      "legekontor": "Gjøvik Legesenter",
+      "tlf": "61 14 05 00",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Hanne Mette Skaalerud",
+    "address": "Tingnesvegen 720, 2350 NES PÅ HEDMARKEN",
+    "metadata": {
+      "legekontor": "Tingnes Legesenter",
+      "tlf": "62 34 73 50",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Reda Slavinskiene",
+    "address": "Hovsbakken 3, 2860 HOV",
+    "metadata": {
+      "legekontor": "Hov Legesenter",
+      "tlf": "61 12 99 20",
+      "antallPlasser": 825
+    }
+  },
+  {
+    "title": "Sturla Njølstad Slotsvik",
+    "address": "Valdresvegen 4, 2816 GJØVIK",
+    "metadata": {
+      "legekontor": "Sørbyen Legegruppe",
+      "tlf": "61 13 88 00",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Gunhild Slåttelid",
+    "address": "Bryggerigata 8, 2609 LILLEHAMMER",
+    "metadata": {
+      "legekontor": "Legetorget, Lillehammer DA",
+      "tlf": "917 66 000",
+      "antallPlasser": 600
+    }
+  },
+  {
+    "title": "Sandra Charlotte Bodil Solberg",
+    "address": "Gjelen 3, 2560 ALVDAL",
+    "metadata": {
+      "legekontor": "Alvdal Kommune Alminnelig Helsevern",
+      "tlf": "62 48 90 00",
+      "ledigePlasser": 12,
+      "antallPlasser": 520,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Maria Therese Solheim",
+    "address": "Storgata 55, 2212 KONGSVINGER",
+    "metadata": {
+      "legekontor": "Doktorgården Legekontor AS",
+      "tlf": "62 80 85 90",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Martine Doblaug Solli",
+    "address": "Kyrkjevegen 12, 2890 ETNEDAL",
+    "metadata": {
+      "legekontor": "Etnedal kommunelegekontor",
+      "tlf": "61 12 13 30",
+      "antallPlasser": 300
+    }
+  },
+  {
+    "title": "Anders Sollien",
+    "address": "Gimleveien 24, 2846 BØVERBRU",
+    "metadata": {
+      "legekontor": "Bøverbru Legekontor",
+      "tlf": "61 15 97 50",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Karoline Stafseng",
+    "address": "Kinogt. 34, 2850 LENA",
+    "metadata": {
+      "legekontor": "Lena Legesenter",
+      "tlf": "61 16 87 00",
+      "antallPlasser": 450
+    }
+  },
+  {
+    "title": "Harald Stenersen",
+    "address": "Torggata 3, 2317 HAMAR",
+    "metadata": {
+      "legekontor": "Hamar legesenter",
+      "tlf": "62 54 20 40",
+      "antallPlasser": 940
+    }
+  },
+  {
+    "title": "Tone Stenerud",
+    "address": "Romsdalsvegen 1382, 2665 Lesja, 2665 LESJA",
+    "metadata": {
+      "legekontor": "Lesja Legekontor",
+      "tlf": "61 24 42 00",
+      "ledigePlasser": 59,
+      "antallPlasser": 700,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Ida Stenmo",
+    "address": "Vestringvegen 10B, 2651 ØSTRE GAUSDAL",
+    "metadata": {
+      "legekontor": "Gausdal legesenter",
+      "tlf": "61 25 66 00",
+      "antallPlasser": 587
+    }
+  },
+  {
+    "title": "Oleane Marthea Rebne Stenseth",
+    "address": "Ingrid Semmingsens veg 6, 2312 OTTESTAD",
+    "metadata": {
+      "legekontor": "Bekkelaget Legesenter AS",
+      "tlf": "62 58 58 58",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Ane Jonette Heggset Sterten",
+    "address": "Fahlstrøms Plass 1, 2815 GJØVIK",
+    "metadata": {
+      "legekontor": "Gjøvik Legesenter",
+      "tlf": "61 14 05 00",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Sarita Linnea Pal Stolsmo",
+    "address": "Torvgata 1, 2500 TYNSET",
+    "metadata": {
+      "legekontor": "Tynset legekontor og helsestasjon",
+      "tlf": "62 48 51 60",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Bente Stormo",
+    "address": "Torggata 3, 2317 HAMAR",
+    "metadata": {
+      "legekontor": "Hamar legesenter",
+      "tlf": "62 54 20 40",
+      "antallPlasser": 860
+    }
+  },
+  {
+    "title": "Magdalena Aure Storsveen",
+    "address": "Tingvollbakkin 21, 2930 BAGN",
+    "metadata": {
+      "legekontor": "Bagn legesenter",
+      "tlf": "61 34 85 50",
+      "ledigePlasser": 45,
+      "antallPlasser": 700,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Anne Berit Strand",
+    "address": "Nygata 22A, 2380 BRUMUNDDAL",
+    "metadata": {
+      "legekontor": "Brumunddal Legesenter",
+      "tlf": "62 33 03 00",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Linn Arvidsson Strømnes",
+    "address": "Mågårdvegen 85, 2334 Romedal",
+    "metadata": {
+      "legekontor": "Romedal Legesenter DA",
+      "tlf": "62 58 89 90",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Kristine Stuedal",
+    "address": "Romsdalsvegen 1382, 2665 Lesja, 2665 LESJA",
+    "metadata": {
+      "legekontor": "Lesja Legekontor",
+      "tlf": "61 24 42 00",
+      "antallPlasser": 500
+    }
+  },
+  {
+    "title": "Kjersti Opøien Støen",
+    "address": "Stasjonsvegen 7, 2340 LØTEN",
+    "metadata": {
+      "legekontor": "Løten Kommune Bristol Legesenter",
+      "tlf": "62 54 70 70",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Astrid Sulheim",
+    "address": "Krokamyrvegen 18, 2686 LOM",
+    "metadata": {
+      "legekontor": "Lom Legekontor",
+      "tlf": "61 21 72 00",
+      "antallPlasser": 600
+    }
+  },
+  {
+    "title": "Lars Henrik Thonander Sutterud",
+    "address": "Storgata 44, 2212 Kongsvinger",
+    "metadata": {
+      "legekontor": "Byparken legesenter",
+      "tlf": "62 81 02 22",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Erlend Sveberg",
+    "address": "Åsmarkveien 3 Pb34, 2390 MOELV",
+    "metadata": {
+      "legekontor": "Herredshuset legesenter",
+      "tlf": "62 34 95 50",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Gustav Andris Gabriel Svedenborg",
+    "address": "Nordre Byre 21, 2640 Vinstra",
+    "metadata": {
+      "legekontor": "Vinstra legekontor",
+      "tlf": "61 21 63 00",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Kari Melgård Sveen",
+    "address": "Torggata 3, 2408 Elverum",
+    "metadata": {
+      "legekontor": "Helsetorget Legesenter AS",
+      "tlf": "62 43 36 50",
+      "antallPlasser": 910
+    }
+  },
+  {
+    "title": "Kamilla Gamme Svello",
+    "address": "Ankerskogvegen 7, 2319 Hamar",
+    "metadata": {
+      "legekontor": "Ankerskogen legesenter",
+      "tlf": "62 55 25 95",
+      "antallPlasser": 500
+    }
+  },
+  {
+    "title": "Iren Syversen",
+    "address": "Mågårdvegen 85, 2334 Romedal",
+    "metadata": {
+      "legekontor": "Romedal Legesenter DA",
+      "tlf": "62 58 89 90",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Dora Szekeres",
+    "address": "Storgata 23, 2815 GJØVIK",
+    "metadata": {
+      "legekontor": "Gjøvik Kommunale Legegruppe",
+      "tlf": "61 17 50 00",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Ingrid Sætersmoen",
+    "address": "Stasjonsvegen 7, 2340 LØTEN",
+    "metadata": {
+      "legekontor": "Løten Kommune Bristol Legesenter",
+      "tlf": "62 54 70 70",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Karl-Otto Sørensen",
+    "address": "Torggata 1, 2317 HAMAR",
+    "metadata": {
+      "legekontor": "Legehuset NOVA AS",
+      "tlf": "62 55 00 80",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Marte Kvittum Tangen",
+    "address": "Torvgata 1, 2500 TYNSET",
+    "metadata": {
+      "legekontor": "Tynset legekontor og helsestasjon",
+      "tlf": "62 48 51 60",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Magomed Tapaev",
+    "address": "Nysethvegen 3, 2830 RAUFOSS",
+    "metadata": {
+      "legekontor": "Nysethvegen legekontor",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Elisiv Teigen",
+    "address": "Kommunevegen 1, 2647 Sør Fron",
+    "metadata": {
+      "legekontor": "Sør-Fron Legesenter",
+      "tlf": "61 29 91 00",
+      "antallPlasser": 760
+    }
+  },
+  {
+    "title": "Ingvill Marie Teigen",
+    "address": "Bryggerigata 8, 2609 LILLEHAMMER",
+    "metadata": {
+      "legekontor": "Legetorget, Lillehammer DA",
+      "tlf": "917 66 000",
+      "antallPlasser": 730
+    }
+  },
+  {
+    "title": "Daniel Tekle",
+    "address": "Fahlstrøms Plass 1, 2815 GJØVIK",
+    "metadata": {
+      "legekontor": "Gjøvik Legesenter",
+      "tlf": "61 14 05 00",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Tom Henning Thune",
+    "address": "Kinogt. 34, 2850 LENA",
+    "metadata": {
+      "legekontor": "Lena Legesenter",
+      "tlf": "61 16 87 00",
+      "antallPlasser": 814
+    }
+  },
+  {
+    "title": "Jagannivasan Thurainayagam",
+    "address": "Boligveien 43, 2230 Skotterud",
+    "metadata": {
+      "legekontor": "Eidskog kommunale legesenter",
+      "tlf": "62 83 37 50",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Ingun Toftemo",
+    "address": "Storgata 89, 2615 LILLEHAMMER",
+    "metadata": {
+      "legekontor": "Toppen Legesenter",
+      "tlf": "61 22 16 00",
+      "antallPlasser": 400
+    }
+  },
+  {
+    "title": "Øyvind Torp",
+    "address": "Gimleveien 24, 2846 BØVERBRU",
+    "metadata": {
+      "legekontor": "Bøverbru Legekontor",
+      "tlf": "61 15 97 50",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Natalia Tracyanne",
+    "address": "Elvarheimgaten 10C, 2408 Elverum",
+    "metadata": {
+      "legekontor": "Labyrinten Legesenter",
+      "tlf": "62 41 91 60",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Sang Tran",
+    "address": "Lillekollvegen 12, 2827 HUNNDALEN",
+    "metadata": {
+      "legekontor": "Lillekollen Legesenter",
+      "tlf": "61 13 68 00",
+      "antallPlasser": 950
+    }
+  },
+  {
+    "title": "Inge Marshall Trangsrud",
+    "address": "Vangsvegen 31, 2317 Hamar",
+    "metadata": {
+      "legekontor": "Innlandet Legesenter AS",
+      "tlf": "62 55 54 00",
+      "ledigePlasser": 5,
+      "antallPlasser": 1250,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Even Paulsen Trætteberg",
+    "address": "Trondhjemsvegen 8, 2821 Gjøvik",
+    "metadata": {
+      "legekontor": "Capio Fastleger Gjøvik",
+      "tlf": "61 17 42 50",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Marit Tuv",
+    "address": "Bygdinvegen 2134, 2940 HEGGENES",
+    "metadata": {
+      "legekontor": "Legekontoret i Øystre Slidre",
+      "tlf": "61 35 29 00",
+      "ledigePlasser": 6,
+      "antallPlasser": 900,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Eva Veslemøy Tyldum",
+    "address": "Vestringvegen 10B, 2651 ØSTRE GAUSDAL",
+    "metadata": {
+      "legekontor": "Gausdal legesenter",
+      "tlf": "61 25 66 00",
+      "antallPlasser": 431
+    }
+  },
+  {
+    "title": "Per-Walter Tynæs",
+    "address": "Tangstubakken 2, 2337 TANGEN",
+    "metadata": {
+      "legekontor": "Tangen Legesenter",
+      "tlf": "62 58 22 00",
+      "antallPlasser": 750
+    }
+  },
+  {
+    "title": "Sangith Uthayaseelan",
+    "address": "Snertingdalsvegen 1747, 2838 SNERTINGDAL",
+    "metadata": {
+      "legekontor": "Snertingdal Helsesenter",
+      "tlf": "61 13 49 00",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Sofie Margrethe Holden Utne",
+    "address": "Rytrøa 17, 2550 OS I ØSTERDALEN",
+    "metadata": {
+      "legekontor": "Os Legekontor",
+      "tlf": "62 47 03 55",
+      "antallPlasser": 600
+    }
+  },
+  {
+    "title": "Axel Christoffer Vasli",
+    "address": "Lundevegen 3, 2420 Trysil",
+    "metadata": {
+      "legekontor": "Trysil Legesenter",
+      "tlf": "62 45 78 50",
+      "ledigePlasser": 5,
+      "antallPlasser": 600,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Gisle Vermund",
+    "address": "Måsåbekkveien 2, 2316 HAMAR",
+    "metadata": {
+      "legekontor": "Storhamar Legesenter",
+      "tlf": "62 54 04 80",
+      "antallPlasser": 1050
+    }
+  },
+  {
+    "title": "Diana Vidacic",
+    "address": "Granheimveien 3, 2480 KOPPANG",
+    "metadata": {
+      "legekontor": "Kommunelegene i Stor-Elvdal",
+      "tlf": "62 46 34 00",
+      "ledigePlasser": 99,
+      "antallPlasser": 400,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Johanne Vikin",
+    "address": "Valdresvegen 4, 2816 GJØVIK",
+    "metadata": {
+      "legekontor": "Sørbyen Legegruppe",
+      "tlf": "61 13 88 00",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Monica Hagen Voytovich",
+    "address": "Garlivegen 20, 2900 FAGERNES",
+    "metadata": {
+      "legekontor": "Fagernes legesenter",
+      "tlf": "61 35 98 88",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Tea Karoline Hillestad Walberg-Olstad",
+    "address": "Vangsvegen 121, 2318 HAMAR",
+    "metadata": {
+      "legekontor": "Disen Legesenter AS",
+      "tlf": "62 52 01 00",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Ørjan Waldenstrøm",
+    "address": "Wilhelmsveg 15, 2580 FOLLDAL",
+    "metadata": {
+      "legekontor": "Folldal Legekontor",
+      "tlf": "62 49 11 00",
+      "ledigePlasser": 147,
+      "antallPlasser": 850,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Jan Cornelis Walig",
+    "address": "Samfunnsparken 12, 2849 KAPP",
+    "metadata": {
+      "legekontor": "Kapp Legesenter",
+      "tlf": "61 14 70 00",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Julie Wendelbo",
+    "address": "Nymosvingen 6, 2609 Lillehammer",
+    "metadata": {
+      "legekontor": "Svingen legesenter AS",
+      "tlf": "61 05 79 00",
+      "antallPlasser": 770
+    }
+  },
+  {
+    "title": "Gunn Ingeborg Johnsen Westad",
+    "address": "Bygdinvegen 2134, 2940 HEGGENES",
+    "metadata": {
+      "legekontor": "Legekontoret i Øystre Slidre",
+      "tlf": "61 35 29 00",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Johan Wictorin",
+    "address": "Lundevegen 3, 2420 Trysil",
+    "metadata": {
+      "legekontor": "Trysil Legesenter",
+      "tlf": "62 45 78 50",
+      "antallPlasser": 1350
+    }
+  },
+  {
+    "title": "Kjersti Wien",
+    "address": "Torggata 3, 2317 HAMAR",
+    "metadata": {
+      "legekontor": "Hamar legesenter",
+      "tlf": "62 54 20 40",
+      "antallPlasser": 710
+    }
+  },
+  {
+    "title": "Andrine Morken Wold",
+    "address": "Stasjonsvegen 13B, 2340 LØTEN",
+    "metadata": {
+      "legekontor": "Løten Legesenter",
+      "tlf": "62 56 42 00",
+      "antallPlasser": 1020
+    }
+  },
+  {
+    "title": "Sture Wold",
+    "address": "Stasjonsvegen 13B, 2340 LØTEN",
+    "metadata": {
+      "legekontor": "Løten Legesenter",
+      "tlf": "62 56 42 00",
+      "antallPlasser": 940
+    }
+  },
+  {
+    "title": "Emilie Nygaard Woll",
+    "address": "Rådhusgata 6, 2270 FLISA",
+    "metadata": {
+      "legekontor": "Åsnes Legesenter",
+      "tlf": "62 95 08 40",
+      "antallPlasser": 560
+    }
+  },
+  {
+    "title": "Tehua Michael Xu",
+    "address": "Vangsvegen 31, 2317 Hamar",
+    "metadata": {
+      "legekontor": "Innlandet Legesenter AS",
+      "tlf": "62 55 54 00",
+      "antallPlasser": 1800
+    }
+  },
+  {
+    "title": "Birgit Ystad",
+    "address": "Torvgata 1, 2500 TYNSET",
+    "metadata": {
+      "legekontor": "Tynset legekontor og helsestasjon",
+      "tlf": "62 48 51 60",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Meryem Yükcü",
+    "address": "Kirkegata 55, 2609 Lillehammer",
+    "metadata": {
+      "legekontor": "Sentrum legekontor Lillehammer",
+      "tlf": "61 26 30 40",
+      "antallPlasser": 1050
+    }
+  },
+  {
+    "title": "Bilal Zaman",
+    "address": "Stasjonsveien 22, 2100 SKARNES",
+    "metadata": {
+      "legekontor": "Parken Legesenter",
+      "tlf": "62 96 60 20",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Brian Zamel",
+    "address": "Torggata 83, 2317 Hamar",
+    "metadata": {
+      "legekontor": "Stortorget Legesenter",
+      "tlf": "62 53 82 00",
+      "ledigePlasser": 15,
+      "antallPlasser": 1200,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Mantas Zemaitis",
+    "address": "Hovsbakken 3, 2860 HOV",
+    "metadata": {
+      "legekontor": "Hov Legesenter",
+      "tlf": "61 12 99 20",
+      "ledigePlasser": 9,
+      "antallPlasser": 900,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Lars Albert Ølnes",
+    "address": "Våler Legesenter Vålgutua 200, 2436 VÅLER I SOLØR",
+    "metadata": {
+      "legekontor": "Våler Legesenter",
+      "tlf": "62 42 41 70",
+      "antallPlasser": 660
+    }
+  },
+  {
+    "title": "Kari Øvergård",
+    "address": "Stasjonsvegen 7, 2340 LØTEN",
+    "metadata": {
+      "legekontor": "Løten Kommune Bristol Legesenter",
+      "tlf": "62 54 70 70",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Gina Renate Øverland",
+    "address": "Åsmarkveien 3 Pb34, 2390 MOELV",
+    "metadata": {
+      "legekontor": "Herredshuset legesenter",
+      "tlf": "62 34 95 50",
+      "antallPlasser": 500
+    }
+  },
+  {
+    "title": "Fredrik Sprakehaug Øvrevik",
+    "address": "Vestringvegen 10B, 2651 ØSTRE GAUSDAL",
+    "metadata": {
+      "legekontor": "Gausdal legesenter",
+      "tlf": "61 25 66 00",
+      "ledigePlasser": 5,
+      "antallPlasser": 733,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Silje Nyaas Øyen",
+    "address": "Fahlstrøms Plass 1, 2815 GJØVIK",
+    "metadata": {
+      "legekontor": "Gjøvik Legesenter",
+      "tlf": "61 14 05 00",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Irene Øygard",
+    "address": "Garlivegen 20, 2900 FAGERNES",
+    "metadata": {
+      "legekontor": "Fagernes legesenter",
+      "tlf": "61 35 98 88",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Oddvar Ådnanes",
+    "address": "Torggata 1, 2317 HAMAR",
+    "metadata": {
+      "legekontor": "Legehuset NOVA AS",
+      "tlf": "62 55 00 80",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Ina Aarskog",
+    "address": "St. Olavs gate 5, 2414 ELVERUM",
+    "metadata": {
+      "legekontor": "Activia Legesenter",
+      "tlf": "62 40 10 60",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Jon Arild Aarskog",
+    "address": "St. Olavs gate 5, 2414 ELVERUM",
+    "metadata": {
+      "legekontor": "Activia Legesenter",
+      "tlf": "62 40 10 60",
+      "antallPlasser": 1700
+    }
+  },
+  {
+    "title": "Ole Vegard Aasgard-Nebbneset",
+    "address": "Moavegen 20 A, 2680 VÅGÅ",
+    "metadata": {
+      "legekontor": "Vågå Helsesenter",
+      "tlf": "61 29 37 00",
+      "ledigePlasser": 174,
+      "antallPlasser": 600,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Sebastian Ekanger Aasheim",
+    "address": "Landmovegen 5B, 2870 DOKKA",
+    "metadata": {
+      "legekontor": "Landsbylegene Dokka",
+      "tlf": "61 11 46 00",
+      "antallPlasser": 800
+    }
+  }
+]

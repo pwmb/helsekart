@@ -61,6 +61,64 @@
 }
 
 /* ── category list ──────────────────────────────── */
+
+.legend-group {
+  list-style: none;
+}
+
+.legend-group-header {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.4rem 0.8rem;
+  cursor: pointer;
+  transition: background 0.12s;
+}
+
+.legend-group-header:hover {
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.legend-group-check {
+  width: 14px;
+  height: 14px;
+  cursor: pointer;
+  accent-color: #4a9eff;
+  flex-shrink: 0;
+}
+
+.legend-group-name {
+  flex: 1;
+  font-weight: 600;
+  font-size: 0.85rem;
+  color: #e0e0e0;
+  user-select: none;
+}
+
+.legend-group-expand {
+  background: none;
+  border: none;
+  color: #666;
+  cursor: pointer;
+  font-size: 0.65rem;
+  padding: 0.2rem;
+  line-height: 1;
+  transition: color 0.15s;
+}
+
+.legend-group-expand:hover {
+  color: #aaa;
+}
+
+.legend-sublist {
+  list-style: none;
+  border-left: 2px solid rgba(255,255,255,0.08);
+  margin-left: 1.4rem;
+  max-height: 260px;
+  overflow-y: auto;
+}
+
+
 .legend-list {
   list-style: none;
   margin: 0;

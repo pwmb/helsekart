@@ -1,0 +1,1444 @@
+[
+  {
+    "title": "Yassin Thommesen Almassy",
+    "address": "Iversens veg 1, 9980 BERLEVÅG",
+    "metadata": {
+      "legekontor": "Berlevåg legekontor",
+      "tlf": "78 78 21 00",
+      "ledigePlasser": 148,
+      "antallPlasser": 400,
+      "valgbar": true
+    },
+    "lat": 70.854276,
+    "lng": 29.084868
+  },
+  {
+    "title": "Ingjerd Amlie",
+    "address": "Hankenbakken 26, 9550 Øksfjord",
+    "metadata": {
+      "legekontor": "Kommunelegen i Loppa",
+      "tlf": "78 45 30 50",
+      "ledigePlasser": 19,
+      "antallPlasser": 300,
+      "valgbar": true
+    },
+    "lat": 70.2458875,
+    "lng": 22.3495671
+  },
+  {
+    "title": "Per Vidar Klemet Andersen",
+    "address": "Markveien 51, 9510 ALTA",
+    "metadata": {
+      "legekontor": "Sentrum Legepraksis",
+      "tlf": "481 03 288",
+      "antallPlasser": 1050
+    },
+    "lat": 69.964538,
+    "lng": 23.2790638
+  },
+  {
+    "title": "Jan Christian Andersson",
+    "address": "Box 401, Storgata 2, 9915 KIRKENES",
+    "metadata": {
+      "legekontor": "Kirkenes Legesenter",
+      "tlf": "78 97 76 60",
+      "antallPlasser": 700
+    },
+    "lat": 69.7271478,
+    "lng": 30.0448971
+  },
+  {
+    "title": "Sarah Iren Sivertsen Andreassen",
+    "address": "Maskevarreveien 1, 9845 TANA",
+    "metadata": {
+      "legekontor": "Tana legesenter",
+      "tlf": "455 17 700",
+      "antallPlasser": 500
+    },
+    "lat": 70.1986741,
+    "lng": 28.1741532
+  },
+  {
+    "title": "Jan Christian Anker",
+    "address": "Sykestuveien 13, 9590 HASVIK",
+    "metadata": {
+      "legekontor": "Hasvik Legestasjon",
+      "tlf": "78 45 25 00",
+      "ledigePlasser": 60,
+      "antallPlasser": 300,
+      "valgbar": true
+    },
+    "lat": 70.4856544,
+    "lng": 22.1647408
+  },
+  {
+    "title": "Dorthe Aslaksen",
+    "address": "Box 401, Storgata 2, 9915 KIRKENES",
+    "metadata": {
+      "legekontor": "Kirkenes Legesenter",
+      "tlf": "78 97 76 60",
+      "antallPlasser": 700
+    },
+    "lat": 69.7271478,
+    "lng": 30.0448971
+  },
+  {
+    "title": "Nina Guttormsdatter Helberg Aurebekk",
+    "address": "Strandparken 1 Strandgata 52, 9616 HAMMERFEST",
+    "metadata": {
+      "legekontor": "Bryggen/Skarven legesenter",
+      "tlf": "78 40 24 70",
+      "antallPlasser": 700
+    },
+    "lat": 70.6628361,
+    "lng": 23.6831069
+  },
+  {
+    "title": "Mette Aven",
+    "address": "Box 401, Storgata 2, 9915 KIRKENES",
+    "metadata": {
+      "legekontor": "Kirkenes Legesenter",
+      "tlf": "78 97 76 60",
+      "antallPlasser": 750
+    },
+    "lat": 69.7271478,
+    "lng": 30.0448971
+  },
+  {
+    "title": "Linn Mari Balto",
+    "address": "Helsetunveien 4, 9700 LAKSELV",
+    "metadata": {
+      "legekontor": "Lakselv Legestasjon",
+      "tlf": "78 46 00 40",
+      "antallPlasser": 400
+    },
+    "lat": 70.0520158,
+    "lng": 24.9500269
+  },
+  {
+    "title": "Agnethe Basma",
+    "address": "Johan Salmillas veg 22, 9790 KJØLLEFJORD",
+    "metadata": {
+      "legekontor": "Nordkyn legetjeneste - Kjøllefjord",
+      "tlf": "979 90 940",
+      "ledigePlasser": 31,
+      "antallPlasser": 600,
+      "valgbar": true
+    },
+    "lat": 70.944082,
+    "lng": 27.3517343
+  },
+  {
+    "title": "Susann Vandenberghe Berg",
+    "address": "Markveien 51, 9510 ALTA",
+    "metadata": {
+      "legekontor": "Sentrum Legepraksis",
+      "tlf": "481 03 288",
+      "antallPlasser": 520
+    },
+    "lat": 69.964538,
+    "lng": 23.2790638
+  },
+  {
+    "title": "Sven Göran Bjerklow",
+    "address": "Hesteskoen 8, 9510 ALTA",
+    "metadata": {
+      "legekontor": "Byhagen legesenter",
+      "tlf": "484 00 045",
+      "antallPlasser": 800
+    },
+    "lat": 69.9661271,
+    "lng": 23.2755139
+  },
+  {
+    "title": "Helge Bjøru",
+    "address": "Sykehusveien 16B, 9750 HONNINGSVÅG",
+    "metadata": {
+      "legekontor": "Nordkapp legesenter",
+      "tlf": "78 47 66 60",
+      "ledigePlasser": 293,
+      "antallPlasser": 584,
+      "valgbar": true
+    },
+    "lat": 70.9770382,
+    "lng": 25.9850516
+  },
+  {
+    "title": "Karin Kristina Eleonor Blind",
+    "address": "Maskevarreveien 1, 9845 TANA",
+    "metadata": {
+      "legekontor": "Tana legesenter",
+      "tlf": "455 17 700",
+      "antallPlasser": 375
+    },
+    "lat": 70.1986741,
+    "lng": 28.1741532
+  },
+  {
+    "title": "Turid Blomsø",
+    "address": "Hesteskoen 8, 9510 ALTA",
+    "metadata": {
+      "legekontor": "Byhagen legesenter",
+      "tlf": "484 00 045",
+      "antallPlasser": 800
+    },
+    "lat": 69.9661271,
+    "lng": 23.2755139
+  },
+  {
+    "title": "Linea Borch",
+    "address": "Maskevarreveien 1, 9845 TANA",
+    "metadata": {
+      "legekontor": "Tana legesenter",
+      "tlf": "455 17 700",
+      "antallPlasser": 500
+    },
+    "lat": 70.1986741,
+    "lng": 28.1741532
+  },
+  {
+    "title": "Guri Tuv Brattli",
+    "address": "Sykehusveien 16B, 9750 HONNINGSVÅG",
+    "metadata": {
+      "legekontor": "Nordkapp legesenter",
+      "tlf": "78 47 66 60",
+      "antallPlasser": 584
+    },
+    "lat": 70.9770382,
+    "lng": 25.9850516
+  },
+  {
+    "title": "Mikkel Bo Brent",
+    "address": "Markveien 51, 9510 ALTA",
+    "metadata": {
+      "legekontor": "Sentrum Legepraksis",
+      "tlf": "481 03 288",
+      "antallPlasser": 600
+    },
+    "lat": 69.964538,
+    "lng": 23.2790638
+  },
+  {
+    "title": "Petter Sønvisen Bye",
+    "address": "Markveien 51, 9510 ALTA",
+    "metadata": {
+      "legekontor": "Sentrum Legepraksis",
+      "tlf": "481 03 288",
+      "antallPlasser": 750
+    },
+    "lat": 69.964538,
+    "lng": 23.2790638
+  },
+  {
+    "title": "Martine Bøe",
+    "address": "Iversens veg 1, 9980 BERLEVÅG",
+    "metadata": {
+      "legekontor": "Berlevåg legekontor",
+      "tlf": "78 78 21 00",
+      "ledigePlasser": 85,
+      "antallPlasser": 400,
+      "valgbar": true
+    },
+    "lat": 70.854276,
+    "lng": 29.084868
+  },
+  {
+    "title": "Einar Alexander Bøhmer",
+    "address": "Helsetunveien 4, 9700 LAKSELV",
+    "metadata": {
+      "legekontor": "Lakselv Legestasjon",
+      "tlf": "78 46 00 40",
+      "ledigePlasser": 39,
+      "antallPlasser": 480,
+      "valgbar": true
+    },
+    "lat": 70.0520158,
+    "lng": 24.9500269
+  },
+  {
+    "title": "Jørgen Damm",
+    "address": "Maskevarreveien 1, 9845 TANA",
+    "metadata": {
+      "legekontor": "Tana legesenter",
+      "tlf": "455 17 700",
+      "ledigePlasser": 35,
+      "antallPlasser": 650,
+      "valgbar": true
+    },
+    "lat": 70.1986741,
+    "lng": 28.1741532
+  },
+  {
+    "title": "Anne Herefoss Davidsen",
+    "address": "Hesteskoen 8, 9510 ALTA",
+    "metadata": {
+      "legekontor": "Byhagen legesenter",
+      "tlf": "484 00 045",
+      "antallPlasser": 830
+    },
+    "lat": 69.9661271,
+    "lng": 23.2755139
+  },
+  {
+    "title": "Kenneth Dørmænen",
+    "address": "Box 401, Storgata 2, 9915 KIRKENES",
+    "metadata": {
+      "legekontor": "Kirkenes Legesenter",
+      "tlf": "78 97 76 60",
+      "antallPlasser": 750
+    },
+    "lat": 69.7271478,
+    "lng": 30.0448971
+  },
+  {
+    "title": "Abbas Ali El-Maanaki",
+    "address": "Helseveien 1, 9991 BÅTSFJORD",
+    "metadata": {
+      "legekontor": "Båtsfjord Legekontor",
+      "tlf": "78 98 54 00",
+      "ledigePlasser": 194,
+      "antallPlasser": 600,
+      "valgbar": true
+    },
+    "lat": 70.634903,
+    "lng": 29.712407
+  },
+  {
+    "title": "Anne Eltervåg",
+    "address": "Skipper Wirkolas vei 4, 9515 ALTA",
+    "metadata": {
+      "legekontor": "Elvebakken Legesenter",
+      "tlf": "78 44 90 20",
+      "antallPlasser": 600
+    },
+    "lat": 69.974636,
+    "lng": 23.367185
+  },
+  {
+    "title": "Dima Emelianov",
+    "address": "Sjøgata 9, 9600 HAMMERFEST",
+    "metadata": {
+      "legekontor": "Allmed legesenter",
+      "tlf": "78 40 77 00",
+      "antallPlasser": 700
+    },
+    "lat": 70.6635258,
+    "lng": 23.6813281
+  },
+  {
+    "title": "Malin Flønes",
+    "address": "Hospitalgata 6, 9950 VARDØ",
+    "metadata": {
+      "legekontor": "Vardø Legekontor",
+      "tlf": "78 94 35 50",
+      "ledigePlasser": 72,
+      "antallPlasser": 600,
+      "valgbar": true
+    },
+    "lat": 70.373966,
+    "lng": 31.095337
+  },
+  {
+    "title": "Jasna Furtula",
+    "address": "Strandparken 1 Strandgata 52, 9616 HAMMERFEST",
+    "metadata": {
+      "legekontor": "Bryggen/Skarven legesenter",
+      "tlf": "78 40 24 70",
+      "antallPlasser": 650
+    },
+    "lat": 70.6628361,
+    "lng": 23.6831069
+  },
+  {
+    "title": "Hedi Marina Joks Gaup",
+    "address": "Várjjatgeaidnu 231, 9840 VARANGERBOTN",
+    "metadata": {
+      "legekontor": "Kommunelegen i Nesseby",
+      "tlf": "404 40 600",
+      "ledigePlasser": 19,
+      "antallPlasser": 230,
+      "valgbar": true
+    },
+    "lat": 70.177518,
+    "lng": 28.614537
+  },
+  {
+    "title": "Jørn Günther Gregersen",
+    "address": "Helsetunveien 4, 9700 LAKSELV",
+    "metadata": {
+      "legekontor": "Lakselv Legestasjon",
+      "tlf": "78 46 00 40",
+      "antallPlasser": 325
+    },
+    "lat": 70.0520158,
+    "lng": 24.9500269
+  },
+  {
+    "title": "Jon Ande Fors Grønmo",
+    "address": "Raddeviesugeaidnu 7, 9730 KARASJOK",
+    "metadata": {
+      "legekontor": "Karasjok Helsesenter",
+      "tlf": "78 46 85 00",
+      "ledigePlasser": 27,
+      "antallPlasser": 530,
+      "valgbar": true
+    },
+    "lat": 69.4719917,
+    "lng": 25.5160134
+  },
+  {
+    "title": "Siriann Gulsrud",
+    "address": "Sarritluodda 2, 9520 KAUTOKEINO",
+    "metadata": {
+      "legekontor": "Legetjenester i Kautokeino",
+      "tlf": "78 48 72 60",
+      "ledigePlasser": 19,
+      "antallPlasser": 600,
+      "valgbar": true
+    },
+    "lat": 69.0099148,
+    "lng": 23.0299521
+  },
+  {
+    "title": "Just Haffeld",
+    "address": "Helseveien 1, 9991 BÅTSFJORD",
+    "metadata": {
+      "legekontor": "Båtsfjord Legekontor",
+      "tlf": "78 98 54 00",
+      "ledigePlasser": 21,
+      "antallPlasser": 200,
+      "valgbar": true
+    },
+    "lat": 70.634903,
+    "lng": 29.712407
+  },
+  {
+    "title": "Peder Andreas Halvorsen",
+    "address": "Hesteskoen 8, 9510 ALTA",
+    "metadata": {
+      "legekontor": "Byhagen legesenter",
+      "tlf": "484 00 045",
+      "antallPlasser": 750
+    },
+    "lat": 69.9661271,
+    "lng": 23.2755139
+  },
+  {
+    "title": "Ingunn Heggheim",
+    "address": "Hesteskoen 8, 9510 ALTA",
+    "metadata": {
+      "legekontor": "Byhagen legesenter",
+      "tlf": "484 00 045",
+      "antallPlasser": 950
+    },
+    "lat": 69.9661271,
+    "lng": 23.2755139
+  },
+  {
+    "title": "Audun Henriksen",
+    "address": "Helseveien 1, 9991 BÅTSFJORD",
+    "metadata": {
+      "legekontor": "Båtsfjord Legekontor",
+      "tlf": "78 98 54 00",
+      "ledigePlasser": 240,
+      "antallPlasser": 600,
+      "valgbar": true
+    },
+    "lat": 70.634903,
+    "lng": 29.712407
+  },
+  {
+    "title": "Biret Sofie Henriksen",
+    "address": "Sarritluodda 2, 9520 KAUTOKEINO",
+    "metadata": {
+      "legekontor": "Legetjenester i Kautokeino",
+      "tlf": "78 48 72 60",
+      "ledigePlasser": 19,
+      "antallPlasser": 516,
+      "valgbar": true
+    },
+    "lat": 69.0099148,
+    "lng": 23.0299521
+  },
+  {
+    "title": "Ingvild Holtan-Hartwig",
+    "address": "Raddeviesugeaidnu 7, 9730 KARASJOK",
+    "metadata": {
+      "legekontor": "Karasjok Helsesenter",
+      "tlf": "78 46 85 00",
+      "ledigePlasser": 73,
+      "antallPlasser": 530,
+      "valgbar": true
+    },
+    "lat": 69.4719917,
+    "lng": 25.5160134
+  },
+  {
+    "title": "Signe Horverak",
+    "address": "Vidjeveien 4, 9800 VADSØ",
+    "metadata": {
+      "legekontor": "Vadsø Kommune Helseenheten Legekontor",
+      "tlf": "78 94 25 00",
+      "ledigePlasser": 21,
+      "antallPlasser": 750,
+      "valgbar": true
+    },
+    "lat": 70.083202,
+    "lng": 29.734643
+  },
+  {
+    "title": "Lars Johannes Huneke",
+    "address": "Strandparken 1 Strandgata 52, 9616 HAMMERFEST",
+    "metadata": {
+      "legekontor": "Bryggen/Skarven legesenter",
+      "tlf": "78 40 24 70",
+      "antallPlasser": 900
+    },
+    "lat": 70.6628361,
+    "lng": 23.6831069
+  },
+  {
+    "title": "Ola William Hunsdal",
+    "address": "Strandparken 1 Strandgata 52, 9616 HAMMERFEST",
+    "metadata": {
+      "legekontor": "Bryggen/Skarven legesenter",
+      "tlf": "78 40 24 70",
+      "antallPlasser": 600
+    },
+    "lat": 70.6628361,
+    "lng": 23.6831069
+  },
+  {
+    "title": "Marit Huseby",
+    "address": "Sjøgata 9, 9600 HAMMERFEST",
+    "metadata": {
+      "legekontor": "Allmed legesenter",
+      "tlf": "78 40 77 00",
+      "antallPlasser": 500
+    },
+    "lat": 70.6635258,
+    "lng": 23.6813281
+  },
+  {
+    "title": "Tilde Withen Isaksen",
+    "address": "Sjøgata 9, 9600 HAMMERFEST",
+    "metadata": {
+      "legekontor": "Allmed legesenter",
+      "tlf": "78 40 77 00",
+      "antallPlasser": 300
+    },
+    "lat": 70.6635258,
+    "lng": 23.6813281
+  },
+  {
+    "title": "Minka Marjaana Itäkivi",
+    "address": "Maskevarreveien 1, 9845 TANA",
+    "metadata": {
+      "legekontor": "Tana legesenter",
+      "tlf": "455 17 700",
+      "antallPlasser": 325
+    },
+    "lat": 70.1986741,
+    "lng": 28.1741532
+  },
+  {
+    "title": "Daniela Ivan",
+    "address": "Sjøgata 9, 9600 HAMMERFEST",
+    "metadata": {
+      "legekontor": "Allmed legesenter",
+      "tlf": "78 40 77 00",
+      "antallPlasser": 650
+    },
+    "lat": 70.6635258,
+    "lng": 23.6813281
+  },
+  {
+    "title": "Edvard Hjort Iversen",
+    "address": "Helseveien 1, 9991 BÅTSFJORD",
+    "metadata": {
+      "legekontor": "Båtsfjord Legekontor",
+      "tlf": "78 98 54 00",
+      "ledigePlasser": 107,
+      "antallPlasser": 600,
+      "valgbar": true
+    },
+    "lat": 70.634903,
+    "lng": 29.712407
+  },
+  {
+    "title": "Marie Jakola-Skansen",
+    "address": "Vidjeveien 4, 9800 VADSØ",
+    "metadata": {
+      "legekontor": "Vadsø Kommune Helseenheten Legekontor",
+      "tlf": "78 94 25 00",
+      "antallPlasser": 650
+    },
+    "lat": 70.083202,
+    "lng": 29.734643
+  },
+  {
+    "title": "Tom Kenneth Johansen",
+    "address": "Thomasbakkveien, 9513 ALTA",
+    "metadata": {
+      "legekontor": "Nordlys legesenter",
+      "tlf": "78 45 75 45",
+      "antallPlasser": 850
+    },
+    "lat": 69.9580061,
+    "lng": 23.2390231
+  },
+  {
+    "title": "Kjell Magne Johnsen",
+    "address": "Várjjatgeaidnu 231, 9840 VARANGERBOTN",
+    "metadata": {
+      "legekontor": "Kommunelegen i Nesseby",
+      "tlf": "404 40 600",
+      "antallPlasser": 345
+    },
+    "lat": 70.177518,
+    "lng": 28.614537
+  },
+  {
+    "title": "Anne Lajla Westerfjell Kalstad",
+    "address": "Sarritluodda 2, 9520 KAUTOKEINO",
+    "metadata": {
+      "legekontor": "Legetjenester i Kautokeino",
+      "tlf": "78 48 72 60",
+      "ledigePlasser": 4,
+      "antallPlasser": 390,
+      "valgbar": true
+    },
+    "lat": 69.0099148,
+    "lng": 23.0299521
+  },
+  {
+    "title": "Marit Karlsen",
+    "address": "Hankenbakken 26, 9550 Øksfjord",
+    "metadata": {
+      "legekontor": "Kommunelegen i Loppa",
+      "tlf": "78 45 30 50",
+      "ledigePlasser": 66,
+      "antallPlasser": 300,
+      "valgbar": true
+    },
+    "lat": 70.2458875,
+    "lng": 22.3495671
+  },
+  {
+    "title": "Øystein Kippersund",
+    "address": "Søndregate 1, 9690 HAVØYSUND",
+    "metadata": {
+      "legekontor": "Måsøy kommune - Helsetjenesten",
+      "tlf": "78 42 41 00",
+      "ledigePlasser": 91,
+      "antallPlasser": 575,
+      "valgbar": true
+    },
+    "lat": 70.9963105,
+    "lng": 24.6609576
+  },
+  {
+    "title": "Marita Ormestad Langseth",
+    "address": "Várjjatgeaidnu 231, 9840 VARANGERBOTN",
+    "metadata": {
+      "legekontor": "Kommunelegen i Nesseby",
+      "tlf": "404 40 600",
+      "antallPlasser": 230
+    },
+    "lat": 70.177518,
+    "lng": 28.614537
+  },
+  {
+    "title": "Eirik Larsen",
+    "address": "Strandparken 1 Strandgata 52, 9616 HAMMERFEST",
+    "metadata": {
+      "legekontor": "Bryggen/Skarven legesenter",
+      "tlf": "78 40 24 70",
+      "antallPlasser": 700
+    },
+    "lat": 70.6628361,
+    "lng": 23.6831069
+  },
+  {
+    "title": "Ane Nesje Lazaro",
+    "address": "Markveien 51, 9510 ALTA",
+    "metadata": {
+      "legekontor": "Sentrum Legepraksis",
+      "tlf": "481 03 288",
+      "antallPlasser": 600
+    },
+    "lat": 69.964538,
+    "lng": 23.2790638
+  },
+  {
+    "title": "Mariell Leinan",
+    "address": "Follumsvei 17, 9510 ALTA",
+    "metadata": {
+      "legekontor": "Stilla Legesenter",
+      "tlf": "482 85 500",
+      "antallPlasser": 600
+    },
+    "lat": 69.968455,
+    "lng": 23.280782
+  },
+  {
+    "title": "Marius Eknæs Lier",
+    "address": "Johan Salmillas veg 22, 9790 KJØLLEFJORD",
+    "metadata": {
+      "legekontor": "Nordkyn legetjeneste - Kjøllefjord",
+      "tlf": "979 90 940",
+      "ledigePlasser": 45,
+      "antallPlasser": 600,
+      "valgbar": true
+    },
+    "lat": 70.944082,
+    "lng": 27.3517343
+  },
+  {
+    "title": "Marie Fosse Linnestad",
+    "address": "Sykehusveien 16B, 9750 HONNINGSVÅG",
+    "metadata": {
+      "legekontor": "Nordkapp legesenter",
+      "tlf": "78 47 66 60",
+      "antallPlasser": 584
+    },
+    "lat": 70.9770382,
+    "lng": 25.9850516
+  },
+  {
+    "title": "Synne Lofstad",
+    "address": "Sarritluodda 2, 9520 KAUTOKEINO",
+    "metadata": {
+      "legekontor": "Legetjenester i Kautokeino",
+      "tlf": "78 48 72 60",
+      "ledigePlasser": 21,
+      "antallPlasser": 600,
+      "valgbar": true
+    },
+    "lat": 69.0099148,
+    "lng": 23.0299521
+  },
+  {
+    "title": "Igor Lovre",
+    "address": "Hospitalgata 6, 9950 VARDØ",
+    "metadata": {
+      "legekontor": "Vardø Legekontor",
+      "tlf": "78 94 35 50",
+      "antallPlasser": 300
+    },
+    "lat": 70.373966,
+    "lng": 31.095337
+  },
+  {
+    "title": "Oda Lavine Luisa",
+    "address": "Thomasbakkveien, 9513 ALTA",
+    "metadata": {
+      "legekontor": "Nordlys legesenter",
+      "tlf": "78 45 75 45",
+      "antallPlasser": 600
+    },
+    "lat": 69.9580061,
+    "lng": 23.2390231
+  },
+  {
+    "title": "May Britt Johanne Lund",
+    "address": "Johan Larsens vei 10A, 9770 MEHAMN",
+    "metadata": {
+      "legekontor": "Mehamn Legekontor",
+      "tlf": "979 97 750",
+      "ledigePlasser": 116,
+      "antallPlasser": 600,
+      "valgbar": true
+    },
+    "lat": 71.033907,
+    "lng": 27.854038
+  },
+  {
+    "title": "Axel Grahame Søholt Lupton",
+    "address": "Box 401, Storgata 2, 9915 KIRKENES",
+    "metadata": {
+      "legekontor": "Kirkenes Legesenter",
+      "tlf": "78 97 76 60",
+      "antallPlasser": 800
+    },
+    "lat": 69.7271478,
+    "lng": 30.0448971
+  },
+  {
+    "title": "John Yngve Løvland",
+    "address": "Sykehusveien 16B, 9750 HONNINGSVÅG",
+    "metadata": {
+      "legekontor": "Nordkapp legesenter",
+      "tlf": "78 47 66 60",
+      "ledigePlasser": 210,
+      "antallPlasser": 700,
+      "valgbar": true
+    },
+    "lat": 70.9770382,
+    "lng": 25.9850516
+  },
+  {
+    "title": "Aleksander Løwø",
+    "address": "Vidjeveien 4, 9800 VADSØ",
+    "metadata": {
+      "legekontor": "Vadsø Kommune Helseenheten Legekontor",
+      "tlf": "78 94 25 00",
+      "antallPlasser": 750
+    },
+    "lat": 70.083202,
+    "lng": 29.734643
+  },
+  {
+    "title": "Sire Ragna Nystad Marrable",
+    "address": "Vidjeveien 4, 9800 VADSØ",
+    "metadata": {
+      "legekontor": "Vadsø Kommune Helseenheten Legekontor",
+      "tlf": "78 94 25 00",
+      "ledigePlasser": 4,
+      "antallPlasser": 650,
+      "valgbar": true
+    },
+    "lat": 70.083202,
+    "lng": 29.734643
+  },
+  {
+    "title": "Mariann Mathiassen",
+    "address": "Box 401, Storgata 2, 9915 KIRKENES",
+    "metadata": {
+      "legekontor": "Kirkenes Legesenter",
+      "tlf": "78 97 76 60",
+      "antallPlasser": 650
+    },
+    "lat": 69.7271478,
+    "lng": 30.0448971
+  },
+  {
+    "title": "Britt Larsen Mehmi",
+    "address": "Vidjeveien 4, 9800 VADSØ",
+    "metadata": {
+      "legekontor": "Vadsø Kommune Helseenheten Legekontor",
+      "tlf": "78 94 25 00",
+      "antallPlasser": 300
+    },
+    "lat": 70.083202,
+    "lng": 29.734643
+  },
+  {
+    "title": "Lars Christian Moen",
+    "address": "Hospitalgata 6, 9950 VARDØ",
+    "metadata": {
+      "legekontor": "Vardø Legekontor",
+      "tlf": "78 94 35 50",
+      "ledigePlasser": 149,
+      "antallPlasser": 600,
+      "valgbar": true
+    },
+    "lat": 70.373966,
+    "lng": 31.095337
+  },
+  {
+    "title": "Martine Amalie Myreng",
+    "address": "Sykestuveien 13, 9590 HASVIK",
+    "metadata": {
+      "legekontor": "Hasvik Legestasjon",
+      "tlf": "78 45 25 00",
+      "antallPlasser": 400
+    },
+    "lat": 70.4856544,
+    "lng": 22.1647408
+  },
+  {
+    "title": "Georges Joseph Nasr",
+    "address": "Raddeviesugeaidnu 7, 9730 KARASJOK",
+    "metadata": {
+      "legekontor": "Karasjok Helsesenter",
+      "tlf": "78 46 85 00",
+      "antallPlasser": 485
+    },
+    "lat": 69.4719917,
+    "lng": 25.5160134
+  },
+  {
+    "title": "Maret Lajla Sara Nedrejord",
+    "address": "Raddeviesugeaidnu 7, 9730 KARASJOK",
+    "metadata": {
+      "legekontor": "Karasjok Helsesenter",
+      "tlf": "78 46 85 00",
+      "antallPlasser": 530
+    },
+    "lat": 69.4719917,
+    "lng": 25.5160134
+  },
+  {
+    "title": "Ingelin Kartveit Høyland Nordal",
+    "address": "Box 401, Storgata 2, 9915 KIRKENES",
+    "metadata": {
+      "legekontor": "Kirkenes Legesenter",
+      "tlf": "78 97 76 60",
+      "antallPlasser": 700
+    },
+    "lat": 69.7271478,
+    "lng": 30.0448971
+  },
+  {
+    "title": "Jens Petter Nordang",
+    "address": "Sykehusveien 16B, 9750 HONNINGSVÅG",
+    "metadata": {
+      "legekontor": "Nordkapp legesenter",
+      "tlf": "78 47 66 60",
+      "ledigePlasser": 139,
+      "antallPlasser": 350,
+      "valgbar": true
+    },
+    "lat": 70.9770382,
+    "lng": 25.9850516
+  },
+  {
+    "title": "Trine Nordstrøm",
+    "address": "Hankenbakken 26, 9550 Øksfjord",
+    "metadata": {
+      "legekontor": "Kommunelegen i Loppa",
+      "tlf": "78 45 30 50",
+      "antallPlasser": 300
+    },
+    "lat": 70.2458875,
+    "lng": 22.3495671
+  },
+  {
+    "title": "Mathilde Næss",
+    "address": "Vidjeveien 4, 9800 VADSØ",
+    "metadata": {
+      "legekontor": "Vadsø Kommune Helseenheten Legekontor",
+      "tlf": "78 94 25 00",
+      "antallPlasser": 600
+    },
+    "lat": 70.083202,
+    "lng": 29.734643
+  },
+  {
+    "title": "Caroline Amalie Bryhn Nøstvik",
+    "address": "Grubevegen 23, 9620 KVALSUND",
+    "metadata": {
+      "legekontor": "Kvalsund Legekontor",
+      "tlf": "78 41 59 00",
+      "antallPlasser": 420
+    },
+    "lat": 70.5027,
+    "lng": 23.977137
+  },
+  {
+    "title": "Elisabeth Nøstvold",
+    "address": "Helsetunveien 4, 9700 LAKSELV",
+    "metadata": {
+      "legekontor": "Lakselv Legestasjon",
+      "tlf": "78 46 00 40",
+      "antallPlasser": 650
+    },
+    "lat": 70.0520158,
+    "lng": 24.9500269
+  },
+  {
+    "title": "Aleksandar Obradovic",
+    "address": "Vidjeveien 4, 9800 VADSØ",
+    "metadata": {
+      "legekontor": "Vadsø Kommune Helseenheten Legekontor",
+      "tlf": "78 94 25 00",
+      "ledigePlasser": 124,
+      "antallPlasser": 880,
+      "valgbar": true
+    },
+    "lat": 70.083202,
+    "lng": 29.734643
+  },
+  {
+    "title": "Ann Karine Andersdatter Gaup Olsen",
+    "address": "Follumsvei 17, 9510 ALTA",
+    "metadata": {
+      "legekontor": "Stilla Legesenter",
+      "tlf": "482 85 500",
+      "antallPlasser": 600
+    },
+    "lat": 69.968455,
+    "lng": 23.280782
+  },
+  {
+    "title": "Sara Helene Bergstrøm Oskal",
+    "address": "Sarritluodda 2, 9520 KAUTOKEINO",
+    "metadata": {
+      "legekontor": "Legetjenester i Kautokeino",
+      "tlf": "78 48 72 60",
+      "ledigePlasser": 26,
+      "antallPlasser": 600,
+      "valgbar": true
+    },
+    "lat": 69.0099148,
+    "lng": 23.0299521
+  },
+  {
+    "title": "Siri Strand Pedersen",
+    "address": "Strandparken 1 Strandgata 52, 9616 HAMMERFEST",
+    "metadata": {
+      "legekontor": "Bryggen/Skarven legesenter",
+      "tlf": "78 40 24 70",
+      "antallPlasser": 510
+    },
+    "lat": 70.6628361,
+    "lng": 23.6831069
+  },
+  {
+    "title": "Charlotte Pettersen",
+    "address": "Sjøgata 9, 9600 HAMMERFEST",
+    "metadata": {
+      "legekontor": "Allmed legesenter",
+      "tlf": "78 40 77 00",
+      "antallPlasser": 530
+    },
+    "lat": 70.6635258,
+    "lng": 23.6813281
+  },
+  {
+    "title": "Malthe Damtoft Poulsen",
+    "address": "Follumsvei 17, 9510 ALTA",
+    "metadata": {
+      "legekontor": "Stilla Legesenter",
+      "tlf": "482 85 500",
+      "antallPlasser": 650
+    },
+    "lat": 69.968455,
+    "lng": 23.280782
+  },
+  {
+    "title": "Erik Edvard Prestgaard",
+    "address": "Søndregate 1, 9690 HAVØYSUND",
+    "metadata": {
+      "legekontor": "Måsøy kommune - Helsetjenesten",
+      "tlf": "78 42 41 00",
+      "ledigePlasser": 22,
+      "antallPlasser": 575,
+      "valgbar": true
+    },
+    "lat": 70.9963105,
+    "lng": 24.6609576
+  },
+  {
+    "title": "Katrine Prydz",
+    "address": "Sjøgata 9, 9600 HAMMERFEST",
+    "metadata": {
+      "legekontor": "Allmed legesenter",
+      "tlf": "78 40 77 00",
+      "antallPlasser": 650
+    },
+    "lat": 70.6635258,
+    "lng": 23.6813281
+  },
+  {
+    "title": "Espen Bang Rafaelsen",
+    "address": "Box 401, Storgata 2, 9915 KIRKENES",
+    "metadata": {
+      "legekontor": "Kirkenes Legesenter",
+      "tlf": "78 97 76 60",
+      "antallPlasser": 900
+    },
+    "lat": 69.7271478,
+    "lng": 30.0448971
+  },
+  {
+    "title": "Jan Ulrik Erland Nilsson Ranta",
+    "address": "Skipper Wirkolas vei 4, 9515 ALTA",
+    "metadata": {
+      "legekontor": "Elvebakken Legesenter",
+      "tlf": "78 44 90 20",
+      "antallPlasser": 900
+    },
+    "lat": 69.974636,
+    "lng": 23.367185
+  },
+  {
+    "title": "David Gunnar Rendefors",
+    "address": "Johan Larsens vei 10A, 9770 MEHAMN",
+    "metadata": {
+      "legekontor": "Mehamn Legekontor",
+      "tlf": "979 97 750",
+      "ledigePlasser": 30,
+      "antallPlasser": 500,
+      "valgbar": true
+    },
+    "lat": 71.033907,
+    "lng": 27.854038
+  },
+  {
+    "title": "Eili Fransisca Ruud",
+    "address": "Helsetunveien 4, 9700 LAKSELV",
+    "metadata": {
+      "legekontor": "Lakselv Legestasjon",
+      "tlf": "78 46 00 40",
+      "antallPlasser": 650
+    },
+    "lat": 70.0520158,
+    "lng": 24.9500269
+  },
+  {
+    "title": "Tor Kristian Ruud",
+    "address": "Follumsvei 17, 9510 ALTA",
+    "metadata": {
+      "legekontor": "Stilla Legesenter",
+      "tlf": "482 85 500",
+      "antallPlasser": 600
+    },
+    "lat": 69.968455,
+    "lng": 23.280782
+  },
+  {
+    "title": "Øystein Rønbeck",
+    "address": "Thomasbakkveien, 9513 ALTA",
+    "metadata": {
+      "legekontor": "Nordlys legesenter",
+      "tlf": "78 45 75 45",
+      "antallPlasser": 800
+    },
+    "lat": 69.9580061,
+    "lng": 23.2390231
+  },
+  {
+    "title": "Stian Røsjø",
+    "address": "Helsetunveien 4, 9700 LAKSELV",
+    "metadata": {
+      "legekontor": "Lakselv Legestasjon",
+      "tlf": "78 46 00 40",
+      "antallPlasser": 650
+    },
+    "lat": 70.0520158,
+    "lng": 24.9500269
+  },
+  {
+    "title": "Lisa Adeleide Sandegaard",
+    "address": "Strandparken 1 Strandgata 52, 9616 HAMMERFEST",
+    "metadata": {
+      "legekontor": "Bryggen/Skarven legesenter",
+      "tlf": "78 40 24 70",
+      "antallPlasser": 500
+    },
+    "lat": 70.6628361,
+    "lng": 23.6831069
+  },
+  {
+    "title": "William Søyland Sandnes",
+    "address": "Helsetunveien 4, 9700 LAKSELV",
+    "metadata": {
+      "legekontor": "Lakselv Legestasjon",
+      "tlf": "78 46 00 40",
+      "antallPlasser": 675
+    },
+    "lat": 70.0520158,
+    "lng": 24.9500269
+  },
+  {
+    "title": "Ragni Sandvik",
+    "address": "Skipper Wirkolas vei 4, 9515 ALTA",
+    "metadata": {
+      "legekontor": "Elvebakken Legesenter",
+      "tlf": "78 44 90 20",
+      "antallPlasser": 750
+    },
+    "lat": 69.974636,
+    "lng": 23.367185
+  },
+  {
+    "title": "Michael Schou",
+    "address": "Sykestuveien 13, 9590 HASVIK",
+    "metadata": {
+      "legekontor": "Hasvik Legestasjon",
+      "tlf": "78 45 25 00",
+      "ledigePlasser": 121,
+      "antallPlasser": 400,
+      "valgbar": true
+    },
+    "lat": 70.4856544,
+    "lng": 22.1647408
+  },
+  {
+    "title": "Joakim Knutsen Sejrup",
+    "address": "Vidjeveien 4, 9800 VADSØ",
+    "metadata": {
+      "legekontor": "Vadsø Kommune Helseenheten Legekontor",
+      "tlf": "78 94 25 00",
+      "antallPlasser": 650
+    },
+    "lat": 70.083202,
+    "lng": 29.734643
+  },
+  {
+    "title": "Qaiser Shahzad",
+    "address": "Helseveien 1, 9991 BÅTSFJORD",
+    "metadata": {
+      "legekontor": "Båtsfjord Legekontor",
+      "tlf": "78 98 54 00",
+      "antallPlasser": 600
+    },
+    "lat": 70.634903,
+    "lng": 29.712407
+  },
+  {
+    "title": "Jatinder Pal Singh",
+    "address": "Markveien 51, 9510 ALTA",
+    "metadata": {
+      "legekontor": "Sentrum Legepraksis",
+      "tlf": "481 03 288",
+      "antallPlasser": 650
+    },
+    "lat": 69.964538,
+    "lng": 23.2790638
+  },
+  {
+    "title": "Ilona Outi Marjatta Sipilä",
+    "address": "Raddeviesugeaidnu 7, 9730 KARASJOK",
+    "metadata": {
+      "legekontor": "Karasjok Helsesenter",
+      "tlf": "78 46 85 00",
+      "antallPlasser": 530
+    },
+    "lat": 69.4719917,
+    "lng": 25.5160134
+  },
+  {
+    "title": "Tor-Egil Skogli",
+    "address": "Várjjatgeaidnu 231, 9840 VARANGERBOTN",
+    "metadata": {
+      "legekontor": "Kommunelegen i Nesseby",
+      "tlf": "404 40 600",
+      "ledigePlasser": 37,
+      "antallPlasser": 230,
+      "valgbar": true
+    },
+    "lat": 70.177518,
+    "lng": 28.614537
+  },
+  {
+    "title": "Ingvild Skølt",
+    "address": "Sykehusveien 16B, 9750 HONNINGSVÅG",
+    "metadata": {
+      "legekontor": "Nordkapp legesenter",
+      "tlf": "78 47 66 60",
+      "ledigePlasser": 31,
+      "antallPlasser": 350,
+      "valgbar": true
+    },
+    "lat": 70.9770382,
+    "lng": 25.9850516
+  },
+  {
+    "title": "Irina Solstad",
+    "address": "Vidjeveien 4, 9800 VADSØ",
+    "metadata": {
+      "legekontor": "Vadsø Kommune Helseenheten Legekontor",
+      "tlf": "78 94 25 00",
+      "antallPlasser": 550
+    },
+    "lat": 70.083202,
+    "lng": 29.734643
+  },
+  {
+    "title": "Adrian Tudor Stanescu",
+    "address": "Sykehusveien 16B, 9750 HONNINGSVÅG",
+    "metadata": {
+      "legekontor": "Nordkapp legesenter",
+      "tlf": "78 47 66 60",
+      "ledigePlasser": 156,
+      "antallPlasser": 585,
+      "valgbar": true
+    },
+    "lat": 70.9770382,
+    "lng": 25.9850516
+  },
+  {
+    "title": "Tarja Kaarina Stenersen",
+    "address": "Grubevegen 23, 9620 KVALSUND",
+    "metadata": {
+      "legekontor": "Kvalsund Legekontor",
+      "tlf": "78 41 59 00",
+      "antallPlasser": 700
+    },
+    "lat": 70.5027,
+    "lng": 23.977137
+  },
+  {
+    "title": "Christina Svanstrøm",
+    "address": "Follumsvei 17, 9510 ALTA",
+    "metadata": {
+      "legekontor": "Stilla Legesenter",
+      "tlf": "482 85 500",
+      "antallPlasser": 600
+    },
+    "lat": 69.968455,
+    "lng": 23.280782
+  },
+  {
+    "title": "Kaisa Anna Wulff Sæther",
+    "address": "Box 401, Storgata 2, 9915 KIRKENES",
+    "metadata": {
+      "legekontor": "Kirkenes Legesenter",
+      "tlf": "78 97 76 60",
+      "antallPlasser": 650
+    },
+    "lat": 69.7271478,
+    "lng": 30.0448971
+  },
+  {
+    "title": "Sarah Sæther",
+    "address": "Thomasbakkveien, 9513 ALTA",
+    "metadata": {
+      "legekontor": "Nordlys legesenter",
+      "tlf": "78 45 75 45",
+      "antallPlasser": 625
+    },
+    "lat": 69.9580061,
+    "lng": 23.2390231
+  },
+  {
+    "title": "Ingrid Øygard Thomassen",
+    "address": "Box 401, Storgata 2, 9915 KIRKENES",
+    "metadata": {
+      "legekontor": "Kirkenes Legesenter",
+      "tlf": "78 97 76 60",
+      "antallPlasser": 750
+    },
+    "lat": 69.7271478,
+    "lng": 30.0448971
+  },
+  {
+    "title": "Jakob Thorkildsen",
+    "address": "Iversens veg 1, 9980 BERLEVÅG",
+    "metadata": {
+      "legekontor": "Berlevåg legekontor",
+      "tlf": "78 78 21 00",
+      "ledigePlasser": 141,
+      "antallPlasser": 400,
+      "valgbar": true
+    },
+    "lat": 70.854276,
+    "lng": 29.084868
+  },
+  {
+    "title": "Linn Nybråten Tjønsø",
+    "address": "Strandparken 1 Strandgata 52, 9616 HAMMERFEST",
+    "metadata": {
+      "legekontor": "Bryggen/Skarven legesenter",
+      "tlf": "78 40 24 70",
+      "antallPlasser": 600
+    },
+    "lat": 70.6628361,
+    "lng": 23.6831069
+  },
+  {
+    "title": "Parisa Valaei",
+    "address": "Skipper Wirkolas vei 4, 9515 ALTA",
+    "metadata": {
+      "legekontor": "Elvebakken Legesenter",
+      "tlf": "78 44 90 20",
+      "antallPlasser": 650
+    },
+    "lat": 69.974636,
+    "lng": 23.367185
+  },
+  {
+    "title": "Marja-Elina Ballovara Varsi",
+    "address": "Hospitalgata 6, 9950 VARDØ",
+    "metadata": {
+      "legekontor": "Vardø Legekontor",
+      "tlf": "78 94 35 50",
+      "ledigePlasser": 169,
+      "antallPlasser": 600,
+      "valgbar": true
+    },
+    "lat": 70.373966,
+    "lng": 31.095337
+  },
+  {
+    "title": "Kaj Mikael Wold",
+    "address": "Strandparken 1 Strandgata 52, 9616 HAMMERFEST",
+    "metadata": {
+      "legekontor": "Bryggen/Skarven legesenter",
+      "tlf": "78 40 24 70",
+      "antallPlasser": 670
+    },
+    "lat": 70.6628361,
+    "lng": 23.6831069
+  },
+  {
+    "title": "Stine Hjellnes Zachariassen",
+    "address": "Sjøgata 9, 9600 HAMMERFEST",
+    "metadata": {
+      "legekontor": "Allmed legesenter",
+      "tlf": "78 40 77 00",
+      "antallPlasser": 650
+    },
+    "lat": 70.6635258,
+    "lng": 23.6813281
+  },
+  {
+    "title": "Kamila Zamojcin",
+    "address": "Box 401, Storgata 2, 9915 KIRKENES",
+    "metadata": {
+      "legekontor": "Kirkenes Legesenter",
+      "tlf": "78 97 76 60",
+      "antallPlasser": 700
+    },
+    "lat": 69.7271478,
+    "lng": 30.0448971
+  },
+  {
+    "title": "Maurycy Jan Zamojcin",
+    "address": "Box 401, Storgata 2, 9915 KIRKENES",
+    "metadata": {
+      "legekontor": "Kirkenes Legesenter",
+      "tlf": "78 97 76 60",
+      "antallPlasser": 700
+    },
+    "lat": 69.7271478,
+    "lng": 30.0448971
+  },
+  {
+    "title": "Nina Cecilie Ødmann",
+    "address": "Markveien 51, 9510 ALTA",
+    "metadata": {
+      "legekontor": "Sentrum Legepraksis",
+      "tlf": "481 03 288",
+      "antallPlasser": 700
+    },
+    "lat": 69.964538,
+    "lng": 23.2790638
+  },
+  {
+    "title": "Arve Østlyngen",
+    "address": "Thomasbakkveien, 9513 ALTA",
+    "metadata": {
+      "legekontor": "Nordlys legesenter",
+      "tlf": "78 45 75 45",
+      "antallPlasser": 750
+    },
+    "lat": 69.9580061,
+    "lng": 23.2390231
+  },
+  {
+    "title": "Anne Marit Østmo",
+    "address": "Thomasbakkveien, 9513 ALTA",
+    "metadata": {
+      "legekontor": "Nordlys legesenter",
+      "tlf": "78 45 75 45",
+      "antallPlasser": 750
+    },
+    "lat": 69.9580061,
+    "lng": 23.2390231
+  },
+  {
+    "title": "Marianne Kvestad Øygard",
+    "address": "Box 401, Storgata 2, 9915 KIRKENES",
+    "metadata": {
+      "legekontor": "Kirkenes Legesenter",
+      "tlf": "78 97 76 60",
+      "antallPlasser": 750
+    },
+    "lat": 69.7271478,
+    "lng": 30.0448971
+  }
+]

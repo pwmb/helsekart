@@ -1,0 +1,2182 @@
+[
+  {
+    "title": "Astrid Alvereng",
+    "address": "Havnegata 1, 9404 HARSTAD",
+    "metadata": {
+      "legekontor": "Havnegata Legesenter",
+      "tlf": "77 00 21 20",
+      "antallPlasser": 760
+    }
+  },
+  {
+    "title": "Gunnar Smith Andersen",
+    "address": "Revegårdsveien 10, 9440 EVENSKJER",
+    "metadata": {
+      "legekontor": "ETS Medisinske Senter",
+      "tlf": "77 08 95 65",
+      "ledigePlasser": 4,
+      "antallPlasser": 800,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Kristine Norlund Andersen",
+    "address": "Laukhellaveien 106, 9303 SILSAND",
+    "metadata": {
+      "legekontor": "Senjalegen avd. Silsand legekontor",
+      "tlf": "77 88 30 00",
+      "antallPlasser": 480
+    }
+  },
+  {
+    "title": "Nils-Vegard Johan Andersen",
+    "address": "Helsesenterveien 2, 9350 SJØVEGAN",
+    "metadata": {
+      "legekontor": "Astafjordlegen",
+      "tlf": "77 17 40 00",
+      "ledigePlasser": 186,
+      "antallPlasser": 600,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Stian Andersen",
+    "address": "Nordlysveien 374, 9046 Oteren",
+    "metadata": {
+      "legekontor": "Storfjord Legesenter",
+      "tlf": "77 21 29 00",
+      "ledigePlasser": 6,
+      "antallPlasser": 600,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Sidsel Mordt Andreassen",
+    "address": "Kvæfjord Helsehus, Kveldroveien 2, 9475 BORKENES",
+    "metadata": {
+      "legekontor": "Legetjenesten i Kvæfjord",
+      "tlf": "77 02 34 00",
+      "antallPlasser": 750
+    }
+  },
+  {
+    "title": "Vilde Bruland Andresen",
+    "address": "Stortorget 2, 9008 Tromsø",
+    "metadata": {
+      "legekontor": "Kaia Legesenter",
+      "tlf": "77 60 80 50",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Erik Arild",
+    "address": "Revegårdsveien 10, 9440 EVENSKJER",
+    "metadata": {
+      "legekontor": "ETS Medisinske Senter",
+      "tlf": "77 08 95 65",
+      "antallPlasser": 300
+    }
+  },
+  {
+    "title": "Lenn Stig Andre Aronsson",
+    "address": "Helsetunet Bakkemoveien 22, 9147 BIRTAVARRE",
+    "metadata": {
+      "legekontor": "Kåfjord legekontor",
+      "tlf": "77 71 93 20",
+      "ledigePlasser": 27,
+      "antallPlasser": 500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Markus Aspen",
+    "address": "Sonjatunvegen 21, 9151 STORSLETT",
+    "metadata": {
+      "legekontor": "Legekontoret i Nordreisa",
+      "tlf": "77 58 81 00",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Thomas Backer-Grøndahl",
+    "address": "Verkstedveien 1, 9406 Harstad",
+    "metadata": {
+      "legekontor": "Sjøkanten Legesenter",
+      "tlf": "77 00 09 00",
+      "antallPlasser": 950
+    }
+  },
+  {
+    "title": "Anna Bakke",
+    "address": "Stortorget 2, 9008 Tromsø",
+    "metadata": {
+      "legekontor": "Sjøgata Legesenter AS",
+      "tlf": "77 66 41 60",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Michelle Tuv Bakke",
+    "address": "Stakkevollvegen 41, 9010 TROMSØ",
+    "metadata": {
+      "legekontor": "Tromsøya Legesenter AS",
+      "tlf": "77 33 30 00",
+      "antallPlasser": 920
+    }
+  },
+  {
+    "title": "Dina-Irene Bakkehaug",
+    "address": "Kvæfjord Helsehus, Kveldroveien 2, 9475 BORKENES",
+    "metadata": {
+      "legekontor": "Legetjenesten i Kvæfjord",
+      "tlf": "77 02 34 00",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Thomas Torgersen Bakkeid",
+    "address": "Kvæfjord Helsehus, Kveldroveien 2, 9475 BORKENES",
+    "metadata": {
+      "legekontor": "Legetjenesten i Kvæfjord",
+      "tlf": "77 02 34 00",
+      "antallPlasser": 400
+    }
+  },
+  {
+    "title": "Håkon Hoyer Barlindhaug",
+    "address": "Killengreensgate 7, 9008 TROMSØ",
+    "metadata": {
+      "legekontor": "Sentrum Legekontor -Tromsø",
+      "tlf": "77 66 60 50",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Marie Barlindhaug",
+    "address": "Stortorget 2, 9008 Tromsø",
+    "metadata": {
+      "legekontor": "Kaia Legesenter",
+      "tlf": "77 60 80 50",
+      "antallPlasser": 1050
+    }
+  },
+  {
+    "title": "Mattis Bekkelund",
+    "address": "Helsesenterveien 2, 9350 SJØVEGAN",
+    "metadata": {
+      "legekontor": "Astafjordlegen",
+      "tlf": "77 17 40 00",
+      "antallPlasser": 600
+    }
+  },
+  {
+    "title": "Sintia Beliene-Molander",
+    "address": "Verkstedveien 1, 9406 Harstad",
+    "metadata": {
+      "legekontor": "Sjøkanten Legesenter",
+      "tlf": "77 00 09 00",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Margrete Berdal",
+    "address": "B A Løvolds veg 12, 9022 KROKELVDALEN",
+    "metadata": {
+      "legekontor": "Kroken Legekontor AS",
+      "tlf": "77 60 48 50",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Olaf Berger",
+    "address": "Helsesenterveien 32, 9300 FINNSNES",
+    "metadata": {
+      "legekontor": "Senjalegen avd. Finnsnes legekontor",
+      "tlf": "77 87 14 10",
+      "antallPlasser": 560
+    }
+  },
+  {
+    "title": "Karoline-Sophie Bergesen",
+    "address": "Revegårdsveien 10, 9440 EVENSKJER",
+    "metadata": {
+      "legekontor": "ETS Medisinske Senter",
+      "tlf": "77 08 95 65",
+      "ledigePlasser": 36,
+      "antallPlasser": 850,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Julia Barbara Bergman",
+    "address": "Laukhellaveien 106, 9303 SILSAND",
+    "metadata": {
+      "legekontor": "Senjalegen avd. Silsand legekontor",
+      "tlf": "77 88 30 00",
+      "antallPlasser": 290
+    }
+  },
+  {
+    "title": "Ingrid Schjelderup Berntsen",
+    "address": "Stortorget 4, 9008 Tromsø",
+    "metadata": {
+      "legekontor": "Nordlyslegene AS",
+      "tlf": "77 66 70 66",
+      "antallPlasser": 930
+    }
+  },
+  {
+    "title": "Gry Berntzen",
+    "address": "Rådhusveien 41, 9130 Hansnes",
+    "metadata": {
+      "legekontor": "Karlsøy legekontor",
+      "tlf": "77 74 82 20",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Marte Støback Bjørsvik",
+    "address": "Stakkevollvegen 41, 9010 TROMSØ",
+    "metadata": {
+      "legekontor": "Tromsøya Legesenter AS",
+      "tlf": "77 33 30 00",
+      "antallPlasser": 930
+    }
+  },
+  {
+    "title": "Alexander Bergseth Borgen",
+    "address": "Helsesenterveien 2, 9350 SJØVEGAN",
+    "metadata": {
+      "legekontor": "Astafjordlegen",
+      "tlf": "77 17 40 00",
+      "ledigePlasser": 134,
+      "antallPlasser": 600,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Karoline Borgen",
+    "address": "Andselv, 9325 BARDUFOSS",
+    "metadata": {
+      "legekontor": "Målselv Legetjeneste",
+      "tlf": "77 83 25 00",
+      "antallPlasser": 500
+    }
+  },
+  {
+    "title": "Veronika Brezova",
+    "address": "Helsesenterveien 32, 9300 FINNSNES",
+    "metadata": {
+      "legekontor": "Senjalegen avd. Finnsnes legekontor",
+      "tlf": "77 87 14 10",
+      "antallPlasser": 600
+    }
+  },
+  {
+    "title": "Nina Kjær Brones",
+    "address": "Andselv, 9325 BARDUFOSS",
+    "metadata": {
+      "legekontor": "Målselv Legetjeneste",
+      "tlf": "77 83 25 00",
+      "antallPlasser": 600
+    }
+  },
+  {
+    "title": "Håkon Brustad",
+    "address": "B A Løvolds veg 12, 9022 KROKELVDALEN",
+    "metadata": {
+      "legekontor": "Kroken Legekontor AS",
+      "tlf": "77 60 48 50",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Gudrun Kristine Bugge",
+    "address": "Storsteinnes Legekontor, 9050 STORSTEINNES",
+    "metadata": {
+      "legekontor": "Storsteinnes Legekontor",
+      "tlf": "77 72 21 50",
+      "antallPlasser": 650
+    }
+  },
+  {
+    "title": "Katrine Flaatten Børseth",
+    "address": "Revegårdsveien 10, 9440 EVENSKJER",
+    "metadata": {
+      "legekontor": "ETS Medisinske Senter",
+      "tlf": "77 08 95 65",
+      "antallPlasser": 830
+    }
+  },
+  {
+    "title": "Pål Severin Båtnes",
+    "address": "Skippergata 7a, 9008 Tromsø",
+    "metadata": {
+      "legekontor": "Skansen Legekontor",
+      "tlf": "77 60 17 17",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Alexandra Camacho De Gois Mendonca",
+    "address": "Nesseveien 2B, 9411 HARSTAD",
+    "metadata": {
+      "legekontor": "Kanebogen legesenter",
+      "tlf": "77 05 73 33",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Tina Coucheron",
+    "address": "Stakkevollvegen 41, 9010 TROMSØ",
+    "metadata": {
+      "legekontor": "Tromsøya Legesenter AS",
+      "tlf": "77 33 30 00",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Børje André Andersson Cronblad",
+    "address": "Solstrandveien 19, 9020 TROMSDALEN",
+    "metadata": {
+      "legekontor": "Tromsdalen Legesenter",
+      "tlf": "77 63 60 00",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Ida Andersson Cronblad",
+    "address": "Solstrandveien 19, 9020 TROMSDALEN",
+    "metadata": {
+      "legekontor": "Tromsdalen Legesenter",
+      "tlf": "77 63 60 00",
+      "antallPlasser": 1130
+    }
+  },
+  {
+    "title": "Ahmad Shoeyb Daliri",
+    "address": "Sandvåghaugan 1, 9180 SKJERVØY",
+    "metadata": {
+      "legekontor": "Skjervøy legekontor",
+      "tlf": "77 77 57 00",
+      "ledigePlasser": 62,
+      "antallPlasser": 900,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Eirin Marlene Karlsen Danielsen",
+    "address": "St. Olavs gate 68, 9406 Harstad",
+    "metadata": {
+      "legekontor": "Heggen legesenter",
+      "tlf": "77 02 77 30",
+      "antallPlasser": 477
+    }
+  },
+  {
+    "title": "Jorid Degerstrøm",
+    "address": "Stortorget 2, 9008 Tromsø",
+    "metadata": {
+      "legekontor": "Sjøgata Legesenter AS",
+      "tlf": "77 66 41 60",
+      "antallPlasser": 1250
+    }
+  },
+  {
+    "title": "Mia Schelander Degerstrøm",
+    "address": "Havnegata 1, 9404 HARSTAD",
+    "metadata": {
+      "legekontor": "Havnegata Legesenter",
+      "tlf": "77 00 21 20",
+      "antallPlasser": 720
+    }
+  },
+  {
+    "title": "Daniel Eggenheim",
+    "address": "Stakkevollvegen 33, 9010 Tromsø",
+    "metadata": {
+      "legekontor": "Nordbyen legesenter",
+      "tlf": "77 66 18 80",
+      "antallPlasser": 950
+    }
+  },
+  {
+    "title": "Anita Eidissen",
+    "address": "Laukhellaveien 106, 9303 SILSAND",
+    "metadata": {
+      "legekontor": "Senjalegen avd. Silsand legekontor",
+      "tlf": "77 88 30 00",
+      "antallPlasser": 585
+    }
+  },
+  {
+    "title": "Therese Chruickshank Eilertsen",
+    "address": "Fogd Holmboes gate 56, 9360 Bardu",
+    "metadata": {
+      "legekontor": "Bardu Legekontor",
+      "tlf": "77 18 55 00",
+      "ledigePlasser": 45,
+      "antallPlasser": 500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Helga Einarsdottir",
+    "address": "Framstredet 79, 9037 Tromsø",
+    "metadata": {
+      "legekontor": "Kraft universitetshelsesenter",
+      "tlf": "950 47 400",
+      "antallPlasser": 500
+    }
+  },
+  {
+    "title": "Julie Ekman",
+    "address": "Verkstedveien 1, 9406 Harstad",
+    "metadata": {
+      "legekontor": "Sjøkanten Legesenter",
+      "tlf": "77 00 09 00",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Ingvild Eliassen",
+    "address": "Utsikten, 9018 Tromsø",
+    "metadata": {
+      "legekontor": "Utsikten Legesenter DA",
+      "tlf": "77 60 63 30",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Kirsti Eliassen",
+    "address": "Killengreensgate 7, 9008 TROMSØ",
+    "metadata": {
+      "legekontor": "Sentrum Legekontor -Tromsø",
+      "tlf": "77 66 60 50",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Eirin Emaus",
+    "address": "Nergårdveien 2, 9470 GRATANGEN",
+    "metadata": {
+      "legekontor": "Gratangen kommunelegekontor",
+      "tlf": "77 02 18 50",
+      "ledigePlasser": 840,
+      "antallPlasser": 1000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Ann-Kristin Engstad",
+    "address": "Tordenskjolds gate 8, 9404 HARSTAD",
+    "metadata": {
+      "legekontor": "Vågsfjord Legesenter",
+      "tlf": "77 01 85 00",
+      "antallPlasser": 861
+    }
+  },
+  {
+    "title": "Karina Enoksen",
+    "address": "Skippergata 7a, 9008 Tromsø",
+    "metadata": {
+      "legekontor": "Skansen Legekontor",
+      "tlf": "77 60 17 17",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Susanne Eriksen",
+    "address": "Blåmannsveien 10, 9100 KVALØYSLETTA",
+    "metadata": {
+      "legekontor": "Kvaløysletta Legekontor AS",
+      "tlf": "77 60 69 10",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Anja Isabell Esmaeil Pour Zanjani",
+    "address": "Helsesenterveien 2, 9350 SJØVEGAN",
+    "metadata": {
+      "legekontor": "Astafjordlegen",
+      "tlf": "77 17 40 00",
+      "ledigePlasser": 152,
+      "antallPlasser": 400,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Didrik Espeland",
+    "address": "Sandvåghaugan 1, 9180 SKJERVØY",
+    "metadata": {
+      "legekontor": "Skjervøy legekontor",
+      "tlf": "77 77 57 00",
+      "ledigePlasser": 111,
+      "antallPlasser": 750,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Olga Margrethe Espeland",
+    "address": "Helsesenterveien 32, 9300 FINNSNES",
+    "metadata": {
+      "legekontor": "Senjalegen avd. Finnsnes legekontor",
+      "tlf": "77 87 14 10",
+      "antallPlasser": 640
+    }
+  },
+  {
+    "title": "Amund Evensen",
+    "address": "Storsteinnes Legekontor, 9050 STORSTEINNES",
+    "metadata": {
+      "legekontor": "Storsteinnes Legekontor",
+      "tlf": "77 72 21 50",
+      "antallPlasser": 650
+    }
+  },
+  {
+    "title": "Sofie Grimstad Fagerborg",
+    "address": "Framstredet 79, 9037 Tromsø",
+    "metadata": {
+      "legekontor": "Kraft universitetshelsesenter",
+      "tlf": "950 47 400",
+      "antallPlasser": 500
+    }
+  },
+  {
+    "title": "Lise Birthe Pilegaard Figenschou",
+    "address": "Strandvegen 106, 9006",
+    "metadata": {
+      "legekontor": "Sørbyen legesenter",
+      "tlf": "77 66 11 50",
+      "antallPlasser": 520
+    }
+  },
+  {
+    "title": "Isabelle Annie Bernadette Filippi",
+    "address": "Helsesenterveien 32, 9300 FINNSNES",
+    "metadata": {
+      "legekontor": "Senjalegen avd. Finnsnes legekontor",
+      "tlf": "77 87 14 10",
+      "antallPlasser": 365
+    }
+  },
+  {
+    "title": "Lars-Ole Fjellheim",
+    "address": "Utsikten, 9018 Tromsø",
+    "metadata": {
+      "legekontor": "Utsikten Legesenter DA",
+      "tlf": "77 60 63 30",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Rebekka Floer",
+    "address": "Havnegata 1, 9404 HARSTAD",
+    "metadata": {
+      "legekontor": "Havnegata Legesenter",
+      "tlf": "77 00 21 20",
+      "antallPlasser": 775
+    }
+  },
+  {
+    "title": "Seija Maria Flaa",
+    "address": "Stakkevollvegen 33, 9010 Tromsø",
+    "metadata": {
+      "legekontor": "Nordbyen legesenter",
+      "tlf": "77 66 18 80",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Roald Fosse",
+    "address": "Karlsøyvegen 12, 9015 Tromsø",
+    "metadata": {
+      "legekontor": "Langnes Legesenter AS",
+      "tlf": "77 67 98 88",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Silje Veronica Fosse",
+    "address": "Fogd Holmboes gate 56, 9360 Bardu",
+    "metadata": {
+      "legekontor": "Bardu Legekontor",
+      "tlf": "77 18 55 00",
+      "antallPlasser": 500
+    }
+  },
+  {
+    "title": "Fredrik Fredriksen",
+    "address": "Utsikten, 9018 Tromsø",
+    "metadata": {
+      "legekontor": "Utsikten Legesenter DA",
+      "tlf": "77 60 63 30",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Ingunn Furset",
+    "address": "Helsesenterveien 32, 9300 FINNSNES",
+    "metadata": {
+      "legekontor": "Senjalegen avd. Finnsnes legekontor",
+      "tlf": "77 87 14 10",
+      "antallPlasser": 565
+    }
+  },
+  {
+    "title": "Tormod Gangsei",
+    "address": "Andselv, 9325 BARDUFOSS",
+    "metadata": {
+      "legekontor": "Målselv Legetjeneste",
+      "tlf": "77 83 25 00",
+      "antallPlasser": 600
+    }
+  },
+  {
+    "title": "Lise Gaupset",
+    "address": "Rødbergveien 6, 9408 Harstad",
+    "metadata": {
+      "legekontor": "Rødbergveien Legesenter AS",
+      "tlf": "77 00 07 20",
+      "antallPlasser": 750
+    }
+  },
+  {
+    "title": "Anders Svebakk Giske",
+    "address": "Strandvegen 106, 9006",
+    "metadata": {
+      "legekontor": "Sørbyen legesenter",
+      "tlf": "77 66 11 50",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Anton Kornelius Beldo Giæver",
+    "address": "Skippergata 7a, 9008 Tromsø",
+    "metadata": {
+      "legekontor": "Skansen Legekontor",
+      "tlf": "77 60 17 17",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Linn-Kristin Antonsen Giæver",
+    "address": "Nordlysveien 374, 9046 Oteren",
+    "metadata": {
+      "legekontor": "Storfjord Legesenter",
+      "tlf": "77 21 29 00",
+      "ledigePlasser": 1,
+      "antallPlasser": 600,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Trine Nordtveit Gjeraldstveit",
+    "address": "Helsesenterveien 2, 9350 SJØVEGAN",
+    "metadata": {
+      "legekontor": "Astafjordlegen",
+      "tlf": "77 17 40 00",
+      "ledigePlasser": 43,
+      "antallPlasser": 600,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Andreas Bergheim Graff",
+    "address": "Helsetunet Bakkemoveien 22, 9147 BIRTAVARRE",
+    "metadata": {
+      "legekontor": "Kåfjord legekontor",
+      "tlf": "77 71 93 20",
+      "ledigePlasser": 59,
+      "antallPlasser": 500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Fredrik Ostad Grunnreis",
+    "address": "Stakkevollvegen 41, 9010 TROMSØ",
+    "metadata": {
+      "legekontor": "Tromsøya Legesenter AS",
+      "tlf": "77 33 30 00",
+      "ledigePlasser": 34,
+      "antallPlasser": 800,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Per Christian Gundersen",
+    "address": "Killengreensgate 7, 9008 TROMSØ",
+    "metadata": {
+      "legekontor": "Sentrum Legekontor -Tromsø",
+      "tlf": "77 66 60 50",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Trond Harald Hafstad",
+    "address": "Solstrandveien 19, 9020 TROMSDALEN",
+    "metadata": {
+      "legekontor": "Tromsdalen Legesenter",
+      "tlf": "77 63 60 00",
+      "antallPlasser": 1400
+    }
+  },
+  {
+    "title": "Aslak Hammer",
+    "address": "Fogd Holmboes gate 56, 9360 Bardu",
+    "metadata": {
+      "legekontor": "Bardu Legekontor",
+      "tlf": "77 18 55 00",
+      "ledigePlasser": 37,
+      "antallPlasser": 320,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Charlotte Marianne Hammer",
+    "address": "Andselv, 9325 BARDUFOSS",
+    "metadata": {
+      "legekontor": "Målselv Legetjeneste",
+      "tlf": "77 83 25 00",
+      "antallPlasser": 600
+    }
+  },
+  {
+    "title": "Martin Bruusgaard Harbitz",
+    "address": "Helsesenterveien 32, 9300 FINNSNES",
+    "metadata": {
+      "legekontor": "Senjalegen avd. Finnsnes legekontor",
+      "tlf": "77 87 14 10",
+      "antallPlasser": 400
+    }
+  },
+  {
+    "title": "Børge Hart",
+    "address": "Karlsøyvegen 12, 9015 Tromsø",
+    "metadata": {
+      "legekontor": "Langnes Legesenter AS",
+      "tlf": "77 67 98 88",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Joel Haugeberg",
+    "address": "Storsteinnes Legekontor, 9050 STORSTEINNES",
+    "metadata": {
+      "legekontor": "Storsteinnes Legekontor",
+      "tlf": "77 72 21 50",
+      "ledigePlasser": 53,
+      "antallPlasser": 1000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Lillan Haugen",
+    "address": "Stortorget 2, 9008 Tromsø",
+    "metadata": {
+      "legekontor": "Kaia Legesenter",
+      "tlf": "77 60 80 50",
+      "antallPlasser": 720
+    }
+  },
+  {
+    "title": "Arne Haugstad",
+    "address": "Kjosveien 20, 9060 LYNGSEIDET",
+    "metadata": {
+      "legekontor": "Lyngen legekontor",
+      "tlf": "400 28 500",
+      "ledigePlasser": 14,
+      "antallPlasser": 700,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Kine Beate Heggelund",
+    "address": "Fogd Holmboes gate 56, 9360 Bardu",
+    "metadata": {
+      "legekontor": "Bardu Legekontor",
+      "tlf": "77 18 55 00",
+      "antallPlasser": 500
+    }
+  },
+  {
+    "title": "Ida Elise Heiberg",
+    "address": "Rødbergveien 6, 9408 Harstad",
+    "metadata": {
+      "legekontor": "Rødbergveien Legesenter AS",
+      "tlf": "77 00 07 20",
+      "antallPlasser": 840
+    }
+  },
+  {
+    "title": "Sindre Andreas Heide",
+    "address": "Tordenskjolds gate 8, 9404 HARSTAD",
+    "metadata": {
+      "legekontor": "Vågsfjord Legesenter",
+      "tlf": "77 01 85 00",
+      "antallPlasser": 450
+    }
+  },
+  {
+    "title": "Mia Hermansen-Waaler",
+    "address": "Framstredet 79, 9037 Tromsø",
+    "metadata": {
+      "legekontor": "Kraft universitetshelsesenter",
+      "tlf": "950 47 400",
+      "ledigePlasser": 8,
+      "antallPlasser": 500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Inka Marina Hillerns Bonotto",
+    "address": "Laukhellaveien 106, 9303 SILSAND",
+    "metadata": {
+      "legekontor": "Senjalegen avd. Silsand legekontor",
+      "tlf": "77 88 30 00",
+      "antallPlasser": 350
+    }
+  },
+  {
+    "title": "Frank Hilpüsch",
+    "address": "Moan 12, 9426 Bjarkøy",
+    "metadata": {
+      "legekontor": "Bjarkøy legekontor",
+      "tlf": "77 02 88 40",
+      "antallPlasser": 600
+    }
+  },
+  {
+    "title": "Torgeir Ullestad Holme",
+    "address": "Helsesenterveien 32, 9300 FINNSNES",
+    "metadata": {
+      "legekontor": "Senjalegen avd. Finnsnes legekontor",
+      "tlf": "77 87 14 10",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Jonas Jan Holte",
+    "address": "Nesseveien 2B, 9411 HARSTAD",
+    "metadata": {
+      "legekontor": "Kanebogen legesenter",
+      "tlf": "77 05 73 33",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Thea Schjødt Høyforsslett",
+    "address": "Helsesenterveien 32, 9300 FINNSNES",
+    "metadata": {
+      "legekontor": "Senjalegen avd. Finnsnes legekontor",
+      "tlf": "77 87 14 10",
+      "antallPlasser": 350
+    }
+  },
+  {
+    "title": "Inger Alvilde Ingemann",
+    "address": "Kvæfjord Helsehus, Kveldroveien 2, 9475 BORKENES",
+    "metadata": {
+      "legekontor": "Legetjenesten i Kvæfjord",
+      "tlf": "77 02 34 00",
+      "antallPlasser": 750
+    }
+  },
+  {
+    "title": "Oleg Iorga",
+    "address": "Rådhuset Gárgu 8, 9161 BURFJORD",
+    "metadata": {
+      "legekontor": "Kvænangen Legesenter",
+      "tlf": "77 77 90 00",
+      "ledigePlasser": 10,
+      "antallPlasser": 510,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Victoria Therese Isaksen",
+    "address": "Karlsøyvegen 12, 9015 Tromsø",
+    "metadata": {
+      "legekontor": "Langnes Legesenter AS",
+      "tlf": "77 67 98 88",
+      "antallPlasser": 1050
+    }
+  },
+  {
+    "title": "Kristin Elise Jackola",
+    "address": "Havnegata 1, 9404 HARSTAD",
+    "metadata": {
+      "legekontor": "Havnegata Legesenter",
+      "tlf": "77 00 21 20",
+      "antallPlasser": 720
+    }
+  },
+  {
+    "title": "Amir Jafari",
+    "address": "Laukhellaveien 106, 9303 SILSAND",
+    "metadata": {
+      "legekontor": "Senjalegen avd. Silsand legekontor",
+      "tlf": "77 88 30 00",
+      "antallPlasser": 200
+    }
+  },
+  {
+    "title": "Andreas Kildahl Jaklin",
+    "address": "Sykehjemsveien 41, 9310 SØRREISA",
+    "metadata": {
+      "legekontor": "Sørreisa legetjeneste",
+      "tlf": "77 87 51 00",
+      "antallPlasser": 546
+    }
+  },
+  {
+    "title": "Anita Hilde Jakobsen",
+    "address": "Nesseveien 2B, 9411 HARSTAD",
+    "metadata": {
+      "legekontor": "Kanebogen legesenter",
+      "tlf": "77 05 73 33",
+      "antallPlasser": 720
+    }
+  },
+  {
+    "title": "Mari Jakobsen",
+    "address": "Sykehjemsveien 41, 9310 SØRREISA",
+    "metadata": {
+      "legekontor": "Sørreisa legetjeneste",
+      "tlf": "77 87 51 00",
+      "antallPlasser": 530
+    }
+  },
+  {
+    "title": "William Nikola Vuksic Jakobsen",
+    "address": "Revegårdsveien 10, 9440 EVENSKJER",
+    "metadata": {
+      "legekontor": "ETS Medisinske Senter",
+      "tlf": "77 08 95 65",
+      "ledigePlasser": 135,
+      "antallPlasser": 900,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Jarle Jensen",
+    "address": "Helsesenterveien 32, 9300 FINNSNES",
+    "metadata": {
+      "legekontor": "Senjalegen avd. Finnsnes legekontor",
+      "tlf": "77 87 14 10",
+      "antallPlasser": 620
+    }
+  },
+  {
+    "title": "Therese Jensen",
+    "address": "Stortorget 2, 9008 Tromsø",
+    "metadata": {
+      "legekontor": "Kaia Legesenter",
+      "tlf": "77 60 80 50",
+      "antallPlasser": 950
+    }
+  },
+  {
+    "title": "Kenneth Johansen",
+    "address": "Rådhuset Gárgu 8, 9161 BURFJORD",
+    "metadata": {
+      "legekontor": "Kvænangen Legesenter",
+      "tlf": "77 77 90 00",
+      "ledigePlasser": 34,
+      "antallPlasser": 450,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Lise Zimowski Johansen",
+    "address": "Stakkevollvegen 33, 9010 Tromsø",
+    "metadata": {
+      "legekontor": "Nordbyen legesenter",
+      "tlf": "77 66 18 80",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Mats Olsen Johansen",
+    "address": "Rødbergveien 6, 9408 Harstad",
+    "metadata": {
+      "legekontor": "Rødbergveien Legesenter AS",
+      "tlf": "77 00 07 20",
+      "antallPlasser": 750
+    }
+  },
+  {
+    "title": "Sirin Hilde Johansen",
+    "address": "Stakkevollvegen 33, 9010 Tromsø",
+    "metadata": {
+      "legekontor": "Nordbyen legesenter",
+      "tlf": "77 66 18 80",
+      "ledigePlasser": 10,
+      "antallPlasser": 1000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Brynjulf Dag Johnsen",
+    "address": "Tordenskjolds gate 8, 9404 HARSTAD",
+    "metadata": {
+      "legekontor": "Vågsfjord Legesenter",
+      "tlf": "77 01 85 00",
+      "antallPlasser": 861
+    }
+  },
+  {
+    "title": "Haagen Andreas Johnsen",
+    "address": "Rødbergveien 6, 9408 Harstad",
+    "metadata": {
+      "legekontor": "Rødbergveien Legesenter AS",
+      "tlf": "77 00 07 20",
+      "antallPlasser": 830
+    }
+  },
+  {
+    "title": "Olav Salterød Jonas",
+    "address": "Storsteinnes Legekontor, 9050 STORSTEINNES",
+    "metadata": {
+      "legekontor": "Storsteinnes Legekontor",
+      "tlf": "77 72 21 50",
+      "ledigePlasser": 115,
+      "antallPlasser": 600,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Leena Marjatta Junttila",
+    "address": "Stortorget 2, 9008 Tromsø",
+    "metadata": {
+      "legekontor": "Kaia Legesenter",
+      "tlf": "77 60 80 50",
+      "antallPlasser": 1050
+    }
+  },
+  {
+    "title": "Halida Jusufovic",
+    "address": "Helsesenterveien 32, 9300 FINNSNES",
+    "metadata": {
+      "legekontor": "Senjalegen avd. Finnsnes legekontor",
+      "tlf": "77 87 14 10",
+      "antallPlasser": 720
+    }
+  },
+  {
+    "title": "Agnete Jørgensen",
+    "address": "Killengreensgate 7, 9008 TROMSØ",
+    "metadata": {
+      "legekontor": "Sentrum Legekontor -Tromsø",
+      "tlf": "77 66 60 50",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Marit Helene Kalstad",
+    "address": "Strandvegen 106, 9006",
+    "metadata": {
+      "legekontor": "Sørbyen legesenter",
+      "tlf": "77 66 11 50",
+      "ledigePlasser": 12,
+      "antallPlasser": 1170,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Christine Karlsen",
+    "address": "Nordlysveien 374, 9046 Oteren",
+    "metadata": {
+      "legekontor": "Storfjord Legesenter",
+      "tlf": "77 21 29 00",
+      "antallPlasser": 600
+    }
+  },
+  {
+    "title": "Morten Moen Karlsen",
+    "address": "Verkstedveien 1, 9406 Harstad",
+    "metadata": {
+      "legekontor": "Sjøkanten Legesenter",
+      "tlf": "77 00 09 00",
+      "antallPlasser": 550
+    }
+  },
+  {
+    "title": "Jashar Khoshkhabari",
+    "address": "Sonjatunvegen 21, 9151 STORSLETT",
+    "metadata": {
+      "legekontor": "Legekontoret i Nordreisa",
+      "tlf": "77 58 81 00",
+      "ledigePlasser": 258,
+      "antallPlasser": 900,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Håkon Kjæve",
+    "address": "Storsteinnes Legekontor, 9050 STORSTEINNES",
+    "metadata": {
+      "legekontor": "Storsteinnes Legekontor",
+      "tlf": "77 72 21 50",
+      "ledigePlasser": 87,
+      "antallPlasser": 600,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Maria Kjøsnes",
+    "address": "St. Olavs gate 68, 9406 Harstad",
+    "metadata": {
+      "legekontor": "Heggen legesenter",
+      "tlf": "77 02 77 30",
+      "antallPlasser": 400
+    }
+  },
+  {
+    "title": "Eik Kolstrup",
+    "address": "Skippergata 7a, 9008 Tromsø",
+    "metadata": {
+      "legekontor": "Skansen Legekontor",
+      "tlf": "77 60 17 17",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Evgeniia Komisarenko",
+    "address": "Andselv, 9325 BARDUFOSS",
+    "metadata": {
+      "legekontor": "Målselv Legetjeneste",
+      "tlf": "77 83 25 00",
+      "antallPlasser": 500
+    }
+  },
+  {
+    "title": "Steinar Konradsen",
+    "address": "Laukhellaveien 106, 9303 SILSAND",
+    "metadata": {
+      "legekontor": "Senjalegen avd. Silsand legekontor",
+      "tlf": "77 88 30 00",
+      "antallPlasser": 450
+    }
+  },
+  {
+    "title": "Sylvi Korsan",
+    "address": "Solstrandveien 19, 9020 TROMSDALEN",
+    "metadata": {
+      "legekontor": "Tromsdalen Legesenter",
+      "tlf": "77 63 60 00",
+      "ledigePlasser": 108,
+      "antallPlasser": 970,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Clas Hammari Kristensen",
+    "address": "Blåmannsveien 10, 9100 KVALØYSLETTA",
+    "metadata": {
+      "legekontor": "Kvaløysletta Legekontor AS",
+      "tlf": "77 60 69 10",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Frank Robert Kristiansen",
+    "address": "Stakkevollvegen 33, 9010 Tromsø",
+    "metadata": {
+      "legekontor": "Nordbyen legesenter",
+      "tlf": "77 66 18 80",
+      "ledigePlasser": 14,
+      "antallPlasser": 1000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Cian Krogstad",
+    "address": "Revegårdsveien 10, 9440 EVENSKJER",
+    "metadata": {
+      "legekontor": "ETS Medisinske Senter",
+      "tlf": "77 08 95 65",
+      "ledigePlasser": 8,
+      "antallPlasser": 800,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Wenche Strindberg Langeid",
+    "address": "Stortorget 4, 9008 Tromsø",
+    "metadata": {
+      "legekontor": "Nordlyslegene AS",
+      "tlf": "77 66 70 66",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Ragnar Leiros",
+    "address": "Stortorget 2, 9008 Tromsø",
+    "metadata": {
+      "legekontor": "Kaia Legesenter",
+      "tlf": "77 60 80 50",
+      "ledigePlasser": 44,
+      "antallPlasser": 1200,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Jonas Lian",
+    "address": "Stortorget 4, 9008 Tromsø",
+    "metadata": {
+      "legekontor": "Nordlyslegene AS",
+      "tlf": "77 66 70 66",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Aslak Hovda Lien",
+    "address": "Helsesenterveien 32, 9300 FINNSNES",
+    "metadata": {
+      "legekontor": "Senjalegen avd. Finnsnes legekontor",
+      "tlf": "77 87 14 10",
+      "antallPlasser": 540
+    }
+  },
+  {
+    "title": "Knut Harry Weisser Lind",
+    "address": "Nesseveien 2B, 9411 HARSTAD",
+    "metadata": {
+      "legekontor": "Kanebogen legesenter",
+      "tlf": "77 05 73 33",
+      "antallPlasser": 530
+    }
+  },
+  {
+    "title": "Haakon Ljosland",
+    "address": "Sonjatunvegen 21, 9151 STORSLETT",
+    "metadata": {
+      "legekontor": "Legekontoret i Nordreisa",
+      "tlf": "77 58 81 00",
+      "ledigePlasser": 9,
+      "antallPlasser": 680,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Håkon Øglænd Loose",
+    "address": "Andselv, 9325 BARDUFOSS",
+    "metadata": {
+      "legekontor": "Målselv Legetjeneste",
+      "tlf": "77 83 25 00",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Maria Lorentzen",
+    "address": "B A Løvolds veg 12, 9022 KROKELVDALEN",
+    "metadata": {
+      "legekontor": "Kroken Legekontor AS",
+      "tlf": "77 60 48 50",
+      "antallPlasser": 730
+    }
+  },
+  {
+    "title": "Camilla Lundberg",
+    "address": "Blåmannsveien 10, 9100 KVALØYSLETTA",
+    "metadata": {
+      "legekontor": "Kvaløysletta Legekontor AS",
+      "tlf": "77 60 69 10",
+      "antallPlasser": 1040
+    }
+  },
+  {
+    "title": "Nastassia Markevichene",
+    "address": "Rådhusveien 41, 9130 Hansnes",
+    "metadata": {
+      "legekontor": "Karlsøy legekontor",
+      "tlf": "77 74 82 20",
+      "ledigePlasser": 329,
+      "antallPlasser": 750,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Hans-Erlend Markussen",
+    "address": "Rødbergveien 6, 9408 Harstad",
+    "metadata": {
+      "legekontor": "Rødbergveien Legesenter AS",
+      "tlf": "77 00 07 20",
+      "antallPlasser": 870
+    }
+  },
+  {
+    "title": "Marcus Christoffer Rivertz Martinez",
+    "address": "Fogd Holmboes gate 56, 9360 Bardu",
+    "metadata": {
+      "legekontor": "Bardu Legekontor",
+      "tlf": "77 18 55 00",
+      "ledigePlasser": 88,
+      "antallPlasser": 700,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Synne Nilsen Martinsen",
+    "address": "Skippergata 7a, 9008 Tromsø",
+    "metadata": {
+      "legekontor": "Skansen Legekontor",
+      "tlf": "77 60 17 17",
+      "antallPlasser": 750
+    }
+  },
+  {
+    "title": "Stian Martinussen",
+    "address": "Stakkevollvegen 41, 9010 TROMSØ",
+    "metadata": {
+      "legekontor": "Tromsøya Legesenter AS",
+      "tlf": "77 33 30 00",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Jo-Endre Digranes Midtbu",
+    "address": "Karlsøyvegen 12, 9015 Tromsø",
+    "metadata": {
+      "legekontor": "Langnes Legesenter AS",
+      "tlf": "77 67 98 88",
+      "antallPlasser": 1070
+    }
+  },
+  {
+    "title": "Rose Marie Moss",
+    "address": "Helsetunet Bakkemoveien 22, 9147 BIRTAVARRE",
+    "metadata": {
+      "legekontor": "Kåfjord legekontor",
+      "tlf": "77 71 93 20",
+      "ledigePlasser": 55,
+      "antallPlasser": 500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Ståle Myreng",
+    "address": "Rådhusveien 41, 9130 Hansnes",
+    "metadata": {
+      "legekontor": "Karlsøy legekontor",
+      "tlf": "77 74 82 20",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Christian Brogård Myrflott",
+    "address": "Stortorget 2, 9008 Tromsø",
+    "metadata": {
+      "legekontor": "Sjøgata Legesenter AS",
+      "tlf": "77 66 41 60",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Mikael Møller",
+    "address": "Stakkevollvegen 41, 9010 TROMSØ",
+    "metadata": {
+      "legekontor": "Tromsøya Legesenter AS",
+      "tlf": "77 33 30 00",
+      "ledigePlasser": 489,
+      "antallPlasser": 900,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Stian Nergård",
+    "address": "Blåmannsveien 10, 9100 KVALØYSLETTA",
+    "metadata": {
+      "legekontor": "Kvaløysletta Legekontor AS",
+      "tlf": "77 60 69 10",
+      "ledigePlasser": 5,
+      "antallPlasser": 950,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Lars Andreas Nesje",
+    "address": "Helsesenterveien 2, 9350 SJØVEGAN",
+    "metadata": {
+      "legekontor": "Astafjordlegen",
+      "tlf": "77 17 40 00",
+      "ledigePlasser": 91,
+      "antallPlasser": 500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Geir Arne Løkse Nilssen",
+    "address": "Sykehjemsveien 41, 9310 SØRREISA",
+    "metadata": {
+      "legekontor": "Sørreisa legetjeneste",
+      "tlf": "77 87 51 00",
+      "antallPlasser": 630
+    }
+  },
+  {
+    "title": "Sofie Elarjoun Nilssen",
+    "address": "Laukhellaveien 106, 9303 SILSAND",
+    "metadata": {
+      "legekontor": "Senjalegen avd. Silsand legekontor",
+      "tlf": "77 88 30 00",
+      "antallPlasser": 550
+    }
+  },
+  {
+    "title": "Dag Yngve Nordvåg",
+    "address": "Killengreensgate 7, 9008 TROMSØ",
+    "metadata": {
+      "legekontor": "Sentrum Legekontor -Tromsø",
+      "tlf": "77 66 60 50",
+      "ledigePlasser": 9,
+      "antallPlasser": 1000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Sofie Karoliina Nordvåg",
+    "address": "Sandvåghaugan 1, 9180 SKJERVØY",
+    "metadata": {
+      "legekontor": "Skjervøy legekontor",
+      "tlf": "77 77 57 00",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Ann-Trude With Notø",
+    "address": "B A Løvolds veg 12, 9022 KROKELVDALEN",
+    "metadata": {
+      "legekontor": "Kroken Legekontor AS",
+      "tlf": "77 60 48 50",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Jorunn Nygaard",
+    "address": "Sykehjemsveien 41, 9310 SØRREISA",
+    "metadata": {
+      "legekontor": "Sørreisa legetjeneste",
+      "tlf": "77 87 51 00",
+      "antallPlasser": 337
+    }
+  },
+  {
+    "title": "Ane Bones Nyhus",
+    "address": "Fogd Holmboes gate 56, 9360 Bardu",
+    "metadata": {
+      "legekontor": "Bardu Legekontor",
+      "tlf": "77 18 55 00",
+      "ledigePlasser": 46,
+      "antallPlasser": 320,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Hege Nymo",
+    "address": "Andselv, 9325 BARDUFOSS",
+    "metadata": {
+      "legekontor": "Målselv Legetjeneste",
+      "tlf": "77 83 25 00",
+      "antallPlasser": 600
+    }
+  },
+  {
+    "title": "Julie Tinderholt Olsen",
+    "address": "Helsesenterveien 2, 9350 SJØVEGAN",
+    "metadata": {
+      "legekontor": "Astafjordlegen",
+      "tlf": "77 17 40 00",
+      "ledigePlasser": 165,
+      "antallPlasser": 500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Kristin Olsen",
+    "address": "Tordenskjolds gate 8, 9404 HARSTAD",
+    "metadata": {
+      "legekontor": "Vågsfjord Legesenter",
+      "tlf": "77 01 85 00",
+      "antallPlasser": 710
+    }
+  },
+  {
+    "title": "Vegard Bredal Olsen",
+    "address": "Verkstedveien 1, 9406 Harstad",
+    "metadata": {
+      "legekontor": "Sjøkanten Legesenter",
+      "tlf": "77 00 09 00",
+      "antallPlasser": 865
+    }
+  },
+  {
+    "title": "Åsa Wilhelmsen Otterlei",
+    "address": "Stakkevollvegen 41, 9010 TROMSØ",
+    "metadata": {
+      "legekontor": "Tromsøya Legesenter AS",
+      "tlf": "77 33 30 00",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Jon-Christer Ovanger",
+    "address": "Solstrandveien 19, 9020 TROMSDALEN",
+    "metadata": {
+      "legekontor": "Tromsdalen Legesenter",
+      "tlf": "77 63 60 00",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Remigiusz Jan Paul",
+    "address": "Sonjatunvegen 21, 9151 STORSLETT",
+    "metadata": {
+      "legekontor": "Legekontoret i Nordreisa",
+      "tlf": "77 58 81 00",
+      "ledigePlasser": 9,
+      "antallPlasser": 930,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Anita Monsen Pedersen",
+    "address": "Helsetunet Bakkemoveien 22, 9147 BIRTAVARRE",
+    "metadata": {
+      "legekontor": "Kåfjord legekontor",
+      "tlf": "77 71 93 20",
+      "antallPlasser": 450
+    }
+  },
+  {
+    "title": "Audun Domaas Pedersen",
+    "address": "Kjosveien 20, 9060 LYNGSEIDET",
+    "metadata": {
+      "legekontor": "Lyngen legekontor",
+      "tlf": "400 28 500",
+      "antallPlasser": 600
+    }
+  },
+  {
+    "title": "Geir Pedersen",
+    "address": "Solstrandveien 19, 9020 TROMSDALEN",
+    "metadata": {
+      "legekontor": "Tromsdalen Legesenter",
+      "tlf": "77 63 60 00",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Marit Fauskanger Pedersen",
+    "address": "Helsesenterveien 32, 9300 FINNSNES",
+    "metadata": {
+      "legekontor": "Senjalegen avd. Finnsnes legekontor",
+      "tlf": "77 87 14 10",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Thea Beate Pedersen",
+    "address": "Utsikten, 9018 Tromsø",
+    "metadata": {
+      "legekontor": "Utsikten Legesenter DA",
+      "tlf": "77 60 63 30",
+      "antallPlasser": 750
+    }
+  },
+  {
+    "title": "Manuel Perez Munoz",
+    "address": "Fogd Holmboes gate 56, 9360 Bardu",
+    "metadata": {
+      "legekontor": "Bardu Legekontor",
+      "tlf": "77 18 55 00",
+      "antallPlasser": 450
+    }
+  },
+  {
+    "title": "Lena Pettersen",
+    "address": "Blåmannsveien 10, 9100 KVALØYSLETTA",
+    "metadata": {
+      "legekontor": "Kvaløysletta Legekontor AS",
+      "tlf": "77 60 69 10",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Stina Michelle Pettersen",
+    "address": "Stakkevollvegen 33, 9010 Tromsø",
+    "metadata": {
+      "legekontor": "Nordbyen legesenter",
+      "tlf": "77 66 18 80",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Caspar Florian Prael",
+    "address": "Verkstedveien 1, 9406 Harstad",
+    "metadata": {
+      "legekontor": "Sjøkanten Legesenter",
+      "tlf": "77 00 09 00",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Stian Ole Prestbakk",
+    "address": "Helsesenterveien 2, 9350 SJØVEGAN",
+    "metadata": {
+      "legekontor": "Astafjordlegen",
+      "tlf": "77 17 40 00",
+      "ledigePlasser": 110,
+      "antallPlasser": 600,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Tarje Evenssønn Olsen Rasmussen",
+    "address": "Framstredet 79, 9037 Tromsø",
+    "metadata": {
+      "legekontor": "Kraft universitetshelsesenter",
+      "tlf": "950 47 400",
+      "ledigePlasser": 11,
+      "antallPlasser": 500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Helén Éva Rath",
+    "address": "Nergårdveien 2, 9470 GRATANGEN",
+    "metadata": {
+      "legekontor": "Gratangen kommunelegekontor",
+      "tlf": "77 02 18 50",
+      "ledigePlasser": 66,
+      "antallPlasser": 800,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Karen Marie Rismo",
+    "address": "Framstredet 79, 9037 Tromsø",
+    "metadata": {
+      "legekontor": "Kraft universitetshelsesenter",
+      "tlf": "950 47 400",
+      "antallPlasser": 500
+    }
+  },
+  {
+    "title": "Øyvind Roarsen",
+    "address": "Sonjatunvegen 21, 9151 STORSLETT",
+    "metadata": {
+      "legekontor": "Legekontoret i Nordreisa",
+      "tlf": "77 58 81 00",
+      "antallPlasser": 600
+    }
+  },
+  {
+    "title": "Steinar Robertsen",
+    "address": "Strandvegen 106, 9006",
+    "metadata": {
+      "legekontor": "Sørbyen legesenter",
+      "tlf": "77 66 11 50",
+      "ledigePlasser": 9,
+      "antallPlasser": 1100,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Johannes Ewald Rothenpieler",
+    "address": "Revegårdsveien 10, 9440 EVENSKJER",
+    "metadata": {
+      "legekontor": "ETS Medisinske Senter",
+      "tlf": "77 08 95 65",
+      "ledigePlasser": 6,
+      "antallPlasser": 650,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Noelia Maria Ruiz De Morales Ayudarte",
+    "address": "Helsesenterveien 32, 9300 FINNSNES",
+    "metadata": {
+      "legekontor": "Senjalegen avd. Finnsnes legekontor",
+      "tlf": "77 87 14 10",
+      "antallPlasser": 365
+    }
+  },
+  {
+    "title": "Birgitte Dahle Rushfeldt",
+    "address": "Strandvegen 106, 9006",
+    "metadata": {
+      "legekontor": "Sørbyen legesenter",
+      "tlf": "77 66 11 50",
+      "antallPlasser": 750
+    }
+  },
+  {
+    "title": "Elle Ravdna Sara",
+    "address": "Rådhuset Gárgu 8, 9161 BURFJORD",
+    "metadata": {
+      "legekontor": "Kvænangen Legesenter",
+      "tlf": "77 77 90 00",
+      "antallPlasser": 240
+    }
+  },
+  {
+    "title": "Ole Morten Schulz",
+    "address": "Stortorget 2, 9008 Tromsø",
+    "metadata": {
+      "legekontor": "Kaia Legesenter",
+      "tlf": "77 60 80 50",
+      "ledigePlasser": 11,
+      "antallPlasser": 1100,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Helen Cecilie Seppola",
+    "address": "Laukhellaveien 106, 9303 SILSAND",
+    "metadata": {
+      "legekontor": "Senjalegen avd. Silsand legekontor",
+      "tlf": "77 88 30 00",
+      "antallPlasser": 560
+    }
+  },
+  {
+    "title": "Marit Kristine Seppola",
+    "address": "B A Løvolds veg 12, 9022 KROKELVDALEN",
+    "metadata": {
+      "legekontor": "Kroken Legekontor AS",
+      "tlf": "77 60 48 50",
+      "ledigePlasser": 10,
+      "antallPlasser": 850,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Glenn Ole Severinsen",
+    "address": "Karlsøyvegen 12, 9015 Tromsø",
+    "metadata": {
+      "legekontor": "Langnes Legesenter AS",
+      "tlf": "77 67 98 88",
+      "ledigePlasser": 4,
+      "antallPlasser": 1100,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Yngve Silsand",
+    "address": "Helsesenterveien 32, 9300 FINNSNES",
+    "metadata": {
+      "legekontor": "Senjalegen avd. Finnsnes legekontor",
+      "tlf": "77 87 14 10",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Ingeborg Simonsen",
+    "address": "Havnegata 1, 9404 HARSTAD",
+    "metadata": {
+      "legekontor": "Havnegata Legesenter",
+      "tlf": "77 00 21 20",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Lene Sjursen",
+    "address": "Killengreensgate 7, 9008 TROMSØ",
+    "metadata": {
+      "legekontor": "Sentrum Legekontor -Tromsø",
+      "tlf": "77 66 60 50",
+      "ledigePlasser": 6,
+      "antallPlasser": 1000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Vanja Poppe Skipenes",
+    "address": "Stortorget 4, 9008 Tromsø",
+    "metadata": {
+      "legekontor": "Nordlyslegene AS",
+      "tlf": "77 66 70 66",
+      "antallPlasser": 780
+    }
+  },
+  {
+    "title": "Elisabeth Kristoffersen Skogheim",
+    "address": "Helsesenterveien 32, 9300 FINNSNES",
+    "metadata": {
+      "legekontor": "Senjalegen avd. Finnsnes legekontor",
+      "tlf": "77 87 14 10",
+      "antallPlasser": 750
+    }
+  },
+  {
+    "title": "Vilde Karoline Skogstjerne",
+    "address": "St. Olavs gate 68, 9406 Harstad",
+    "metadata": {
+      "legekontor": "Heggen legesenter",
+      "tlf": "77 02 77 30",
+      "antallPlasser": 400
+    }
+  },
+  {
+    "title": "Øyvind Johansen Skyberg",
+    "address": "Karlsøyvegen 12, 9015 Tromsø",
+    "metadata": {
+      "legekontor": "Langnes Legesenter AS",
+      "tlf": "77 67 98 88",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Jan Einar Skålevik",
+    "address": "Stortorget 2, 9008 Tromsø",
+    "metadata": {
+      "legekontor": "Sjøgata Legesenter AS",
+      "tlf": "77 66 41 60",
+      "ledigePlasser": 12,
+      "antallPlasser": 1000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Andreas Sletten",
+    "address": "Stortorget 4, 9008 Tromsø",
+    "metadata": {
+      "legekontor": "Nordlyslegene AS",
+      "tlf": "77 66 70 66",
+      "ledigePlasser": 16,
+      "antallPlasser": 1150,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Nina Nikoline Rånes Edvardsen Smørsgård",
+    "address": "Kjosveien 20, 9060 LYNGSEIDET",
+    "metadata": {
+      "legekontor": "Lyngen legekontor",
+      "tlf": "400 28 500",
+      "ledigePlasser": 63,
+      "antallPlasser": 650,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Tine Marie Steinvik",
+    "address": "B A Løvolds veg 12, 9022 KROKELVDALEN",
+    "metadata": {
+      "legekontor": "Kroken Legekontor AS",
+      "tlf": "77 60 48 50",
+      "antallPlasser": 720
+    }
+  },
+  {
+    "title": "Ingvild Strand",
+    "address": "Nesseveien 2B, 9411 HARSTAD",
+    "metadata": {
+      "legekontor": "Kanebogen legesenter",
+      "tlf": "77 05 73 33",
+      "antallPlasser": 585
+    }
+  },
+  {
+    "title": "Ellen Marit Sunde",
+    "address": "Karlsøyvegen 12, 9015 Tromsø",
+    "metadata": {
+      "legekontor": "Langnes Legesenter AS",
+      "tlf": "77 67 98 88",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Kine Mari Svendsen",
+    "address": "Helsesenterveien 32, 9300 FINNSNES",
+    "metadata": {
+      "legekontor": "Senjalegen avd. Finnsnes legekontor",
+      "tlf": "77 87 14 10",
+      "antallPlasser": 350
+    }
+  },
+  {
+    "title": "Stine Svendsen",
+    "address": "Stortorget 2, 9008 Tromsø",
+    "metadata": {
+      "legekontor": "Kaia Legesenter",
+      "tlf": "77 60 80 50",
+      "ledigePlasser": 9,
+      "antallPlasser": 850,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Svein Jarle Svendsen",
+    "address": "Killengreensgate 7, 9008 TROMSØ",
+    "metadata": {
+      "legekontor": "Sentrum Legekontor -Tromsø",
+      "tlf": "77 66 60 50",
+      "ledigePlasser": 16,
+      "antallPlasser": 1280,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Thomas Sætre",
+    "address": "Sandvåghaugan 1, 9180 SKJERVØY",
+    "metadata": {
+      "legekontor": "Skjervøy legekontor",
+      "tlf": "77 77 57 00",
+      "ledigePlasser": 7,
+      "antallPlasser": 500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Silje Andreassen Søreng",
+    "address": "St. Olavs gate 68, 9406 Harstad",
+    "metadata": {
+      "legekontor": "Heggen legesenter",
+      "tlf": "77 02 77 30",
+      "antallPlasser": 200
+    }
+  },
+  {
+    "title": "Marit Anita Taihaugen",
+    "address": "Helsesenterveien 32, 9300 FINNSNES",
+    "metadata": {
+      "legekontor": "Senjalegen avd. Finnsnes legekontor",
+      "tlf": "77 87 14 10",
+      "antallPlasser": 675
+    }
+  },
+  {
+    "title": "Mariell Vårum Thomassen",
+    "address": "Helsesenterveien 32, 9300 FINNSNES",
+    "metadata": {
+      "legekontor": "Senjalegen avd. Finnsnes legekontor",
+      "tlf": "77 87 14 10",
+      "antallPlasser": 720
+    }
+  },
+  {
+    "title": "Mari Bjørke Thorsteinsen",
+    "address": "Stakkevollvegen 41, 9010 TROMSØ",
+    "metadata": {
+      "legekontor": "Tromsøya Legesenter AS",
+      "tlf": "77 33 30 00",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Håvard Tiller",
+    "address": "Utsikten, 9018 Tromsø",
+    "metadata": {
+      "legekontor": "Utsikten Legesenter DA",
+      "tlf": "77 60 63 30",
+      "ledigePlasser": 1,
+      "antallPlasser": 1100,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Lene Togstad",
+    "address": "Strandvegen 106, 9006",
+    "metadata": {
+      "legekontor": "Sørbyen legesenter",
+      "tlf": "77 66 11 50",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Mikal Samuel Tønsaas",
+    "address": "Stortorget 4, 9008 Tromsø",
+    "metadata": {
+      "legekontor": "Nordlyslegene AS",
+      "tlf": "77 66 70 66",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Knut Bjørnar Ulriksen",
+    "address": "Blåmannsveien 10, 9100 KVALØYSLETTA",
+    "metadata": {
+      "legekontor": "Kvaløysletta Legekontor AS",
+      "tlf": "77 60 69 10",
+      "ledigePlasser": 6,
+      "antallPlasser": 950,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Elise Utne",
+    "address": "Fogd Holmboes gate 56, 9360 Bardu",
+    "metadata": {
+      "legekontor": "Bardu Legekontor",
+      "tlf": "77 18 55 00",
+      "antallPlasser": 500
+    }
+  },
+  {
+    "title": "Marianne Valhovd",
+    "address": "Tordenskjolds gate 8, 9404 HARSTAD",
+    "metadata": {
+      "legekontor": "Vågsfjord Legesenter",
+      "tlf": "77 01 85 00",
+      "antallPlasser": 682
+    }
+  },
+  {
+    "title": "Ragnhild Margrethe Valle",
+    "address": "St. Olavs gate 68, 9406 Harstad",
+    "metadata": {
+      "legekontor": "Heggen legesenter",
+      "tlf": "77 02 77 30",
+      "antallPlasser": 400
+    }
+  },
+  {
+    "title": "Solveig Karoline Valle",
+    "address": "Verkstedveien 1, 9406 Harstad",
+    "metadata": {
+      "legekontor": "Sjøkanten Legesenter",
+      "tlf": "77 00 09 00",
+      "antallPlasser": 804
+    }
+  },
+  {
+    "title": "Wivi Vikebø",
+    "address": "Sonjatunvegen 21, 9151 STORSLETT",
+    "metadata": {
+      "legekontor": "Legekontoret i Nordreisa",
+      "tlf": "77 58 81 00",
+      "ledigePlasser": 12,
+      "antallPlasser": 850,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Rune Kåre Vittring",
+    "address": "Karlsøyvegen 12, 9015 Tromsø",
+    "metadata": {
+      "legekontor": "Langnes Legesenter AS",
+      "tlf": "77 67 98 88",
+      "ledigePlasser": 5,
+      "antallPlasser": 1200,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Johanne Vold",
+    "address": "Stortorget 2, 9008 Tromsø",
+    "metadata": {
+      "legekontor": "Sjøgata Legesenter AS",
+      "tlf": "77 66 41 60",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Ulf Viktor Wahlström",
+    "address": "Storsteinnes Legekontor, 9050 STORSTEINNES",
+    "metadata": {
+      "legekontor": "Storsteinnes Legekontor",
+      "tlf": "77 72 21 50",
+      "antallPlasser": 1060
+    }
+  },
+  {
+    "title": "Gaute Enevold Waldahl",
+    "address": "Skippergata 7a, 9008 Tromsø",
+    "metadata": {
+      "legekontor": "Skansen Legekontor",
+      "tlf": "77 60 17 17",
+      "ledigePlasser": 6,
+      "antallPlasser": 1100,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Sigrid Pérez Wang",
+    "address": "Fogd Holmboes gate 56, 9360 Bardu",
+    "metadata": {
+      "legekontor": "Bardu Legekontor",
+      "tlf": "77 18 55 00",
+      "antallPlasser": 450
+    }
+  },
+  {
+    "title": "Ingvild Cappelen Wik",
+    "address": "Storsteinnes Legekontor, 9050 STORSTEINNES",
+    "metadata": {
+      "legekontor": "Storsteinnes Legekontor",
+      "tlf": "77 72 21 50",
+      "ledigePlasser": 97,
+      "antallPlasser": 600,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Benedikte Cecilie Woll",
+    "address": "Helsesenterveien 2, 9350 SJØVEGAN",
+    "metadata": {
+      "legekontor": "Astafjordlegen",
+      "tlf": "77 17 40 00",
+      "antallPlasser": 600
+    }
+  },
+  {
+    "title": "Maylinn Bjerkaas Wollum",
+    "address": "Nesseveien 2B, 9411 HARSTAD",
+    "metadata": {
+      "legekontor": "Kanebogen legesenter",
+      "tlf": "77 05 73 33",
+      "antallPlasser": 675
+    }
+  },
+  {
+    "title": "Chun-Lan Zhang",
+    "address": "Blåmannsveien 10, 9100 KVALØYSLETTA",
+    "metadata": {
+      "legekontor": "Kvaløysletta Legekontor AS",
+      "tlf": "77 60 69 10",
+      "antallPlasser": 950
+    }
+  },
+  {
+    "title": "Lars Andreas Røkenes Øyan",
+    "address": "Rødbergveien 6, 9408 Harstad",
+    "metadata": {
+      "legekontor": "Rødbergveien Legesenter AS",
+      "tlf": "77 00 07 20",
+      "antallPlasser": 612
+    }
+  },
+  {
+    "title": "Kathrine Otelie Aalberg",
+    "address": "Kvæfjord Helsehus, Kveldroveien 2, 9475 BORKENES",
+    "metadata": {
+      "legekontor": "Legetjenesten i Kvæfjord",
+      "tlf": "77 02 34 00",
+      "ledigePlasser": 163,
+      "antallPlasser": 200,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Tom-Erik Aarøen",
+    "address": "Andselv, 9325 BARDUFOSS",
+    "metadata": {
+      "legekontor": "Målselv Legetjeneste",
+      "tlf": "77 83 25 00",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Maiken Åsheim",
+    "address": "Utsikten, 9018 Tromsø",
+    "metadata": {
+      "legekontor": "Utsikten Legesenter DA",
+      "tlf": "77 60 63 30",
+      "antallPlasser": 700
+    }
+  }
+]

@@ -1,0 +1,3659 @@
+[
+  {
+    "title": "Faris Abbas",
+    "address": "St.Marie gate 71, 1706 SARPSBORG",
+    "metadata": {
+      "legekontor": "Gleng Legesenter DA",
+      "tlf": "69 13 03 30",
+      "antallPlasser": 900
+    },
+    "lat": 59.2816401,
+    "lng": 11.1178135
+  },
+  {
+    "title": "Ibrahim Abd-Allatif",
+    "address": "vidarsvei 22, 1781 Halden",
+    "metadata": {
+      "legekontor": "Halden Medisinske Senter",
+      "tlf": "69 19 09 70",
+      "ledigePlasser": 34,
+      "antallPlasser": 700,
+      "valgbar": true
+    },
+    "lat": 59.134413,
+    "lng": 11.3713883
+  },
+  {
+    "title": "Usama Abid",
+    "address": "Roald Amundsensgate 36, 1723 SARPSBORG",
+    "metadata": {
+      "legekontor": "Storbyen Legesenter",
+      "tlf": "69 12 69 22",
+      "antallPlasser": 1100
+    },
+    "lat": 59.281737,
+    "lng": 11.102027
+  },
+  {
+    "title": "Abdel Hamed Majed Abo-Joila",
+    "address": "Storveien 27, 1816 Skiptvet",
+    "metadata": {
+      "legekontor": "Skiptvet legekontor",
+      "tlf": "69 80 69 00",
+      "ledigePlasser": 6,
+      "antallPlasser": 1000,
+      "valgbar": true
+    },
+    "lat": 59.4743528,
+    "lng": 11.1606717
+  },
+  {
+    "title": "Cathrine Ahlbom",
+    "address": "Storveien 77, 1621 GRESSVIK",
+    "metadata": {
+      "legekontor": "Helsegaarden AS",
+      "tlf": "21 04 78 78",
+      "antallPlasser": 925
+    },
+    "lat": 59.216948,
+    "lng": 10.905525
+  },
+  {
+    "title": "Sinober Ajaib",
+    "address": "Sentrum Legesenter Moss, 1530 MOSS",
+    "metadata": {
+      "legekontor": "Sentrum Legesenter Moss",
+      "tlf": "69 10 99 99",
+      "ledigePlasser": 191,
+      "antallPlasser": 900,
+      "valgbar": true
+    },
+    "lat": 59.4357244,
+    "lng": 10.6629881
+  },
+  {
+    "title": "Arslan Akhtar",
+    "address": "Bjørnstadveien 2, 1712 GRÅLUM",
+    "metadata": {
+      "legekontor": "Tune legesenter",
+      "tlf": "69 97 20 00",
+      "antallPlasser": 1400
+    },
+    "lat": 59.294261,
+    "lng": 11.064557
+  },
+  {
+    "title": "Ghadir Zaer Ghafla Al-Swaty",
+    "address": "Bryggeriveien 10 A, 1607 FREDRIKSTAD",
+    "metadata": {
+      "legekontor": "Bylegen Legesenter",
+      "tlf": "69 30 02 20",
+      "ledigePlasser": 22,
+      "antallPlasser": 1300,
+      "valgbar": true
+    },
+    "lat": 59.2137148,
+    "lng": 10.9419451
+  },
+  {
+    "title": "Amara Liaqat Ali",
+    "address": "Prinsens gate 6, 1530 MOSS",
+    "metadata": {
+      "legekontor": "Amfi Medisinske Senter AS",
+      "tlf": "69 10 97 77",
+      "ledigePlasser": 35,
+      "antallPlasser": 900,
+      "valgbar": true
+    },
+    "lat": 59.4369172,
+    "lng": 10.6633675
+  },
+  {
+    "title": "Basharat Ali",
+    "address": "Prinsens gate 7, 1530 MOSS",
+    "metadata": {
+      "legekontor": "Moss Helsesenter AS",
+      "tlf": "69 20 40 40",
+      "ledigePlasser": 137,
+      "antallPlasser": 1126,
+      "valgbar": true
+    },
+    "lat": 59.43726,
+    "lng": 10.6639944
+  },
+  {
+    "title": "Hasib Shafaqat Ali",
+    "address": "Kirkeveien 17, 1860 TRØGSTAD",
+    "metadata": {
+      "legekontor": "Skjønhauglegene",
+      "tlf": "940 01 082",
+      "ledigePlasser": 26,
+      "antallPlasser": 1051,
+      "valgbar": true
+    },
+    "lat": 59.641354,
+    "lng": 11.315436
+  },
+  {
+    "title": "Mayada Faris Ali",
+    "address": "St.Marie gate 71, 1706 SARPSBORG",
+    "metadata": {
+      "legekontor": "Gleng Legesenter DA",
+      "tlf": "69 13 03 30",
+      "antallPlasser": 900
+    },
+    "lat": 59.2816401,
+    "lng": 11.1178135
+  },
+  {
+    "title": "Yadgar Magid Ali",
+    "address": "Skredderveien 2, 1537 MOSS",
+    "metadata": {
+      "legekontor": "Kambo legesenter",
+      "tlf": "69 27 61 31",
+      "antallPlasser": 800
+    },
+    "lat": 59.4640846,
+    "lng": 10.6894721
+  },
+  {
+    "title": "Oleksandr Alokhin",
+    "address": "Oscar Pedersens vei 2 A, 1706 SARPSBORG",
+    "metadata": {
+      "legekontor": "Capio Fastleger Sarpsborg",
+      "tlf": "24 02 24 15",
+      "antallPlasser": 1050
+    },
+    "lat": 59.282916,
+    "lng": 11.121213
+  },
+  {
+    "title": "Ali Aminy",
+    "address": "Sølvgata 20, 1767 HALDEN",
+    "metadata": {
+      "legekontor": "Sølvgata Legesenter",
+      "tlf": "69 02 02 40",
+      "antallPlasser": 1020
+    },
+    "lat": 59.1168331,
+    "lng": 11.3869634
+  },
+  {
+    "title": "Ola Amundsen",
+    "address": "Ole Vigs gate 13, 1517 MOSS",
+    "metadata": {
+      "legekontor": "Jeløy Legesenter",
+      "tlf": "69 91 03 00",
+      "antallPlasser": 1000
+    },
+    "lat": 59.4332,
+    "lng": 10.631781
+  },
+  {
+    "title": "Cathrine Ramstad Andersen",
+    "address": "Pancoveien 22A, 1624 GRESSVIK",
+    "metadata": {
+      "legekontor": "Onsøy Legesenter",
+      "tlf": "69 33 75 30",
+      "antallPlasser": 1400
+    },
+    "lat": 59.2355019,
+    "lng": 10.9070901
+  },
+  {
+    "title": "Silje Bø Andersen",
+    "address": "Dronningensgate 19, 1530 MOSS",
+    "metadata": {
+      "legekontor": "Vidsyn legekontor AS",
+      "antallPlasser": 930
+    },
+    "lat": 59.4365113,
+    "lng": 10.667312
+  },
+  {
+    "title": "Camilla Andrup",
+    "address": "Verkstedveien 6A, 1671 Kråkerøy",
+    "metadata": {
+      "legekontor": "Kråkerøy legesenter",
+      "tlf": "69 35 43 43",
+      "antallPlasser": 550
+    },
+    "lat": 59.210075,
+    "lng": 10.936843
+  },
+  {
+    "title": "Ebbe Gundersborg Ansethmoen",
+    "address": "Storgata 32, 1607 FREDRIKSTAD",
+    "metadata": {
+      "legekontor": "Glomma Legesenter",
+      "tlf": "69 36 66 80",
+      "ledigePlasser": 159,
+      "antallPlasser": 1000,
+      "valgbar": true
+    },
+    "lat": 59.2144103,
+    "lng": 10.9332786
+  },
+  {
+    "title": "Zenon Antoszkow",
+    "address": "Nordbyveien 98/100, 1734 HAFSLUNDSØY",
+    "metadata": {
+      "legekontor": "Varteig Legesenter AS",
+      "tlf": "69 13 24 20",
+      "antallPlasser": 1700
+    },
+    "lat": 59.2892848,
+    "lng": 11.1476984
+  },
+  {
+    "title": "Ann Margret Apold-Aasen",
+    "address": "Rosenlund 51, 1617 FREDRIKSTAD",
+    "metadata": {
+      "legekontor": "Rosenlund Legesenter",
+      "tlf": "69 35 45 45",
+      "antallPlasser": 700
+    },
+    "lat": 59.2301179,
+    "lng": 10.9664167
+  },
+  {
+    "title": "Usman Arshad",
+    "address": "Villaveien 7, 1710 SARPSBORG",
+    "metadata": {
+      "legekontor": "Lande Legesenter",
+      "tlf": "69 14 50 77",
+      "antallPlasser": 1250
+    },
+    "lat": 59.28935,
+    "lng": 11.09537
+  },
+  {
+    "title": "Susilkumar Arumugam",
+    "address": "Bergskrenten 12, 1592 VÅLER I ØSTFOLD",
+    "metadata": {
+      "legekontor": "Våler Legekontor",
+      "tlf": "69 28 97 00",
+      "antallPlasser": 500
+    },
+    "lat": 59.488703,
+    "lng": 10.871609
+  },
+  {
+    "title": "Hallvard Aske",
+    "address": "Sykehusgata 2, 1807 ASKIM",
+    "metadata": {
+      "legekontor": "Helsehuset Fastlegekontor",
+      "tlf": "480 75 944",
+      "antallPlasser": 900
+    },
+    "lat": 59.587284,
+    "lng": 11.161414
+  },
+  {
+    "title": "Mohammad Saqib Aslam",
+    "address": "Bankbrygga 2, 1606 FREDRIKSTAD",
+    "metadata": {
+      "legekontor": "Vincent Medisinske Senter",
+      "tlf": "69 95 55 44",
+      "ledigePlasser": 53,
+      "antallPlasser": 1200,
+      "valgbar": true
+    },
+    "lat": 59.2100643,
+    "lng": 10.9391805
+  },
+  {
+    "title": "Sobia Aslam",
+    "address": "Ringvoll Senter 1D, 1827 HOBØL",
+    "metadata": {
+      "legekontor": "Ringvoll Helse AS",
+      "tlf": "69 92 43 80",
+      "ledigePlasser": 418,
+      "antallPlasser": 800,
+      "valgbar": true
+    },
+    "lat": 59.5586658,
+    "lng": 10.8456439
+  },
+  {
+    "title": "Muhammad Awais",
+    "address": "Nygaardsgaten 49, 1607 Fredrikstad",
+    "metadata": {
+      "legekontor": "Legene i Nygaardsgata AS",
+      "tlf": "69 95 50 10",
+      "antallPlasser": 1500
+    },
+    "lat": 59.2127964,
+    "lng": 10.940221
+  },
+  {
+    "title": "Melita Badzar",
+    "address": "Gudes gate 1, 1530 Moss",
+    "metadata": {
+      "legekontor": "Møllebyen legesenter",
+      "antallPlasser": 675
+    },
+    "lat": 59.437419,
+    "lng": 10.667235
+  },
+  {
+    "title": "Naciye Øneral Bagci",
+    "address": "Torggata 10, 1707 SARPSBORG",
+    "metadata": {
+      "legekontor": "Borg Legekontor",
+      "tlf": "69 15 31 70",
+      "antallPlasser": 910
+    },
+    "lat": 59.2840136,
+    "lng": 11.1110772
+  },
+  {
+    "title": "Mirza Mohsin Baig",
+    "address": "Storgata 52, 1870 ØRJE",
+    "metadata": {
+      "legekontor": "Sentrumsgården Legekontor",
+      "tlf": "69 81 01 50",
+      "ledigePlasser": 66,
+      "antallPlasser": 650,
+      "valgbar": true
+    },
+    "lat": 59.4805554,
+    "lng": 11.6581121
+  },
+  {
+    "title": "Mufid Baker",
+    "address": "Kapperstien 24, 1621 GRESSVIK",
+    "metadata": {
+      "legekontor": "Gressvik Legekontor",
+      "tlf": "69 36 18 00",
+      "ledigePlasser": 23,
+      "antallPlasser": 1200,
+      "valgbar": true
+    },
+    "lat": 59.215453,
+    "lng": 10.905331
+  },
+  {
+    "title": "Nubar Baker",
+    "address": "Nordmyrv 3, 1820 SPYDEBERG",
+    "metadata": {
+      "legekontor": "Landsbylegene",
+      "tlf": "69 85 67 00",
+      "ledigePlasser": 373,
+      "antallPlasser": 1350,
+      "valgbar": true
+    },
+    "lat": 59.6152567,
+    "lng": 11.0788072
+  },
+  {
+    "title": "Haydar Bamarni",
+    "address": "Storgata 52, 1870 ØRJE",
+    "metadata": {
+      "legekontor": "Sentrumsgården Legekontor",
+      "tlf": "69 81 01 50",
+      "antallPlasser": 750
+    },
+    "lat": 59.4805554,
+    "lng": 11.6581121
+  },
+  {
+    "title": "Robert Adam Bartyzel",
+    "address": "LØENVEIEN 5, 1653 SELLEBAKK",
+    "metadata": {
+      "legekontor": "Borge Legesenter AS",
+      "tlf": "69 35 20 50",
+      "ledigePlasser": 20,
+      "antallPlasser": 900,
+      "valgbar": true
+    },
+    "lat": 59.2275782,
+    "lng": 10.9945773
+  },
+  {
+    "title": "Jonas Alexander Opsahl Becken",
+    "address": "Trykkeriveien 6, 1653 SELLEBAKK",
+    "metadata": {
+      "legekontor": "Sellebakk Legekontor AS",
+      "tlf": "69 36 17 97",
+      "antallPlasser": 1000
+    },
+    "lat": 59.2281753,
+    "lng": 10.9937353
+  },
+  {
+    "title": "Robert Beckhaug",
+    "address": "Sølvgata 20, 1767 HALDEN",
+    "metadata": {
+      "legekontor": "Sølvgata Legesenter",
+      "tlf": "69 02 02 40",
+      "antallPlasser": 1030
+    },
+    "lat": 59.1168331,
+    "lng": 11.3869634
+  },
+  {
+    "title": "Dzenana Begovic",
+    "address": "St.Marie gate 71, 1706 SARPSBORG",
+    "metadata": {
+      "legekontor": "Gleng Legesenter DA",
+      "tlf": "69 13 03 30",
+      "antallPlasser": 900
+    },
+    "lat": 59.2816401,
+    "lng": 11.1178135
+  },
+  {
+    "title": "Joachim Benske",
+    "address": "LØENVEIEN 5, 1653 SELLEBAKK",
+    "metadata": {
+      "legekontor": "Borge Legesenter AS",
+      "tlf": "69 35 20 50",
+      "antallPlasser": 1050
+    },
+    "lat": 59.2275782,
+    "lng": 10.9945773
+  },
+  {
+    "title": "Beate Børja Berg",
+    "address": "Stasjonsveien 3B, 1580 RYGGE",
+    "metadata": {
+      "legekontor": "Halmstad legekontor",
+      "tlf": "69 95 66 00",
+      "antallPlasser": 1000
+    },
+    "lat": 59.3781946,
+    "lng": 10.749131
+  },
+  {
+    "title": "Leif Tomas Bergquist",
+    "address": "Hundskinnveien 96, 1711 SARPSBORG",
+    "metadata": {
+      "legekontor": "Legene Dahle og Bergquist",
+      "tlf": "69 10 46 00",
+      "antallPlasser": 1700
+    },
+    "lat": 59.2851,
+    "lng": 11.08122
+  },
+  {
+    "title": "Benedicte Bergsland",
+    "address": "LØENVEIEN 5, 1653 SELLEBAKK",
+    "metadata": {
+      "legekontor": "Borge Legesenter AS",
+      "tlf": "69 35 20 50",
+      "antallPlasser": 900
+    },
+    "lat": 59.2275782,
+    "lng": 10.9945773
+  },
+  {
+    "title": "Hans Gøran Bergstrøm",
+    "address": "Lilleengveien 8, 1523 Moss",
+    "metadata": {
+      "legekontor": "Lilleeng Legesenter",
+      "tlf": "69 25 35 45",
+      "ledigePlasser": 12,
+      "antallPlasser": 1100,
+      "valgbar": true
+    },
+    "lat": 59.4181618,
+    "lng": 10.6784675
+  },
+  {
+    "title": "Jasmina Besirevic",
+    "address": "Torsvei 1, 1640 RÅDE",
+    "metadata": {
+      "legekontor": "Råde Legesenter",
+      "tlf": "69 28 40 10",
+      "antallPlasser": 1450
+    },
+    "lat": 59.3507728,
+    "lng": 10.8760346
+  },
+  {
+    "title": "Margunn Asheim Birkeland",
+    "address": "Violgata 8 , 1.Etasje, 1776 HALDEN",
+    "metadata": {
+      "legekontor": "Sentrumslegene i Halden",
+      "tlf": "69 21 38 80",
+      "antallPlasser": 900
+    },
+    "lat": 59.1250444,
+    "lng": 11.3834094
+  },
+  {
+    "title": "Jean Claude Bishikwabo",
+    "address": "3. etasje Violgata 8, 1776 HALDEN",
+    "metadata": {
+      "legekontor": "Nordsiden legekontor",
+      "tlf": "400 99 393",
+      "antallPlasser": 1000
+    },
+    "lat": 59.1250444,
+    "lng": 11.3834094
+  },
+  {
+    "title": "Øyvind Brænne Bjørnstad",
+    "address": "Ole Vigs gate 13, 1517 MOSS",
+    "metadata": {
+      "legekontor": "Jeløy Legesenter",
+      "tlf": "69 91 03 00",
+      "antallPlasser": 1000
+    },
+    "lat": 59.4332,
+    "lng": 10.631781
+  },
+  {
+    "title": "Line Brekke",
+    "address": "Nygaardsgaten 49, 1607 Fredrikstad",
+    "metadata": {
+      "legekontor": "Legene i Nygaardsgata AS",
+      "tlf": "69 95 50 10",
+      "antallPlasser": 1600
+    },
+    "lat": 59.2127964,
+    "lng": 10.940221
+  },
+  {
+    "title": "Lise Anett Nohr Brelin",
+    "address": "Fossbyåsen 41, 1798 AREMARK",
+    "metadata": {
+      "legekontor": "Aremark legekontor",
+      "tlf": "69 19 96 90",
+      "antallPlasser": 650
+    },
+    "lat": 59.2234472,
+    "lng": 11.7014222
+  },
+  {
+    "title": "Trond Petter Christiansen Brelin",
+    "address": "Trafoveien 2, 1784 HALDEN",
+    "metadata": {
+      "legekontor": "Legene Brelin og Faizi",
+      "tlf": "69 21 63 33",
+      "antallPlasser": 1370
+    },
+    "lat": 59.141736,
+    "lng": 11.383473
+  },
+  {
+    "title": "Annecken Margrethe Røer Brinchmann",
+    "address": "Jernbanegata 11B, 1850 Mysen",
+    "metadata": {
+      "legekontor": "Mysen legesenter AS",
+      "tlf": "69 84 64 20",
+      "antallPlasser": 1000
+    },
+    "lat": 59.5533013,
+    "lng": 11.3250073
+  },
+  {
+    "title": "Parveen Chopra",
+    "address": "Jernbanegata 11B, 1850 Mysen",
+    "metadata": {
+      "legekontor": "Mysen legesenter AS",
+      "tlf": "69 84 64 20",
+      "ledigePlasser": 228,
+      "antallPlasser": 1300,
+      "valgbar": true
+    },
+    "lat": 59.5533013,
+    "lng": 11.3250073
+  },
+  {
+    "title": "Gaute Nicolai Christensen",
+    "address": "Sarpsborgveien 5, 1640 RÅDE",
+    "metadata": {
+      "legekontor": "Karlshuslegene, Legenmin.no AS",
+      "tlf": "69 28 40 31",
+      "ledigePlasser": 14,
+      "antallPlasser": 1860,
+      "valgbar": true
+    },
+    "lat": 59.3516132,
+    "lng": 10.8746259
+  },
+  {
+    "title": "Elin Forsbom Christiansen",
+    "address": "Christianslund alle 4, 1613 FREDRIKSTAD",
+    "metadata": {
+      "legekontor": "Christianslund Legekontor",
+      "tlf": "69 36 69 69",
+      "antallPlasser": 900
+    },
+    "lat": 59.2249904,
+    "lng": 10.930932
+  },
+  {
+    "title": "Hanne-Sofie Spenning Dahlback",
+    "address": "Nygaardsgaten 49, 1607 Fredrikstad",
+    "metadata": {
+      "legekontor": "Legene i Nygaardsgata AS",
+      "tlf": "69 95 50 10",
+      "antallPlasser": 1400
+    },
+    "lat": 59.2127964,
+    "lng": 10.940221
+  },
+  {
+    "title": "Kaare Yngvar Dahle",
+    "address": "Hundskinnveien 96, 1711 SARPSBORG",
+    "metadata": {
+      "legekontor": "Legene Dahle og Bergquist",
+      "tlf": "69 10 46 00",
+      "antallPlasser": 1400
+    },
+    "lat": 59.2851,
+    "lng": 11.08122
+  },
+  {
+    "title": "Jørn Dahlstrøm",
+    "address": "Villaveien 7, 1710 SARPSBORG",
+    "metadata": {
+      "legekontor": "Lande Legesenter",
+      "tlf": "69 14 50 77",
+      "antallPlasser": 1000
+    },
+    "lat": 59.28935,
+    "lng": 11.09537
+  },
+  {
+    "title": "Arie Benoit Dansac",
+    "address": "Fossbyåsen 41, 1798 AREMARK",
+    "metadata": {
+      "legekontor": "Aremark legekontor",
+      "tlf": "69 19 96 90",
+      "ledigePlasser": 18,
+      "antallPlasser": 600,
+      "valgbar": true
+    },
+    "lat": 59.2234472,
+    "lng": 11.7014222
+  },
+  {
+    "title": "Lars Degerdal",
+    "address": "Torget 4, 1707 SARPSBORG",
+    "metadata": {
+      "legekontor": "Sentrum Legesenter",
+      "tlf": "69 13 30 50",
+      "antallPlasser": 2150
+    },
+    "lat": 59.2842828,
+    "lng": 11.1105509
+  },
+  {
+    "title": "Petter Bart Dehlendorff",
+    "address": "Kirkebrygga 2, 1607 FREDRIKSTAD",
+    "metadata": {
+      "legekontor": "Lægene på kirkebrygga DA",
+      "tlf": "69 30 47 00",
+      "antallPlasser": 850
+    },
+    "lat": 59.2092733,
+    "lng": 10.9394213
+  },
+  {
+    "title": "Nino Reis Dokke",
+    "address": "St. Marie gate 96/98, 1706 Sarpsborg",
+    "metadata": {
+      "legekontor": "Torget Legesenter Sarpsborg AS",
+      "tlf": "69 13 09 00",
+      "antallPlasser": 1000
+    },
+    "lat": 59.2800237,
+    "lng": 11.1222214
+  },
+  {
+    "title": "Odd Erik Dolva",
+    "address": "Dyrendalsveien 13C, 1778 HALDEN",
+    "metadata": {
+      "legekontor": "Lege Odd Erik Dolva",
+      "tlf": "69 21 20 60",
+      "antallPlasser": 1200
+    },
+    "lat": 59.131105,
+    "lng": 11.384216
+  },
+  {
+    "title": "Sarah Henriette Brevik Drangsholt",
+    "address": "Verkstedveien 6A, 1671 Kråkerøy",
+    "metadata": {
+      "legekontor": "Kråkerøy legesenter",
+      "tlf": "69 35 43 43",
+      "antallPlasser": 800
+    },
+    "lat": 59.210075,
+    "lng": 10.936843
+  },
+  {
+    "title": "Kjell Buvarp Dyrop",
+    "address": "Roald Amundsensgate 17, 1723 SARPSBORG",
+    "metadata": {
+      "legekontor": "Lilletorget legekontor (Sarpsborg)",
+      "tlf": "69 10 82 60",
+      "antallPlasser": 400
+    },
+    "lat": 59.281737,
+    "lng": 11.102027
+  },
+  {
+    "title": "Marie Grytdal Eilertsen",
+    "address": "Midtveien 1A, 1526 MOSS",
+    "metadata": {
+      "legekontor": "Varna Legesenter AS",
+      "tlf": "69 91 25 00",
+      "antallPlasser": 900
+    },
+    "lat": 59.4163,
+    "lng": 10.677475
+  },
+  {
+    "title": "Mina Marie Ek",
+    "address": "Helsehuset Jens Wilhelmsens gate 1, 1671 KRÅKERØY",
+    "metadata": {
+      "legekontor": "Spesialistklinikken Kråkerøy AS",
+      "antallPlasser": 1050
+    },
+    "lat": 59.1821455,
+    "lng": 10.9237329
+  },
+  {
+    "title": "Oddvar Ekeberg",
+    "address": "Rådhusveien 4, 1890 Rakkestad",
+    "metadata": {
+      "legekontor": "Bygdelegene DA",
+      "tlf": "69 22 40 70",
+      "antallPlasser": 1080
+    },
+    "lat": 59.4276613,
+    "lng": 11.3423133
+  },
+  {
+    "title": "Sana Elahi",
+    "address": "St. Marie gate 96/98, 1706 Sarpsborg",
+    "metadata": {
+      "legekontor": "Torget Legesenter Sarpsborg AS",
+      "tlf": "69 13 09 00",
+      "antallPlasser": 970
+    },
+    "lat": 59.2800237,
+    "lng": 11.1222214
+  },
+  {
+    "title": "Anine Elguren",
+    "address": "Gudes gate 1, 1530 Moss",
+    "metadata": {
+      "legekontor": "Møllebyen legesenter",
+      "antallPlasser": 1000
+    },
+    "lat": 59.437419,
+    "lng": 10.667235
+  },
+  {
+    "title": "Anette Elvestad",
+    "address": "Torggata 10, 1707 SARPSBORG",
+    "metadata": {
+      "legekontor": "Borg Legekontor",
+      "tlf": "69 15 31 70",
+      "antallPlasser": 1100
+    },
+    "lat": 59.2840136,
+    "lng": 11.1110772
+  },
+  {
+    "title": "Andreas Rom Eng",
+    "address": "Trøgstadveien 4b, 1830 Askim",
+    "metadata": {
+      "legekontor": "Torget legesenter",
+      "tlf": "69 84 40 00",
+      "ledigePlasser": 3,
+      "antallPlasser": 1600,
+      "valgbar": true
+    },
+    "lat": 59.5848208,
+    "lng": 11.1659902
+  },
+  {
+    "title": "Eva Enger-Olsen",
+    "address": "Snekkerstubakken 26, 1738 BORGENHAUGEN",
+    "metadata": {
+      "legekontor": "Borgenhaugen Legesenter DA",
+      "tlf": "69 97 20 80",
+      "antallPlasser": 900
+    },
+    "lat": 59.2691073,
+    "lng": 11.1592635
+  },
+  {
+    "title": "Dag Asbjørn Omholt Ernø",
+    "address": "Midtveien 1A, 1526 MOSS",
+    "metadata": {
+      "legekontor": "Varna Legesenter AS",
+      "tlf": "69 91 25 00",
+      "antallPlasser": 1000
+    },
+    "lat": 59.4163,
+    "lng": 10.677475
+  },
+  {
+    "title": "Trine Gammelsrød Evensen",
+    "address": "Skredderveien 2, 1537 MOSS",
+    "metadata": {
+      "legekontor": "Kambo legesenter",
+      "tlf": "69 27 61 31",
+      "antallPlasser": 610
+    },
+    "lat": 59.4640846,
+    "lng": 10.6894721
+  },
+  {
+    "title": "Atal Mohammad Feroz Faizi",
+    "address": "Trafoveien 2, 1784 HALDEN",
+    "metadata": {
+      "legekontor": "Legene Brelin og Faizi",
+      "tlf": "69 21 63 33",
+      "antallPlasser": 1400
+    },
+    "lat": 59.141736,
+    "lng": 11.383473
+  },
+  {
+    "title": "Mohammad Sidiq Faizi",
+    "address": "Storgata 12, 1771 HALDEN",
+    "metadata": {
+      "legekontor": "Storgata Legekontor",
+      "tlf": "69 17 59 70",
+      "antallPlasser": 950
+    },
+    "lat": 59.123214,
+    "lng": 11.387274
+  },
+  {
+    "title": "Sarah Leila Falcao",
+    "address": "Roald Amundsensgate 17, 1723 SARPSBORG",
+    "metadata": {
+      "legekontor": "Lilletorget legekontor (Sarpsborg)",
+      "tlf": "69 10 82 60",
+      "antallPlasser": 400
+    },
+    "lat": 59.281737,
+    "lng": 11.102027
+  },
+  {
+    "title": "Mentor Fejzulai",
+    "address": "Spinneriveien 3, 1632 Gamle Fredrikstad",
+    "metadata": {
+      "legekontor": "Kongsten Legekontor",
+      "tlf": "69 32 39 00",
+      "ledigePlasser": 25,
+      "antallPlasser": 800,
+      "valgbar": true
+    },
+    "lat": 59.2085737,
+    "lng": 10.9648803
+  },
+  {
+    "title": "Kenneth Kaland Fjellstad",
+    "address": "Storveien 7, 1624 Gressvik",
+    "metadata": {
+      "legekontor": "Ørebekk Legesenter AS",
+      "tlf": "69 32 86 00",
+      "ledigePlasser": 219,
+      "antallPlasser": 1200,
+      "valgbar": true
+    },
+    "lat": 59.228279,
+    "lng": 10.910733
+  },
+  {
+    "title": "Anders Klokk Fløter",
+    "address": "Villaveien 1, 1820 SPYDEBERG",
+    "metadata": {
+      "legekontor": "Villaveien legesenter",
+      "tlf": "69 83 74 30",
+      "antallPlasser": 1350
+    },
+    "lat": 59.6204934,
+    "lng": 11.0849254
+  },
+  {
+    "title": "Jan Friedl",
+    "address": "Kjærlighetsstien 28, 1781 HALDEN",
+    "metadata": {
+      "legekontor": "Stangeberget Legesenter",
+      "tlf": "69 17 46 61",
+      "ledigePlasser": 17,
+      "antallPlasser": 750,
+      "valgbar": true
+    },
+    "lat": 59.1283145,
+    "lng": 11.3752308
+  },
+  {
+    "title": "Kine Lunde Frydenberg",
+    "address": "Veigård 1, 1823 Knapstad",
+    "metadata": {
+      "legekontor": "Hobøl Legekontor DA",
+      "tlf": "69 92 49 90",
+      "antallPlasser": 900
+    },
+    "lat": 59.620843,
+    "lng": 11.0306533
+  },
+  {
+    "title": "Synne Ganerød",
+    "address": "Bjørnstadveien 2, 1712 GRÅLUM",
+    "metadata": {
+      "legekontor": "Tune legesenter",
+      "tlf": "69 97 20 00",
+      "antallPlasser": 850
+    },
+    "lat": 59.294261,
+    "lng": 11.064557
+  },
+  {
+    "title": "Ingun Gard",
+    "address": "Storgata 10, 1607 FREDRIKSTAD",
+    "metadata": {
+      "legekontor": "Nedre Glommen Legegruppe DA",
+      "tlf": "69 36 63 30",
+      "antallPlasser": 1326
+    },
+    "lat": 59.2122923,
+    "lng": 10.9367661
+  },
+  {
+    "title": "Halvor Giltvedt",
+    "address": "Rådhusgata 23, 1830 ASKIM",
+    "metadata": {
+      "legekontor": "Askim Legesenter",
+      "tlf": "69 81 96 00",
+      "antallPlasser": 1300
+    },
+    "lat": 59.583697,
+    "lng": 11.159489
+  },
+  {
+    "title": "Kari Gjelsvik Gleditsch",
+    "address": "Storgata 10, 1607 FREDRIKSTAD",
+    "metadata": {
+      "legekontor": "Nedre Glommen Legegruppe DA",
+      "tlf": "69 36 63 30",
+      "ledigePlasser": 7,
+      "antallPlasser": 1000,
+      "valgbar": true
+    },
+    "lat": 59.2122923,
+    "lng": 10.9367661
+  },
+  {
+    "title": "Joachim Brodahl Goldstein",
+    "address": "Trykkeriveien 6, 1653 SELLEBAKK",
+    "metadata": {
+      "legekontor": "Sellebakk Legekontor AS",
+      "tlf": "69 36 17 97",
+      "ledigePlasser": 48,
+      "antallPlasser": 500,
+      "valgbar": true
+    },
+    "lat": 59.2281753,
+    "lng": 10.9937353
+  },
+  {
+    "title": "Prasad Gopikrishnan",
+    "address": "Torsvei 1, 1640 RÅDE",
+    "metadata": {
+      "legekontor": "Råde Legesenter",
+      "tlf": "69 28 40 10",
+      "ledigePlasser": 19,
+      "antallPlasser": 1300,
+      "valgbar": true
+    },
+    "lat": 59.3507728,
+    "lng": 10.8760346
+  },
+  {
+    "title": "Sabah Goran",
+    "address": "Prinsens gate 7, 1530 MOSS",
+    "metadata": {
+      "legekontor": "Moss Helsesenter AS",
+      "tlf": "69 20 40 40",
+      "antallPlasser": 1200
+    },
+    "lat": 59.43726,
+    "lng": 10.6639944
+  },
+  {
+    "title": "Filip Gorski",
+    "address": "Bankbrygga 2, 1606 FREDRIKSTAD",
+    "metadata": {
+      "legekontor": "Vincent Medisinske Senter",
+      "tlf": "69 95 55 44",
+      "antallPlasser": 1500
+    },
+    "lat": 59.2100643,
+    "lng": 10.9391805
+  },
+  {
+    "title": "Jakub Zbigniew Gorski",
+    "address": "Helsehuset Jens Wilhelmsens gate 1, 1671 KRÅKERØY",
+    "metadata": {
+      "legekontor": "Spesialistklinikken Kråkerøy AS",
+      "ledigePlasser": 249,
+      "antallPlasser": 700,
+      "valgbar": true
+    },
+    "lat": 59.1821455,
+    "lng": 10.9237329
+  },
+  {
+    "title": "Charlotte Gregersen",
+    "address": "G. A. Stouslands vei 1, 1671 Kråkerøy",
+    "metadata": {
+      "legekontor": "Plankebyen legesenter",
+      "tlf": "69 30 03 90",
+      "antallPlasser": 1150
+    },
+    "lat": 59.209661,
+    "lng": 10.929934
+  },
+  {
+    "title": "Anne-Marthe Grislingås",
+    "address": "Helgebyveien 2, 1734 HAFSLUNDSØY",
+    "metadata": {
+      "legekontor": "Hafslundsøy Legesenter AS",
+      "tlf": "69 13 20 80",
+      "antallPlasser": 810
+    },
+    "lat": 59.2918805,
+    "lng": 11.1494399
+  },
+  {
+    "title": "Bjørn Grønn",
+    "address": "Spjærøy 212, 1684 Vesterøy",
+    "metadata": {
+      "legekontor": "Hvaler Legesenter",
+      "tlf": "69 37 54 80",
+      "ledigePlasser": 162,
+      "antallPlasser": 500,
+      "valgbar": true
+    },
+    "lat": 59.096611,
+    "lng": 10.920482
+  },
+  {
+    "title": "Per Øyvind Bø Grønningsæter",
+    "address": "Dr. Randers gate 4, 1830",
+    "metadata": {
+      "legekontor": "Dr Randersgate Legesenter DA",
+      "tlf": "69 88 79 90",
+      "antallPlasser": 1100
+    },
+    "lat": 59.5829933,
+    "lng": 11.1617937
+  },
+  {
+    "title": "Martine Relte Grønvik",
+    "address": "Jernbanegata 11B, 1850 Mysen",
+    "metadata": {
+      "legekontor": "Mysen legesenter AS",
+      "tlf": "69 84 64 20",
+      "antallPlasser": 900
+    },
+    "lat": 59.5533013,
+    "lng": 11.3250073
+  },
+  {
+    "title": "Bjørn Jonas Gummesen",
+    "address": "Rådshusveien 1, 1891 RAKKESTAD",
+    "metadata": {
+      "legekontor": "Rakkestad Legesenter",
+      "tlf": "69 22 80 00",
+      "ledigePlasser": 12,
+      "antallPlasser": 1080,
+      "valgbar": true
+    },
+    "lat": 59.4279914,
+    "lng": 11.3399373
+  },
+  {
+    "title": "Susanne Gustavsson",
+    "address": "Midtveien 1A, 1526 MOSS",
+    "metadata": {
+      "legekontor": "Varna Legesenter AS",
+      "tlf": "69 91 25 00",
+      "antallPlasser": 800
+    },
+    "lat": 59.4163,
+    "lng": 10.677475
+  },
+  {
+    "title": "Irina Valasach Gåserud",
+    "address": "Prinsens gate 2, 1530",
+    "metadata": {
+      "legekontor": "Bylegene Moss",
+      "tlf": "69 24 08 16",
+      "antallPlasser": 1100
+    },
+    "lat": 59.4362709,
+    "lng": 10.6640506
+  },
+  {
+    "title": "Eirik Methlie Hagen",
+    "address": "Rådhusgata 23, 1830 ASKIM",
+    "metadata": {
+      "legekontor": "Askim Legesenter",
+      "tlf": "69 81 96 00",
+      "antallPlasser": 1280
+    },
+    "lat": 59.583697,
+    "lng": 11.159489
+  },
+  {
+    "title": "Ola Hagen",
+    "address": "Ole Vigs gate 13, 1517 MOSS",
+    "metadata": {
+      "legekontor": "Jeløy Legesenter",
+      "tlf": "69 91 03 00",
+      "antallPlasser": 1100
+    },
+    "lat": 59.4332,
+    "lng": 10.631781
+  },
+  {
+    "title": "Eli Hanevik",
+    "address": "Tistedalsgata 9-11, 1772 HALDEN",
+    "metadata": {
+      "legekontor": "Dr.Haneviks kontor",
+      "tlf": "69 17 44 32",
+      "antallPlasser": 1000
+    },
+    "lat": 59.1257828,
+    "lng": 11.3974912
+  },
+  {
+    "title": "Kathrine Hannestad",
+    "address": "Nygaardsgaten 49, 1607 Fredrikstad",
+    "metadata": {
+      "legekontor": "Legene i Nygaardsgata AS",
+      "tlf": "69 95 50 10",
+      "antallPlasser": 980
+    },
+    "lat": 59.2127964,
+    "lng": 10.940221
+  },
+  {
+    "title": "Hege Holand Hansen",
+    "address": "Trøgstad torg 3, 1860 TRØGSTAD",
+    "metadata": {
+      "legekontor": "Trøgstad Legekontor Hege Holand Hansen",
+      "tlf": "69 82 62 30",
+      "antallPlasser": 1250
+    },
+    "lat": 59.641949,
+    "lng": 11.316886
+  },
+  {
+    "title": "Jan Reidar Bærug Hansen",
+    "address": "Hundskinnveien 96, 1711 SARPSBORG",
+    "metadata": {
+      "legekontor": "Legene Dahle og Bergquist",
+      "tlf": "69 10 46 00",
+      "antallPlasser": 1000
+    },
+    "lat": 59.2851,
+    "lng": 11.08122
+  },
+  {
+    "title": "Marita Nistad Hansen",
+    "address": "Nordmyrv 3, 1820 SPYDEBERG",
+    "metadata": {
+      "legekontor": "Landsbylegene",
+      "tlf": "69 85 67 00",
+      "ledigePlasser": 121,
+      "antallPlasser": 1300,
+      "valgbar": true
+    },
+    "lat": 59.6152567,
+    "lng": 11.0788072
+  },
+  {
+    "title": "Lars Eric Fredrik Hassel",
+    "address": "Skredderveien 2, 1537 MOSS",
+    "metadata": {
+      "legekontor": "Kambo legesenter",
+      "tlf": "69 27 61 31",
+      "antallPlasser": 1050
+    },
+    "lat": 59.4640846,
+    "lng": 10.6894721
+  },
+  {
+    "title": "Trine Haug",
+    "address": "Ole Vigs gate 13, 1517 MOSS",
+    "metadata": {
+      "legekontor": "Jeløy Legesenter",
+      "tlf": "69 91 03 00",
+      "antallPlasser": 1050
+    },
+    "lat": 59.4332,
+    "lng": 10.631781
+  },
+  {
+    "title": "Truls Haugan",
+    "address": "Storveien 7, 1624 Gressvik",
+    "metadata": {
+      "legekontor": "Ørebekk Legesenter AS",
+      "tlf": "69 32 86 00",
+      "ledigePlasser": 67,
+      "antallPlasser": 1000,
+      "valgbar": true
+    },
+    "lat": 59.228279,
+    "lng": 10.910733
+  },
+  {
+    "title": "Kjell-Ivar Helgestad",
+    "address": "Prinsebakken 1, 1680 Skjærhalden",
+    "metadata": {
+      "legekontor": "Skjærhalden Legekontor",
+      "tlf": "69 37 49 70",
+      "ledigePlasser": 328,
+      "antallPlasser": 1000,
+      "valgbar": true
+    },
+    "lat": 59.027451,
+    "lng": 11.034282
+  },
+  {
+    "title": "Sissel Gro Helseth",
+    "address": "Bjørnstadveien 2, 1712 GRÅLUM",
+    "metadata": {
+      "legekontor": "Tune legesenter",
+      "tlf": "69 97 20 00",
+      "antallPlasser": 1000
+    },
+    "lat": 59.294261,
+    "lng": 11.064557
+  },
+  {
+    "title": "Stine Hermansen",
+    "address": "Roald Amundsensgate 17, 1723 SARPSBORG",
+    "metadata": {
+      "legekontor": "Lilletorget legekontor (Sarpsborg)",
+      "tlf": "69 10 82 60",
+      "antallPlasser": 450
+    },
+    "lat": 59.281737,
+    "lng": 11.102027
+  },
+  {
+    "title": "Svein Egil Bakkevig Hillesund",
+    "address": "Verkstedveien 6A, 1671 Kråkerøy",
+    "metadata": {
+      "legekontor": "Kråkerøy legesenter",
+      "tlf": "69 35 43 43",
+      "antallPlasser": 800
+    },
+    "lat": 59.210075,
+    "lng": 10.936843
+  },
+  {
+    "title": "Julie Alexandra Hoel",
+    "address": "Midtveien 1A, 1526 MOSS",
+    "metadata": {
+      "legekontor": "Varna Legesenter AS",
+      "tlf": "69 91 25 00",
+      "antallPlasser": 800
+    },
+    "lat": 59.4163,
+    "lng": 10.677475
+  },
+  {
+    "title": "Amund Holand",
+    "address": "Kirkebrygga 2, 1607 FREDRIKSTAD",
+    "metadata": {
+      "legekontor": "Lægene på kirkebrygga DA",
+      "tlf": "69 30 47 00",
+      "antallPlasser": 1250
+    },
+    "lat": 59.2092733,
+    "lng": 10.9394213
+  },
+  {
+    "title": "Stine Holstangen",
+    "address": "Storveien 77, 1621 GRESSVIK",
+    "metadata": {
+      "legekontor": "Helsegaarden AS",
+      "tlf": "21 04 78 78",
+      "antallPlasser": 500
+    },
+    "lat": 59.216948,
+    "lng": 10.905525
+  },
+  {
+    "title": "Maren Næss Hopstad",
+    "address": "Kapperstien 24, 1621 GRESSVIK",
+    "metadata": {
+      "legekontor": "Gressvik Legekontor",
+      "tlf": "69 36 18 00",
+      "antallPlasser": 850
+    },
+    "lat": 59.215453,
+    "lng": 10.905331
+  },
+  {
+    "title": "Karl Sigurd Hovland",
+    "address": "Rådshusveien 1, 1891 RAKKESTAD",
+    "metadata": {
+      "legekontor": "Rakkestad Legesenter",
+      "tlf": "69 22 80 00",
+      "ledigePlasser": 77,
+      "antallPlasser": 700,
+      "valgbar": true
+    },
+    "lat": 59.4279914,
+    "lng": 11.3399373
+  },
+  {
+    "title": "Steffen Hovland",
+    "address": "Pancoveien 22A, 1624 GRESSVIK",
+    "metadata": {
+      "legekontor": "Onsøy Legesenter",
+      "tlf": "69 33 75 30",
+      "ledigePlasser": 37,
+      "antallPlasser": 900,
+      "valgbar": true
+    },
+    "lat": 59.2355019,
+    "lng": 10.9070901
+  },
+  {
+    "title": "Abdul-Razzak Naser Hussain",
+    "address": "Jernbanegata 11B, 1850 Mysen",
+    "metadata": {
+      "legekontor": "Mysen legesenter AS",
+      "tlf": "69 84 64 20",
+      "antallPlasser": 1500
+    },
+    "lat": 59.5533013,
+    "lng": 11.3250073
+  },
+  {
+    "title": "Ashrak Talib Hussain",
+    "address": "Violgata 8, 1776 Halden",
+    "metadata": {
+      "legekontor": "Sarah Legekontor",
+      "tlf": "456 66 845",
+      "ledigePlasser": 47,
+      "antallPlasser": 1400,
+      "valgbar": true
+    },
+    "lat": 59.1234726,
+    "lng": 11.385975
+  },
+  {
+    "title": "Haider Hussain",
+    "address": "Kirkeveien 17, 1860 TRØGSTAD",
+    "metadata": {
+      "legekontor": "Skjønhauglegene",
+      "tlf": "940 01 082",
+      "ledigePlasser": 254,
+      "antallPlasser": 1300,
+      "valgbar": true
+    },
+    "lat": 59.641354,
+    "lng": 11.315436
+  },
+  {
+    "title": "Amjad Adel Mohamed Kaddoura Hussein",
+    "address": "Violgata 8 , 1.Etasje, 1776 HALDEN",
+    "metadata": {
+      "legekontor": "Sentrumslegene i Halden",
+      "tlf": "69 21 38 80",
+      "antallPlasser": 1000
+    },
+    "lat": 59.1250444,
+    "lng": 11.3834094
+  },
+  {
+    "title": "Ulla Heider Hussein",
+    "address": "Gudes gate 1B, 1530 MOSS",
+    "metadata": {
+      "legekontor": "Moss Medisinske senter",
+      "tlf": "22 34 34 00",
+      "ledigePlasser": 3,
+      "antallPlasser": 1300,
+      "valgbar": true
+    },
+    "lat": 59.437419,
+    "lng": 10.667235
+  },
+  {
+    "title": "Lisa Suet Kei Ip",
+    "address": "Verkstedveien 6A, 1671 Kråkerøy",
+    "metadata": {
+      "legekontor": "Kråkerøy legesenter",
+      "tlf": "69 35 43 43",
+      "antallPlasser": 800
+    },
+    "lat": 59.210075,
+    "lng": 10.936843
+  },
+  {
+    "title": "Babak Irandoust",
+    "address": "Villaveien 7, 1710 SARPSBORG",
+    "metadata": {
+      "legekontor": "Lande Legesenter",
+      "tlf": "69 14 50 77",
+      "antallPlasser": 1100
+    },
+    "lat": 59.28935,
+    "lng": 11.09537
+  },
+  {
+    "title": "Umar Ishtiaq",
+    "address": "Gudes gate 1B, 1530 MOSS",
+    "metadata": {
+      "legekontor": "Moss Medisinske senter",
+      "tlf": "22 34 34 00",
+      "ledigePlasser": 44,
+      "antallPlasser": 1300,
+      "valgbar": true
+    },
+    "lat": 59.437419,
+    "lng": 10.667235
+  },
+  {
+    "title": "Farzan Javad",
+    "address": "Storgt 4C, 1767 HALDEN",
+    "metadata": {
+      "legekontor": "Karrestad Legesenter",
+      "tlf": "69 21 63 63",
+      "antallPlasser": 1000
+    },
+    "lat": 59.1174994,
+    "lng": 11.3886893
+  },
+  {
+    "title": "Afrah Abbas Jiad",
+    "address": "Glennveien 14, 1781 HALDEN",
+    "metadata": {
+      "legekontor": "Afrah Medical legekontor",
+      "tlf": "69 19 09 30",
+      "antallPlasser": 1200
+    },
+    "lat": 59.1293327,
+    "lng": 11.3677954
+  },
+  {
+    "title": "Jan Børre Johansen",
+    "address": "Nordmyrv 3, 1820 SPYDEBERG",
+    "metadata": {
+      "legekontor": "Landsbylegene",
+      "tlf": "69 85 67 00",
+      "antallPlasser": 1350
+    },
+    "lat": 59.6152567,
+    "lng": 11.0788072
+  },
+  {
+    "title": "Åge Tormod Johansen",
+    "address": "Råkollveien 103, 1664 ROLVSØY",
+    "metadata": {
+      "legekontor": "Rolvsøy legekontor",
+      "tlf": "69 35 43 00",
+      "antallPlasser": 1200
+    },
+    "lat": 59.265811,
+    "lng": 11.004988
+  },
+  {
+    "title": "Anne Kvale Joki",
+    "address": "Kråkerøyveien 9, 1671 Kråkerøy",
+    "metadata": {
+      "legekontor": "Ankerløkka Legesenter",
+      "tlf": "69 33 96 20",
+      "antallPlasser": 800
+    },
+    "lat": 59.206064,
+    "lng": 10.937047
+  },
+  {
+    "title": "Kristian Jæger",
+    "address": "Lerviksveien 28, 1626 MANSTAD",
+    "metadata": {
+      "legekontor": "Manstad Legekontor",
+      "tlf": "69 36 27 00",
+      "antallPlasser": 1000
+    },
+    "lat": 59.2690667,
+    "lng": 10.7686583
+  },
+  {
+    "title": "Cecilie Margrethe Jørgensen",
+    "address": "Villaveien 1, 1820 SPYDEBERG",
+    "metadata": {
+      "legekontor": "Villaveien legesenter",
+      "tlf": "69 83 74 30",
+      "antallPlasser": 1350
+    },
+    "lat": 59.6204934,
+    "lng": 11.0849254
+  },
+  {
+    "title": "Betty Kalikstad",
+    "address": "Helsehuset Jens Wilhelmsens gate 1, 1671 KRÅKERØY",
+    "metadata": {
+      "legekontor": "Spesialistklinikken Kråkerøy AS",
+      "ledigePlasser": 381,
+      "antallPlasser": 500,
+      "valgbar": true
+    },
+    "lat": 59.1821455,
+    "lng": 10.9237329
+  },
+  {
+    "title": "Elisabeth Vedahl Kaplon",
+    "address": "Pancoveien 22A, 1624 GRESSVIK",
+    "metadata": {
+      "legekontor": "Onsøy Legesenter",
+      "tlf": "69 33 75 30",
+      "ledigePlasser": 30,
+      "antallPlasser": 600,
+      "valgbar": true
+    },
+    "lat": 59.2355019,
+    "lng": 10.9070901
+  },
+  {
+    "title": "Ole Kristen Karlsrud",
+    "address": "Dr. Randers gate 4, 1830",
+    "metadata": {
+      "legekontor": "Dr Randersgate Legesenter DA",
+      "tlf": "69 88 79 90",
+      "ledigePlasser": 1,
+      "antallPlasser": 2050,
+      "valgbar": true
+    },
+    "lat": 59.5829933,
+    "lng": 11.1617937
+  },
+  {
+    "title": "Morten Kase-Berg",
+    "address": "Kråkerøyveien 9, 1671 Kråkerøy",
+    "metadata": {
+      "legekontor": "Ankerløkka Legesenter",
+      "tlf": "69 33 96 20",
+      "antallPlasser": 1000
+    },
+    "lat": 59.206064,
+    "lng": 10.937047
+  },
+  {
+    "title": "Hasan Hussain Kaskhol",
+    "address": "Prinsens gate 6, 1530 MOSS",
+    "metadata": {
+      "legekontor": "Amfi Medisinske Senter AS",
+      "tlf": "69 10 97 77",
+      "ledigePlasser": 465,
+      "antallPlasser": 900,
+      "valgbar": true
+    },
+    "lat": 59.4369172,
+    "lng": 10.6633675
+  },
+  {
+    "title": "Ali Ayaz Zafar Khan",
+    "address": "Nordmyrv 3, 1820 SPYDEBERG",
+    "metadata": {
+      "legekontor": "Landsbylegene",
+      "tlf": "69 85 67 00",
+      "ledigePlasser": 191,
+      "antallPlasser": 1200,
+      "valgbar": true
+    },
+    "lat": 59.6152567,
+    "lng": 11.0788072
+  },
+  {
+    "title": "Josef Zaman Khan",
+    "address": "Sykehusgata 2, 1807 ASKIM",
+    "metadata": {
+      "legekontor": "Helsehuset Fastlegekontor",
+      "tlf": "480 75 944",
+      "antallPlasser": 950
+    },
+    "lat": 59.587284,
+    "lng": 11.161414
+  },
+  {
+    "title": "Wiqar Khan",
+    "address": "Storveien 27, 1816 Skiptvet",
+    "metadata": {
+      "legekontor": "Skiptvet legekontor",
+      "tlf": "69 80 69 00",
+      "ledigePlasser": 84,
+      "antallPlasser": 1000,
+      "valgbar": true
+    },
+    "lat": 59.4743528,
+    "lng": 11.1606717
+  },
+  {
+    "title": "Alamdar Khusrawi",
+    "address": "Skippergata 20, 1767 HALDEN",
+    "metadata": {
+      "legekontor": "Legene På Brygga",
+      "tlf": "69 21 19 10",
+      "ledigePlasser": 314,
+      "antallPlasser": 1230,
+      "valgbar": true
+    },
+    "lat": 59.1183646,
+    "lng": 11.3891499
+  },
+  {
+    "title": "Mirjam Kilen",
+    "address": "Kjærlighetsstien 28, 1781 HALDEN",
+    "metadata": {
+      "legekontor": "Stangeberget Legesenter",
+      "tlf": "69 17 46 61",
+      "antallPlasser": 700
+    },
+    "lat": 59.1283145,
+    "lng": 11.3752308
+  },
+  {
+    "title": "Anders Kirkerød",
+    "address": "Sarpsborgveien 7E, 1640 RÅDE",
+    "metadata": {
+      "legekontor": "Sarpsborgveien Legesenter",
+      "tlf": "69 28 31 50",
+      "antallPlasser": 940
+    },
+    "lat": 59.3515871,
+    "lng": 10.8757313
+  },
+  {
+    "title": "Axel Kylstad Kleive",
+    "address": "Storgata 32, 1607 FREDRIKSTAD",
+    "metadata": {
+      "legekontor": "Glomma Legesenter",
+      "tlf": "69 36 66 80",
+      "antallPlasser": 900
+    },
+    "lat": 59.2144103,
+    "lng": 10.9332786
+  },
+  {
+    "title": "Helga Mathilde Nylenna Kollerøs",
+    "address": "Villaveien 1, 1820 SPYDEBERG",
+    "metadata": {
+      "legekontor": "Villaveien legesenter",
+      "tlf": "69 83 74 30",
+      "antallPlasser": 1300
+    },
+    "lat": 59.6204934,
+    "lng": 11.0849254
+  },
+  {
+    "title": "Julie Mathea Bernabé Kongrød-Winther",
+    "address": "Christianslund alle 4, 1613 FREDRIKSTAD",
+    "metadata": {
+      "legekontor": "Christianslund Legekontor",
+      "tlf": "69 36 69 69",
+      "ledigePlasser": 1,
+      "antallPlasser": 800,
+      "valgbar": true
+    },
+    "lat": 59.2249904,
+    "lng": 10.930932
+  },
+  {
+    "title": "Geir Kristensen",
+    "address": "Lilleengveien 8, 1523 Moss",
+    "metadata": {
+      "legekontor": "Lilleeng Legesenter",
+      "tlf": "69 25 35 45",
+      "antallPlasser": 1250
+    },
+    "lat": 59.4181618,
+    "lng": 10.6784675
+  },
+  {
+    "title": "Janicke Kjærnes Kristensen",
+    "address": "Prinsens gate 2, 1530",
+    "metadata": {
+      "legekontor": "Bylegene Moss",
+      "tlf": "69 24 08 16",
+      "antallPlasser": 1100
+    },
+    "lat": 59.4362709,
+    "lng": 10.6640506
+  },
+  {
+    "title": "Michael Kjærnes Kristensen",
+    "address": "Prinsens gate 2, 1530",
+    "metadata": {
+      "legekontor": "Bylegene Moss",
+      "tlf": "69 24 08 16",
+      "ledigePlasser": 3,
+      "antallPlasser": 1250,
+      "valgbar": true
+    },
+    "lat": 59.4362709,
+    "lng": 10.6640506
+  },
+  {
+    "title": "Ove Kristianslund",
+    "address": "Christianslund alle 4, 1613 FREDRIKSTAD",
+    "metadata": {
+      "legekontor": "Christianslund Legekontor",
+      "tlf": "69 36 69 69",
+      "antallPlasser": 1200
+    },
+    "lat": 59.2249904,
+    "lng": 10.930932
+  },
+  {
+    "title": "Aleksander André Fors Kvinge",
+    "address": "Prinsens gate 2, 1530",
+    "metadata": {
+      "legekontor": "Bylegene Moss",
+      "tlf": "69 24 08 16",
+      "ledigePlasser": 19,
+      "antallPlasser": 1250,
+      "valgbar": true
+    },
+    "lat": 59.4362709,
+    "lng": 10.6640506
+  },
+  {
+    "title": "Ove Kenneth Kvinge",
+    "address": "Stasjonsveien 3B, 1580 RYGGE",
+    "metadata": {
+      "legekontor": "Halmstad legekontor",
+      "tlf": "69 95 66 00",
+      "antallPlasser": 1200
+    },
+    "lat": 59.3781946,
+    "lng": 10.749131
+  },
+  {
+    "title": "Sondre Magnus Fonn Kvinge",
+    "address": "Bergskrenten 12, 1592 VÅLER I ØSTFOLD",
+    "metadata": {
+      "legekontor": "Våler Legekontor",
+      "tlf": "69 28 97 00",
+      "ledigePlasser": 8,
+      "antallPlasser": 800,
+      "valgbar": true
+    },
+    "lat": 59.488703,
+    "lng": 10.871609
+  },
+  {
+    "title": "Gerlinde Gunhild Sabine Kvinlaug",
+    "address": "LØENVEIEN 5, 1653 SELLEBAKK",
+    "metadata": {
+      "legekontor": "Borge Legesenter AS",
+      "tlf": "69 35 20 50",
+      "ledigePlasser": 17,
+      "antallPlasser": 1400,
+      "valgbar": true
+    },
+    "lat": 59.2275782,
+    "lng": 10.9945773
+  },
+  {
+    "title": "Synne Kvitvær",
+    "address": "Storgata 32, 1607 FREDRIKSTAD",
+    "metadata": {
+      "legekontor": "Glomma Legesenter",
+      "tlf": "69 36 66 80",
+      "antallPlasser": 1000
+    },
+    "lat": 59.2144103,
+    "lng": 10.9332786
+  },
+  {
+    "title": "Bent Asgeir Larsen",
+    "address": "Storgt 4C, 1767 HALDEN",
+    "metadata": {
+      "legekontor": "Karrestad Legesenter",
+      "tlf": "69 21 63 63",
+      "antallPlasser": 1000
+    },
+    "lat": 59.1174994,
+    "lng": 11.3886893
+  },
+  {
+    "title": "Hanne Cicilie Larsen",
+    "address": "Spjærøy 212, 1684 Vesterøy",
+    "metadata": {
+      "legekontor": "Hvaler Legesenter",
+      "tlf": "69 37 54 80",
+      "antallPlasser": 650
+    },
+    "lat": 59.096611,
+    "lng": 10.920482
+  },
+  {
+    "title": "Øyvind Larseng",
+    "address": "Roald Amundsensgate 17, 1723 SARPSBORG",
+    "metadata": {
+      "legekontor": "Lilletorget legekontor (Sarpsborg)",
+      "tlf": "69 10 82 60",
+      "antallPlasser": 520
+    },
+    "lat": 59.281737,
+    "lng": 11.102027
+  },
+  {
+    "title": "Even Leirstein",
+    "address": "Bankbrygga 2, 1606 FREDRIKSTAD",
+    "metadata": {
+      "legekontor": "Vincent Medisinske Senter",
+      "tlf": "69 95 55 44",
+      "ledigePlasser": 39,
+      "antallPlasser": 900,
+      "valgbar": true
+    },
+    "lat": 59.2100643,
+    "lng": 10.9391805
+  },
+  {
+    "title": "Guro Steine Letting",
+    "address": "Kråkerøyveien 9, 1671 Kråkerøy",
+    "metadata": {
+      "legekontor": "Ankerløkka Legesenter",
+      "tlf": "69 33 96 20",
+      "antallPlasser": 740
+    },
+    "lat": 59.206064,
+    "lng": 10.937047
+  },
+  {
+    "title": "Magnus Lien",
+    "address": "Storgata 32, 1607 FREDRIKSTAD",
+    "metadata": {
+      "legekontor": "Glomma Legesenter",
+      "tlf": "69 36 66 80",
+      "ledigePlasser": 53,
+      "antallPlasser": 650,
+      "valgbar": true
+    },
+    "lat": 59.2144103,
+    "lng": 10.9332786
+  },
+  {
+    "title": "Jens Kristian Lind-Larsen",
+    "address": "Gudes gate 1, 1530 Moss",
+    "metadata": {
+      "legekontor": "Møllebyen legesenter",
+      "antallPlasser": 1150
+    },
+    "lat": 59.437419,
+    "lng": 10.667235
+  },
+  {
+    "title": "Ingrid Lind-Solstad",
+    "address": "Vestlia 1, 1592 VÅLER I ØSTFOLD",
+    "metadata": {
+      "legekontor": "Vålerlegene DA",
+      "tlf": "69 10 91 91",
+      "antallPlasser": 700
+    },
+    "lat": 59.4902722,
+    "lng": 10.848626
+  },
+  {
+    "title": "Fred Artur Magnus Lindström",
+    "address": "Råkollveien 103, 1664 ROLVSØY",
+    "metadata": {
+      "legekontor": "Rolvsøy legekontor",
+      "tlf": "69 35 43 00",
+      "antallPlasser": 1100
+    },
+    "lat": 59.265811,
+    "lng": 11.004988
+  },
+  {
+    "title": "Karoline Lund",
+    "address": "Dokka 6, 1671 KRÅKERØY",
+    "metadata": {
+      "legekontor": "Vesterelva Legesenter AS",
+      "antallPlasser": 1250
+    },
+    "lat": 59.213964,
+    "lng": 10.925957
+  },
+  {
+    "title": "Silje Engen Lykke",
+    "address": "Rådshusveien 1, 1891 RAKKESTAD",
+    "metadata": {
+      "legekontor": "Rakkestad Legesenter",
+      "tlf": "69 22 80 00",
+      "antallPlasser": 920
+    },
+    "lat": 59.4279914,
+    "lng": 11.3399373
+  },
+  {
+    "title": "Ole Martin Lynglund",
+    "address": "Sølvgata 20, 1767 HALDEN",
+    "metadata": {
+      "legekontor": "Sølvgata Legesenter",
+      "tlf": "69 02 02 40",
+      "antallPlasser": 1020
+    },
+    "lat": 59.1168331,
+    "lng": 11.3869634
+  },
+  {
+    "title": "Nina Fossum Lyngstad",
+    "address": "Skredderveien 2, 1537 MOSS",
+    "metadata": {
+      "legekontor": "Kambo legesenter",
+      "tlf": "69 27 61 31",
+      "antallPlasser": 1100
+    },
+    "lat": 59.4640846,
+    "lng": 10.6894721
+  },
+  {
+    "title": "Jonas Aardahl Lærum",
+    "address": "Veigård 1, 1823 Knapstad",
+    "metadata": {
+      "legekontor": "Hobøl Legekontor DA",
+      "tlf": "69 92 49 90",
+      "antallPlasser": 1000
+    },
+    "lat": 59.620843,
+    "lng": 11.0306533
+  },
+  {
+    "title": "Bente Fredriksen Løken",
+    "address": "Jernbanegata 11B, 1850 Mysen",
+    "metadata": {
+      "legekontor": "Mysen legesenter AS",
+      "tlf": "69 84 64 20",
+      "antallPlasser": 800
+    },
+    "lat": 59.5533013,
+    "lng": 11.3250073
+  },
+  {
+    "title": "Camilla Victoria Løkken",
+    "address": "Fladebyveien 8 A, 1746 SKJEBERG",
+    "metadata": {
+      "legekontor": "Stasjonsbyen Legesenter",
+      "tlf": "69 16 86 84",
+      "antallPlasser": 750
+    },
+    "lat": 59.2054103,
+    "lng": 11.1914206
+  },
+  {
+    "title": "Robert Jozsef Lennart Magnusson",
+    "address": "Sarpsborgveien 7E, 1640 RÅDE",
+    "metadata": {
+      "legekontor": "Sarpsborgveien Legesenter",
+      "tlf": "69 28 31 50",
+      "antallPlasser": 1800
+    },
+    "lat": 59.3515871,
+    "lng": 10.8757313
+  },
+  {
+    "title": "Elisabeth Mainitz",
+    "address": "Storveien 77, 1621 GRESSVIK",
+    "metadata": {
+      "legekontor": "Helsegaarden AS",
+      "tlf": "21 04 78 78",
+      "antallPlasser": 1100
+    },
+    "lat": 59.216948,
+    "lng": 10.905525
+  },
+  {
+    "title": "Thomas Borge Malmo",
+    "address": "Tørkoppveien 10, 1570 DILLING",
+    "metadata": {
+      "legekontor": "Ekholt legekontor",
+      "tlf": "69 23 62 30",
+      "antallPlasser": 1450
+    },
+    "lat": 59.4074408,
+    "lng": 10.6965703
+  },
+  {
+    "title": "Ellen Iselin Mamen",
+    "address": "Lilleengveien 8, 1523 Moss",
+    "metadata": {
+      "legekontor": "Lilleeng Legesenter",
+      "tlf": "69 25 35 45",
+      "antallPlasser": 900
+    },
+    "lat": 59.4181618,
+    "lng": 10.6784675
+  },
+  {
+    "title": "Maren Sofie Mangersnes",
+    "address": "Storveien 77, 1621 GRESSVIK",
+    "metadata": {
+      "legekontor": "Helsegaarden AS",
+      "tlf": "21 04 78 78",
+      "antallPlasser": 700
+    },
+    "lat": 59.216948,
+    "lng": 10.905525
+  },
+  {
+    "title": "Lina Marga",
+    "address": "Kjærlighetsstien 28, 1781 HALDEN",
+    "metadata": {
+      "legekontor": "Stangeberget Legesenter",
+      "tlf": "69 17 46 61",
+      "antallPlasser": 625
+    },
+    "lat": 59.1283145,
+    "lng": 11.3752308
+  },
+  {
+    "title": "Rita Bjørnebakken Martinsen",
+    "address": "3. etasje Violgata 8, 1776 HALDEN",
+    "metadata": {
+      "legekontor": "Nordsiden legekontor",
+      "tlf": "400 99 393",
+      "antallPlasser": 860
+    },
+    "lat": 59.1250444,
+    "lng": 11.3834094
+  },
+  {
+    "title": "Bjørn-Tore Martinussen",
+    "address": "Dokka 6, 1671 KRÅKERØY",
+    "metadata": {
+      "legekontor": "Vesterelva Legesenter AS",
+      "ledigePlasser": 5,
+      "antallPlasser": 1250,
+      "valgbar": true
+    },
+    "lat": 59.213964,
+    "lng": 10.925957
+  },
+  {
+    "title": "Malin Paugard Mathisen",
+    "address": "Kirkebrygga 2, 1607 FREDRIKSTAD",
+    "metadata": {
+      "legekontor": "Lægene på kirkebrygga DA",
+      "tlf": "69 30 47 00",
+      "antallPlasser": 800
+    },
+    "lat": 59.2092733,
+    "lng": 10.9394213
+  },
+  {
+    "title": "Oskar Andreas Mathisen",
+    "address": "Tønne Huitfeldts Plass 2, 1767 HALDEN",
+    "metadata": {
+      "legekontor": "Sydsiden Legesenter",
+      "tlf": "69 21 14 50",
+      "antallPlasser": 1100
+    },
+    "lat": 59.117192,
+    "lng": 11.387523
+  },
+  {
+    "title": "Przemyslaw Jacek Maziarz",
+    "address": "Nordbyveien 98/100, 1734 HAFSLUNDSØY",
+    "metadata": {
+      "legekontor": "Varteig Legesenter AS",
+      "tlf": "69 13 24 20",
+      "ledigePlasser": 548,
+      "antallPlasser": 1000,
+      "valgbar": true
+    },
+    "lat": 59.2892848,
+    "lng": 11.1476984
+  },
+  {
+    "title": "Haakon Stener Mehlum",
+    "address": "Verkstedveien 6A, 1671 Kråkerøy",
+    "metadata": {
+      "legekontor": "Kråkerøy legesenter",
+      "tlf": "69 35 43 43",
+      "antallPlasser": 1000
+    },
+    "lat": 59.210075,
+    "lng": 10.936843
+  },
+  {
+    "title": "André Almvik Meyer",
+    "address": "Rådmann Siras vei 1, 1712 GRÅLUM",
+    "metadata": {
+      "legekontor": "Liv og Lykke Legesenter AS",
+      "tlf": "69 60 09 10",
+      "antallPlasser": 800
+    },
+    "lat": 59.2943813,
+    "lng": 11.0627938
+  },
+  {
+    "title": "Tore Grønlund Moen",
+    "address": "Storgata 12, 1771 HALDEN",
+    "metadata": {
+      "legekontor": "Storgata Legekontor",
+      "tlf": "69 17 59 70",
+      "antallPlasser": 1350
+    },
+    "lat": 59.123214,
+    "lng": 11.387274
+  },
+  {
+    "title": "Thea Molander",
+    "address": "Storveien 77, 1621 GRESSVIK",
+    "metadata": {
+      "legekontor": "Helsegaarden AS",
+      "tlf": "21 04 78 78",
+      "antallPlasser": 600
+    },
+    "lat": 59.216948,
+    "lng": 10.905525
+  },
+  {
+    "title": "Bekim Morina",
+    "address": "Rådmann Siras vei 1, 1712 GRÅLUM",
+    "metadata": {
+      "legekontor": "Liv og Lykke Legesenter AS",
+      "tlf": "69 60 09 10",
+      "ledigePlasser": 4,
+      "antallPlasser": 900,
+      "valgbar": true
+    },
+    "lat": 59.2943813,
+    "lng": 11.0627938
+  },
+  {
+    "title": "Scott Meyer Morris",
+    "address": "Dronningensgate 19, 1530 MOSS",
+    "metadata": {
+      "legekontor": "Vidsyn legekontor AS",
+      "ledigePlasser": 220,
+      "antallPlasser": 1100,
+      "valgbar": true
+    },
+    "lat": 59.4365113,
+    "lng": 10.667312
+  },
+  {
+    "title": "Hamza Mujaddidi",
+    "address": "St. Marie gate 96/98, 1706 Sarpsborg",
+    "metadata": {
+      "legekontor": "Torget Legesenter Sarpsborg AS",
+      "tlf": "69 13 09 00",
+      "ledigePlasser": 3,
+      "antallPlasser": 1200,
+      "valgbar": true
+    },
+    "lat": 59.2800237,
+    "lng": 11.1222214
+  },
+  {
+    "title": "Stephane Christopher Mukkaden",
+    "address": "Råkollveien 103, 1664 ROLVSØY",
+    "metadata": {
+      "legekontor": "Rolvsøy legekontor",
+      "tlf": "69 35 43 00",
+      "antallPlasser": 1150
+    },
+    "lat": 59.265811,
+    "lng": 11.004988
+  },
+  {
+    "title": "Øyvind Olav Myhre",
+    "address": "Storgata 41, 1531 MOSS",
+    "metadata": {
+      "legekontor": "Legekontoret i Moss",
+      "tlf": "69 25 43 21",
+      "antallPlasser": 1320
+    },
+    "lat": 59.4374426,
+    "lng": 10.662345
+  },
+  {
+    "title": "Amir Naderkhani",
+    "address": "Tønne Huitfeldts Plass 2, 1767 HALDEN",
+    "metadata": {
+      "legekontor": "Sydsiden Legesenter",
+      "tlf": "69 21 14 50",
+      "ledigePlasser": 7,
+      "antallPlasser": 920,
+      "valgbar": true
+    },
+    "lat": 59.117192,
+    "lng": 11.387523
+  },
+  {
+    "title": "Elin Ileby Nakstad",
+    "address": "Oscar Pedersens vei 2 A, 1706 SARPSBORG",
+    "metadata": {
+      "legekontor": "Capio Fastleger Sarpsborg",
+      "tlf": "24 02 24 15",
+      "antallPlasser": 900
+    },
+    "lat": 59.282916,
+    "lng": 11.121213
+  },
+  {
+    "title": "Omar Nasim",
+    "address": "Sentrum Legesenter Moss, 1530 MOSS",
+    "metadata": {
+      "legekontor": "Sentrum Legesenter Moss",
+      "tlf": "69 10 99 99",
+      "ledigePlasser": 192,
+      "antallPlasser": 1000,
+      "valgbar": true
+    },
+    "lat": 59.4357244,
+    "lng": 10.6629881
+  },
+  {
+    "title": "Bente Flaten Navarro",
+    "address": "Dronningensgate 19, 1530 MOSS",
+    "metadata": {
+      "legekontor": "Vidsyn legekontor AS",
+      "antallPlasser": 850
+    },
+    "lat": 59.4365113,
+    "lng": 10.667312
+  },
+  {
+    "title": "Sigrid Sørli Navelsaker",
+    "address": "Sykehusgata 2, 1807 ASKIM",
+    "metadata": {
+      "legekontor": "Helsehuset Fastlegekontor",
+      "tlf": "480 75 944",
+      "antallPlasser": 800
+    },
+    "lat": 59.587284,
+    "lng": 11.161414
+  },
+  {
+    "title": "Jim Innocent Ngoga",
+    "address": "Karl Johans Gate 8, 1706 SARPSBORG",
+    "metadata": {
+      "legekontor": "Karl Johans Legesenter",
+      "tlf": "69 15 22 00",
+      "ledigePlasser": 110,
+      "antallPlasser": 1200,
+      "valgbar": true
+    },
+    "lat": 59.2846036,
+    "lng": 11.1112382
+  },
+  {
+    "title": "Linh Anh Nguyen",
+    "address": "Storgata 41, 1531 MOSS",
+    "metadata": {
+      "legekontor": "Legekontoret i Moss",
+      "tlf": "69 25 43 21",
+      "ledigePlasser": 220,
+      "antallPlasser": 800,
+      "valgbar": true
+    },
+    "lat": 59.4374426,
+    "lng": 10.662345
+  },
+  {
+    "title": "Van Tho Nguyen",
+    "address": "Christianslund alle 4, 1613 FREDRIKSTAD",
+    "metadata": {
+      "legekontor": "Christianslund Legekontor",
+      "tlf": "69 36 69 69",
+      "ledigePlasser": 4,
+      "antallPlasser": 1100,
+      "valgbar": true
+    },
+    "lat": 59.2249904,
+    "lng": 10.930932
+  },
+  {
+    "title": "Jonas Peter Nicklasson",
+    "address": "Dyrendalsveien 13C, 1778 HALDEN",
+    "metadata": {
+      "legekontor": "Dyrendals Medisinske Senter",
+      "tlf": "69 17 52 00",
+      "ledigePlasser": 17,
+      "antallPlasser": 1200,
+      "valgbar": true
+    },
+    "lat": 59.131105,
+    "lng": 11.384216
+  },
+  {
+    "title": "Ena Nielsen",
+    "address": "Dokka 6, 1671 KRÅKERØY",
+    "metadata": {
+      "legekontor": "Vesterelva Legesenter AS",
+      "antallPlasser": 700
+    },
+    "lat": 59.213964,
+    "lng": 10.925957
+  },
+  {
+    "title": "Ida-Malen Adler Nilsen",
+    "address": "Trykkeriveien 6, 1653 SELLEBAKK",
+    "metadata": {
+      "legekontor": "Sellebakk Legekontor AS",
+      "tlf": "69 36 17 97",
+      "antallPlasser": 650
+    },
+    "lat": 59.2281753,
+    "lng": 10.9937353
+  },
+  {
+    "title": "Lasse Vilhelm Nilsen",
+    "address": "Helgebyveien 2, 1734 HAFSLUNDSØY",
+    "metadata": {
+      "legekontor": "Hafslundsøy Legesenter AS",
+      "tlf": "69 13 20 80",
+      "antallPlasser": 1900
+    },
+    "lat": 59.2918805,
+    "lng": 11.1494399
+  },
+  {
+    "title": "Morten Dag Nilsen",
+    "address": "Storgata 41, 1531 MOSS",
+    "metadata": {
+      "legekontor": "Legekontoret i Moss",
+      "tlf": "69 25 43 21",
+      "antallPlasser": 1400
+    },
+    "lat": 59.4374426,
+    "lng": 10.662345
+  },
+  {
+    "title": "Ebba Sofia Birgitta Nilsson",
+    "address": "Rosenlund 51, 1617 FREDRIKSTAD",
+    "metadata": {
+      "legekontor": "Rosenlund Legesenter",
+      "tlf": "69 35 45 45",
+      "antallPlasser": 800
+    },
+    "lat": 59.2301179,
+    "lng": 10.9664167
+  },
+  {
+    "title": "Anne-Marte Toft Nordrum",
+    "address": "Kråkerøyveien 9, 1671 Kråkerøy",
+    "metadata": {
+      "legekontor": "Ankerløkka Legesenter",
+      "tlf": "69 33 96 20",
+      "antallPlasser": 900
+    },
+    "lat": 59.206064,
+    "lng": 10.937047
+  },
+  {
+    "title": "Anette Normann",
+    "address": "G. A. Stouslands vei 1, 1671 Kråkerøy",
+    "metadata": {
+      "legekontor": "Plankebyen legesenter",
+      "tlf": "69 30 03 90",
+      "antallPlasser": 1150
+    },
+    "lat": 59.209661,
+    "lng": 10.929934
+  },
+  {
+    "title": "Patrick Normann",
+    "address": "Storveien 7, 1624 Gressvik",
+    "metadata": {
+      "legekontor": "Ørebekk Legesenter AS",
+      "tlf": "69 32 86 00",
+      "ledigePlasser": 38,
+      "antallPlasser": 1000,
+      "valgbar": true
+    },
+    "lat": 59.228279,
+    "lng": 10.910733
+  },
+  {
+    "title": "Emilie Sandbekk Norsted",
+    "address": "Spjærøy 212, 1684 Vesterøy",
+    "metadata": {
+      "legekontor": "Hvaler Legesenter",
+      "tlf": "69 37 54 80",
+      "ledigePlasser": 19,
+      "antallPlasser": 650,
+      "valgbar": true
+    },
+    "lat": 59.096611,
+    "lng": 10.920482
+  },
+  {
+    "title": "Malin Victoria Nylende",
+    "address": "Fladebyveien 8 A, 1746 SKJEBERG",
+    "metadata": {
+      "legekontor": "Stasjonsbyen Legesenter",
+      "tlf": "69 16 86 84",
+      "antallPlasser": 800
+    },
+    "lat": 59.2054103,
+    "lng": 11.1914206
+  },
+  {
+    "title": "Petter Fossheim Ohnstad",
+    "address": "Helgebyveien 2, 1734 HAFSLUNDSØY",
+    "metadata": {
+      "legekontor": "Hafslundsøy Legesenter AS",
+      "tlf": "69 13 20 80",
+      "antallPlasser": 1490
+    },
+    "lat": 59.2918805,
+    "lng": 11.1494399
+  },
+  {
+    "title": "Frederik Natvig Olafsen",
+    "address": "Storgata 52, 1870 ØRJE",
+    "metadata": {
+      "legekontor": "Sentrumsgården Legekontor",
+      "tlf": "69 81 01 50",
+      "antallPlasser": 800
+    },
+    "lat": 59.4805554,
+    "lng": 11.6581121
+  },
+  {
+    "title": "Morten Olaussen",
+    "address": "Kurlandveien 2, 1727 SARPSBORG",
+    "metadata": {
+      "legekontor": "Grålum Legesenter",
+      "tlf": "69 11 31 70",
+      "antallPlasser": 1100
+    },
+    "lat": 59.2929024,
+    "lng": 11.112471
+  },
+  {
+    "title": "Marie Kristin Ek Olsen",
+    "address": "Storveien 77, 1621 GRESSVIK",
+    "metadata": {
+      "legekontor": "Helsegaarden AS",
+      "tlf": "21 04 78 78",
+      "ledigePlasser": 76,
+      "antallPlasser": 500,
+      "valgbar": true
+    },
+    "lat": 59.216948,
+    "lng": 10.905525
+  },
+  {
+    "title": "Avan Omer Ali",
+    "address": "St. Marie gate 96/98, 1706 Sarpsborg",
+    "metadata": {
+      "legekontor": "Torget Legesenter Sarpsborg AS",
+      "tlf": "69 13 09 00",
+      "antallPlasser": 1000
+    },
+    "lat": 59.2800237,
+    "lng": 11.1222214
+  },
+  {
+    "title": "Atchuthan Paramananthan",
+    "address": "Nygårdsgt. 29, 1606 Fredrikstad",
+    "metadata": {
+      "legekontor": "Legesenter Nygaardsgata",
+      "tlf": "69 31 18 35",
+      "ledigePlasser": 24,
+      "antallPlasser": 1000,
+      "valgbar": true
+    },
+    "lat": 59.2078557,
+    "lng": 10.9457351
+  },
+  {
+    "title": "Espen Paugard",
+    "address": "Verkstedveien 6A, 1671 Kråkerøy",
+    "metadata": {
+      "legekontor": "Kråkerøy legesenter",
+      "tlf": "69 35 43 43",
+      "ledigePlasser": 21,
+      "antallPlasser": 900,
+      "valgbar": true
+    },
+    "lat": 59.210075,
+    "lng": 10.936843
+  },
+  {
+    "title": "Oana Cristina Pavel",
+    "address": "Spinneriveien 3, 1632 Gamle Fredrikstad",
+    "metadata": {
+      "legekontor": "Kongsten Legekontor",
+      "tlf": "69 32 39 00",
+      "antallPlasser": 1400
+    },
+    "lat": 59.2085737,
+    "lng": 10.9648803
+  },
+  {
+    "title": "Stein Jarle Pedersen",
+    "address": "Kråkerøyveien 9, 1671 Kråkerøy",
+    "metadata": {
+      "legekontor": "Ankerløkka Legesenter",
+      "tlf": "69 33 96 20",
+      "ledigePlasser": 4,
+      "antallPlasser": 1000,
+      "valgbar": true
+    },
+    "lat": 59.206064,
+    "lng": 10.937047
+  },
+  {
+    "title": "Thi Hong Luu Phan",
+    "address": "Snekkerstubakken 26, 1738 BORGENHAUGEN",
+    "metadata": {
+      "legekontor": "Borgenhaugen Legesenter DA",
+      "tlf": "69 97 20 80",
+      "antallPlasser": 900
+    },
+    "lat": 59.2691073,
+    "lng": 11.1592635
+  },
+  {
+    "title": "Sophia Pippa Stranger",
+    "address": "Dyrendalveien 13C, 1778 HALDEN",
+    "metadata": {
+      "legekontor": "Dr. Sophia P. Stranger legekontor",
+      "tlf": "902 82 520",
+      "antallPlasser": 1100
+    },
+    "lat": 59.1297852,
+    "lng": 11.3804771
+  },
+  {
+    "title": "Justyna Karina Pryjma",
+    "address": "Nordbyveien 98/100, 1734 HAFSLUNDSØY",
+    "metadata": {
+      "legekontor": "Varteig Legesenter AS",
+      "tlf": "69 13 24 20",
+      "ledigePlasser": 656,
+      "antallPlasser": 1000,
+      "valgbar": true
+    },
+    "lat": 59.2892848,
+    "lng": 11.1476984
+  },
+  {
+    "title": "Mohammed Rafea Qadori",
+    "address": "St.Marie gate 71, 1706 SARPSBORG",
+    "metadata": {
+      "legekontor": "Gleng Legesenter DA",
+      "tlf": "69 13 03 30",
+      "antallPlasser": 1050
+    },
+    "lat": 59.2816401,
+    "lng": 11.1178135
+  },
+  {
+    "title": "Farhan Rafique",
+    "address": "Nygårdsgt. 29, 1606 Fredrikstad",
+    "metadata": {
+      "legekontor": "Legesenter Nygaardsgata",
+      "tlf": "69 31 18 35",
+      "ledigePlasser": 335,
+      "antallPlasser": 1200,
+      "valgbar": true
+    },
+    "lat": 59.2078557,
+    "lng": 10.9457351
+  },
+  {
+    "title": "Rehman Rafique",
+    "address": "Karl Johans Gate 8, 1706 SARPSBORG",
+    "metadata": {
+      "legekontor": "Karl Johans Legesenter",
+      "tlf": "69 15 22 00",
+      "antallPlasser": 1200
+    },
+    "lat": 59.2846036,
+    "lng": 11.1112382
+  },
+  {
+    "title": "Kjell-Axel Reier",
+    "address": "Ole Vigs gate 13, 1517 MOSS",
+    "metadata": {
+      "legekontor": "Jeløy Legesenter",
+      "tlf": "69 91 03 00",
+      "antallPlasser": 900
+    },
+    "lat": 59.4332,
+    "lng": 10.631781
+  },
+  {
+    "title": "Truls André Reitan-Gjersøe",
+    "address": "Bjørnstadveien 2, 1712 GRÅLUM",
+    "metadata": {
+      "legekontor": "Tune legesenter",
+      "tlf": "69 97 20 00",
+      "antallPlasser": 900
+    },
+    "lat": 59.294261,
+    "lng": 11.064557
+  },
+  {
+    "title": "Mahmood Reza Reki",
+    "address": "Tønne Huitfeldts Plass 2, 1767 HALDEN",
+    "metadata": {
+      "legekontor": "Sydsiden Legesenter",
+      "tlf": "69 21 14 50",
+      "ledigePlasser": 76,
+      "antallPlasser": 1100,
+      "valgbar": true
+    },
+    "lat": 59.117192,
+    "lng": 11.387523
+  },
+  {
+    "title": "Muhamet Rexhaj",
+    "address": "Trøgstadveien 4b, 1830 Askim",
+    "metadata": {
+      "legekontor": "Torget legesenter",
+      "tlf": "69 84 40 00",
+      "antallPlasser": 1500
+    },
+    "lat": 59.5848208,
+    "lng": 11.1659902
+  },
+  {
+    "title": "Carene Loss Rian",
+    "address": "G. A. Stouslands vei 1, 1671 Kråkerøy",
+    "metadata": {
+      "legekontor": "Plankebyen legesenter",
+      "tlf": "69 30 03 90",
+      "antallPlasser": 1200
+    },
+    "lat": 59.209661,
+    "lng": 10.929934
+  },
+  {
+    "title": "Jeanette Torgersen Ringstrøm",
+    "address": "G. A. Stouslands vei 1, 1671 Kråkerøy",
+    "metadata": {
+      "legekontor": "Plankebyen legesenter",
+      "tlf": "69 30 03 90",
+      "ledigePlasser": 96,
+      "antallPlasser": 1400,
+      "valgbar": true
+    },
+    "lat": 59.209661,
+    "lng": 10.929934
+  },
+  {
+    "title": "Ragnhild Henriette Risnes",
+    "address": "Bryggeriveien 10 A, 1607 FREDRIKSTAD",
+    "metadata": {
+      "legekontor": "Bylegen Legesenter",
+      "tlf": "69 30 02 20",
+      "ledigePlasser": 120,
+      "antallPlasser": 1000,
+      "valgbar": true
+    },
+    "lat": 59.2137148,
+    "lng": 10.9419451
+  },
+  {
+    "title": "Uzma Sajjad Rizvi",
+    "address": "Vestlia 1, 1592 VÅLER I ØSTFOLD",
+    "metadata": {
+      "legekontor": "Vålerlegene DA",
+      "tlf": "69 10 91 91",
+      "antallPlasser": 1700
+    },
+    "lat": 59.4902722,
+    "lng": 10.848626
+  },
+  {
+    "title": "Eric Karl Johan Roslin",
+    "address": "Rådshusveien 1, 1891 RAKKESTAD",
+    "metadata": {
+      "legekontor": "Rakkestad Legesenter",
+      "tlf": "69 22 80 00",
+      "ledigePlasser": 11,
+      "antallPlasser": 1300,
+      "valgbar": true
+    },
+    "lat": 59.4279914,
+    "lng": 11.3399373
+  },
+  {
+    "title": "Rikard Markus Rupar",
+    "address": "Tørkoppveien 10, 1570 DILLING",
+    "metadata": {
+      "legekontor": "Ekholt legekontor",
+      "tlf": "69 23 62 30",
+      "ledigePlasser": 14,
+      "antallPlasser": 1450,
+      "valgbar": true
+    },
+    "lat": 59.4074408,
+    "lng": 10.6965703
+  },
+  {
+    "title": "Ingvild Ruud",
+    "address": "LØENVEIEN 5, 1653 SELLEBAKK",
+    "metadata": {
+      "legekontor": "Borge Legesenter AS",
+      "tlf": "69 35 20 50",
+      "antallPlasser": 900
+    },
+    "lat": 59.2275782,
+    "lng": 10.9945773
+  },
+  {
+    "title": "Carl Simon Ruud-Larsson",
+    "address": "Snekkerstubakken 26, 1738 BORGENHAUGEN",
+    "metadata": {
+      "legekontor": "Borgenhaugen Legesenter DA",
+      "tlf": "69 97 20 80",
+      "antallPlasser": 900
+    },
+    "lat": 59.2691073,
+    "lng": 11.1592635
+  },
+  {
+    "title": "Alexander Justad Røise",
+    "address": "Trykkeriveien 6, 1653 SELLEBAKK",
+    "metadata": {
+      "legekontor": "Sellebakk Legekontor AS",
+      "tlf": "69 36 17 97",
+      "ledigePlasser": 9,
+      "antallPlasser": 900,
+      "valgbar": true
+    },
+    "lat": 59.2281753,
+    "lng": 10.9937353
+  },
+  {
+    "title": "Ingrid Leonora Vesth Røise",
+    "address": "Ole Vigs gate 13, 1517 MOSS",
+    "metadata": {
+      "legekontor": "Jeløy Legesenter",
+      "tlf": "69 91 03 00",
+      "antallPlasser": 800
+    },
+    "lat": 59.4332,
+    "lng": 10.631781
+  },
+  {
+    "title": "Birgitte Enger Rønning",
+    "address": "Lilleengveien 8, 1523 Moss",
+    "metadata": {
+      "legekontor": "Lilleeng Legesenter",
+      "tlf": "69 25 35 45",
+      "antallPlasser": 1150
+    },
+    "lat": 59.4181618,
+    "lng": 10.6784675
+  },
+  {
+    "title": "Martine Rørhus",
+    "address": "Kirkebrygga 2, 1607 FREDRIKSTAD",
+    "metadata": {
+      "legekontor": "Lægene på kirkebrygga DA",
+      "tlf": "69 30 47 00",
+      "antallPlasser": 800
+    },
+    "lat": 59.2092733,
+    "lng": 10.9394213
+  },
+  {
+    "title": "Inge Røsstad",
+    "address": "Prinsebakken 1, 1680 Skjærhalden",
+    "metadata": {
+      "legekontor": "Skjærhalden Legekontor",
+      "tlf": "69 37 49 70",
+      "ledigePlasser": 405,
+      "antallPlasser": 930,
+      "valgbar": true
+    },
+    "lat": 59.027451,
+    "lng": 11.034282
+  },
+  {
+    "title": "Golbon Sadrzadeh",
+    "address": "Storgata 52, 1870 ØRJE",
+    "metadata": {
+      "legekontor": "Sentrumsgården Legekontor",
+      "tlf": "69 81 01 50",
+      "antallPlasser": 400
+    },
+    "lat": 59.4805554,
+    "lng": 11.6581121
+  },
+  {
+    "title": "Petter Samuelsen",
+    "address": "Kirkebrygga 2, 1607 FREDRIKSTAD",
+    "metadata": {
+      "legekontor": "Lægene på kirkebrygga DA",
+      "tlf": "69 30 47 00",
+      "antallPlasser": 850
+    },
+    "lat": 59.2092733,
+    "lng": 10.9394213
+  },
+  {
+    "title": "Thorbjørn Sandem",
+    "address": "Trøgstadveien 4b, 1830 Askim",
+    "metadata": {
+      "legekontor": "Torget legesenter",
+      "tlf": "69 84 40 00",
+      "antallPlasser": 1000
+    },
+    "lat": 59.5848208,
+    "lng": 11.1659902
+  },
+  {
+    "title": "Eirik Bjørnå Sandnes",
+    "address": "Skredderveien 2, 1537 MOSS",
+    "metadata": {
+      "legekontor": "Kambo legesenter",
+      "tlf": "69 27 61 31",
+      "antallPlasser": 550
+    },
+    "lat": 59.4640846,
+    "lng": 10.6894721
+  },
+  {
+    "title": "Annelee Haagensli Sanengen",
+    "address": "Storgata 32, 1607 FREDRIKSTAD",
+    "metadata": {
+      "legekontor": "Glomma Legesenter",
+      "tlf": "69 36 66 80",
+      "antallPlasser": 900
+    },
+    "lat": 59.2144103,
+    "lng": 10.9332786
+  },
+  {
+    "title": "Reidar Sannes",
+    "address": "Stasjonsveien 3B, 1580 RYGGE",
+    "metadata": {
+      "legekontor": "Halmstad legekontor",
+      "tlf": "69 95 66 00",
+      "ledigePlasser": 48,
+      "antallPlasser": 1050,
+      "valgbar": true
+    },
+    "lat": 59.3781946,
+    "lng": 10.749131
+  },
+  {
+    "title": "Karianne Lønn Sannrud",
+    "address": "Nygaardsgaten 49, 1607 Fredrikstad",
+    "metadata": {
+      "legekontor": "Legene i Nygaardsgata AS",
+      "tlf": "69 95 50 10",
+      "antallPlasser": 900
+    },
+    "lat": 59.2127964,
+    "lng": 10.940221
+  },
+  {
+    "title": "Charles Amar Singh Sawali",
+    "address": "Midtveien 1A, 1526 MOSS",
+    "metadata": {
+      "legekontor": "Varna Legesenter AS",
+      "tlf": "69 91 25 00",
+      "ledigePlasser": 25,
+      "antallPlasser": 850,
+      "valgbar": true
+    },
+    "lat": 59.4163,
+    "lng": 10.677475
+  },
+  {
+    "title": "Kristin Scheele",
+    "address": "Bankbrygga 2, 1606 FREDRIKSTAD",
+    "metadata": {
+      "legekontor": "Vincent Medisinske Senter",
+      "tlf": "69 95 55 44",
+      "ledigePlasser": 48,
+      "antallPlasser": 1100,
+      "valgbar": true
+    },
+    "lat": 59.2100643,
+    "lng": 10.9391805
+  },
+  {
+    "title": "Hanne Scheen",
+    "address": "Trykkeriveien 6, 1653 SELLEBAKK",
+    "metadata": {
+      "legekontor": "Sellebakk Legekontor AS",
+      "tlf": "69 36 17 97",
+      "antallPlasser": 700
+    },
+    "lat": 59.2281753,
+    "lng": 10.9937353
+  },
+  {
+    "title": "Anna-Maria Gorska Schnitzkewitz",
+    "address": "Bankbrygga 2, 1606 FREDRIKSTAD",
+    "metadata": {
+      "legekontor": "Vincent Medisinske Senter",
+      "tlf": "69 95 55 44",
+      "antallPlasser": 1000
+    },
+    "lat": 59.2100643,
+    "lng": 10.9391805
+  },
+  {
+    "title": "René Schwartz",
+    "address": "Torget 4, 1707 SARPSBORG",
+    "metadata": {
+      "legekontor": "Sentrum Legesenter",
+      "tlf": "69 13 30 50",
+      "ledigePlasser": 107,
+      "antallPlasser": 1800,
+      "valgbar": true
+    },
+    "lat": 59.2842828,
+    "lng": 11.1105509
+  },
+  {
+    "title": "Sarah Helen Wheeler Seidelin",
+    "address": "Gudes gate 1B, 1530 MOSS",
+    "metadata": {
+      "legekontor": "Moss Medisinske senter",
+      "tlf": "22 34 34 00",
+      "ledigePlasser": 88,
+      "antallPlasser": 1000,
+      "valgbar": true
+    },
+    "lat": 59.437419,
+    "lng": 10.667235
+  },
+  {
+    "title": "Kristin Sundsvold Selmer",
+    "address": "Veigård 1, 1823 Knapstad",
+    "metadata": {
+      "legekontor": "Hobøl Legekontor DA",
+      "tlf": "69 92 49 90",
+      "antallPlasser": 1100
+    },
+    "lat": 59.620843,
+    "lng": 11.0306533
+  },
+  {
+    "title": "Saqib Shahzad",
+    "address": "vidarsvei 22, 1781 Halden",
+    "metadata": {
+      "legekontor": "Halden Medisinske Senter",
+      "tlf": "69 19 09 70",
+      "ledigePlasser": 132,
+      "antallPlasser": 1200,
+      "valgbar": true
+    },
+    "lat": 59.134413,
+    "lng": 11.3713883
+  },
+  {
+    "title": "Ibrar Sharif",
+    "address": "Trøgstadveien 4b, 1830 Askim",
+    "metadata": {
+      "legekontor": "Torget legesenter",
+      "tlf": "69 84 40 00",
+      "ledigePlasser": 18,
+      "antallPlasser": 1100,
+      "valgbar": true
+    },
+    "lat": 59.5848208,
+    "lng": 11.1659902
+  },
+  {
+    "title": "Mohammed Sherif",
+    "address": "Skippergata 20, 1767 HALDEN",
+    "metadata": {
+      "legekontor": "Legene På Brygga",
+      "tlf": "69 21 19 10",
+      "antallPlasser": 1200
+    },
+    "lat": 59.1183646,
+    "lng": 11.3891499
+  },
+  {
+    "title": "Hanna Showatatek",
+    "address": "Rosenlund 51, 1617 FREDRIKSTAD",
+    "metadata": {
+      "legekontor": "Rosenlund Legesenter",
+      "tlf": "69 35 45 45",
+      "antallPlasser": 750
+    },
+    "lat": 59.2301179,
+    "lng": 10.9664167
+  },
+  {
+    "title": "Irina Sibirius",
+    "address": "Storgaten 5, 1767 HALDEN",
+    "metadata": {
+      "legekontor": "Avicenna Legesenter",
+      "tlf": "61 10 00 30",
+      "ledigePlasser": 70,
+      "antallPlasser": 1100,
+      "valgbar": true
+    },
+    "lat": 59.1174994,
+    "lng": 11.3886893
+  },
+  {
+    "title": "Kristoffer Bordado Simensen",
+    "address": "Lilleengveien 8, 1523 Moss",
+    "metadata": {
+      "legekontor": "Lilleeng Legesenter",
+      "tlf": "69 25 35 45",
+      "antallPlasser": 1075
+    },
+    "lat": 59.4181618,
+    "lng": 10.6784675
+  },
+  {
+    "title": "Gagandeep Singh",
+    "address": "Vestlia 1, 1592 VÅLER I ØSTFOLD",
+    "metadata": {
+      "legekontor": "Vålerlegene DA",
+      "tlf": "69 10 91 91",
+      "ledigePlasser": 123,
+      "antallPlasser": 600,
+      "valgbar": true
+    },
+    "lat": 59.4902722,
+    "lng": 10.848626
+  },
+  {
+    "title": "Per Kristian Skulberg",
+    "address": "Sykehusgata 2, 1807 ASKIM",
+    "metadata": {
+      "legekontor": "Helsehuset Fastlegekontor",
+      "tlf": "480 75 944",
+      "antallPlasser": 200
+    },
+    "lat": 59.587284,
+    "lng": 11.161414
+  },
+  {
+    "title": "Silje Lillegård Skaaraas",
+    "address": "Pancoveien 22A, 1624 GRESSVIK",
+    "metadata": {
+      "legekontor": "Onsøy Legesenter",
+      "tlf": "69 33 75 30",
+      "ledigePlasser": 148,
+      "antallPlasser": 700,
+      "valgbar": true
+    },
+    "lat": 59.2355019,
+    "lng": 10.9070901
+  },
+  {
+    "title": "Katia Petrova Slavkova-Pantazieva",
+    "address": "Tamburveien 9, 1718 GREÅKER",
+    "metadata": {
+      "legekontor": "Greåker Legekontor",
+      "tlf": "69 10 45 90",
+      "antallPlasser": 1400
+    },
+    "lat": 59.267889,
+    "lng": 11.0320627
+  },
+  {
+    "title": "Heidi Ødegård Solvang",
+    "address": "Ringvoll Senter 1D, 1827 HOBØL",
+    "metadata": {
+      "legekontor": "Ringvoll Helse AS",
+      "tlf": "69 92 43 80",
+      "ledigePlasser": 137,
+      "antallPlasser": 1500,
+      "valgbar": true
+    },
+    "lat": 59.5586658,
+    "lng": 10.8456439
+  },
+  {
+    "title": "Endre Solvi",
+    "address": "Rosenlund 51, 1617 FREDRIKSTAD",
+    "metadata": {
+      "legekontor": "Rosenlund Legesenter",
+      "tlf": "69 35 45 45",
+      "antallPlasser": 1200
+    },
+    "lat": 59.2301179,
+    "lng": 10.9664167
+  },
+  {
+    "title": "Per Martin Sommernes",
+    "address": "Gudes gate 1, 1530 Moss",
+    "metadata": {
+      "legekontor": "Møllebyen legesenter",
+      "ledigePlasser": 15,
+      "antallPlasser": 1500,
+      "valgbar": true
+    },
+    "lat": 59.437419,
+    "lng": 10.667235
+  },
+  {
+    "title": "Yvesa Spahija",
+    "address": "Sentrum Legesenter Moss, 1530 MOSS",
+    "metadata": {
+      "legekontor": "Sentrum Legesenter Moss",
+      "tlf": "69 10 99 99",
+      "ledigePlasser": 361,
+      "antallPlasser": 1150,
+      "valgbar": true
+    },
+    "lat": 59.4357244,
+    "lng": 10.6629881
+  },
+  {
+    "title": "Julia Lagethon Spetz",
+    "address": "Storgata 52, 1870 ØRJE",
+    "metadata": {
+      "legekontor": "Sentrumsgården Legekontor",
+      "tlf": "69 81 01 50",
+      "antallPlasser": 600
+    },
+    "lat": 59.4805554,
+    "lng": 11.6581121
+  },
+  {
+    "title": "Liliia Spirina",
+    "address": "Rådhusveien 4, 1890 Rakkestad",
+    "metadata": {
+      "legekontor": "Bygdelegene DA",
+      "tlf": "69 22 40 70",
+      "antallPlasser": 900
+    },
+    "lat": 59.4276613,
+    "lng": 11.3423133
+  },
+  {
+    "title": "Jan-André Stalsberg-Olsen",
+    "address": "LØENVEIEN 5, 1653 SELLEBAKK",
+    "metadata": {
+      "legekontor": "Borge Legesenter AS",
+      "tlf": "69 35 20 50",
+      "antallPlasser": 1500
+    },
+    "lat": 59.2275782,
+    "lng": 10.9945773
+  },
+  {
+    "title": "Karianne Stave",
+    "address": "Stasjonsveien 3B, 1580 RYGGE",
+    "metadata": {
+      "legekontor": "Halmstad legekontor",
+      "tlf": "69 95 66 00",
+      "antallPlasser": 1050
+    },
+    "lat": 59.3781946,
+    "lng": 10.749131
+  },
+  {
+    "title": "Marte Anine Stedjeberg",
+    "address": "Rådmann Siras vei 1, 1712 GRÅLUM",
+    "metadata": {
+      "legekontor": "Liv og Lykke Legesenter AS",
+      "tlf": "69 60 09 10",
+      "antallPlasser": 750
+    },
+    "lat": 59.2943813,
+    "lng": 11.0627938
+  },
+  {
+    "title": "Stian Knutsen Stenebråten",
+    "address": "LØENVEIEN 5, 1653 SELLEBAKK",
+    "metadata": {
+      "legekontor": "Borge Legesenter AS",
+      "tlf": "69 35 20 50",
+      "ledigePlasser": 7,
+      "antallPlasser": 1000,
+      "valgbar": true
+    },
+    "lat": 59.2275782,
+    "lng": 10.9945773
+  },
+  {
+    "title": "Espen Storeheier",
+    "address": "Rådshusveien 1, 1891 RAKKESTAD",
+    "metadata": {
+      "legekontor": "Rakkestad Legesenter",
+      "tlf": "69 22 80 00",
+      "antallPlasser": 700
+    },
+    "lat": 59.4279914,
+    "lng": 11.3399373
+  },
+  {
+    "title": "Ingebjørg Strømnes-Vetvik",
+    "address": "Vestlia 1, 1592 VÅLER I ØSTFOLD",
+    "metadata": {
+      "legekontor": "Vålerlegene DA",
+      "tlf": "69 10 91 91",
+      "antallPlasser": 600
+    },
+    "lat": 59.4902722,
+    "lng": 10.848626
+  },
+  {
+    "title": "Alexander Sussman",
+    "address": "Lerviksveien 28, 1626 MANSTAD",
+    "metadata": {
+      "legekontor": "Manstad Legekontor",
+      "tlf": "69 36 27 00",
+      "ledigePlasser": 127,
+      "antallPlasser": 1000,
+      "valgbar": true
+    },
+    "lat": 59.2690667,
+    "lng": 10.7686583
+  },
+  {
+    "title": "Ingvild Glende Svanstrøm",
+    "address": "Kirkeveien 17, 1860 TRØGSTAD",
+    "metadata": {
+      "legekontor": "Skjønhauglegene",
+      "tlf": "940 01 082",
+      "antallPlasser": 800
+    },
+    "lat": 59.641354,
+    "lng": 11.315436
+  },
+  {
+    "title": "Dag Eivind Syverstad",
+    "address": "Fladebyveien 8 A, 1746 SKJEBERG",
+    "metadata": {
+      "legekontor": "Stasjonsbyen Legesenter",
+      "tlf": "69 16 86 84",
+      "antallPlasser": 1100
+    },
+    "lat": 59.2054103,
+    "lng": 11.1914206
+  },
+  {
+    "title": "Heidi Sørby",
+    "address": "Sykehusgata 2, 1807 ASKIM",
+    "metadata": {
+      "legekontor": "Helsehuset Fastlegekontor",
+      "tlf": "480 75 944",
+      "antallPlasser": 600
+    },
+    "lat": 59.587284,
+    "lng": 11.161414
+  },
+  {
+    "title": "Julia Sørensen",
+    "address": "Storveien 27, 1816 Skiptvet",
+    "metadata": {
+      "legekontor": "Skiptvet legekontor",
+      "tlf": "69 80 69 00",
+      "antallPlasser": 1050
+    },
+    "lat": 59.4743528,
+    "lng": 11.1606717
+  },
+  {
+    "title": "Petter Sørum",
+    "address": "Dronningensgate 19, 1530 MOSS",
+    "metadata": {
+      "legekontor": "Vidsyn legekontor AS",
+      "ledigePlasser": 67,
+      "antallPlasser": 900,
+      "valgbar": true
+    },
+    "lat": 59.4365113,
+    "lng": 10.667312
+  },
+  {
+    "title": "Ceren Tamguler Barreto Rios",
+    "address": "Roald Amundsensgate 36, 1723 SARPSBORG",
+    "metadata": {
+      "legekontor": "Storbyen Legesenter",
+      "tlf": "69 12 69 22",
+      "antallPlasser": 1200
+    },
+    "lat": 59.281737,
+    "lng": 11.102027
+  },
+  {
+    "title": "Kaby Theivendran",
+    "address": "Rådhusgata 23, 1830 ASKIM",
+    "metadata": {
+      "legekontor": "Askim Legesenter",
+      "tlf": "69 81 96 00",
+      "ledigePlasser": 52,
+      "antallPlasser": 1100,
+      "valgbar": true
+    },
+    "lat": 59.583697,
+    "lng": 11.159489
+  },
+  {
+    "title": "Andreas Eide Therkelsen",
+    "address": "Rådhusgata 23, 1830 ASKIM",
+    "metadata": {
+      "legekontor": "Askim Legesenter",
+      "tlf": "69 81 96 00",
+      "antallPlasser": 1100
+    },
+    "lat": 59.583697,
+    "lng": 11.159489
+  },
+  {
+    "title": "Anne Merete Thorsen",
+    "address": "Rådhusveien 4, 1890 Rakkestad",
+    "metadata": {
+      "legekontor": "Bygdelegene DA",
+      "tlf": "69 22 40 70",
+      "antallPlasser": 840
+    },
+    "lat": 59.4276613,
+    "lng": 11.3423133
+  },
+  {
+    "title": "Thomas Alexander Thorvaldsen",
+    "address": "Rådhusveien 4, 1890 Rakkestad",
+    "metadata": {
+      "legekontor": "Bygdelegene DA",
+      "tlf": "69 22 40 70",
+      "antallPlasser": 600
+    },
+    "lat": 59.4276613,
+    "lng": 11.3423133
+  },
+  {
+    "title": "Hanne Sigrid Tolfsen",
+    "address": "Dokka 6, 1671 KRÅKERØY",
+    "metadata": {
+      "legekontor": "Vesterelva Legesenter AS",
+      "antallPlasser": 800
+    },
+    "lat": 59.213964,
+    "lng": 10.925957
+  },
+  {
+    "title": "Milena Trbojevic",
+    "address": "Ringvoll Senter 1D, 1827 HOBØL",
+    "metadata": {
+      "legekontor": "Ringvoll Helse AS",
+      "tlf": "69 92 43 80",
+      "ledigePlasser": 390,
+      "antallPlasser": 900,
+      "valgbar": true
+    },
+    "lat": 59.5586658,
+    "lng": 10.8456439
+  },
+  {
+    "title": "Teodor Kristoffer Tønnesen",
+    "address": "Fladebyveien 8 A, 1746 SKJEBERG",
+    "metadata": {
+      "legekontor": "Stasjonsbyen Legesenter",
+      "tlf": "69 16 86 84",
+      "antallPlasser": 1000
+    },
+    "lat": 59.2054103,
+    "lng": 11.1914206
+  },
+  {
+    "title": "Einar Wettre Unsvåg",
+    "address": "Veigård 1, 1823 Knapstad",
+    "metadata": {
+      "legekontor": "Hobøl Legekontor DA",
+      "tlf": "69 92 49 90",
+      "antallPlasser": 1200
+    },
+    "lat": 59.620843,
+    "lng": 11.0306533
+  },
+  {
+    "title": "Alexandra Utgaard-Haugbro",
+    "address": "Roald Amundsensgate 36, 1723 SARPSBORG",
+    "metadata": {
+      "legekontor": "Storbyen Legesenter",
+      "tlf": "69 12 69 22",
+      "antallPlasser": 1450
+    },
+    "lat": 59.281737,
+    "lng": 11.102027
+  },
+  {
+    "title": "Christine Kvaløy Utne",
+    "address": "Midtveien 1A, 1526 MOSS",
+    "metadata": {
+      "legekontor": "Varna Legesenter AS",
+      "tlf": "69 91 25 00",
+      "antallPlasser": 800
+    },
+    "lat": 59.4163,
+    "lng": 10.677475
+  },
+  {
+    "title": "Eirin Marielle Vesteng",
+    "address": "Storgata 52, 1870 ØRJE",
+    "metadata": {
+      "legekontor": "Sentrumsgården Legekontor",
+      "tlf": "69 81 01 50",
+      "antallPlasser": 150
+    },
+    "lat": 59.4805554,
+    "lng": 11.6581121
+  },
+  {
+    "title": "Michele Barros Viana",
+    "address": "Tørkoppveien 10, 1570 DILLING",
+    "metadata": {
+      "legekontor": "Ekholt legekontor",
+      "tlf": "69 23 62 30",
+      "ledigePlasser": 156,
+      "antallPlasser": 1400,
+      "valgbar": true
+    },
+    "lat": 59.4074408,
+    "lng": 10.6965703
+  },
+  {
+    "title": "Ivan Vlaovic",
+    "address": "Dr. Randers gate 4, 1830",
+    "metadata": {
+      "legekontor": "Dr Randersgate Legesenter DA",
+      "tlf": "69 88 79 90",
+      "antallPlasser": 1150
+    },
+    "lat": 59.5829933,
+    "lng": 11.1617937
+  },
+  {
+    "title": "Betten Vaager",
+    "address": "Jernbanegata 11B, 1850 Mysen",
+    "metadata": {
+      "legekontor": "Mysen legesenter AS",
+      "tlf": "69 84 64 20",
+      "antallPlasser": 800
+    },
+    "lat": 59.5533013,
+    "lng": 11.3250073
+  },
+  {
+    "title": "Iryna Wang",
+    "address": "St. Marie gate 96/98, 1706 Sarpsborg",
+    "metadata": {
+      "legekontor": "Torget Legesenter Sarpsborg AS",
+      "tlf": "69 13 09 00",
+      "antallPlasser": 1100
+    },
+    "lat": 59.2800237,
+    "lng": 11.1222214
+  },
+  {
+    "title": "Najda Weis-Fogh",
+    "address": "Storgata 10, 1607 FREDRIKSTAD",
+    "metadata": {
+      "legekontor": "Nedre Glommen Legegruppe DA",
+      "tlf": "69 36 63 30",
+      "ledigePlasser": 16,
+      "antallPlasser": 1200,
+      "valgbar": true
+    },
+    "lat": 59.2122923,
+    "lng": 10.9367661
+  },
+  {
+    "title": "Troels Weis-Fogh",
+    "address": "Kapperstien 24, 1621 GRESSVIK",
+    "metadata": {
+      "legekontor": "Gressvik Legekontor",
+      "tlf": "69 36 18 00",
+      "ledigePlasser": 36,
+      "antallPlasser": 1210,
+      "valgbar": true
+    },
+    "lat": 59.215453,
+    "lng": 10.905331
+  },
+  {
+    "title": "Thomas Westnes",
+    "address": "Storveien 7, 1624 Gressvik",
+    "metadata": {
+      "legekontor": "Ørebekk Legesenter AS",
+      "tlf": "69 32 86 00",
+      "ledigePlasser": 148,
+      "antallPlasser": 1100,
+      "valgbar": true
+    },
+    "lat": 59.228279,
+    "lng": 10.910733
+  },
+  {
+    "title": "Martin Wevling",
+    "address": "Spjærøy 212, 1684 Vesterøy",
+    "metadata": {
+      "legekontor": "Hvaler Legesenter",
+      "tlf": "69 37 54 80",
+      "ledigePlasser": 77,
+      "antallPlasser": 500,
+      "valgbar": true
+    },
+    "lat": 59.096611,
+    "lng": 10.920482
+  },
+  {
+    "title": "Siri Anne Wisur",
+    "address": "Helsehuset Jens Wilhelmsens gate 1, 1671 KRÅKERØY",
+    "metadata": {
+      "legekontor": "Spesialistklinikken Kråkerøy AS",
+      "ledigePlasser": 147,
+      "antallPlasser": 500,
+      "valgbar": true
+    },
+    "lat": 59.1821455,
+    "lng": 10.9237329
+  },
+  {
+    "title": "Rosalba Yobuta",
+    "address": "Rådmann Siras vei 1, 1712 GRÅLUM",
+    "metadata": {
+      "legekontor": "Liv og Lykke Legesenter AS",
+      "tlf": "69 60 09 10",
+      "ledigePlasser": 8,
+      "antallPlasser": 900,
+      "valgbar": true
+    },
+    "lat": 59.2943813,
+    "lng": 11.0627938
+  },
+  {
+    "title": "Elena Zolotareva-Idstad",
+    "address": "Tamburveien 9, 1718 GREÅKER",
+    "metadata": {
+      "legekontor": "Greåker Legekontor",
+      "tlf": "69 10 45 90",
+      "antallPlasser": 1000
+    },
+    "lat": 59.267889,
+    "lng": 11.0320627
+  },
+  {
+    "title": "Karina Østern",
+    "address": "Lerviksveien 28, 1626 MANSTAD",
+    "metadata": {
+      "legekontor": "Manstad Legekontor",
+      "tlf": "69 36 27 00",
+      "ledigePlasser": 109,
+      "antallPlasser": 500,
+      "valgbar": true
+    },
+    "lat": 59.2690667,
+    "lng": 10.7686583
+  },
+  {
+    "title": "Marianne Østern",
+    "address": "Kapperstien 24, 1621 GRESSVIK",
+    "metadata": {
+      "legekontor": "Gressvik Legekontor",
+      "tlf": "69 36 18 00",
+      "ledigePlasser": 308,
+      "antallPlasser": 800,
+      "valgbar": true
+    },
+    "lat": 59.215453,
+    "lng": 10.905331
+  },
+  {
+    "title": "Hanne Cecilie Østom",
+    "address": "Kurlandveien 2, 1727 SARPSBORG",
+    "metadata": {
+      "legekontor": "Grålum Legesenter",
+      "tlf": "69 11 31 70",
+      "antallPlasser": 1100
+    },
+    "lat": 59.2929024,
+    "lng": 11.112471
+  },
+  {
+    "title": "Azad Øysahl",
+    "address": "Snekkerstubakken 26, 1738 BORGENHAUGEN",
+    "metadata": {
+      "legekontor": "Borgenhaugen Legesenter DA",
+      "tlf": "69 97 20 80",
+      "antallPlasser": 900
+    },
+    "lat": 59.2691073,
+    "lng": 11.1592635
+  },
+  {
+    "title": "Sigve Ådalen",
+    "address": "Oscar Pedersens vei 2 A, 1706 SARPSBORG",
+    "metadata": {
+      "legekontor": "Capio Fastleger Sarpsborg",
+      "tlf": "24 02 24 15",
+      "antallPlasser": 900
+    },
+    "lat": 59.282916,
+    "lng": 11.121213
+  },
+  {
+    "title": "Tori Kalleberg Aaker",
+    "address": "Skredderveien 2, 1537 MOSS",
+    "metadata": {
+      "legekontor": "Kambo legesenter",
+      "tlf": "69 27 61 31",
+      "antallPlasser": 1100
+    },
+    "lat": 59.4640846,
+    "lng": 10.6894721
+  }
+]

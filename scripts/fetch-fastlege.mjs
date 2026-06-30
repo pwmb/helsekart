@@ -1,12 +1,13 @@
 #!/usr/bin/env node
 /**
- * Fetches the fastlege list from helsenorge.no and writes
- * src/data/fastlege-oslo.json in the format expected by the app.
+ * Fetches the fastlege list for all of Norway from helsenorge.no.
+ * Outputs one JSON file per fylke into src/data/.
  *
  * Usage:
- *   node scripts/fetch-fastlege.mjs
+ *   node scripts/fetch-fastlege.mjs            # all Norway
+ *   node scripts/fetch-fastlege.mjs 03 46      # specific fylke codes only
  *
- * After running, re-run the geocoding script to update coordinates:
+ * After running, re-geocode:
  *   node scripts/geocode-data.mjs
  */
 
@@ -15,104 +16,131 @@ import { join, dirname } from 'path'
 import { fileURLToPath } from 'url'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
-const OUT_FILE = join(__dirname, '../src/data/fastlege-oslo.json')
+const DATA_DIR = join(__dirname, '../src/data')
 
-// ── request config ────────────────────────────────────────────────────────────
+const API_URL = 'https://tjenester.helsenorge.no/proxy/fastlegeinternal/api/v1/AvtaleSokPublic'
+const SSB_URL = 'https://data.ssb.no/api/klass/v1/classifications/131/codes.json?from=2025-01-01'
 
-const URL = 'https://tjenester.helsenorge.no/proxy/fastlegeinternal/api/v1/AvtaleSokPublic'
-
-// Oslo municipality + all bydeler
-const BODY = {
-  Kommuner: ['0301'],
-  Bydeler: [
-    '030101', '030102', '030103', '030104', '030105',
-    '030106', '030107', '030108', '030109', '030110',
-    '030111', '030112', '030113', '030114', '030115',
-  ],
-  LegekontorNavn: null,
-  LegeNavn: null,
+// Fylke name mapping (code → display name)
+const FYLKE_NAMES = {
+  '03': 'Oslo',
+  '11': 'Rogaland',
+  '15': 'Møre og Romsdal',
+  '18': 'Nordland',
+  '31': 'Østfold',
+  '32': 'Akershus',
+  '33': 'Buskerud',
+  '34': 'Innlandet',
+  '39': 'Telemark',
+  '40': 'Vestfold',
+  '42': 'Agder',
+  '46': 'Vestland',
+  '50': 'Trøndelag',
+  '55': 'Troms',
+  '56': 'Finnmark',
 }
 
-const HEADERS = {
-  'accept': 'application/json',
-  'content-type': 'application/json',
-  'Accept-Language': 'nb-NO,nb;q=0.9',
-  'Cache-Control': 'no-cache',
-  'Origin': 'https://tjenester.helsenorge.no',
-  'Referer': 'https://tjenester.helsenorge.no/bytte-fastlege',
-  'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36',
-  'x-hn-hendelselogg': 'Bytt fastlege',
-  // Minimal cookies — just consent + language, no personal tracking
-  'Cookie': [
-    'HN-Cookie-Consent=base64:eyJWaWRlb0Nvb2tpZXMiOnRydWUsIkFuYWx5dGljc0Nvb2tpZXMiOmZhbHNlfQ==',
-    'hn-language=nb-NO',
-  ].join('; '),
+function slugify(name) {
+  return name.toLowerCase().replace(/\s+/g, '-').replace(/[æå]/g, 'a').replace(/ø/g, 'o')
 }
-
-// ── transform ─────────────────────────────────────────────────────────────────
 
 function clean(s) {
   return (s ?? '').toString().trim()
 }
 
-function transform(raw) {
-  const items = raw?.Resultater?.Resultater ?? []
-  if (!items.length) throw new Error('No results in response — check the request or cookies')
+function transform(items) {
+  return items
+    .map((item) => {
+      const lege   = item.Fastlege   ?? {}
+      const kontor = item.Legekontor ?? {}
+      const title  = `${clean(lege.Fornavn)} ${clean(lege.Etternavn)}`.trim()
+      const street = clean(kontor.Adresse)
+      const postnr = clean(kontor.Postnr)
+      const poststed = clean(kontor.Poststed)
+      const address = [street, `${postnr} ${poststed}`.trim()].filter(Boolean).join(', ')
+      if (!title || !address) return null
 
-  const results = []
-  for (const item of items) {
-    const lege   = item.Fastlege   ?? {}
-    const kontor = item.Legekontor ?? {}
+      const metadata = { legekontor: clean(kontor.Navn) }
+      const tlf = clean(kontor.Telefon)
+      if (tlf) metadata.tlf = tlf
+      if (item.LedigePlasser > 0) metadata.ledigePlasser = item.LedigePlasser
+      metadata.antallPlasser = item.AntallPlasser ?? 0
+      if (item.Valgbar) metadata.valgbar = true
 
-    const title = `${clean(lege.Fornavn)} ${clean(lege.Etternavn)}`.trim()
-    if (!title) continue
+      return { title, address, metadata }
+    })
+    .filter(Boolean)
+}
 
-    const street  = clean(kontor.Adresse)
-    const postnr  = clean(kontor.Postnr)
-    const poststed = clean(kontor.Poststed)
-    const address = [street, `${postnr} ${poststed}`.trim()].filter(Boolean).join(', ')
-    if (!address) continue
-
-    const metadata = {
-      legekontor: clean(kontor.Navn),
-    }
-    const tlf = clean(kontor.Telefon)
-    if (tlf) metadata.tlf = tlf
-
-    if (item.LedigePlasser > 0) metadata.ledigePlasser = item.LedigePlasser
-    metadata.antallPlasser = item.AntallPlasser ?? 0
-
-    if (item.Valgbar) metadata.valgbar = true
-
-    results.push({ title, address, metadata })
-  }
-
-  return results
+async function fetchFylke(fylkeCode, kommuner) {
+  const res = await fetch(API_URL, {
+    method: 'POST',
+    headers: { 'content-type': 'application/json' },
+    body: JSON.stringify({
+      Kommuner: kommuner,
+      Bydeler: null,
+      LegekontorNavn: null,
+      LegeNavn: null,
+    }),
+  })
+  if (!res.ok) throw new Error(`HTTP ${res.status} for fylke ${fylkeCode}`)
+  const data = await res.json()
+  return data?.Resultater?.Resultater ?? []
 }
 
 // ── main ──────────────────────────────────────────────────────────────────────
 
-console.log('Fetching fastlege list from helsenorge.no…')
+// Which fylker to fetch (default = all)
+const filterFylker = process.argv.slice(2)
 
-const res = await fetch(URL, {
-  method: 'POST',
-  headers: HEADERS,
-  body: JSON.stringify(BODY),
-})
+console.log('Fetching municipality list from SSB…')
+const ssbRes = await fetch(SSB_URL)
+if (!ssbRes.ok) throw new Error(`SSB API ${ssbRes.status}`)
+const ssbData = await ssbRes.json()
 
-if (!res.ok) {
-  console.error(`HTTP ${res.status} ${res.statusText}`)
-  const text = await res.text()
-  console.error(text.slice(0, 500))
-  process.exit(1)
+// Deduplicate: keep only the latest valid entry per code
+const seen = new Map()
+for (const c of ssbData.codes) {
+  if (!seen.has(c.code) || c.validToInRequestedRange === null) {
+    seen.set(c.code, c)
+  }
+}
+const allKommuner = [...seen.values()].map((c) => c.code)
+
+// Group by fylke (first 2 digits)
+const byFylke = new Map()
+for (const code of allKommuner) {
+  const fylke = code.slice(0, 2)
+  if (!byFylke.has(fylke)) byFylke.set(fylke, [])
+  byFylke.get(fylke).push(code)
 }
 
-const raw = await res.json()
-const entries = transform(raw)
+console.log(`Found ${allKommuner.length} kommuner across ${byFylke.size} fylker\n`)
 
-console.log(`Fetched ${raw?.Resultater?.Resultater?.length ?? 0} records → ${entries.length} valid entries`)
+mkdirSync(DATA_DIR, { recursive: true })
 
-mkdirSync(dirname(OUT_FILE), { recursive: true })
-writeFileSync(OUT_FILE, JSON.stringify(entries, null, 2))
-console.log(`Written to: ${OUT_FILE}`)
-console.log(`\nNext step: node scripts/geocode-data.mjs`)
+const targets = filterFylker.length > 0
+  ? [...byFylke.entries()].filter(([f]) => filterFylker.includes(f))
+  : [...byFylke.entries()].sort(([a], [b]) => a.localeCompare(b))
+
+let grandTotal = 0
+
+for (const [fylkeCode, kommuner] of targets) {
+  const fylkeName = FYLKE_NAMES[fylkeCode] ?? `Fylke ${fylkeCode}`
+  process.stdout.write(`Fetching ${fylkeName} (${kommuner.length} kommuner)… `)
+
+  try {
+    const raw = await fetchFylke(fylkeCode, kommuner)
+    const entries = transform(raw)
+    grandTotal += entries.length
+
+    const filename = `fastlege-${slugify(fylkeName)}.json`
+    writeFileSync(join(DATA_DIR, filename), JSON.stringify(entries, null, 2))
+    console.log(`${entries.length} leger → ${filename}`)
+  } catch (err) {
+    console.error(`FAILED: ${err.message}`)
+  }
+}
+
+console.log(`\nDone. ${grandTotal} total fastleger written to ${DATA_DIR}`)
+console.log('Next step: node scripts/geocode-data.mjs')

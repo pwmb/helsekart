@@ -1,0 +1,2308 @@
+[
+  {
+    "title": "Mokhtar Abdi Mohammed",
+    "address": "Friisebrygga 3, 3921 Porsgrunn",
+    "metadata": {
+      "legekontor": "Friisebrygga Legesenter AS",
+      "tlf": "35 93 39 00",
+      "antallPlasser": 950
+    },
+    "lat": 59.1391041,
+    "lng": 9.6482847
+  },
+  {
+    "title": "Amir Khaled Abunajem",
+    "address": "Stridsklev Ring 46, 3929 PORSGRUNN",
+    "metadata": {
+      "legekontor": "Stridsklev Legekontor AS",
+      "tlf": "35 51 39 00",
+      "ledigePlasser": 9,
+      "antallPlasser": 1300,
+      "valgbar": true
+    },
+    "lat": 59.11639,
+    "lng": 9.6599988
+  },
+  {
+    "title": "Sajida Zafar Afzal",
+    "address": "Vinjevegen 212, 3890 Vinje",
+    "metadata": {
+      "legekontor": "Vinje legekontor",
+      "tlf": "35 06 25 00",
+      "ledigePlasser": 16,
+      "antallPlasser": 320,
+      "valgbar": true
+    },
+    "lat": 59.568618,
+    "lng": 7.987588
+  },
+  {
+    "title": "Cathrine Jyoti Skjønstad Andersen",
+    "address": "Skrapeklevvegen 4, 3937 PORSGRUNN",
+    "metadata": {
+      "legekontor": "Herøya Legesenter AS",
+      "tlf": "35 56 95 70",
+      "antallPlasser": 1000
+    },
+    "lat": 59.1059477,
+    "lng": 9.6612476
+  },
+  {
+    "title": "Johanna Caroline Andersson",
+    "address": "Bambleveien 24, 3970 LANGESUND",
+    "metadata": {
+      "legekontor": "Langesund Legesenter",
+      "tlf": "35 96 88 10",
+      "antallPlasser": 900
+    },
+    "lat": 59.0030284,
+    "lng": 9.740707
+  },
+  {
+    "title": "Stig Wilhelm Asplin",
+    "address": "Granlivegen 1, 3850 KVITESEID",
+    "metadata": {
+      "legekontor": "Kviteseid Legekontor",
+      "tlf": "35 06 82 50",
+      "ledigePlasser": 4,
+      "antallPlasser": 450,
+      "valgbar": true
+    },
+    "lat": 59.3982584,
+    "lng": 8.5006608
+  },
+  {
+    "title": "Simen Austdal",
+    "address": "Tinnegrendveien 5, 3683 NOTODDEN",
+    "metadata": {
+      "legekontor": "Tinneberget legesenter",
+      "tlf": "35 01 56 20",
+      "antallPlasser": 1550
+    },
+    "lat": 59.559777,
+    "lng": 9.269158
+  },
+  {
+    "title": "Saleh Badenjki",
+    "address": "Friisebrygga 3, 3921 Porsgrunn",
+    "metadata": {
+      "legekontor": "Friisebrygga Legesenter AS",
+      "tlf": "35 93 39 00",
+      "ledigePlasser": 13,
+      "antallPlasser": 750,
+      "valgbar": true
+    },
+    "lat": 59.1391041,
+    "lng": 9.6482847
+  },
+  {
+    "title": "Une Solfrid Vigdisdatter Beck",
+    "address": "Stokkevannveien 13, 3960 Stathelle",
+    "metadata": {
+      "legekontor": "Fyret legesenter",
+      "tlf": "35 96 53 90",
+      "antallPlasser": 700
+    },
+    "lat": 59.037387,
+    "lng": 9.677994
+  },
+  {
+    "title": "Josef Bedairi",
+    "address": "Kongens gate 31, 3717 Skien",
+    "metadata": {
+      "legekontor": "Kverndalen legesenter",
+      "tlf": "35 50 30 40",
+      "ledigePlasser": 27,
+      "antallPlasser": 900,
+      "valgbar": true
+    },
+    "lat": 59.2114908,
+    "lng": 9.6074354
+  },
+  {
+    "title": "Robin Belaska",
+    "address": "Storgata 16, 3660 RJUKAN",
+    "metadata": {
+      "legekontor": "Rjukan Legesenter",
+      "tlf": "35 08 29 60",
+      "antallPlasser": 675
+    },
+    "lat": 59.8790005,
+    "lng": 8.5909395
+  },
+  {
+    "title": "Anne Solheim Bentzen",
+    "address": "Bambleveien 24, 3970 LANGESUND",
+    "metadata": {
+      "legekontor": "Langesund Legesenter",
+      "tlf": "35 96 88 10",
+      "antallPlasser": 900
+    },
+    "lat": 59.0030284,
+    "lng": 9.740707
+  },
+  {
+    "title": "Frikk Øverland Bergsli",
+    "address": "Holbergs gate 6, 3717 SKIEN",
+    "metadata": {
+      "legekontor": "Holbergsgate Legesenter",
+      "tlf": "35 58 70 90",
+      "antallPlasser": 1100
+    },
+    "lat": 59.20957,
+    "lng": 9.604175
+  },
+  {
+    "title": "Maria Alita Birkeland",
+    "address": "Friisebrygga 3, 3921 Porsgrunn",
+    "metadata": {
+      "legekontor": "Friisebrygga Legesenter AS",
+      "tlf": "35 93 39 00",
+      "antallPlasser": 750
+    },
+    "lat": 59.1391041,
+    "lng": 9.6482847
+  },
+  {
+    "title": "Mathias Skree Birkeland",
+    "address": "Hellandvegen 10, 3800 BØ I TELEMARK",
+    "metadata": {
+      "legekontor": "Bø Legesenter",
+      "tlf": "35 05 91 00",
+      "antallPlasser": 770
+    },
+    "lat": 59.4143901,
+    "lng": 9.0668778
+  },
+  {
+    "title": "Thilde Bjørnseth",
+    "address": "Holbergs gate 6, 3717 SKIEN",
+    "metadata": {
+      "legekontor": "Holbergsgate Legesenter",
+      "tlf": "35 58 70 90",
+      "antallPlasser": 785
+    },
+    "lat": 59.20957,
+    "lng": 9.604175
+  },
+  {
+    "title": "Natalia Blandkjenn",
+    "address": "Gamlegata 56, 3810 GVARV",
+    "metadata": {
+      "legekontor": "Gvarv legesenter",
+      "tlf": "35 95 71 00",
+      "antallPlasser": 800
+    },
+    "lat": 59.3873276,
+    "lng": 9.1687092
+  },
+  {
+    "title": "Anne Mathea Kjærbo Brobakken",
+    "address": "Teknikergata 16, 3912 PORSGRUNN",
+    "metadata": {
+      "legekontor": "Porsgrunn Legesenter AS",
+      "tlf": "35 93 30 90",
+      "antallPlasser": 1150
+    },
+    "lat": 59.150348,
+    "lng": 9.658476
+  },
+  {
+    "title": "Narve Bråten",
+    "address": "Bambleveien 24, 3970 LANGESUND",
+    "metadata": {
+      "legekontor": "Langesund Legesenter",
+      "tlf": "35 96 88 10",
+      "antallPlasser": 700
+    },
+    "lat": 59.0030284,
+    "lng": 9.740707
+  },
+  {
+    "title": "Pia Collier-Lia",
+    "address": "Porselensvegen 8, 3920 PORSGRUNN",
+    "metadata": {
+      "legekontor": "Vestsiden Legesenter AS",
+      "tlf": "35 55 90 01",
+      "antallPlasser": 850
+    },
+    "lat": 59.1407889,
+    "lng": 9.6397126
+  },
+  {
+    "title": "Amina Dadaeva",
+    "address": "Friisebrygga 3, 3921 Porsgrunn",
+    "metadata": {
+      "legekontor": "Friisebrygga Legesenter AS",
+      "tlf": "35 93 39 00",
+      "ledigePlasser": 11,
+      "antallPlasser": 750,
+      "valgbar": true
+    },
+    "lat": 59.1391041,
+    "lng": 9.6482847
+  },
+  {
+    "title": "Robert Mathias Dahl",
+    "address": "Skrapeklevvegen 4, 3937 PORSGRUNN",
+    "metadata": {
+      "legekontor": "Herøya Legesenter AS",
+      "tlf": "35 56 95 70",
+      "antallPlasser": 750
+    },
+    "lat": 59.1059477,
+    "lng": 9.6612476
+  },
+  {
+    "title": "Kari Merete Dalen",
+    "address": "Sentrumsveien 22, 3748 SILJAN",
+    "metadata": {
+      "legekontor": "Siljan Legekontor",
+      "tlf": "35 94 25 50",
+      "antallPlasser": 300
+    },
+    "lat": 59.2791325,
+    "lng": 9.7282509
+  },
+  {
+    "title": "Robert Andre Dalene",
+    "address": "Skrapeklevvegen 4, 3937 PORSGRUNN",
+    "metadata": {
+      "legekontor": "Herøya Legesenter AS",
+      "tlf": "35 56 95 70",
+      "antallPlasser": 1000
+    },
+    "lat": 59.1059477,
+    "lng": 9.6612476
+  },
+  {
+    "title": "Sigurd Haugan Danielsen",
+    "address": "Henrik Ibsensgate 6, 3724 Skien",
+    "metadata": {
+      "legekontor": "Sentrum Legesenter",
+      "tlf": "35 50 66 00",
+      "antallPlasser": 1200
+    },
+    "lat": 59.2022242,
+    "lng": 9.6127897
+  },
+  {
+    "title": "Alice Maganya Dillerud",
+    "address": "Kongens gate 31, 3717 Skien",
+    "metadata": {
+      "legekontor": "Kverndalen legesenter",
+      "tlf": "35 50 30 40",
+      "antallPlasser": 550
+    },
+    "lat": 59.2114908,
+    "lng": 9.6074354
+  },
+  {
+    "title": "Mexhid Dobra",
+    "address": "Storgata 40, 3674 Notodden",
+    "metadata": {
+      "legekontor": "Sentrumslegene i Notodden DA",
+      "tlf": "35 01 74 00",
+      "antallPlasser": 1100
+    },
+    "lat": 59.559806,
+    "lng": 9.258979
+  },
+  {
+    "title": "Patrick James Dunn",
+    "address": "Storgata 16, 3660 RJUKAN",
+    "metadata": {
+      "legekontor": "Rjukan Legesenter",
+      "tlf": "35 08 29 60",
+      "antallPlasser": 100
+    },
+    "lat": 59.8790005,
+    "lng": 8.5909395
+  },
+  {
+    "title": "Magnar Eek",
+    "address": "Storgata 16, 3660 RJUKAN",
+    "metadata": {
+      "legekontor": "Rjukan Legesenter",
+      "tlf": "35 08 29 60",
+      "antallPlasser": 700
+    },
+    "lat": 59.8790005,
+    "lng": 8.5909395
+  },
+  {
+    "title": "Paul Werner Eggert",
+    "address": "Stårrvegen 14, 3830 Ulefoss",
+    "metadata": {
+      "legekontor": "Nome Legesenter",
+      "tlf": "35 00 86 00",
+      "antallPlasser": 950
+    },
+    "lat": 59.28227,
+    "lng": 9.268932
+  },
+  {
+    "title": "Amanda Jensen Einungbrekke",
+    "address": "Birgittesgate 19, 3730 SKIEN",
+    "metadata": {
+      "legekontor": "Klosterhagen Legesenter AS",
+      "tlf": "35 50 33 33",
+      "antallPlasser": 800
+    },
+    "lat": 59.1951235,
+    "lng": 9.6048628
+  },
+  {
+    "title": "Hulda Birna Eiriksdottir",
+    "address": "Birgittesgate 19, 3730 SKIEN",
+    "metadata": {
+      "legekontor": "Klosterhagen Legesenter AS",
+      "tlf": "35 50 33 33",
+      "antallPlasser": 1000
+    },
+    "lat": 59.1951235,
+    "lng": 9.6048628
+  },
+  {
+    "title": "Markus Johannes Eisinger",
+    "address": "Stemmenveien 6, 3750 DRANGEDAL",
+    "metadata": {
+      "legekontor": "Drangedal legekontor",
+      "tlf": "35 99 71 00",
+      "antallPlasser": 850
+    },
+    "lat": 59.0984158,
+    "lng": 9.0623445
+  },
+  {
+    "title": "Marie Holløkken Ekornrød",
+    "address": "Gamle Breviksvei 110, 3940 Porsgrunn",
+    "metadata": {
+      "legekontor": "Heistad Legekontor AS",
+      "tlf": "35 51 68 00",
+      "antallPlasser": 850
+    },
+    "lat": 59.0856171,
+    "lng": 9.6833843
+  },
+  {
+    "title": "Erlend Ellingsen",
+    "address": "Stridsklev Ring 46, 3929 PORSGRUNN",
+    "metadata": {
+      "legekontor": "Stridsklev Legekontor AS",
+      "tlf": "35 51 39 00",
+      "antallPlasser": 860
+    },
+    "lat": 59.11639,
+    "lng": 9.6599988
+  },
+  {
+    "title": "Astrid Emhjellen",
+    "address": "Bruene 1, 3724",
+    "metadata": {
+      "legekontor": "Legene i Arkaden",
+      "tlf": "35 52 30 60",
+      "antallPlasser": 825
+    },
+    "lat": 59.2071317,
+    "lng": 9.6081984
+  },
+  {
+    "title": "Anja Susanne Engebretsen",
+    "address": "Krabberødvn 3, 3960 STATHELLE",
+    "metadata": {
+      "legekontor": "Stathelle Legesenter",
+      "tlf": "35 96 70 80",
+      "antallPlasser": 700
+    },
+    "lat": 59.044211,
+    "lng": 9.691484
+  },
+  {
+    "title": "Anne Kristine Engebretsen",
+    "address": "Hågånvegen 17, 3692 SAULAND",
+    "metadata": {
+      "legekontor": "Hjartdal Legekontor",
+      "tlf": "35 02 80 50",
+      "antallPlasser": 650
+    },
+    "lat": 59.6145162,
+    "lng": 8.9510151
+  },
+  {
+    "title": "Lars Håvard Eriksen",
+    "address": "Revahaugvegen 4, 3880 DALEN",
+    "metadata": {
+      "legekontor": "Tokke legekontor",
+      "tlf": "35 07 55 60",
+      "antallPlasser": 500
+    },
+    "lat": 59.4444775,
+    "lng": 8.0043161
+  },
+  {
+    "title": "Antonio Oluf Escalante-Steffensen",
+    "address": "Storgata 16, 3660 RJUKAN",
+    "metadata": {
+      "legekontor": "Rjukan Legesenter",
+      "tlf": "35 08 29 60",
+      "antallPlasser": 660
+    },
+    "lat": 59.8790005,
+    "lng": 8.5909395
+  },
+  {
+    "title": "Daria Espedalen",
+    "address": "Stårrvegen 14, 3830 Ulefoss",
+    "metadata": {
+      "legekontor": "Nome Legesenter",
+      "tlf": "35 00 86 00",
+      "ledigePlasser": 33,
+      "antallPlasser": 1250,
+      "valgbar": true
+    },
+    "lat": 59.28227,
+    "lng": 9.268932
+  },
+  {
+    "title": "Dmitry Fernand",
+    "address": "Stårrvegen 14, 3830 Ulefoss",
+    "metadata": {
+      "legekontor": "Nome Legesenter",
+      "tlf": "35 00 86 00",
+      "antallPlasser": 750
+    },
+    "lat": 59.28227,
+    "lng": 9.268932
+  },
+  {
+    "title": "Helene Coch Fjeldstad",
+    "address": "Gamle Breviksvei 110, 3940 Porsgrunn",
+    "metadata": {
+      "legekontor": "Heistad Legekontor AS",
+      "tlf": "35 51 68 00",
+      "antallPlasser": 750
+    },
+    "lat": 59.0856171,
+    "lng": 9.6833843
+  },
+  {
+    "title": "Natalia Fjeldstad",
+    "address": "Gamle kragerøvei 12, 3770 Kragerø",
+    "metadata": {
+      "legekontor": "Gamle Kragerøvei Legesenter",
+      "tlf": "35 98 99 99",
+      "antallPlasser": 900
+    },
+    "lat": 58.8751885,
+    "lng": 9.416287
+  },
+  {
+    "title": "Dordi Elise Flom",
+    "address": "Revahaugvegen 4, 3880 DALEN",
+    "metadata": {
+      "legekontor": "Tokke legekontor",
+      "tlf": "35 07 55 60",
+      "antallPlasser": 650
+    },
+    "lat": 59.4444775,
+    "lng": 8.0043161
+  },
+  {
+    "title": "Erik Fløholm",
+    "address": "Gamle Breviksvei 110, 3940 Porsgrunn",
+    "metadata": {
+      "legekontor": "Heistad Legekontor AS",
+      "tlf": "35 51 68 00",
+      "ledigePlasser": 27,
+      "antallPlasser": 1550,
+      "valgbar": true
+    },
+    "lat": 59.0856171,
+    "lng": 9.6833843
+  },
+  {
+    "title": "Lise Lotte Fredriksen",
+    "address": "Bjørnstj. Bjørnsonsgate 13, 3722 Skien",
+    "metadata": {
+      "legekontor": "Falkum Legesenter",
+      "tlf": "35 52 39 55",
+      "antallPlasser": 850
+    },
+    "lat": 59.2101745,
+    "lng": 9.5932748
+  },
+  {
+    "title": "Trine Fredriksen",
+    "address": "Gamleveien 19, 3922 PORSGRUNN",
+    "metadata": {
+      "legekontor": "Søsterhjemmet Legesenter DA",
+      "tlf": "35 56 48 10",
+      "antallPlasser": 900
+    },
+    "lat": 59.135347,
+    "lng": 9.6495467
+  },
+  {
+    "title": "John Marius Frisk",
+    "address": "Stemmenveien 6, 3750 DRANGEDAL",
+    "metadata": {
+      "legekontor": "Drangedal legekontor",
+      "tlf": "35 99 71 00",
+      "antallPlasser": 800
+    },
+    "lat": 59.0984158,
+    "lng": 9.0623445
+  },
+  {
+    "title": "Kine Furuheim",
+    "address": "Nyhusveien 14, 3726 SKIEN",
+    "metadata": {
+      "legekontor": "Gulset Legekontor DA",
+      "tlf": "35 50 55 20",
+      "antallPlasser": 1000
+    },
+    "lat": 59.2161176,
+    "lng": 9.5653556
+  },
+  {
+    "title": "Halvor Haavardsønn Gjestland",
+    "address": "Bambleveien 24, 3970 LANGESUND",
+    "metadata": {
+      "legekontor": "Langesund Legesenter",
+      "tlf": "35 96 88 10",
+      "antallPlasser": 900
+    },
+    "lat": 59.0030284,
+    "lng": 9.740707
+  },
+  {
+    "title": "Jeanett Graff",
+    "address": "Stathelleveien 33, 3970 LANGESUND",
+    "metadata": {
+      "legekontor": "Bamble legesenter",
+      "antallPlasser": 650
+    },
+    "lat": 59.012784,
+    "lng": 9.743511
+  },
+  {
+    "title": "Steinar Graff",
+    "address": "Stathelleveien 33, 3970 LANGESUND",
+    "metadata": {
+      "legekontor": "Bamble legesenter",
+      "antallPlasser": 900
+    },
+    "lat": 59.012784,
+    "lng": 9.743511
+  },
+  {
+    "title": "Marianne Viola Gramme",
+    "address": "Friisebrygga 3, 3921 Porsgrunn",
+    "metadata": {
+      "legekontor": "Friisebrygga Legesenter AS",
+      "tlf": "35 93 39 00",
+      "antallPlasser": 900
+    },
+    "lat": 59.1391041,
+    "lng": 9.6482847
+  },
+  {
+    "title": "Enea Granmar",
+    "address": "Krabberødvn 3, 3960 STATHELLE",
+    "metadata": {
+      "legekontor": "Stathelle Legesenter",
+      "tlf": "35 96 70 80",
+      "antallPlasser": 700
+    },
+    "lat": 59.044211,
+    "lng": 9.691484
+  },
+  {
+    "title": "Helene Grødem",
+    "address": "Skrapeklevvegen 4, 3937 PORSGRUNN",
+    "metadata": {
+      "legekontor": "Herøya Legesenter AS",
+      "tlf": "35 56 95 70",
+      "antallPlasser": 850
+    },
+    "lat": 59.1059477,
+    "lng": 9.6612476
+  },
+  {
+    "title": "Bård Graarup",
+    "address": "Stokkevannveien 13, 3960 Stathelle",
+    "metadata": {
+      "legekontor": "Fyret legesenter",
+      "tlf": "35 96 53 90",
+      "ledigePlasser": 336,
+      "antallPlasser": 500,
+      "valgbar": true
+    },
+    "lat": 59.037387,
+    "lng": 9.677994
+  },
+  {
+    "title": "Benjamin Guddal",
+    "address": "Kirkegt. 13, 3770 KRAGERØ",
+    "metadata": {
+      "legekontor": "Kragerø Legesenter",
+      "tlf": "35 98 49 50",
+      "antallPlasser": 800
+    },
+    "lat": 58.8712508,
+    "lng": 9.4065081
+  },
+  {
+    "title": "Pavel Gudkov",
+    "address": "Pelotongvegen 2, 3734 SKIEN",
+    "metadata": {
+      "legekontor": "Solumlege AS",
+      "tlf": "35 91 55 80",
+      "antallPlasser": 1200
+    },
+    "lat": 59.1833033,
+    "lng": 9.6030332
+  },
+  {
+    "title": "Oskar Enrique Hidalgo Gulliksen",
+    "address": "Hellandvegen 10, 3800 BØ I TELEMARK",
+    "metadata": {
+      "legekontor": "Bø Legesenter",
+      "tlf": "35 05 91 00",
+      "antallPlasser": 800
+    },
+    "lat": 59.4143901,
+    "lng": 9.0668778
+  },
+  {
+    "title": "Bastian Gundersen",
+    "address": "Landstadvegen 35, 3870 FYRESDAL",
+    "metadata": {
+      "legekontor": "Fyresdal Legesenter",
+      "tlf": "35 06 73 00",
+      "ledigePlasser": 88,
+      "antallPlasser": 750,
+      "valgbar": true
+    },
+    "lat": 59.185654,
+    "lng": 8.0859652
+  },
+  {
+    "title": "Sissel Borthne Gundersen",
+    "address": "Buervegen 18, 3711 SKIEN",
+    "metadata": {
+      "legekontor": "Borgeåsen Legesenter  DA",
+      "tlf": "35 50 43 90",
+      "antallPlasser": 1400
+    },
+    "lat": 59.164272,
+    "lng": 9.662773
+  },
+  {
+    "title": "Lene Berit Gaathaug",
+    "address": "Henrik Ibsensgate 6, 3724 Skien",
+    "metadata": {
+      "legekontor": "Sentrum Legesenter",
+      "tlf": "35 50 66 00",
+      "antallPlasser": 1100
+    },
+    "lat": 59.2022242,
+    "lng": 9.6127897
+  },
+  {
+    "title": "Anette Habla-Foss",
+    "address": "Gamleveien 19, 3922 PORSGRUNN",
+    "metadata": {
+      "legekontor": "Søsterhjemmet Legesenter DA",
+      "tlf": "35 56 48 10",
+      "antallPlasser": 830
+    },
+    "lat": 59.135347,
+    "lng": 9.6495467
+  },
+  {
+    "title": "Anniken Hansen",
+    "address": "Teknikergata 16, 3912 PORSGRUNN",
+    "metadata": {
+      "legekontor": "Porsgrunn Legesenter AS",
+      "tlf": "35 93 30 90",
+      "antallPlasser": 930
+    },
+    "lat": 59.150348,
+    "lng": 9.658476
+  },
+  {
+    "title": "Kari Schrøder Hansen",
+    "address": "Storgata 16, 3660 RJUKAN",
+    "metadata": {
+      "legekontor": "Rjukan Legesenter",
+      "tlf": "35 08 29 60",
+      "antallPlasser": 100
+    },
+    "lat": 59.8790005,
+    "lng": 8.5909395
+  },
+  {
+    "title": "Andreas Mathisen Hasseleid",
+    "address": "Gamle kragerøvei 12, 3770 Kragerø",
+    "metadata": {
+      "legekontor": "Gamle Kragerøvei Legesenter",
+      "tlf": "35 98 99 99",
+      "antallPlasser": 800
+    },
+    "lat": 58.8751885,
+    "lng": 9.416287
+  },
+  {
+    "title": "Bernt Filip Kristiansen Hasseleid",
+    "address": "Gamle kragerøvei 12, 3770 Kragerø",
+    "metadata": {
+      "legekontor": "Gamle Kragerøvei Legesenter",
+      "tlf": "35 98 99 99",
+      "antallPlasser": 1100
+    },
+    "lat": 58.8751885,
+    "lng": 9.416287
+  },
+  {
+    "title": "Line Louise Haugom",
+    "address": "Kirkegt. 13, 3770 KRAGERØ",
+    "metadata": {
+      "legekontor": "Kragerø Legesenter",
+      "tlf": "35 98 49 50",
+      "antallPlasser": 900
+    },
+    "lat": 58.8712508,
+    "lng": 9.4065081
+  },
+  {
+    "title": "Johanna Heiberg",
+    "address": "Birgittesgate 19, 3730 SKIEN",
+    "metadata": {
+      "legekontor": "Klosterhagen Legesenter AS",
+      "tlf": "35 50 33 33",
+      "antallPlasser": 800
+    },
+    "lat": 59.1951235,
+    "lng": 9.6048628
+  },
+  {
+    "title": "Oscar Paulino Antonio Hendriks",
+    "address": "Granlivegen 1, 3850 KVITESEID",
+    "metadata": {
+      "legekontor": "Kviteseid Legekontor",
+      "tlf": "35 06 82 50",
+      "ledigePlasser": 490,
+      "antallPlasser": 900,
+      "valgbar": true
+    },
+    "lat": 59.3982584,
+    "lng": 8.5006608
+  },
+  {
+    "title": "Eline Vik Henriksen",
+    "address": "Gamlegata 56, 3810 GVARV",
+    "metadata": {
+      "legekontor": "Gvarv legesenter",
+      "tlf": "35 95 71 00",
+      "antallPlasser": 550
+    },
+    "lat": 59.3873276,
+    "lng": 9.1687092
+  },
+  {
+    "title": "Ali Hilli",
+    "address": "Gamle Breviksvei 110, 3940 Porsgrunn",
+    "metadata": {
+      "legekontor": "Heistad Legekontor AS",
+      "tlf": "35 51 68 00",
+      "ledigePlasser": 141,
+      "antallPlasser": 850,
+      "valgbar": true
+    },
+    "lat": 59.0856171,
+    "lng": 9.6833843
+  },
+  {
+    "title": "Sravanthi Devulapalli Hofsli",
+    "address": "Kongens gate 31, 3717 Skien",
+    "metadata": {
+      "legekontor": "Kverndalen legesenter",
+      "tlf": "35 50 30 40",
+      "antallPlasser": 750
+    },
+    "lat": 59.2114908,
+    "lng": 9.6074354
+  },
+  {
+    "title": "Ragnhild Flatland Hoftun",
+    "address": "Ingrid Slettensveg 16, 3840 SELJORD",
+    "metadata": {
+      "legekontor": "Seljord Helsesenter",
+      "tlf": "35 06 52 50",
+      "antallPlasser": 730
+    },
+    "lat": 59.4810018,
+    "lng": 8.6326162
+  },
+  {
+    "title": "Ruth Hogstad-Erikstein",
+    "address": "Hellandvegen 10, 3800 BØ I TELEMARK",
+    "metadata": {
+      "legekontor": "Bø Legesenter",
+      "tlf": "35 05 91 00",
+      "antallPlasser": 1000
+    },
+    "lat": 59.4143901,
+    "lng": 9.0668778
+  },
+  {
+    "title": "Tatiana Holland",
+    "address": "Stårrvegen 14, 3830 Ulefoss",
+    "metadata": {
+      "legekontor": "Nome Legesenter",
+      "tlf": "35 00 86 00",
+      "ledigePlasser": 123,
+      "antallPlasser": 950,
+      "valgbar": true
+    },
+    "lat": 59.28227,
+    "lng": 9.268932
+  },
+  {
+    "title": "Ane Spikkeland Holm",
+    "address": "Ingrid Slettensveg 16, 3840 SELJORD",
+    "metadata": {
+      "legekontor": "Seljord Helsesenter",
+      "tlf": "35 06 52 50",
+      "antallPlasser": 750
+    },
+    "lat": 59.4810018,
+    "lng": 8.6326162
+  },
+  {
+    "title": "Casper Holmberg",
+    "address": "Pelotongvegen 2, 3734 SKIEN",
+    "metadata": {
+      "legekontor": "Solumlege AS",
+      "tlf": "35 91 55 80",
+      "antallPlasser": 1500
+    },
+    "lat": 59.1833033,
+    "lng": 9.6030332
+  },
+  {
+    "title": "Seyed-Karim Hosseini-Badakhshani",
+    "address": "Kongens gate 31, 3717 Skien",
+    "metadata": {
+      "legekontor": "Kverndalen legesenter",
+      "tlf": "35 50 30 40",
+      "ledigePlasser": 2,
+      "antallPlasser": 750,
+      "valgbar": true
+    },
+    "lat": 59.2114908,
+    "lng": 9.6074354
+  },
+  {
+    "title": "Sigrun Høgetveit",
+    "address": "Vinjevegen 212, 3890 Vinje",
+    "metadata": {
+      "legekontor": "Vinje legekontor",
+      "tlf": "35 06 25 00",
+      "antallPlasser": 610
+    },
+    "lat": 59.568618,
+    "lng": 7.987588
+  },
+  {
+    "title": "Stian Jamtveit Høihilder",
+    "address": "Tinnegrendveien 5, 3683 NOTODDEN",
+    "metadata": {
+      "legekontor": "Tinneberget legesenter",
+      "tlf": "35 01 56 20",
+      "antallPlasser": 855
+    },
+    "lat": 59.559777,
+    "lng": 9.269158
+  },
+  {
+    "title": "Chris Andre Buer Høyvik",
+    "address": "Bruene 1, 3724",
+    "metadata": {
+      "legekontor": "Legene i Arkaden",
+      "tlf": "35 52 30 60",
+      "antallPlasser": 800
+    },
+    "lat": 59.2071317,
+    "lng": 9.6081984
+  },
+  {
+    "title": "Ella Iabko",
+    "address": "Friisebrygga 3, 3921 Porsgrunn",
+    "metadata": {
+      "legekontor": "Friisebrygga Legesenter AS",
+      "tlf": "35 93 39 00",
+      "ledigePlasser": 5,
+      "antallPlasser": 1100,
+      "valgbar": true
+    },
+    "lat": 59.1391041,
+    "lng": 9.6482847
+  },
+  {
+    "title": "Aram Markus Isik",
+    "address": "Vinjevegen 212, 3890 Vinje",
+    "metadata": {
+      "legekontor": "Vinje legekontor",
+      "tlf": "35 06 25 00",
+      "ledigePlasser": 6,
+      "antallPlasser": 640,
+      "valgbar": true
+    },
+    "lat": 59.568618,
+    "lng": 7.987588
+  },
+  {
+    "title": "Madeleine Isik",
+    "address": "Vinjevegen 212, 3890 Vinje",
+    "metadata": {
+      "legekontor": "Vinje legekontor",
+      "tlf": "35 06 25 00",
+      "antallPlasser": 690
+    },
+    "lat": 59.568618,
+    "lng": 7.987588
+  },
+  {
+    "title": "Per Ola Hogner Jahr",
+    "address": "Pelotongvegen 2, 3734 SKIEN",
+    "metadata": {
+      "legekontor": "Solumlege AS",
+      "tlf": "35 91 55 80",
+      "antallPlasser": 1300
+    },
+    "lat": 59.1833033,
+    "lng": 9.6030332
+  },
+  {
+    "title": "Jens Henrik Førstøyl Jebsen",
+    "address": "Vinjevegen 212, 3890 Vinje",
+    "metadata": {
+      "legekontor": "Vinje legekontor",
+      "tlf": "35 06 25 00",
+      "ledigePlasser": 23,
+      "antallPlasser": 640,
+      "valgbar": true
+    },
+    "lat": 59.568618,
+    "lng": 7.987588
+  },
+  {
+    "title": "Patrycja Maria Jedrzejowska",
+    "address": "Stathelleveien 33, 3970 LANGESUND",
+    "metadata": {
+      "legekontor": "Bamble legesenter",
+      "ledigePlasser": 4,
+      "antallPlasser": 700,
+      "valgbar": true
+    },
+    "lat": 59.012784,
+    "lng": 9.743511
+  },
+  {
+    "title": "Pranithan Jeevanathan",
+    "address": "Bruene 1, 3724",
+    "metadata": {
+      "legekontor": "Legene i Arkaden",
+      "tlf": "35 52 30 60",
+      "antallPlasser": 800
+    },
+    "lat": 59.2071317,
+    "lng": 9.6081984
+  },
+  {
+    "title": "Lars Kølving Jensen",
+    "address": "Holbergs gate 6, 3717 SKIEN",
+    "metadata": {
+      "legekontor": "Holbergsgate Legesenter",
+      "tlf": "35 58 70 90",
+      "antallPlasser": 1250
+    },
+    "lat": 59.20957,
+    "lng": 9.604175
+  },
+  {
+    "title": "Dilruckshan Antony Jeyaseelan",
+    "address": "Sentrumsveien 22, 3748 SILJAN",
+    "metadata": {
+      "legekontor": "Siljan Legekontor",
+      "tlf": "35 94 25 50",
+      "ledigePlasser": 53,
+      "antallPlasser": 700,
+      "valgbar": true
+    },
+    "lat": 59.2791325,
+    "lng": 9.7282509
+  },
+  {
+    "title": "Elzbieta Joanna Johansen",
+    "address": "Tinnegrendveien 5, 3683 NOTODDEN",
+    "metadata": {
+      "legekontor": "Tinneberget legesenter",
+      "tlf": "35 01 56 20",
+      "antallPlasser": 900
+    },
+    "lat": 59.559777,
+    "lng": 9.269158
+  },
+  {
+    "title": "Gunnar Grøstad Johnson",
+    "address": "Revahaugvegen 4, 3880 DALEN",
+    "metadata": {
+      "legekontor": "Tokke legekontor",
+      "tlf": "35 07 55 60",
+      "ledigePlasser": 72,
+      "antallPlasser": 600,
+      "valgbar": true
+    },
+    "lat": 59.4444775,
+    "lng": 8.0043161
+  },
+  {
+    "title": "Kine Cecilie Jordbakke",
+    "address": "Ingrid Slettensveg 16, 3840 SELJORD",
+    "metadata": {
+      "legekontor": "Seljord Helsesenter",
+      "tlf": "35 06 52 50",
+      "antallPlasser": 300
+    },
+    "lat": 59.4810018,
+    "lng": 8.6326162
+  },
+  {
+    "title": "Ahmad Masih Kakar",
+    "address": "Kongens gate 31, 3717 Skien",
+    "metadata": {
+      "legekontor": "Kverndalen legesenter",
+      "tlf": "35 50 30 40",
+      "ledigePlasser": 14,
+      "antallPlasser": 600,
+      "valgbar": true
+    },
+    "lat": 59.2114908,
+    "lng": 9.6074354
+  },
+  {
+    "title": "Mazri Khalaf Mhemed",
+    "address": "Tinnegrendveien 5, 3683 NOTODDEN",
+    "metadata": {
+      "legekontor": "Tinneberget legesenter",
+      "tlf": "35 01 56 20",
+      "antallPlasser": 1400
+    },
+    "lat": 59.559777,
+    "lng": 9.269158
+  },
+  {
+    "title": "Muhammad Shabbir Khan",
+    "address": "Gamlegata 56, 3810 GVARV",
+    "metadata": {
+      "legekontor": "Gvarv legesenter",
+      "tlf": "35 95 71 00",
+      "ledigePlasser": 22,
+      "antallPlasser": 800,
+      "valgbar": true
+    },
+    "lat": 59.3873276,
+    "lng": 9.1687092
+  },
+  {
+    "title": "Kari Aarhus Kinn",
+    "address": "Teknikergata 16, 3912 PORSGRUNN",
+    "metadata": {
+      "legekontor": "Porsgrunn Legesenter AS",
+      "tlf": "35 93 30 90",
+      "antallPlasser": 800
+    },
+    "lat": 59.150348,
+    "lng": 9.658476
+  },
+  {
+    "title": "Svetlana Kirknes",
+    "address": "Nedre Hjellegate 2, 3724 SKIEN",
+    "metadata": {
+      "legekontor": "Kirknes Svetlana Ivanovna",
+      "tlf": "35 50 07 00",
+      "ledigePlasser": 7,
+      "antallPlasser": 1800,
+      "valgbar": true
+    },
+    "lat": 59.2068327,
+    "lng": 9.6068278
+  },
+  {
+    "title": "Dag Roar Kise",
+    "address": "Bjørnstj. Bjørnsonsgate 13, 3722 Skien",
+    "metadata": {
+      "legekontor": "Falkum Legesenter",
+      "tlf": "35 52 39 55",
+      "antallPlasser": 950
+    },
+    "lat": 59.2101745,
+    "lng": 9.5932748
+  },
+  {
+    "title": "Ulrich Koch",
+    "address": "Stemmenveien 6, 3750 DRANGEDAL",
+    "metadata": {
+      "legekontor": "Drangedal legekontor",
+      "tlf": "35 99 71 00",
+      "antallPlasser": 850
+    },
+    "lat": 59.0984158,
+    "lng": 9.0623445
+  },
+  {
+    "title": "Oluchi Ndukwe Korsveien",
+    "address": "Gamlegata 56, 3810 GVARV",
+    "metadata": {
+      "legekontor": "Gvarv legesenter",
+      "tlf": "35 95 71 00",
+      "antallPlasser": 670
+    },
+    "lat": 59.3873276,
+    "lng": 9.1687092
+  },
+  {
+    "title": "Vivian Kotucky Lara",
+    "address": "Stårrvegen 14, 3830 Ulefoss",
+    "metadata": {
+      "legekontor": "Nome Legesenter",
+      "tlf": "35 00 86 00",
+      "ledigePlasser": 228,
+      "antallPlasser": 1100,
+      "valgbar": true
+    },
+    "lat": 59.28227,
+    "lng": 9.268932
+  },
+  {
+    "title": "Tonje Granne Kvale",
+    "address": "Tinnegrendveien 5, 3683 NOTODDEN",
+    "metadata": {
+      "legekontor": "Tinneberget legesenter",
+      "tlf": "35 01 56 20",
+      "antallPlasser": 1100
+    },
+    "lat": 59.559777,
+    "lng": 9.269158
+  },
+  {
+    "title": "Camilla Ljosland Kvålseth",
+    "address": "Hellandvegen 10, 3800 BØ I TELEMARK",
+    "metadata": {
+      "legekontor": "Bø Legesenter",
+      "tlf": "35 05 91 00",
+      "antallPlasser": 750
+    },
+    "lat": 59.4143901,
+    "lng": 9.0668778
+  },
+  {
+    "title": "Saharat Subphatkul Laksana",
+    "address": "Henrik Ibsensgate 6, 3724 Skien",
+    "metadata": {
+      "legekontor": "Sentrum Legesenter",
+      "tlf": "35 50 66 00",
+      "antallPlasser": 1000
+    },
+    "lat": 59.2022242,
+    "lng": 9.6127897
+  },
+  {
+    "title": "Adrian William Langburne",
+    "address": "Holbergs gate 6, 3717 SKIEN",
+    "metadata": {
+      "legekontor": "Holbergsgate Legesenter",
+      "tlf": "35 58 70 90",
+      "ledigePlasser": 46,
+      "antallPlasser": 1000,
+      "valgbar": true
+    },
+    "lat": 59.20957,
+    "lng": 9.604175
+  },
+  {
+    "title": "Christine Lund Langeland",
+    "address": "Bruene 1, 3724",
+    "metadata": {
+      "legekontor": "Legene i Arkaden",
+      "tlf": "35 52 30 60",
+      "antallPlasser": 1000
+    },
+    "lat": 59.2071317,
+    "lng": 9.6081984
+  },
+  {
+    "title": "Lars Kristian Larsen",
+    "address": "Stårrvegen 14, 3830 Ulefoss",
+    "metadata": {
+      "legekontor": "Nome Legesenter",
+      "tlf": "35 00 86 00",
+      "antallPlasser": 700
+    },
+    "lat": 59.28227,
+    "lng": 9.268932
+  },
+  {
+    "title": "Irene Ljosland",
+    "address": "Hellandvegen 10, 3800 BØ I TELEMARK",
+    "metadata": {
+      "legekontor": "Bø Legesenter",
+      "tlf": "35 05 91 00",
+      "antallPlasser": 750
+    },
+    "lat": 59.4143901,
+    "lng": 9.0668778
+  },
+  {
+    "title": "Illya Lomakin",
+    "address": "Pelotongvegen 2, 3734 SKIEN",
+    "metadata": {
+      "legekontor": "Solumlege AS",
+      "tlf": "35 91 55 80",
+      "antallPlasser": 1000
+    },
+    "lat": 59.1833033,
+    "lng": 9.6030332
+  },
+  {
+    "title": "Julie Lundberg",
+    "address": "Sentrumsveien 22, 3748 SILJAN",
+    "metadata": {
+      "legekontor": "Siljan Legekontor",
+      "tlf": "35 94 25 50",
+      "ledigePlasser": 4,
+      "antallPlasser": 470,
+      "valgbar": true
+    },
+    "lat": 59.2791325,
+    "lng": 9.7282509
+  },
+  {
+    "title": "Lars Kristian Lunden",
+    "address": "Stårrvegen 14, 3830 Ulefoss",
+    "metadata": {
+      "legekontor": "Nome Legesenter",
+      "tlf": "35 00 86 00",
+      "antallPlasser": 400
+    },
+    "lat": 59.28227,
+    "lng": 9.268932
+  },
+  {
+    "title": "Erling Lyngset",
+    "address": "Storgata 16, 3660 RJUKAN",
+    "metadata": {
+      "legekontor": "Rjukan Legesenter",
+      "tlf": "35 08 29 60",
+      "antallPlasser": 100
+    },
+    "lat": 59.8790005,
+    "lng": 8.5909395
+  },
+  {
+    "title": "Mona Løvald-Sharma",
+    "address": "Tinnegrendveien 5, 3683 NOTODDEN",
+    "metadata": {
+      "legekontor": "Tinneberget legesenter",
+      "tlf": "35 01 56 20",
+      "antallPlasser": 375
+    },
+    "lat": 59.559777,
+    "lng": 9.269158
+  },
+  {
+    "title": "Manoharan Manika",
+    "address": "Pelotongvegen 2, 3734 SKIEN",
+    "metadata": {
+      "legekontor": "Solumlege AS",
+      "tlf": "35 91 55 80",
+      "antallPlasser": 1800
+    },
+    "lat": 59.1833033,
+    "lng": 9.6030332
+  },
+  {
+    "title": "Tijana Marcikic",
+    "address": "Gamle Breviksvei 110, 3940 Porsgrunn",
+    "metadata": {
+      "legekontor": "Heistad Legekontor AS",
+      "tlf": "35 51 68 00",
+      "ledigePlasser": 27,
+      "antallPlasser": 1000,
+      "valgbar": true
+    },
+    "lat": 59.0856171,
+    "lng": 9.6833843
+  },
+  {
+    "title": "Stefan Martens",
+    "address": "Gamle Breviksvei 110, 3940 Porsgrunn",
+    "metadata": {
+      "legekontor": "Heistad Legekontor AS",
+      "tlf": "35 51 68 00",
+      "antallPlasser": 900
+    },
+    "lat": 59.0856171,
+    "lng": 9.6833843
+  },
+  {
+    "title": "Elise Charlotte Melkild",
+    "address": "Henrik Ibsensgate 6, 3724 Skien",
+    "metadata": {
+      "legekontor": "Sentrum Legesenter",
+      "tlf": "35 50 66 00",
+      "antallPlasser": 1000
+    },
+    "lat": 59.2022242,
+    "lng": 9.6127897
+  },
+  {
+    "title": "Tone Cecilie Midtbøen",
+    "address": "Buervegen 18, 3711 SKIEN",
+    "metadata": {
+      "legekontor": "Borgeåsen Legesenter  DA",
+      "tlf": "35 50 43 90",
+      "antallPlasser": 650
+    },
+    "lat": 59.164272,
+    "lng": 9.662773
+  },
+  {
+    "title": "Lise Marita Moen",
+    "address": "Stemmenveien 6, 3750 DRANGEDAL",
+    "metadata": {
+      "legekontor": "Drangedal legekontor",
+      "tlf": "35 99 71 00",
+      "ledigePlasser": 2,
+      "antallPlasser": 800,
+      "valgbar": true
+    },
+    "lat": 59.0984158,
+    "lng": 9.0623445
+  },
+  {
+    "title": "Siri Dubrefjord Moen",
+    "address": "Ingrid Slettensveg 16, 3840 SELJORD",
+    "metadata": {
+      "legekontor": "Seljord Helsesenter",
+      "tlf": "35 06 52 50",
+      "antallPlasser": 750
+    },
+    "lat": 59.4810018,
+    "lng": 8.6326162
+  },
+  {
+    "title": "Sara Mohammad",
+    "address": "Kongens gate 31, 3717 Skien",
+    "metadata": {
+      "legekontor": "Kverndalen legesenter",
+      "tlf": "35 50 30 40",
+      "antallPlasser": 620
+    },
+    "lat": 59.2114908,
+    "lng": 9.6074354
+  },
+  {
+    "title": "Ragnhild Landsend Monsen",
+    "address": "Krabberødvn 3, 3960 STATHELLE",
+    "metadata": {
+      "legekontor": "Stathelle Legesenter",
+      "tlf": "35 96 70 80",
+      "ledigePlasser": 14,
+      "antallPlasser": 1000,
+      "valgbar": true
+    },
+    "lat": 59.044211,
+    "lng": 9.691484
+  },
+  {
+    "title": "Joseph Hamis Mwanaupanga",
+    "address": "Stridsklev Ring 46, 3929 PORSGRUNN",
+    "metadata": {
+      "legekontor": "Stridsklev Legekontor AS",
+      "tlf": "35 51 39 00",
+      "ledigePlasser": 160,
+      "antallPlasser": 600,
+      "valgbar": true
+    },
+    "lat": 59.11639,
+    "lng": 9.6599988
+  },
+  {
+    "title": "Andreas Myklebust",
+    "address": "Treungvegen 398, 3855 TREUNGEN",
+    "metadata": {
+      "legekontor": "Nissedal Legekontor",
+      "tlf": "35 04 84 20",
+      "ledigePlasser": 71,
+      "antallPlasser": 750,
+      "valgbar": true
+    },
+    "lat": 59.0196639,
+    "lng": 8.5211988
+  },
+  {
+    "title": "Stein Møretrø",
+    "address": "Storgata 40, 3674 Notodden",
+    "metadata": {
+      "legekontor": "Sentrumslegene i Notodden DA",
+      "tlf": "35 01 74 00",
+      "antallPlasser": 1100
+    },
+    "lat": 59.559806,
+    "lng": 9.258979
+  },
+  {
+    "title": "Adyam Teclemikael Negash",
+    "address": "Stridsklev Ring 46, 3929 PORSGRUNN",
+    "metadata": {
+      "legekontor": "Stridsklev Legekontor AS",
+      "tlf": "35 51 39 00",
+      "ledigePlasser": 12,
+      "antallPlasser": 600,
+      "valgbar": true
+    },
+    "lat": 59.11639,
+    "lng": 9.6599988
+  },
+  {
+    "title": "Elof Johan Pape Nelson",
+    "address": "Kirkegt. 13, 3770 KRAGERØ",
+    "metadata": {
+      "legekontor": "Kragerø Legesenter",
+      "tlf": "35 98 49 50",
+      "ledigePlasser": 32,
+      "antallPlasser": 1280,
+      "valgbar": true
+    },
+    "lat": 58.8712508,
+    "lng": 9.4065081
+  },
+  {
+    "title": "Solveig Tangen Nielsen",
+    "address": "Gamlegata 56, 3810 GVARV",
+    "metadata": {
+      "legekontor": "Gvarv legesenter",
+      "tlf": "35 95 71 00",
+      "antallPlasser": 500
+    },
+    "lat": 59.3873276,
+    "lng": 9.1687092
+  },
+  {
+    "title": "Natalia Stanchenko Nijenhuis",
+    "address": "Gamle Breviksvei 110, 3940 Porsgrunn",
+    "metadata": {
+      "legekontor": "Heistad Legekontor AS",
+      "tlf": "35 51 68 00",
+      "ledigePlasser": 31,
+      "antallPlasser": 1350,
+      "valgbar": true
+    },
+    "lat": 59.0856171,
+    "lng": 9.6833843
+  },
+  {
+    "title": "Hanne-Marij Nikkels",
+    "address": "Ingrid Slettensveg 16, 3840 SELJORD",
+    "metadata": {
+      "legekontor": "Seljord Helsesenter",
+      "tlf": "35 06 52 50",
+      "antallPlasser": 730
+    },
+    "lat": 59.4810018,
+    "lng": 8.6326162
+  },
+  {
+    "title": "Thomas Nordstrand",
+    "address": "Krabberødvn 3, 3960 STATHELLE",
+    "metadata": {
+      "legekontor": "Stathelle Legesenter",
+      "tlf": "35 96 70 80",
+      "antallPlasser": 850
+    },
+    "lat": 59.044211,
+    "lng": 9.691484
+  },
+  {
+    "title": "Else Worren Nygård",
+    "address": "Bruene 1, 3724",
+    "metadata": {
+      "legekontor": "Legene i Arkaden",
+      "tlf": "35 52 30 60",
+      "antallPlasser": 800
+    },
+    "lat": 59.2071317,
+    "lng": 9.6081984
+  },
+  {
+    "title": "Henning Naas",
+    "address": "Hellandvegen 10, 3800 BØ I TELEMARK",
+    "metadata": {
+      "legekontor": "Bø Legesenter",
+      "tlf": "35 05 91 00",
+      "antallPlasser": 800
+    },
+    "lat": 59.4143901,
+    "lng": 9.0668778
+  },
+  {
+    "title": "Luiza Yusupovna Ochchaeva",
+    "address": "Gamle Breviksvei 110, 3940 Porsgrunn",
+    "metadata": {
+      "legekontor": "Heistad Legekontor AS",
+      "tlf": "35 51 68 00",
+      "ledigePlasser": 31,
+      "antallPlasser": 1000,
+      "valgbar": true
+    },
+    "lat": 59.0856171,
+    "lng": 9.6833843
+  },
+  {
+    "title": "Sjur Widme Ohren",
+    "address": "Storgata 16, 3660 RJUKAN",
+    "metadata": {
+      "legekontor": "Rjukan Legesenter",
+      "tlf": "35 08 29 60",
+      "antallPlasser": 200
+    },
+    "lat": 59.8790005,
+    "lng": 8.5909395
+  },
+  {
+    "title": "Kim Fredrick Yves Ollivier",
+    "address": "Gamle kragerøvei 12, 3770 Kragerø",
+    "metadata": {
+      "legekontor": "Gamle Kragerøvei Legesenter",
+      "tlf": "35 98 99 99",
+      "antallPlasser": 800
+    },
+    "lat": 58.8751885,
+    "lng": 9.416287
+  },
+  {
+    "title": "Erlend Fossedal Olsen",
+    "address": "Teknikergata 16, 3912 PORSGRUNN",
+    "metadata": {
+      "legekontor": "Porsgrunn Legesenter AS",
+      "tlf": "35 93 30 90",
+      "antallPlasser": 1050
+    },
+    "lat": 59.150348,
+    "lng": 9.658476
+  },
+  {
+    "title": "Marius Opsahl",
+    "address": "Vinjevegen 212, 3890 Vinje",
+    "metadata": {
+      "legekontor": "Vinje legekontor",
+      "tlf": "35 06 25 00",
+      "antallPlasser": 230
+    },
+    "lat": 59.568618,
+    "lng": 7.987588
+  },
+  {
+    "title": "Christian Pape",
+    "address": "Kirkegt. 13, 3770 KRAGERØ",
+    "metadata": {
+      "legekontor": "Kragerø Legesenter",
+      "tlf": "35 98 49 50",
+      "antallPlasser": 1200
+    },
+    "lat": 58.8712508,
+    "lng": 9.4065081
+  },
+  {
+    "title": "Jelena Parat",
+    "address": "Gamleveien 19, 3922 PORSGRUNN",
+    "metadata": {
+      "legekontor": "Søsterhjemmet Legesenter DA",
+      "tlf": "35 56 48 10",
+      "antallPlasser": 900
+    },
+    "lat": 59.135347,
+    "lng": 9.6495467
+  },
+  {
+    "title": "Arild Smith Pedersen",
+    "address": "Teknikergata 16, 3912 PORSGRUNN",
+    "metadata": {
+      "legekontor": "Porsgrunn Legesenter AS",
+      "tlf": "35 93 30 90",
+      "antallPlasser": 1250
+    },
+    "lat": 59.150348,
+    "lng": 9.658476
+  },
+  {
+    "title": "Ilir Pepaj",
+    "address": "Porselensvegen 8, 3920 PORSGRUNN",
+    "metadata": {
+      "legekontor": "Vestsiden Legesenter AS",
+      "tlf": "35 55 90 01",
+      "antallPlasser": 1200
+    },
+    "lat": 59.1407889,
+    "lng": 9.6397126
+  },
+  {
+    "title": "Adam Pietrzykowski",
+    "address": "Pelotongvegen 2, 3734 SKIEN",
+    "metadata": {
+      "legekontor": "Solumlege AS",
+      "tlf": "35 91 55 80",
+      "antallPlasser": 1100
+    },
+    "lat": 59.1833033,
+    "lng": 9.6030332
+  },
+  {
+    "title": "Gholam Reza Rahimi",
+    "address": "Bjørnstj. Bjørnsonsgate 13, 3722 Skien",
+    "metadata": {
+      "legekontor": "Falkum Legesenter",
+      "tlf": "35 52 39 55",
+      "antallPlasser": 800
+    },
+    "lat": 59.2101745,
+    "lng": 9.5932748
+  },
+  {
+    "title": "Margit Åkre Reite",
+    "address": "Bjørnstj. Bjørnsonsgate 13, 3722 Skien",
+    "metadata": {
+      "legekontor": "Falkum Legesenter",
+      "tlf": "35 52 39 55",
+      "antallPlasser": 800
+    },
+    "lat": 59.2101745,
+    "lng": 9.5932748
+  },
+  {
+    "title": "Kristian Alexander Pereda Rengifo",
+    "address": "Nyhusveien 14, 3726 SKIEN",
+    "metadata": {
+      "legekontor": "Gulset Legekontor DA",
+      "tlf": "35 50 55 20",
+      "antallPlasser": 800
+    },
+    "lat": 59.2161176,
+    "lng": 9.5653556
+  },
+  {
+    "title": "Ida Marie Voje Rennesund",
+    "address": "Gamle Breviksvei 110, 3940 Porsgrunn",
+    "metadata": {
+      "legekontor": "Heistad Legekontor AS",
+      "tlf": "35 51 68 00",
+      "antallPlasser": 850
+    },
+    "lat": 59.0856171,
+    "lng": 9.6833843
+  },
+  {
+    "title": "Nidia Anavela Reppe",
+    "address": "Gamle Breviksvei 110, 3940 Porsgrunn",
+    "metadata": {
+      "legekontor": "Heistad Legekontor AS",
+      "tlf": "35 51 68 00",
+      "ledigePlasser": 58,
+      "antallPlasser": 1150,
+      "valgbar": true
+    },
+    "lat": 59.0856171,
+    "lng": 9.6833843
+  },
+  {
+    "title": "Ann-Helen Richvoldsen",
+    "address": "Stårrvegen 14, 3830 Ulefoss",
+    "metadata": {
+      "legekontor": "Nome Legesenter",
+      "tlf": "35 00 86 00",
+      "antallPlasser": 400
+    },
+    "lat": 59.28227,
+    "lng": 9.268932
+  },
+  {
+    "title": "Anne Kristin Rist",
+    "address": "Gamle kragerøvei 12, 3770 Kragerø",
+    "metadata": {
+      "legekontor": "Gamle Kragerøvei Legesenter",
+      "tlf": "35 98 99 99",
+      "antallPlasser": 1100
+    },
+    "lat": 58.8751885,
+    "lng": 9.416287
+  },
+  {
+    "title": "Linda Rui",
+    "address": "Landstadvegen 35, 3870 FYRESDAL",
+    "metadata": {
+      "legekontor": "Fyresdal Legesenter",
+      "tlf": "35 06 73 00",
+      "antallPlasser": 520
+    },
+    "lat": 59.185654,
+    "lng": 8.0859652
+  },
+  {
+    "title": "Ellen Margrethe Røkkum",
+    "address": "Ingrid Slettensveg 16, 3840 SELJORD",
+    "metadata": {
+      "legekontor": "Seljord Helsesenter",
+      "tlf": "35 06 52 50",
+      "antallPlasser": 750
+    },
+    "lat": 59.4810018,
+    "lng": 8.6326162
+  },
+  {
+    "title": "Dag Marius Nitschke Rørholt",
+    "address": "Gamle kragerøvei 12, 3770 Kragerø",
+    "metadata": {
+      "legekontor": "Gamle Kragerøvei Legesenter",
+      "tlf": "35 98 99 99",
+      "ledigePlasser": 8,
+      "antallPlasser": 800,
+      "valgbar": true
+    },
+    "lat": 58.8751885,
+    "lng": 9.416287
+  },
+  {
+    "title": "Stein Helge Røsbekk",
+    "address": "Storgata 16, 3660 RJUKAN",
+    "metadata": {
+      "legekontor": "Rjukan Legesenter",
+      "tlf": "35 08 29 60",
+      "antallPlasser": 1200
+    },
+    "lat": 59.8790005,
+    "lng": 8.5909395
+  },
+  {
+    "title": "Siamak Sadeghi",
+    "address": "Storgata 40, 3674 Notodden",
+    "metadata": {
+      "legekontor": "Sentrumslegene i Notodden DA",
+      "tlf": "35 01 74 00",
+      "antallPlasser": 1100
+    },
+    "lat": 59.559806,
+    "lng": 9.258979
+  },
+  {
+    "title": "Misbah Saeed",
+    "address": "Tinnegrendveien 5, 3683 NOTODDEN",
+    "metadata": {
+      "legekontor": "Tinneberget legesenter",
+      "tlf": "35 01 56 20",
+      "antallPlasser": 720
+    },
+    "lat": 59.559777,
+    "lng": 9.269158
+  },
+  {
+    "title": "Hilde Salen",
+    "address": "Bambleveien 24, 3970 LANGESUND",
+    "metadata": {
+      "legekontor": "Langesund Legesenter",
+      "tlf": "35 96 88 10",
+      "antallPlasser": 800
+    },
+    "lat": 59.0030284,
+    "lng": 9.740707
+  },
+  {
+    "title": "Inger Lise Saltvig",
+    "address": "Porselensvegen 8, 3920 PORSGRUNN",
+    "metadata": {
+      "legekontor": "Vestsiden Legesenter AS",
+      "tlf": "35 55 90 01",
+      "antallPlasser": 1000
+    },
+    "lat": 59.1407889,
+    "lng": 9.6397126
+  },
+  {
+    "title": "Sharmake Husein Samatar",
+    "address": "Krabberødvn 3, 3960 STATHELLE",
+    "metadata": {
+      "legekontor": "Stathelle Legesenter",
+      "tlf": "35 96 70 80",
+      "ledigePlasser": 11,
+      "antallPlasser": 800,
+      "valgbar": true
+    },
+    "lat": 59.044211,
+    "lng": 9.691484
+  },
+  {
+    "title": "Jens-Øyvind Samuelsen",
+    "address": "Gamlegata 56, 3810 GVARV",
+    "metadata": {
+      "legekontor": "Gvarv legesenter",
+      "tlf": "35 95 71 00",
+      "antallPlasser": 800
+    },
+    "lat": 59.3873276,
+    "lng": 9.1687092
+  },
+  {
+    "title": "Terese Sanne",
+    "address": "Sentrumsveien 22, 3748 SILJAN",
+    "metadata": {
+      "legekontor": "Siljan Legekontor",
+      "tlf": "35 94 25 50",
+      "ledigePlasser": 10,
+      "antallPlasser": 710,
+      "valgbar": true
+    },
+    "lat": 59.2791325,
+    "lng": 9.7282509
+  },
+  {
+    "title": "Tayana Saoli",
+    "address": "Vinjevegen 212, 3890 Vinje",
+    "metadata": {
+      "legekontor": "Vinje legekontor",
+      "tlf": "35 06 25 00",
+      "antallPlasser": 384
+    },
+    "lat": 59.568618,
+    "lng": 7.987588
+  },
+  {
+    "title": "Kristin Sekse",
+    "address": "Vinjevegen 212, 3890 Vinje",
+    "metadata": {
+      "legekontor": "Vinje legekontor",
+      "tlf": "35 06 25 00",
+      "antallPlasser": 320
+    },
+    "lat": 59.568618,
+    "lng": 7.987588
+  },
+  {
+    "title": "Siamak Shekarchi",
+    "address": "Buervegen 18, 3711 SKIEN",
+    "metadata": {
+      "legekontor": "Borgeåsen Legesenter  DA",
+      "tlf": "35 50 43 90",
+      "antallPlasser": 740
+    },
+    "lat": 59.164272,
+    "lng": 9.662773
+  },
+  {
+    "title": "Nathalie Simonsen",
+    "address": "Krabberødvn 3, 3960 STATHELLE",
+    "metadata": {
+      "legekontor": "Stathelle Legesenter",
+      "tlf": "35 96 70 80",
+      "antallPlasser": 800
+    },
+    "lat": 59.044211,
+    "lng": 9.691484
+  },
+  {
+    "title": "Oliver Skjelbred",
+    "address": "Alexander Kiellands gate 26, 3716 Skien",
+    "metadata": {
+      "legekontor": "Stadionlegesenter AS",
+      "tlf": "35 50 69 70",
+      "antallPlasser": 1100
+    },
+    "lat": 59.2161973,
+    "lng": 9.6092713
+  },
+  {
+    "title": "Stian Skjelbred",
+    "address": "Alexander Kiellands gate 26, 3716 Skien",
+    "metadata": {
+      "legekontor": "Stadionlegesenter AS",
+      "tlf": "35 50 69 70",
+      "antallPlasser": 1800
+    },
+    "lat": 59.2161973,
+    "lng": 9.6092713
+  },
+  {
+    "title": "Ole Aleksander Skjelbred-Kristiansen",
+    "address": "Gamle Breviksvei 110, 3940 Porsgrunn",
+    "metadata": {
+      "legekontor": "Heistad Legekontor AS",
+      "tlf": "35 51 68 00",
+      "antallPlasser": 800
+    },
+    "lat": 59.0856171,
+    "lng": 9.6833843
+  },
+  {
+    "title": "Irene Holte Skugstad",
+    "address": "Hellandvegen 10, 3800 BØ I TELEMARK",
+    "metadata": {
+      "legekontor": "Bø Legesenter",
+      "tlf": "35 05 91 00",
+      "antallPlasser": 870
+    },
+    "lat": 59.4143901,
+    "lng": 9.0668778
+  },
+  {
+    "title": "Silje Vassbotn Skaara",
+    "address": "Birgittesgate 19, 3730 SKIEN",
+    "metadata": {
+      "legekontor": "Klosterhagen Legesenter AS",
+      "tlf": "35 50 33 33",
+      "antallPlasser": 750
+    },
+    "lat": 59.1951235,
+    "lng": 9.6048628
+  },
+  {
+    "title": "Silje Lonar Skårnes",
+    "address": "Hågånvegen 17, 3692 SAULAND",
+    "metadata": {
+      "legekontor": "Hjartdal Legekontor",
+      "tlf": "35 02 80 50",
+      "antallPlasser": 680
+    },
+    "lat": 59.6145162,
+    "lng": 8.9510151
+  },
+  {
+    "title": "Hisham Nofan Ahmad Smairat",
+    "address": "Birgittesgate 19, 3730 SKIEN",
+    "metadata": {
+      "legekontor": "Klosterhagen Legesenter AS",
+      "tlf": "35 50 33 33",
+      "antallPlasser": 850
+    },
+    "lat": 59.1951235,
+    "lng": 9.6048628
+  },
+  {
+    "title": "Silje Smelvær",
+    "address": "Skrapeklevvegen 4, 3937 PORSGRUNN",
+    "metadata": {
+      "legekontor": "Herøya Legesenter AS",
+      "tlf": "35 56 95 70",
+      "antallPlasser": 960
+    },
+    "lat": 59.1059477,
+    "lng": 9.6612476
+  },
+  {
+    "title": "Kaia Gamnes Sneltvedt",
+    "address": "Kongens gate 31, 3717 Skien",
+    "metadata": {
+      "legekontor": "Kverndalen legesenter",
+      "tlf": "35 50 30 40",
+      "antallPlasser": 660
+    },
+    "lat": 59.2114908,
+    "lng": 9.6074354
+  },
+  {
+    "title": "Anniken Aase Sommerfelt",
+    "address": "Nyhusveien 14, 3726 SKIEN",
+    "metadata": {
+      "legekontor": "Gulset Legekontor DA",
+      "tlf": "35 50 55 20",
+      "antallPlasser": 1000
+    },
+    "lat": 59.2161176,
+    "lng": 9.5653556
+  },
+  {
+    "title": "Gjorgji Stanoevski",
+    "address": "Stathelleveien 33, 3970 LANGESUND",
+    "metadata": {
+      "legekontor": "Bamble legesenter",
+      "ledigePlasser": 110,
+      "antallPlasser": 650,
+      "valgbar": true
+    },
+    "lat": 59.012784,
+    "lng": 9.743511
+  },
+  {
+    "title": "Milanka Stevanic-Sarenac",
+    "address": "Kongens gate 31, 3717 Skien",
+    "metadata": {
+      "legekontor": "Kverndalen legesenter",
+      "tlf": "35 50 30 40",
+      "antallPlasser": 900
+    },
+    "lat": 59.2114908,
+    "lng": 9.6074354
+  },
+  {
+    "title": "Esben Storvand",
+    "address": "Gamleveien 19, 3922 PORSGRUNN",
+    "metadata": {
+      "legekontor": "Søsterhjemmet Legesenter DA",
+      "tlf": "35 56 48 10",
+      "antallPlasser": 1450
+    },
+    "lat": 59.135347,
+    "lng": 9.6495467
+  },
+  {
+    "title": "Astrid Strandheim",
+    "address": "Gamle kragerøvei 12, 3770 Kragerø",
+    "metadata": {
+      "legekontor": "Gamle Kragerøvei Legesenter",
+      "tlf": "35 98 99 99",
+      "antallPlasser": 800
+    },
+    "lat": 58.8751885,
+    "lng": 9.416287
+  },
+  {
+    "title": "Philipp Strauss",
+    "address": "Kongens gate 31, 3717 Skien",
+    "metadata": {
+      "legekontor": "Kverndalen legesenter",
+      "tlf": "35 50 30 40",
+      "antallPlasser": 600
+    },
+    "lat": 59.2114908,
+    "lng": 9.6074354
+  },
+  {
+    "title": "Inga Tho",
+    "address": "Hågånvegen 17, 3692 SAULAND",
+    "metadata": {
+      "legekontor": "Hjartdal Legekontor",
+      "tlf": "35 02 80 50",
+      "antallPlasser": 350
+    },
+    "lat": 59.6145162,
+    "lng": 8.9510151
+  },
+  {
+    "title": "Aleksander Berre Thorne",
+    "address": "Teknikergata 16, 3912 PORSGRUNN",
+    "metadata": {
+      "legekontor": "Porsgrunn Legesenter AS",
+      "tlf": "35 93 30 90",
+      "antallPlasser": 1010
+    },
+    "lat": 59.150348,
+    "lng": 9.658476
+  },
+  {
+    "title": "Mathias Olaf Thorvaldsen",
+    "address": "Friisebrygga 3, 3921 Porsgrunn",
+    "metadata": {
+      "legekontor": "Friisebrygga Legesenter AS",
+      "tlf": "35 93 39 00",
+      "ledigePlasser": 97,
+      "antallPlasser": 800,
+      "valgbar": true
+    },
+    "lat": 59.1391041,
+    "lng": 9.6482847
+  },
+  {
+    "title": "Helene Clausen Thyholdt",
+    "address": "Stokkevannveien 13, 3960 Stathelle",
+    "metadata": {
+      "legekontor": "Fyret legesenter",
+      "tlf": "35 96 53 90",
+      "antallPlasser": 650
+    },
+    "lat": 59.037387,
+    "lng": 9.677994
+  },
+  {
+    "title": "Ingeborg Svennungsen Tokheim",
+    "address": "Holbergs gate 6, 3717 SKIEN",
+    "metadata": {
+      "legekontor": "Holbergsgate Legesenter",
+      "tlf": "35 58 70 90",
+      "antallPlasser": 750
+    },
+    "lat": 59.20957,
+    "lng": 9.604175
+  },
+  {
+    "title": "Ida Tornholm",
+    "address": "Gamle Breviksvei 110, 3940 Porsgrunn",
+    "metadata": {
+      "legekontor": "Heistad Legekontor AS",
+      "tlf": "35 51 68 00",
+      "antallPlasser": 1050
+    },
+    "lat": 59.0856171,
+    "lng": 9.6833843
+  },
+  {
+    "title": "Andreas Trønnes",
+    "address": "Tinnegrendveien 5, 3683 NOTODDEN",
+    "metadata": {
+      "legekontor": "Tinneberget legesenter",
+      "tlf": "35 01 56 20",
+      "antallPlasser": 1550
+    },
+    "lat": 59.559777,
+    "lng": 9.269158
+  },
+  {
+    "title": "Carl Christian Tveit",
+    "address": "Skrapeklevvegen 4, 3937 PORSGRUNN",
+    "metadata": {
+      "legekontor": "Herøya Legesenter AS",
+      "tlf": "35 56 95 70",
+      "antallPlasser": 1025
+    },
+    "lat": 59.1059477,
+    "lng": 9.6612476
+  },
+  {
+    "title": "Marte Hulthin Valle",
+    "address": "Kongens gate 31, 3717 Skien",
+    "metadata": {
+      "legekontor": "Kverndalen legesenter",
+      "tlf": "35 50 30 40",
+      "antallPlasser": 550
+    },
+    "lat": 59.2114908,
+    "lng": 9.6074354
+  },
+  {
+    "title": "Dillini Lankika Mihirani K Wellalage Don",
+    "address": "Gamleveien 19, 3922 PORSGRUNN",
+    "metadata": {
+      "legekontor": "Søsterhjemmet Legesenter DA",
+      "tlf": "35 56 48 10",
+      "ledigePlasser": 32,
+      "antallPlasser": 700,
+      "valgbar": true
+    },
+    "lat": 59.135347,
+    "lng": 9.6495467
+  },
+  {
+    "title": "Mikael W K Z Wlosinski",
+    "address": "Stokkevannveien 13, 3960 Stathelle",
+    "metadata": {
+      "legekontor": "Fyret legesenter",
+      "tlf": "35 96 53 90",
+      "ledigePlasser": 246,
+      "antallPlasser": 600,
+      "valgbar": true
+    },
+    "lat": 59.037387,
+    "lng": 9.677994
+  },
+  {
+    "title": "Fredrik Andresen Wågene",
+    "address": "Nyhusveien 14, 3726 SKIEN",
+    "metadata": {
+      "legekontor": "Gulset Legekontor DA",
+      "tlf": "35 50 55 20",
+      "antallPlasser": 1400
+    },
+    "lat": 59.2161176,
+    "lng": 9.5653556
+  },
+  {
+    "title": "Yang Xue",
+    "address": "Storgata 16, 3660 RJUKAN",
+    "metadata": {
+      "legekontor": "Rjukan Legesenter",
+      "tlf": "35 08 29 60",
+      "antallPlasser": 700
+    },
+    "lat": 59.8790005,
+    "lng": 8.5909395
+  },
+  {
+    "title": "Bilal Yaqub",
+    "address": "Holbergs gate 6, 3717 SKIEN",
+    "metadata": {
+      "legekontor": "Holbergsgate Legesenter",
+      "tlf": "35 58 70 90",
+      "antallPlasser": 1000
+    },
+    "lat": 59.20957,
+    "lng": 9.604175
+  },
+  {
+    "title": "Sanjika Yogarajah",
+    "address": "Kongens gate 31, 3717 Skien",
+    "metadata": {
+      "legekontor": "Kverndalen legesenter",
+      "tlf": "35 50 30 40",
+      "antallPlasser": 600
+    },
+    "lat": 59.2114908,
+    "lng": 9.6074354
+  },
+  {
+    "title": "Kavi Kamal Yousef",
+    "address": "Kongens gate 31, 3717 Skien",
+    "metadata": {
+      "legekontor": "Kverndalen legesenter",
+      "tlf": "35 50 30 40",
+      "antallPlasser": 750
+    },
+    "lat": 59.2114908,
+    "lng": 9.6074354
+  },
+  {
+    "title": "Daha Cumar Haaji Yuusuf",
+    "address": "Granlivegen 1, 3850 KVITESEID",
+    "metadata": {
+      "legekontor": "Kviteseid Legekontor",
+      "tlf": "35 06 82 50",
+      "ledigePlasser": 356,
+      "antallPlasser": 1000,
+      "valgbar": true
+    },
+    "lat": 59.3982584,
+    "lng": 8.5006608
+  },
+  {
+    "title": "Karin Kristin Østerhus",
+    "address": "Revahaugvegen 4, 3880 DALEN",
+    "metadata": {
+      "legekontor": "Tokke legekontor",
+      "tlf": "35 07 55 60",
+      "antallPlasser": 373
+    },
+    "lat": 59.4444775,
+    "lng": 8.0043161
+  },
+  {
+    "title": "Kathrine Sørestrand Øye",
+    "address": "Gamleveien 19, 3922 PORSGRUNN",
+    "metadata": {
+      "legekontor": "Søsterhjemmet Legesenter DA",
+      "tlf": "35 56 48 10",
+      "antallPlasser": 750
+    },
+    "lat": 59.135347,
+    "lng": 9.6495467
+  }
+]

@@ -2,8 +2,6 @@ import { useState } from 'react'
 import MapView from './components/MapView'
 import MapLegend from './components/MapLegend'
 import { loadCategories, loadPreGeocoded, hasPreGeocodedData } from './dataLoader'
-import { geocodeCategories, clearFailedFromCache } from './geocode'
-import type { GeocodedEntry } from './types'
 import './App.css'
 
 const categories = loadCategories()
@@ -22,14 +20,15 @@ function loadColors(): Record<string, string> {
 }
 
 export default function App() {
-  const [entries, setEntries] = useState<GeocodedEntry[]>(preGeocoded)
   const [activeCategories, setActiveCategories] = useState<Set<string>>(
-    new Set(categories.map((c) => c.id)),
+    // Default: Oslo fastlege + all non-fastlege categories
+    new Set(
+      categories
+        .filter((c) => !c.id.startsWith('fastlege-') || c.id === 'fastlege-oslo')
+        .map((c) => c.id),
+    ),
   )
   const [categoryColors, setCategoryColors] = useState<Record<string, string>>(loadColors)
-  const [isGeocoding, setIsGeocoding] = useState(false)
-  const [geocodeProgress, setGeocodeProgress] = useState({ done: 0, total: 0 })
-  const [failed, setFailed] = useState<Array<{ title: string; address: string }>>([])
 
   function updateColor(id: string, color: string) {
     setCategoryColors((prev) => {
@@ -47,34 +46,19 @@ export default function App() {
     })
   }
 
-  async function handleGeocode() {
-    setIsGeocoding(true)
-    setFailed([])
-    const total = categories.reduce((sum, c) => sum + c.addresses.length, 0)
-    setGeocodeProgress({ done: 0, total })
-    try {
-      const result = await geocodeCategories(categories, (done, t) =>
-        setGeocodeProgress({ done, total: t }),
-      )
-      setEntries(result.entries)
-      setFailed(result.failed)
-    } catch (e) {
-      console.error('Geocoding failed', e)
-    } finally {
-      setIsGeocoding(false)
-    }
-  }
-
-  function handleRetryFailed() {
-    clearFailedFromCache()
-    handleGeocode()
+  function toggleAll(ids: string[], on: boolean) {
+    setActiveCategories((prev) => {
+      const next = new Set(prev)
+      ids.forEach((id) => on ? next.add(id) : next.delete(id))
+      return next
+    })
   }
 
   return (
     <div className="app">
       <main className="map-container">
         <MapView
-          entries={entries}
+          entries={preGeocoded}
           categories={categories}
           categoryColors={categoryColors}
           activeCategories={activeCategories}
@@ -84,13 +68,8 @@ export default function App() {
           categoryColors={categoryColors}
           activeCategories={activeCategories}
           onToggleCategory={toggleCategory}
+          onToggleAll={toggleAll}
           onColorChange={updateColor}
-          isGeocoded={entries.length > 0}
-          isGeocoding={isGeocoding}
-          geocodeProgress={geocodeProgress}
-          failed={failed}
-          onGeocode={handleGeocode}
-          onRetryFailed={handleRetryFailed}
         />
       </main>
     </div>

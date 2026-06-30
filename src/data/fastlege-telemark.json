@@ -1,0 +1,2659 @@
+[
+  {
+    "title": "Abdul-Madjid Abdaly",
+    "address": "Sande legesenter Revåveien 18, 3070 SANDE I VESTFOLD",
+    "metadata": {
+      "legekontor": "Sande Legesenter",
+      "tlf": "33 78 58 30",
+      "ledigePlasser": 81,
+      "antallPlasser": 1900,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Cathrine Abrahamsen",
+    "address": "Hjemsengveien 7B, 3140 Nøtterøy",
+    "metadata": {
+      "legekontor": "Tinghauglegene DA",
+      "tlf": "33 38 38 28",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Anette Nielsen Achtentuch",
+    "address": "Dronningensgate 3, 3211 SANDEFJORD",
+    "metadata": {
+      "legekontor": "Gleditschgården Legesenter AS",
+      "tlf": "33 44 60 10",
+      "antallPlasser": 500
+    }
+  },
+  {
+    "title": "Gro Flateland Ahlberg",
+    "address": "Voldshagan 2, 3090 HOF",
+    "metadata": {
+      "legekontor": "Hof Legesenter DA",
+      "tlf": "33 09 54 00",
+      "antallPlasser": 1001
+    }
+  },
+  {
+    "title": "Salam Sami Al Haidari",
+    "address": "Håkonsgate 34, 3257 LARVIK",
+    "metadata": {
+      "legekontor": "Byskogen Legesenter",
+      "tlf": "33 11 66 66",
+      "ledigePlasser": 22,
+      "antallPlasser": 2250,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Anette Gry Andersen",
+    "address": "Ørsnesalleèn 37, 3120 Nøtterøy",
+    "metadata": {
+      "legekontor": "Bellevue helsesenter",
+      "tlf": "33 30 44 90",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Lars Fredrik Rudsta Andersen",
+    "address": "Nedre Movei 16, 3215 Sandefjord",
+    "metadata": {
+      "legekontor": "Lunden Kommunale Fastlegekontor",
+      "tlf": "33 42 31 42",
+      "antallPlasser": 795
+    }
+  },
+  {
+    "title": "Liz Yvonne Andersen",
+    "address": "Harald Pedersens gate 9, 3182 HORTEN",
+    "metadata": {
+      "legekontor": "Horten kommunale legesenter",
+      "tlf": "33 08 70 30",
+      "antallPlasser": 830
+    }
+  },
+  {
+    "title": "Victoria Antonescu",
+    "address": "Skiringssalveien 24, 3208 SANDEFJORD",
+    "metadata": {
+      "legekontor": "Tempo",
+      "tlf": "+47 33 48 80 80",
+      "antallPlasser": 950
+    }
+  },
+  {
+    "title": "Karen Foyn Asmyhr",
+    "address": "Kjernåsveien 13A, 3142 Nøtterøy",
+    "metadata": {
+      "legekontor": "Vestskogen Medisinske Senter",
+      "tlf": "33 35 17 80",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Raheleh Attar Hamedi",
+    "address": "Skiringssalveien 20, 3208 SANDEFJORD",
+    "metadata": {
+      "legekontor": "Sandefjord Helsepark",
+      "tlf": "33 44 82 20",
+      "ledigePlasser": 13,
+      "antallPlasser": 1200,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Mariann Auflem",
+    "address": "Tjømegaten 2, 3126 TØNSBERG",
+    "metadata": {
+      "legekontor": "Sentrum Legekontor, Tønsberg",
+      "tlf": "33 30 84 50",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Marianne Fjeld Aukland",
+    "address": "Trimveien 41, 3188 HORTEN",
+    "metadata": {
+      "legekontor": "Trimveien Legesenter",
+      "tlf": "33 02 08 00",
+      "antallPlasser": 950
+    }
+  },
+  {
+    "title": "Torbjørn Aunan",
+    "address": "Langgata 2, 3187 HORTEN",
+    "metadata": {
+      "legekontor": "Vektergården legesenter",
+      "tlf": "33 07 17 60",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Eli Hallan Aune",
+    "address": "Voldshagan 2, 3090 HOF",
+    "metadata": {
+      "legekontor": "Hof Legesenter DA",
+      "tlf": "33 09 54 00",
+      "antallPlasser": 720
+    }
+  },
+  {
+    "title": "Aleksander Austlys",
+    "address": "Nedre Movei 16, 3215 Sandefjord",
+    "metadata": {
+      "legekontor": "Lunden Kommunale Fastlegekontor",
+      "tlf": "33 42 31 42",
+      "antallPlasser": 400
+    }
+  },
+  {
+    "title": "Are Austnes",
+    "address": "Skiringssalveien 24, 3208 SANDEFJORD",
+    "metadata": {
+      "legekontor": "Solvang Legesenter",
+      "tlf": "33 42 68 20",
+      "antallPlasser": 1050
+    }
+  },
+  {
+    "title": "Øystein Avlesen",
+    "address": "Voldshagan 2, 3090 HOF",
+    "metadata": {
+      "legekontor": "Hof Legesenter DA",
+      "tlf": "33 09 54 00",
+      "ledigePlasser": 203,
+      "antallPlasser": 500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Ole Johan Bakke",
+    "address": "Langgt. 45, 3080 HOLMESTRAND",
+    "metadata": {
+      "legekontor": "Kommunelegene i Holmestrand DA",
+      "tlf": "33 06 43 15",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Michael Ballke",
+    "address": "Skiringssalveien 20, 3208 SANDEFJORD",
+    "metadata": {
+      "legekontor": "Sandefjord Helsepark",
+      "tlf": "33 44 82 20",
+      "antallPlasser": 550
+    }
+  },
+  {
+    "title": "Marianna Kuznetcova Barcilon",
+    "address": "Havnegaten 7, 3080 HOLMESTRAND",
+    "metadata": {
+      "legekontor": "Sentrum Legeservice - Holmestrand",
+      "tlf": "33 05 22 92",
+      "antallPlasser": 500
+    }
+  },
+  {
+    "title": "Morten Bastøe",
+    "address": "Kilengaten 18, 3117 TØNSBERG",
+    "metadata": {
+      "legekontor": "Tønsberg Medisinske Senter AS",
+      "tlf": "33 37 63 00",
+      "antallPlasser": 1450
+    }
+  },
+  {
+    "title": "Ketil Johan Bendiksen",
+    "address": "Steinbruddveien 8, 3173",
+    "metadata": {
+      "legekontor": "Vear Legegruppe",
+      "tlf": "33 36 27 00",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Vegard Berling",
+    "address": "Skiringssalsgaten 1a, 3116 Tønsberg",
+    "metadata": {
+      "legekontor": "Midtløkken legekontor",
+      "tlf": "33 35 48 48",
+      "antallPlasser": 1225
+    }
+  },
+  {
+    "title": "Thea Bjune",
+    "address": "Kjellengveien 2A, 3125 Tønsberg",
+    "metadata": {
+      "legekontor": "Jarlsberg Legesenter AS",
+      "tlf": "31 33 30 00",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Thomas Bjørge",
+    "address": "Havnegaten 7, 3080 HOLMESTRAND",
+    "metadata": {
+      "legekontor": "Sentrum Legeservice - Holmestrand",
+      "tlf": "33 05 22 92",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Martin Andre Bjørnsgård",
+    "address": "Trimveien 41, 3188 HORTEN",
+    "metadata": {
+      "legekontor": "Trimveien Legesenter",
+      "tlf": "33 02 08 00",
+      "antallPlasser": 1060
+    }
+  },
+  {
+    "title": "Per-Edvin Blystad",
+    "address": "Bulls gate 2B, 3110 TØNSBERG",
+    "metadata": {
+      "legekontor": "Legene Blystad og Rasting",
+      "tlf": "33 35 03 30",
+      "antallPlasser": 1500
+    }
+  },
+  {
+    "title": "Guro Bergsli Bogen",
+    "address": "Nedre Movei 16, 3215 Sandefjord",
+    "metadata": {
+      "legekontor": "Lunden Kommunale Fastlegekontor",
+      "tlf": "33 42 31 42",
+      "antallPlasser": 770
+    }
+  },
+  {
+    "title": "Beate Bratland",
+    "address": "Bulls gate 2A, 3110",
+    "metadata": {
+      "legekontor": "Bulldok Legekontor",
+      "tlf": "33 35 99 60",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Ann Elise Briskelid",
+    "address": "Søndersrødveien 6, 3295 HELGEROA",
+    "metadata": {
+      "legekontor": "Helgeroa legesenter DA",
+      "tlf": "33 14 06 50",
+      "ledigePlasser": 9,
+      "antallPlasser": 600,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Simen Flostrand Brudeseth",
+    "address": "Harald Pedersens gate 9, 3182 HORTEN",
+    "metadata": {
+      "legekontor": "Horten kommunale legesenter",
+      "tlf": "33 08 70 30",
+      "ledigePlasser": 39,
+      "antallPlasser": 650,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Britt Jørstad Bryne",
+    "address": "Harald Pedersens gate 9, 3182 HORTEN",
+    "metadata": {
+      "legekontor": "Horten kommunale legesenter",
+      "tlf": "33 08 70 30",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Thea Louise Brøngel",
+    "address": "Kilengaten 18, 3117 TØNSBERG",
+    "metadata": {
+      "legekontor": "Tønsberg Medisinske Senter AS",
+      "tlf": "33 37 63 00",
+      "antallPlasser": 2000
+    }
+  },
+  {
+    "title": "Hanne Ulrikke Bårnes Brøvig",
+    "address": "Søndersrødveien 6, 3295 HELGEROA",
+    "metadata": {
+      "legekontor": "Helgeroa legesenter DA",
+      "tlf": "33 14 06 50",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Jonas Bucher",
+    "address": "Kveldevn 246, 3282 KVELDE",
+    "metadata": {
+      "legekontor": "Kvelde legekontor",
+      "tlf": "33 11 34 70",
+      "ledigePlasser": 283,
+      "antallPlasser": 975,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Kari Helene Bugge",
+    "address": "Skaugveien 4, 3178 VÅLE",
+    "metadata": {
+      "legekontor": "Våle Legekontor",
+      "tlf": "33 06 17 00",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Marianne Burkeland-Matre",
+    "address": "Torget 1, 3256 LARVIK",
+    "metadata": {
+      "legekontor": "Torget medisinske senter",
+      "tlf": "33 13 91 60",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Rune Burkeland-Matre",
+    "address": "Torget 1, 3256 LARVIK",
+    "metadata": {
+      "legekontor": "Torget medisinske senter",
+      "tlf": "33 13 91 60",
+      "ledigePlasser": 21,
+      "antallPlasser": 1100,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Kjell Arne Bustnes",
+    "address": "Valløveien 31, 3151 TOLVSRØD",
+    "metadata": {
+      "legekontor": "Slagen Legekontor",
+      "tlf": "33 35 39 00",
+      "antallPlasser": 1400
+    }
+  },
+  {
+    "title": "Arild Andreas Hagen Buvoll",
+    "address": "Andebuveien 939, 3158 Andebu",
+    "metadata": {
+      "legekontor": "Andebu legesenter",
+      "tlf": "33 43 90 50",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Kjersti Hagen Buvoll",
+    "address": "Ørsnesalleèn 37, 3120 Nøtterøy",
+    "metadata": {
+      "legekontor": "Bellevue helsesenter",
+      "tlf": "33 30 44 90",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Bente Pedersen Bø",
+    "address": "Gloppeskogen 24, 3260 Larvik",
+    "metadata": {
+      "legekontor": "Pyramiden Legekontor AS",
+      "tlf": "33 13 95 95",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Tarjei Kristian Bøe",
+    "address": "Havnegaten 7, 3080 HOLMESTRAND",
+    "metadata": {
+      "legekontor": "Sentrum Legeservice - Holmestrand",
+      "tlf": "33 05 22 92",
+      "antallPlasser": 500
+    }
+  },
+  {
+    "title": "Kathleen Ria Saliendra Camas",
+    "address": "Kilgata 9, 3217 SANDEFJORD",
+    "metadata": {
+      "legekontor": "Legehuset Sandefjord AS",
+      "tlf": "33 45 44 80",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Cathrine Halle Christensen",
+    "address": "Revetalgata 52, 3174 REVETAL",
+    "metadata": {
+      "legekontor": "Re Legegruppe DA",
+      "tlf": "33 30 68 88",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Cathrine Strøm Christiansen",
+    "address": "Dronningensgate 3, 3211 SANDEFJORD",
+    "metadata": {
+      "legekontor": "Gleditschgården Legesenter AS",
+      "tlf": "33 44 60 10",
+      "antallPlasser": 500
+    }
+  },
+  {
+    "title": "Julia Dalen",
+    "address": "Kjellengveien 2B, 3125 Tønsberg",
+    "metadata": {
+      "legekontor": "Tønsberg Legekontor",
+      "tlf": "33 29 25 99",
+      "ledigePlasser": 33,
+      "antallPlasser": 500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Birgit Dugstad",
+    "address": "Andebuveien 939, 3158 Andebu",
+    "metadata": {
+      "legekontor": "Andebu legesenter",
+      "tlf": "33 43 90 50",
+      "antallPlasser": 750
+    }
+  },
+  {
+    "title": "Geir Dunseth",
+    "address": "Havnegaten 7, 3080 HOLMESTRAND",
+    "metadata": {
+      "legekontor": "Sentrum Legeservice - Holmestrand",
+      "tlf": "33 05 22 92",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Rotraud Hedwig Dusik",
+    "address": "Kilgata 9, 3217 SANDEFJORD",
+    "metadata": {
+      "legekontor": "Kilen Legesenter DA",
+      "tlf": "33 42 15 60",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Mari Faugstad Eian",
+    "address": "Sigurdsgt 4, 3256 LARVIK",
+    "metadata": {
+      "legekontor": "Sentrum-Legekontor ANS",
+      "tlf": "33 13 78 00",
+      "antallPlasser": 880
+    }
+  },
+  {
+    "title": "Gerd-Synne Tveito Eidnes",
+    "address": "Hjemsengveien 7B, 3140 Nøtterøy",
+    "metadata": {
+      "legekontor": "Tinghauglegene DA",
+      "tlf": "33 38 38 28",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Odd Eilerås",
+    "address": "St Olavsgate 28A, 3112 TØNSBERG",
+    "metadata": {
+      "legekontor": "3 leger",
+      "tlf": "33 30 99 99",
+      "ledigePlasser": 2,
+      "antallPlasser": 1300,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Erlend Nytrø Einarson",
+    "address": "Olavs gate 7, 3256 Larvik",
+    "metadata": {
+      "legekontor": "Legegruppen AS",
+      "tlf": "33 18 05 00",
+      "ledigePlasser": 103,
+      "antallPlasser": 1150,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Badboni El-Safadi",
+    "address": "Holtanløkka 1, 3188 HORTEN",
+    "metadata": {
+      "legekontor": "Sentrum Legekontor Horten AS",
+      "tlf": "33 08 44 60",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Askil Elvestad",
+    "address": "Langgata 2, 3187 HORTEN",
+    "metadata": {
+      "legekontor": "Vektergården legesenter",
+      "tlf": "33 07 17 60",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Casper Advocaat Endre",
+    "address": "Revetalgata 52, 3174 REVETAL",
+    "metadata": {
+      "legekontor": "Re Legegruppe DA",
+      "tlf": "33 30 68 88",
+      "antallPlasser": 750
+    }
+  },
+  {
+    "title": "Jan Ola Johnny Christer Eriksson",
+    "address": "Holtanløkka 1, 3188 HORTEN",
+    "metadata": {
+      "legekontor": "Sentrum Legekontor Horten AS",
+      "tlf": "33 08 44 60",
+      "ledigePlasser": 223,
+      "antallPlasser": 1600,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Per Anders Eskås",
+    "address": "Fila 8a, 3070 Sande",
+    "metadata": {
+      "legekontor": "Doktorgården Sande",
+      "tlf": "33 78 57 00",
+      "antallPlasser": 625
+    }
+  },
+  {
+    "title": "Jens Kristian Fagernæs",
+    "address": "Fridjof Nansensv. 4, 3269 LARVIK",
+    "metadata": {
+      "legekontor": "Nanset Legekontor AS",
+      "tlf": "33 13 81 10",
+      "ledigePlasser": 91,
+      "antallPlasser": 1150,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Nils Peter Fagernæs",
+    "address": "Gloppeskogen 24, 3260 Larvik",
+    "metadata": {
+      "legekontor": "Pyramiden Legekontor AS",
+      "tlf": "33 13 95 95",
+      "ledigePlasser": 8,
+      "antallPlasser": 1500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Øystein Kobro Fagernæs",
+    "address": "Søndersrødveien 6, 3295 HELGEROA",
+    "metadata": {
+      "legekontor": "Helgeroa legesenter DA",
+      "tlf": "33 14 06 50",
+      "antallPlasser": 930
+    }
+  },
+  {
+    "title": "Tone Mæland Faugstad",
+    "address": "Rådhusgata 27C, 3290 STAVERN",
+    "metadata": {
+      "legekontor": "Stavern Legekontor ANS",
+      "tlf": "33 12 19 20",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Lars Christian Feyling",
+    "address": "Skaugveien 4, 3178 VÅLE",
+    "metadata": {
+      "legekontor": "Våle Legekontor",
+      "tlf": "33 06 17 00",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Øystein Figenschou",
+    "address": "Nedre Movei 16, 3215 Sandefjord",
+    "metadata": {
+      "legekontor": "Lunden Kommunale Fastlegekontor",
+      "tlf": "33 42 31 42",
+      "antallPlasser": 400
+    }
+  },
+  {
+    "title": "Lars-Erik Figved",
+    "address": "Harald Pedersens gate 9, 3182 HORTEN",
+    "metadata": {
+      "legekontor": "Horten kommunale legesenter",
+      "tlf": "33 08 70 30",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Jon Anders Fjose",
+    "address": "Rødsgate 36, 3145 TJØME",
+    "metadata": {
+      "legekontor": "Legekontoret på Tjøme V/Færder Kommune",
+      "tlf": "33 30 34 00",
+      "ledigePlasser": 17,
+      "antallPlasser": 850,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Else Bue Fosse",
+    "address": "Andebuveien 939, 3158 Andebu",
+    "metadata": {
+      "legekontor": "Andebu legesenter",
+      "tlf": "33 43 90 50",
+      "antallPlasser": 750
+    }
+  },
+  {
+    "title": "Geir Fredborg",
+    "address": "Skiringssalveien 24, 3208 SANDEFJORD",
+    "metadata": {
+      "legekontor": "Solvang Legesenter",
+      "tlf": "33 42 68 20",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Ada Vagnild Fuglum",
+    "address": "Langgt. 45, 3080 HOLMESTRAND",
+    "metadata": {
+      "legekontor": "Kommunelegene i Holmestrand DA",
+      "tlf": "33 06 43 15",
+      "antallPlasser": 425
+    }
+  },
+  {
+    "title": "Kristin Øvland Fuglår",
+    "address": "Søebergs gate 4, 3211 SANDEFJORD",
+    "metadata": {
+      "legekontor": "Søeberg legesenter",
+      "tlf": "33 29 65 30",
+      "antallPlasser": 600
+    }
+  },
+  {
+    "title": "Lars Furuseth",
+    "address": "Gauterødveien 6B, 3154 Tolvsrød",
+    "metadata": {
+      "legekontor": "Atlaslegene",
+      "tlf": "33 30 19 00",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Ewa Gawecka",
+    "address": "Prinsegata 11B, 3256 LARVIK",
+    "metadata": {
+      "legekontor": "Grand Medisinske Senter",
+      "tlf": "31 01 27 00",
+      "ledigePlasser": 3,
+      "antallPlasser": 1100,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Lars Fredrik Gjelstad",
+    "address": "Grev Wedels gate 10, 3111 Tønsberg",
+    "metadata": {
+      "legekontor": "Grevens Legekontor DA",
+      "tlf": "33 31 94 55",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Alexander Tinglum Gjestvang",
+    "address": "Skiringssalsgaten 1a, 3116 Tønsberg",
+    "metadata": {
+      "legekontor": "Midtløkken legekontor",
+      "tlf": "33 35 48 48",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Julie Gjeterud",
+    "address": "Torget 1, 3256 LARVIK",
+    "metadata": {
+      "legekontor": "Torget medisinske senter",
+      "tlf": "33 13 91 60",
+      "ledigePlasser": 18,
+      "antallPlasser": 900,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Ali Gonca",
+    "address": "Sigurdsgt 4, 3256 LARVIK",
+    "metadata": {
+      "legekontor": "Sentrum-Legekontor ANS",
+      "tlf": "33 13 78 00",
+      "antallPlasser": 950
+    }
+  },
+  {
+    "title": "Iryna Gran",
+    "address": "Øreveien 7, 3120 NØTTERØY",
+    "metadata": {
+      "legekontor": "Smidsrød Legesenter",
+      "tlf": "409 14 401",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Peder Annæus Granlund",
+    "address": "Øreveien 7, 3120 NØTTERØY",
+    "metadata": {
+      "legekontor": "Smidsrød Legesenter",
+      "tlf": "409 14 401",
+      "antallPlasser": 500
+    }
+  },
+  {
+    "title": "Hans Jacob Gravdal",
+    "address": "Skiringssalveien 20, 3208 SANDEFJORD",
+    "metadata": {
+      "legekontor": "Sandefjord Helsepark",
+      "tlf": "33 44 82 20",
+      "ledigePlasser": 6,
+      "antallPlasser": 575,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Ragnar Groenhof",
+    "address": "St Olavsgate 28A, 3112 TØNSBERG",
+    "metadata": {
+      "legekontor": "3 leger",
+      "tlf": "33 30 99 99",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Frode Grøndahl",
+    "address": "Dronningens gate 6, 3211 SANDEFJORD",
+    "metadata": {
+      "legekontor": "Legene Sentrum Vest",
+      "tlf": "33 42 15 80",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Petter Orvik Grønningsæter",
+    "address": "Skiringssalveien 20, 3208 SANDEFJORD",
+    "metadata": {
+      "legekontor": "Sandefjord Helsepark",
+      "tlf": "33 44 82 20",
+      "ledigePlasser": 5,
+      "antallPlasser": 650,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Jon Anders Grønvold",
+    "address": "Skaugveien 4, 3178 VÅLE",
+    "metadata": {
+      "legekontor": "Våle Legekontor",
+      "tlf": "33 06 17 00",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Kari Statle Gulbrandsen",
+    "address": "Skiringssalveien 24, 3208 SANDEFJORD",
+    "metadata": {
+      "legekontor": "Tempo",
+      "tlf": "+47 33 48 80 80",
+      "antallPlasser": 950
+    }
+  },
+  {
+    "title": "Bjørn Guillermo Gutierrez Gundersen",
+    "address": "Trimveien 41, 3188 HORTEN",
+    "metadata": {
+      "legekontor": "Trimveien Legesenter",
+      "tlf": "33 02 08 00",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Jonas Johan Gunnberg",
+    "address": "Olavs gate 7, 3256 Larvik",
+    "metadata": {
+      "legekontor": "Legegruppen AS",
+      "tlf": "33 18 05 00",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Christine Gyllensten",
+    "address": "Strandparken 3-5, 3187 HORTEN",
+    "metadata": {
+      "legekontor": "Fastlegene AS",
+      "tlf": "33 04 47 60",
+      "antallPlasser": 950
+    }
+  },
+  {
+    "title": "Karoline Gylthe",
+    "address": "Skiringssalveien 20, 3208 SANDEFJORD",
+    "metadata": {
+      "legekontor": "Sandefjord Helsepark",
+      "tlf": "33 44 82 20",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Johannes Tvedt Haga",
+    "address": "Nedre Movei 16, 3215 Sandefjord",
+    "metadata": {
+      "legekontor": "Lunden Kommunale Fastlegekontor",
+      "tlf": "33 42 31 42",
+      "ledigePlasser": 8,
+      "antallPlasser": 550,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Caroline Jonstang Hagen",
+    "address": "Strandparken 3-5, 3187 HORTEN",
+    "metadata": {
+      "legekontor": "Fastlegene AS",
+      "tlf": "33 04 47 60",
+      "ledigePlasser": 3,
+      "antallPlasser": 1200,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Anne-Pernille Halle",
+    "address": "Andebuveien 939, 3158 Andebu",
+    "metadata": {
+      "legekontor": "Andebu legesenter",
+      "tlf": "33 43 90 50",
+      "antallPlasser": 750
+    }
+  },
+  {
+    "title": "Galina Halvorsen",
+    "address": "Storgaten 35, 3126 TØNSBERG",
+    "metadata": {
+      "legekontor": "Din Fastlege i Tønsberg AS",
+      "tlf": "403 47 926",
+      "ledigePlasser": 292,
+      "antallPlasser": 1400,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Martin Handeland",
+    "address": "Ørsnesalleèn 37, 3120 Nøtterøy",
+    "metadata": {
+      "legekontor": "Bellevue helsesenter",
+      "tlf": "33 30 44 90",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Janne Kristin Aase Hansen",
+    "address": "Gloppeskogen 24, 3260 Larvik",
+    "metadata": {
+      "legekontor": "Pyramiden Legekontor AS",
+      "tlf": "33 13 95 95",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Eivind Ree Hanson",
+    "address": "Håkestadveien 3, 3280 TJODALYNG",
+    "metadata": {
+      "legekontor": "Tjølling Legekontor",
+      "tlf": "33 18 05 80",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Elin Petra Kristine Høeg Haugom",
+    "address": "Nygaards alle 4, 3160 Stokke",
+    "metadata": {
+      "legekontor": "Stokke Legesenter",
+      "tlf": "33 36 03 30",
+      "antallPlasser": 1050
+    }
+  },
+  {
+    "title": "Arne Haugstad",
+    "address": "Prinsegata 11B, 3256 LARVIK",
+    "metadata": {
+      "legekontor": "Grand Medisinske Senter",
+      "tlf": "31 01 27 00",
+      "ledigePlasser": 596,
+      "antallPlasser": 700,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Sven Richard Haugvik",
+    "address": "Frankendalveien 101, 3274 LARVIK",
+    "metadata": {
+      "legekontor": "Nordbyen legesenter Larvik AS",
+      "tlf": "33 13 90 50",
+      "antallPlasser": 1250
+    }
+  },
+  {
+    "title": "Ingrid Eline Kvitberg Hauptmann",
+    "address": "Tjømegaten 2, 3126 TØNSBERG",
+    "metadata": {
+      "legekontor": "Sentrum Legekontor, Tønsberg",
+      "tlf": "33 30 84 50",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Hannah Therese Hedberg",
+    "address": "Kilengaten 18B, 3117 TØNSBERG",
+    "metadata": {
+      "legekontor": "Kilen Legekontor Tønsberg DA",
+      "tlf": "33 35 05 60",
+      "ledigePlasser": 49,
+      "antallPlasser": 1000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Kristin Henden",
+    "address": "Skiringssalveien 20, 3208 SANDEFJORD",
+    "metadata": {
+      "legekontor": "Sandefjord Helsepark",
+      "tlf": "33 44 82 20",
+      "ledigePlasser": 275,
+      "antallPlasser": 1500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Kristian Jakob Hillestad",
+    "address": "Dronningensgate 3, 3211 SANDEFJORD",
+    "metadata": {
+      "legekontor": "Gleditschgården Legesenter AS",
+      "tlf": "33 44 60 10",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Ellen Klausen Hjelmtvedt",
+    "address": "Kjellengveien 2A, 3125 Tønsberg",
+    "metadata": {
+      "legekontor": "Jarlsberg Legesenter AS",
+      "tlf": "31 33 30 00",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Sebastian Sikkerneq Hoel",
+    "address": "Søebergs gate 4, 3211 SANDEFJORD",
+    "metadata": {
+      "legekontor": "Søeberg legesenter",
+      "tlf": "33 29 65 30",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Karl Einar Hognestad",
+    "address": "Kjernåsveien 13A, 3142 Nøtterøy",
+    "metadata": {
+      "legekontor": "Vestskogen Medisinske Senter",
+      "tlf": "33 35 17 80",
+      "ledigePlasser": 56,
+      "antallPlasser": 1400,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Iselin Holland",
+    "address": "Rødsgate 36, 3145 TJØME",
+    "metadata": {
+      "legekontor": "Legekontoret på Tjøme V/Færder Kommune",
+      "tlf": "33 30 34 00",
+      "ledigePlasser": 34,
+      "antallPlasser": 750,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Marte Johanne Veilemand Holstad",
+    "address": "Søebergs gate 4, 3211 SANDEFJORD",
+    "metadata": {
+      "legekontor": "Søeberg legesenter",
+      "tlf": "33 29 65 30",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Mikkel Veilemand Holstad",
+    "address": "Skiringssalveien 20, 3208 SANDEFJORD",
+    "metadata": {
+      "legekontor": "Sandefjord Helsepark",
+      "tlf": "33 44 82 20",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Marius Hvidsten",
+    "address": "Søebergs gate 4, 3211 SANDEFJORD",
+    "metadata": {
+      "legekontor": "Søeberg legesenter",
+      "tlf": "33 29 65 30",
+      "antallPlasser": 420
+    }
+  },
+  {
+    "title": "Synne Osaland Hådem",
+    "address": "Andebuveien 939, 3158 Andebu",
+    "metadata": {
+      "legekontor": "Andebu legesenter",
+      "tlf": "33 43 90 50",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Bror Olav Håvardsrud",
+    "address": "Håkestadveien 3, 3280 TJODALYNG",
+    "metadata": {
+      "legekontor": "Tjølling Legekontor",
+      "tlf": "33 18 05 80",
+      "ledigePlasser": 227,
+      "antallPlasser": 800,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Kees Niklas Ihlhaug",
+    "address": "Harald Pedersens gate 9, 3182 HORTEN",
+    "metadata": {
+      "legekontor": "Horten kommunale legesenter",
+      "tlf": "33 08 70 30",
+      "ledigePlasser": 23,
+      "antallPlasser": 1300,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Anders Jacobsen",
+    "address": "Grev Wedels gate 10, 3111 Tønsberg",
+    "metadata": {
+      "legekontor": "Grevens Legekontor DA",
+      "tlf": "33 31 94 55",
+      "ledigePlasser": 116,
+      "antallPlasser": 950,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Hanne Jahren",
+    "address": "Kjernåsveien 13A, 3142 Nøtterøy",
+    "metadata": {
+      "legekontor": "Vestskogen Medisinske Senter",
+      "tlf": "33 35 17 80",
+      "ledigePlasser": 5,
+      "antallPlasser": 1200,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Pål Axel Jeppsson",
+    "address": "Holtanløkka 1, 3188 HORTEN",
+    "metadata": {
+      "legekontor": "Sentrum Legekontor Horten AS",
+      "tlf": "33 08 44 60",
+      "ledigePlasser": 29,
+      "antallPlasser": 750,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Mari Jetlund",
+    "address": "Nedre Movei 16, 3215 Sandefjord",
+    "metadata": {
+      "legekontor": "Lunden Kommunale Fastlegekontor",
+      "tlf": "33 42 31 42",
+      "antallPlasser": 730
+    }
+  },
+  {
+    "title": "Ingrid Nylund Johannessen",
+    "address": "Kammegaten 8, 3110 TØNSBERG",
+    "metadata": {
+      "legekontor": "Medicalis Tønsberg AS",
+      "tlf": "33 30 81 81",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Andreas Werner Johansen",
+    "address": "Hegnasletta 5, 3217 SANDEFJORD",
+    "metadata": {
+      "legekontor": "Annen Etasje Legesenter",
+      "tlf": "33 41 51 00",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Renate Vu Karlsen",
+    "address": "Søebergs gate 4, 3211 SANDEFJORD",
+    "metadata": {
+      "legekontor": "Søeberg legesenter",
+      "tlf": "33 29 65 30",
+      "antallPlasser": 400
+    }
+  },
+  {
+    "title": "Kiranjit Kaur",
+    "address": "Kjellengveien 2B, 3125 Tønsberg",
+    "metadata": {
+      "legekontor": "Tønsberg Legekontor",
+      "tlf": "33 29 25 99",
+      "antallPlasser": 600
+    }
+  },
+  {
+    "title": "Anne Egaas Kavlie-Borge",
+    "address": "Langgt. 45, 3080 HOLMESTRAND",
+    "metadata": {
+      "legekontor": "Kommunelegene i Holmestrand DA",
+      "tlf": "33 06 43 15",
+      "antallPlasser": 500
+    }
+  },
+  {
+    "title": "Tanzila Khadzieva",
+    "address": "Kilgata 9, 3217 SANDEFJORD",
+    "metadata": {
+      "legekontor": "Legehuset Sandefjord AS",
+      "tlf": "33 45 44 80",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Wali Khan",
+    "address": "Revetalgata 8, 3174 Revetal",
+    "metadata": {
+      "legekontor": "Revetal legekontor DA",
+      "tlf": "33 06 18 18",
+      "ledigePlasser": 9,
+      "antallPlasser": 950,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Håkon Thomas Kiær",
+    "address": "Dronningensgate 3, 3211 SANDEFJORD",
+    "metadata": {
+      "legekontor": "Gleditschgården Legesenter AS",
+      "tlf": "33 44 60 10",
+      "ledigePlasser": 58,
+      "antallPlasser": 900,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Even Kjellevold",
+    "address": "Stokkeveien 55, 3160 STOKKE",
+    "metadata": {
+      "legekontor": "Helsehuset Stokke-Legene AS",
+      "tlf": "33 36 37 90",
+      "antallPlasser": 1020
+    }
+  },
+  {
+    "title": "Dag Johann Kjærnet",
+    "address": "Halvdan Svartes gate 12, 3208 SANDEFJORD",
+    "metadata": {
+      "legekontor": "Sandefjord Legesenter",
+      "tlf": "33 42 31 80",
+      "ledigePlasser": 49,
+      "antallPlasser": 950,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "David Kjønnerød",
+    "address": "Hegnasletta 5, 3217 SANDEFJORD",
+    "metadata": {
+      "legekontor": "Annen Etasje Legesenter",
+      "tlf": "33 41 51 00",
+      "ledigePlasser": 227,
+      "antallPlasser": 1200,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Mina Nøkleholm Klaveness",
+    "address": "Nedre Movei 16, 3215 Sandefjord",
+    "metadata": {
+      "legekontor": "Lunden Kommunale Fastlegekontor",
+      "tlf": "33 42 31 42",
+      "ledigePlasser": 5,
+      "antallPlasser": 770,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Martin Andre Holager Klingvall",
+    "address": "Skiringssalsgaten 1a, 3116 Tønsberg",
+    "metadata": {
+      "legekontor": "Midtløkken legekontor",
+      "tlf": "33 35 48 48",
+      "antallPlasser": 1350
+    }
+  },
+  {
+    "title": "Atle Klovning",
+    "address": "Prinsegata 11B, 3256 LARVIK",
+    "metadata": {
+      "legekontor": "Grand Medisinske Senter",
+      "tlf": "31 01 27 00",
+      "ledigePlasser": 1594,
+      "antallPlasser": 1800,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Vilhelm Ferdinand Koefoed",
+    "address": "Kilengaten 18B, 3117 TØNSBERG",
+    "metadata": {
+      "legekontor": "Kilen Legekontor Tønsberg DA",
+      "tlf": "33 35 05 60",
+      "ledigePlasser": 10,
+      "antallPlasser": 1150,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Oda Kragset",
+    "address": "Olavs gate 7, 3256 Larvik",
+    "metadata": {
+      "legekontor": "Legegruppen AS",
+      "tlf": "33 18 05 00",
+      "ledigePlasser": 302,
+      "antallPlasser": 1000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Yannick Krautwurst",
+    "address": "Torvet 1, 3179 Åsgårdstrand",
+    "metadata": {
+      "legekontor": "Åsgårdstrand Legekontor",
+      "tlf": "33 03 03 90",
+      "ledigePlasser": 230,
+      "antallPlasser": 1050,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Mathias Krüger",
+    "address": "Kjellengveien 2A, 3125 Tønsberg",
+    "metadata": {
+      "legekontor": "Jarlsberg Legesenter AS",
+      "tlf": "31 33 30 00",
+      "ledigePlasser": 381,
+      "antallPlasser": 700,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Karan Singh Kumar",
+    "address": "Fila 8a, 3070 Sande",
+    "metadata": {
+      "legekontor": "Doktorgården Sande",
+      "tlf": "33 78 57 00",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Hans Kvalsvik",
+    "address": "Skiringssalveien 24, 3208 SANDEFJORD",
+    "metadata": {
+      "legekontor": "Solvang Legesenter",
+      "tlf": "33 42 68 20",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Kåre Kvestad",
+    "address": "Halvdan Svartes gate 12, 3208 SANDEFJORD",
+    "metadata": {
+      "legekontor": "Sandefjord Legesenter",
+      "tlf": "33 42 31 80",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Nils Kähler",
+    "address": "Skiringssalveien 20, 3208 SANDEFJORD",
+    "metadata": {
+      "legekontor": "Sandefjord Helsepark",
+      "tlf": "33 44 82 20",
+      "ledigePlasser": 128,
+      "antallPlasser": 1100,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Helge Magnus Larsen",
+    "address": "Danholmen 3, 3128 NØTTERØY",
+    "metadata": {
+      "legekontor": "Nøtterøy Legesenter",
+      "tlf": "33 35 17 50",
+      "ledigePlasser": 4,
+      "antallPlasser": 1000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Paulus Le-Thien",
+    "address": "Havnegården Box 114, 3081 HOLMESTRAND",
+    "metadata": {
+      "legekontor": "Holmestrand Medisinske Senter As",
+      "tlf": "33 06 62 60",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Berit Marie Lien",
+    "address": "Danholmen 3, 3128 NØTTERØY",
+    "metadata": {
+      "legekontor": "Nøtterøy Legesenter",
+      "tlf": "33 35 17 50",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Håkon Askjer Lien",
+    "address": "Frankendalveien 101, 3274 LARVIK",
+    "metadata": {
+      "legekontor": "Nordbyen legesenter Larvik AS",
+      "tlf": "33 13 90 50",
+      "antallPlasser": 750
+    }
+  },
+  {
+    "title": "Marianne Bruun Lien",
+    "address": "Torvet 1, 3179 Åsgårdstrand",
+    "metadata": {
+      "legekontor": "Åsgårdstrand Legekontor",
+      "tlf": "33 03 03 90",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Lizeth Lind Jørgensen",
+    "address": "Ørsnesalleèn 37, 3120 Nøtterøy",
+    "metadata": {
+      "legekontor": "Bellevue helsesenter",
+      "tlf": "33 30 44 90",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Helene Birgit Linnea Lindbäck",
+    "address": "Gauterødveien 6B, 3154 Tolvsrød",
+    "metadata": {
+      "legekontor": "Atlaslegene",
+      "tlf": "33 30 19 00",
+      "ledigePlasser": 9,
+      "antallPlasser": 1000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Filip Lindgren",
+    "address": "Nygaards alle 4, 3160 Stokke",
+    "metadata": {
+      "legekontor": "Stokke Legesenter",
+      "tlf": "33 36 03 30",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Madeleine Skaug Lindhjem",
+    "address": "Gloppeskogen 24, 3260 Larvik",
+    "metadata": {
+      "legekontor": "Pyramiden Legekontor AS",
+      "tlf": "33 13 95 95",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Arthur Aas Lorentzen",
+    "address": "Valløveien 31, 3151 TOLVSRØD",
+    "metadata": {
+      "legekontor": "Slagen Legekontor",
+      "tlf": "33 35 39 00",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Ida Gallis Lund",
+    "address": "Kjellengveien 2B, 3125 Tønsberg",
+    "metadata": {
+      "legekontor": "Tønsberg Legekontor",
+      "tlf": "33 29 25 99",
+      "ledigePlasser": 2,
+      "antallPlasser": 500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Karl Fredrik Lund",
+    "address": "Kveldevn 246, 3282 KVELDE",
+    "metadata": {
+      "legekontor": "Kvelde legekontor",
+      "tlf": "33 11 34 70",
+      "ledigePlasser": 19,
+      "antallPlasser": 880,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Hege Beate Løkebø",
+    "address": "Skiringssalveien 24, 3208 SANDEFJORD",
+    "metadata": {
+      "legekontor": "Solvang Legesenter",
+      "tlf": "33 42 68 20",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Ola Løkebø",
+    "address": "Havnegården Box 114, 3081 HOLMESTRAND",
+    "metadata": {
+      "legekontor": "Holmestrand Medisinske Senter As",
+      "tlf": "33 06 62 60",
+      "antallPlasser": 1400
+    }
+  },
+  {
+    "title": "Julie Wold Madsen",
+    "address": "Revetalgata 52, 3174 REVETAL",
+    "metadata": {
+      "legekontor": "Re Legegruppe DA",
+      "tlf": "33 30 68 88",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Daniel Magnussen",
+    "address": "Tjømegaten 2, 3126 TØNSBERG",
+    "metadata": {
+      "legekontor": "Sentrum Legekontor, Tønsberg",
+      "tlf": "33 30 84 50",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Omri Maimon",
+    "address": "Havnegata 23, 3080 Holmestrand",
+    "metadata": {
+      "legekontor": "Holmestrand Legesenter",
+      "tlf": "33 09 71 50",
+      "ledigePlasser": 54,
+      "antallPlasser": 900,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Faisal Manzoor",
+    "address": "Kilgata 9, 3217 SANDEFJORD",
+    "metadata": {
+      "legekontor": "Legehuset Sandefjord AS",
+      "tlf": "33 45 44 80",
+      "ledigePlasser": 48,
+      "antallPlasser": 750,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Erica Hansen Maraz",
+    "address": "Skiringssalveien 24, 3208 SANDEFJORD",
+    "metadata": {
+      "legekontor": "Tempo",
+      "tlf": "+47 33 48 80 80",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Gosiame Masilo",
+    "address": "Fridjof Nansensv. 4, 3269 LARVIK",
+    "metadata": {
+      "legekontor": "Nanset Legekontor AS",
+      "tlf": "33 13 81 10",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Tor-Erik Ydse Mathisen",
+    "address": "Kjellengveien 2A, 3125 Tønsberg",
+    "metadata": {
+      "legekontor": "Jarlsberg Legesenter AS",
+      "tlf": "31 33 30 00",
+      "ledigePlasser": 196,
+      "antallPlasser": 600,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Catharina Hartz Melling",
+    "address": "Fila 8a, 3070 Sande",
+    "metadata": {
+      "legekontor": "Doktorgården Sande",
+      "tlf": "33 78 57 00",
+      "antallPlasser": 1170
+    }
+  },
+  {
+    "title": "Ingunn Krohn Milton",
+    "address": "Bulls gate 2A, 3110",
+    "metadata": {
+      "legekontor": "Bulldok Legekontor",
+      "tlf": "33 35 99 60",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Thomas Bruno Mulrooney",
+    "address": "Kammegaten 8, 3110 TØNSBERG",
+    "metadata": {
+      "legekontor": "Medicalis Tønsberg AS",
+      "tlf": "33 30 81 81",
+      "ledigePlasser": 3,
+      "antallPlasser": 900,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Lene Westdahl Mørk",
+    "address": "Øreveien 7, 3120 NØTTERØY",
+    "metadata": {
+      "legekontor": "Smidsrød Legesenter",
+      "tlf": "409 14 401",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Kristin Nagelhus",
+    "address": "Grev Wedels gate 10, 3111 Tønsberg",
+    "metadata": {
+      "legekontor": "Grevens Legekontor DA",
+      "tlf": "33 31 94 55",
+      "ledigePlasser": 10,
+      "antallPlasser": 850,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Hannelore Neumann",
+    "address": "Fritzøe Brygge 1, 3264 LARVIK",
+    "metadata": {
+      "legekontor": "Fritzøe Klinikk Allmennleger",
+      "tlf": "33 11 81 30",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Roar Nilssen",
+    "address": "Dronningensgate 3, 3211 SANDEFJORD",
+    "metadata": {
+      "legekontor": "Gleditschgården Legesenter AS",
+      "tlf": "33 44 60 10",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Astrid Helene Bjerklund Nilsson",
+    "address": "Håkestadveien 3, 3280 TJODALYNG",
+    "metadata": {
+      "legekontor": "Tjølling Legekontor",
+      "tlf": "33 18 05 80",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Solveig Victoria Anda Nordberg",
+    "address": "Skiringssalveien 20, 3208 SANDEFJORD",
+    "metadata": {
+      "legekontor": "Sandefjord Helsepark",
+      "tlf": "33 44 82 20",
+      "ledigePlasser": 18,
+      "antallPlasser": 950,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Victoria Contreras Nyrud",
+    "address": "Rådhusgata 27C, 3290 STAVERN",
+    "metadata": {
+      "legekontor": "Stavern Legekontor ANS",
+      "tlf": "33 12 19 20",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Fredrik Næss",
+    "address": "Langgt. 45, 3080 HOLMESTRAND",
+    "metadata": {
+      "legekontor": "Kommunelegene i Holmestrand DA",
+      "tlf": "33 06 43 15",
+      "antallPlasser": 550
+    }
+  },
+  {
+    "title": "Philip Vatsgar Olne",
+    "address": "Havnegården Box 114, 3081 HOLMESTRAND",
+    "metadata": {
+      "legekontor": "Holmestrand Medisinske Senter As",
+      "tlf": "33 06 62 60",
+      "antallPlasser": 1400
+    }
+  },
+  {
+    "title": "Alf Christian Olsen",
+    "address": "Kammegaten 8, 3110 TØNSBERG",
+    "metadata": {
+      "legekontor": "Medicalis Tønsberg AS",
+      "tlf": "33 30 81 81",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Charlotte Kristine Olsen",
+    "address": "Kilgata 9, 3217 SANDEFJORD",
+    "metadata": {
+      "legekontor": "Kilen Legesenter DA",
+      "tlf": "33 42 15 60",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Knut Olsen",
+    "address": "Fritzøe Brygge 1, 3264 LARVIK",
+    "metadata": {
+      "legekontor": "Fritzøe Klinikk Allmennleger",
+      "tlf": "33 11 81 30",
+      "antallPlasser": 1400
+    }
+  },
+  {
+    "title": "Kristina Kjøle Olsen",
+    "address": "Skiringssalveien 20, 3208 SANDEFJORD",
+    "metadata": {
+      "legekontor": "Sandefjord Helsepark",
+      "tlf": "33 44 82 20",
+      "ledigePlasser": 5,
+      "antallPlasser": 950,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Mette Hovland Olsen",
+    "address": "Fritzøe Brygge 1, 3264 LARVIK",
+    "metadata": {
+      "legekontor": "Fritzøe Klinikk Allmennleger",
+      "tlf": "33 11 81 30",
+      "antallPlasser": 1400
+    }
+  },
+  {
+    "title": "Julie Marie Weyergang Omvik",
+    "address": "Kjellengveien 2B, 3125 Tønsberg",
+    "metadata": {
+      "legekontor": "Tønsberg Legekontor",
+      "tlf": "33 29 25 99",
+      "antallPlasser": 500
+    }
+  },
+  {
+    "title": "Stig Opdøhl",
+    "address": "Andebuveien 939, 3158 Andebu",
+    "metadata": {
+      "legekontor": "Andebu legesenter",
+      "tlf": "33 43 90 50",
+      "ledigePlasser": 22,
+      "antallPlasser": 650,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Per Kristian Opheim",
+    "address": "Kammegaten 8, 3110 TØNSBERG",
+    "metadata": {
+      "legekontor": "Medicalis Tønsberg AS",
+      "tlf": "33 30 81 81",
+      "ledigePlasser": 47,
+      "antallPlasser": 850,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Helene Opperud",
+    "address": "Rådhusgata 27C, 3290 STAVERN",
+    "metadata": {
+      "legekontor": "Stavern Legekontor ANS",
+      "tlf": "33 12 19 20",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Rannveig Hoff Oseberg",
+    "address": "Nygaards alle 4, 3160 Stokke",
+    "metadata": {
+      "legekontor": "Stokke Legesenter",
+      "tlf": "33 36 03 30",
+      "antallPlasser": 1250
+    }
+  },
+  {
+    "title": "Tobias Pihl",
+    "address": "Torvet 1, 3179 Åsgårdstrand",
+    "metadata": {
+      "legekontor": "Åsgårdstrand Legekontor",
+      "tlf": "33 03 03 90",
+      "ledigePlasser": 84,
+      "antallPlasser": 900,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Anna Ilona Polak",
+    "address": "Frankendalveien 101, 3274 LARVIK",
+    "metadata": {
+      "legekontor": "Nordbyen legesenter Larvik AS",
+      "tlf": "33 13 90 50",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Ingrid Oppegaard Pollen",
+    "address": "Håkestadveien 3, 3280 TJODALYNG",
+    "metadata": {
+      "legekontor": "Tjølling Legekontor",
+      "tlf": "33 18 05 80",
+      "ledigePlasser": 43,
+      "antallPlasser": 750,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Ali-Reza Akhbarati Rad",
+    "address": "Sande legesenter Revåveien 18, 3070 SANDE I VESTFOLD",
+    "metadata": {
+      "legekontor": "Sande Legesenter",
+      "tlf": "33 78 58 30",
+      "ledigePlasser": 92,
+      "antallPlasser": 1300,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Line Rasting",
+    "address": "Bulls gate 2B, 3110 TØNSBERG",
+    "metadata": {
+      "legekontor": "Legene Blystad og Rasting",
+      "tlf": "33 35 03 30",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Olav Anders Rasting",
+    "address": "Hjemsengveien 7B, 3140 Nøtterøy",
+    "metadata": {
+      "legekontor": "Tinghauglegene DA",
+      "tlf": "33 38 38 28",
+      "ledigePlasser": 2,
+      "antallPlasser": 1000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Klara Kopperud Riis",
+    "address": "Kilgata 9, 3217 SANDEFJORD",
+    "metadata": {
+      "legekontor": "Kilen Legesenter DA",
+      "tlf": "33 42 15 60",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Thomas Rolfsen",
+    "address": "Frankendalveien 101, 3274 LARVIK",
+    "metadata": {
+      "legekontor": "Nordbyen legesenter Larvik AS",
+      "tlf": "33 13 90 50",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Eva Romundset",
+    "address": "Torget 1, 3256 LARVIK",
+    "metadata": {
+      "legekontor": "Torget medisinske senter",
+      "tlf": "33 13 91 60",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Philipp Jan Rossa",
+    "address": "Strandparken 3-5, 3187 HORTEN",
+    "metadata": {
+      "legekontor": "Fastlegene AS",
+      "tlf": "33 04 47 60",
+      "antallPlasser": 1275
+    }
+  },
+  {
+    "title": "Andrius Rukas",
+    "address": "Rødsgate 36, 3145 TJØME",
+    "metadata": {
+      "legekontor": "Legekontoret på Tjøme V/Færder Kommune",
+      "tlf": "33 30 34 00",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Inger Merete Rygh",
+    "address": "Bulls gate 2A, 3110",
+    "metadata": {
+      "legekontor": "Bulldok Legekontor",
+      "tlf": "33 35 99 60",
+      "antallPlasser": 950
+    }
+  },
+  {
+    "title": "Celin Rød-Larsen",
+    "address": "Torget 1, 3256 LARVIK",
+    "metadata": {
+      "legekontor": "Torget medisinske senter",
+      "tlf": "33 13 91 60",
+      "ledigePlasser": 350,
+      "antallPlasser": 800,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Olai Rød-Larsen",
+    "address": "Grev Wedels gate 44, 3179 ÅSGÅRDSTRAND",
+    "metadata": {
+      "legekontor": "Åsgårdstrand Helsesenter AS",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Sjur Rød-Larsen",
+    "address": "Grev Wedels gate 44, 3179 ÅSGÅRDSTRAND",
+    "metadata": {
+      "legekontor": "Åsgårdstrand Helsesenter AS",
+      "ledigePlasser": 66,
+      "antallPlasser": 1950,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Hanne Marie Skadberg Røed",
+    "address": "Frankendalveien 101, 3274 LARVIK",
+    "metadata": {
+      "legekontor": "Nordbyen legesenter Larvik AS",
+      "tlf": "33 13 90 50",
+      "antallPlasser": 650
+    }
+  },
+  {
+    "title": "Espen Harald Røkaas",
+    "address": "Langgata 2, 3187 HORTEN",
+    "metadata": {
+      "legekontor": "Vektergården legesenter",
+      "tlf": "33 07 17 60",
+      "antallPlasser": 1600
+    }
+  },
+  {
+    "title": "Hilah Safi",
+    "address": "Kjellengveien 2B, 3125 Tønsberg",
+    "metadata": {
+      "legekontor": "Tønsberg Legekontor",
+      "tlf": "33 29 25 99",
+      "ledigePlasser": 75,
+      "antallPlasser": 500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Ladan Salehivand-Shehni",
+    "address": "Hegnasletta 5, 3217 SANDEFJORD",
+    "metadata": {
+      "legekontor": "Annen Etasje Legesenter",
+      "tlf": "33 41 51 00",
+      "antallPlasser": 1050
+    }
+  },
+  {
+    "title": "Kristina Hopen Saltveit",
+    "address": "Langgt. 45, 3080 HOLMESTRAND",
+    "metadata": {
+      "legekontor": "Kommunelegene i Holmestrand DA",
+      "tlf": "33 06 43 15",
+      "antallPlasser": 380
+    }
+  },
+  {
+    "title": "Bente Sandstad",
+    "address": "Torget 1, 3256 LARVIK",
+    "metadata": {
+      "legekontor": "Torget medisinske senter",
+      "tlf": "33 13 91 60",
+      "ledigePlasser": 148,
+      "antallPlasser": 1030,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Ellen Charlotte Horneman Sanhueza",
+    "address": "Olavs gate 7, 3256 Larvik",
+    "metadata": {
+      "legekontor": "Legegruppen AS",
+      "tlf": "33 18 05 00",
+      "ledigePlasser": 119,
+      "antallPlasser": 900,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Peter Andreas Hoff Sbertoli",
+    "address": "Ørsnesalleèn 37, 3120 Nøtterøy",
+    "metadata": {
+      "legekontor": "Bellevue helsesenter",
+      "tlf": "33 30 44 90",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Carlo David Schebesta",
+    "address": "Ringveien 16, 3275 SVARSTAD",
+    "metadata": {
+      "legekontor": "Lardal Legesenter",
+      "tlf": "33 15 53 00",
+      "ledigePlasser": 11,
+      "antallPlasser": 1300,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Erik Dragset Schrøder",
+    "address": "Strandparken 3-5, 3187 HORTEN",
+    "metadata": {
+      "legekontor": "Fastlegene AS",
+      "tlf": "33 04 47 60",
+      "ledigePlasser": 207,
+      "antallPlasser": 1150,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Danielle Fam Myhrvold Schønning",
+    "address": "Grev Wedels gate 10, 3111 Tønsberg",
+    "metadata": {
+      "legekontor": "Grevens Legekontor DA",
+      "tlf": "33 31 94 55",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Ingeborg Holthe Semb",
+    "address": "Langgt. 45, 3080 HOLMESTRAND",
+    "metadata": {
+      "legekontor": "Kommunelegene i Holmestrand DA",
+      "tlf": "33 06 43 15",
+      "antallPlasser": 500
+    }
+  },
+  {
+    "title": "Masood Wahid Shamohammad",
+    "address": "Revetalgata 52, 3174 REVETAL",
+    "metadata": {
+      "legekontor": "Re Legegruppe DA",
+      "tlf": "33 30 68 88",
+      "antallPlasser": 650
+    }
+  },
+  {
+    "title": "Elena Shilop",
+    "address": "Kilengaten 18, 3117 TØNSBERG",
+    "metadata": {
+      "legekontor": "Tønsberg Medisinske Senter AS",
+      "tlf": "33 37 63 00",
+      "ledigePlasser": 53,
+      "antallPlasser": 1500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Pernilla Cecilia Simolin",
+    "address": "Skiringssalveien 20, 3208 SANDEFJORD",
+    "metadata": {
+      "legekontor": "Sandefjord Helsepark",
+      "tlf": "33 44 82 20",
+      "ledigePlasser": 15,
+      "antallPlasser": 900,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Sonia Singh",
+    "address": "Halvdan Svartes gate 12, 3208 SANDEFJORD",
+    "metadata": {
+      "legekontor": "Sandefjord Legesenter",
+      "tlf": "33 42 31 80",
+      "antallPlasser": 1050
+    }
+  },
+  {
+    "title": "Tiril Simonstad Sitje",
+    "address": "Olavs gate 7, 3256 Larvik",
+    "metadata": {
+      "legekontor": "Legegruppen AS",
+      "tlf": "33 18 05 00",
+      "ledigePlasser": 155,
+      "antallPlasser": 900,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Sladjana Skoro",
+    "address": "Dronningens gate 6, 3211 SANDEFJORD",
+    "metadata": {
+      "legekontor": "Legene Sentrum Vest",
+      "tlf": "33 42 15 80",
+      "ledigePlasser": 30,
+      "antallPlasser": 1140,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Ivar Skramdal",
+    "address": "Kilengaten 18B, 3117 TØNSBERG",
+    "metadata": {
+      "legekontor": "Kilen Legekontor Tønsberg DA",
+      "tlf": "33 35 05 60",
+      "ledigePlasser": 164,
+      "antallPlasser": 1250,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Eivind Lando Skaatun",
+    "address": "Stokkeveien 55, 3160 STOKKE",
+    "metadata": {
+      "legekontor": "Helsehuset Stokke-Legene AS",
+      "tlf": "33 36 37 90",
+      "ledigePlasser": 4,
+      "antallPlasser": 920,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Fredrik Alexander Amundsen Sletten",
+    "address": "Gauterødveien 6B, 3154 Tolvsrød",
+    "metadata": {
+      "legekontor": "Atlaslegene",
+      "tlf": "33 30 19 00",
+      "ledigePlasser": 107,
+      "antallPlasser": 1100,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Maria Strøm Slyngstad",
+    "address": "Rødsgate 36, 3145 TJØME",
+    "metadata": {
+      "legekontor": "Legekontoret på Tjøme V/Færder Kommune",
+      "tlf": "33 30 34 00",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Christian Smedsrud",
+    "address": "Kammegaten 8, 3110 TØNSBERG",
+    "metadata": {
+      "legekontor": "Medicalis Tønsberg AS",
+      "tlf": "33 30 81 81",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Artur Smet",
+    "address": "Havnegata 23, 3080 Holmestrand",
+    "metadata": {
+      "legekontor": "Holmestrand Legesenter",
+      "tlf": "33 09 71 50",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Øyvind Smidsrød",
+    "address": "Søebergs gate 4, 3211 SANDEFJORD",
+    "metadata": {
+      "legekontor": "Søeberg legesenter",
+      "tlf": "33 29 65 30",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Benedikte Etnan Smith",
+    "address": "Fila 8a, 3070 Sande",
+    "metadata": {
+      "legekontor": "Doktorgården Sande",
+      "tlf": "33 78 57 00",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Julie Bach Solheim",
+    "address": "Stokkeveien 55, 3160 STOKKE",
+    "metadata": {
+      "legekontor": "Helsehuset Stokke-Legene AS",
+      "tlf": "33 36 37 90",
+      "antallPlasser": 890
+    }
+  },
+  {
+    "title": "Kornelius Bach Solheim",
+    "address": "Langgata 2, 3187 HORTEN",
+    "metadata": {
+      "legekontor": "Vektergården legesenter",
+      "tlf": "33 07 17 60",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Olav Herman Stadheim",
+    "address": "Fritzøe Brygge 1, 3264 LARVIK",
+    "metadata": {
+      "legekontor": "Fritzøe Klinikk Allmennleger",
+      "tlf": "33 11 81 30",
+      "antallPlasser": 1400
+    }
+  },
+  {
+    "title": "Nina Stanger",
+    "address": "Langgata 2, 3187 HORTEN",
+    "metadata": {
+      "legekontor": "Vektergården legesenter",
+      "tlf": "33 07 17 60",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Domenico Stefania",
+    "address": "Harald Pedersens gate 9B, 3182 HORTEN",
+    "metadata": {
+      "legekontor": "Legekontoret Horten Sykehus",
+      "tlf": "33 02 04 00",
+      "ledigePlasser": 420,
+      "antallPlasser": 1500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Marie Cathrine Stjärne",
+    "address": "Rådhusgata 27C, 3290 STAVERN",
+    "metadata": {
+      "legekontor": "Stavern Legekontor ANS",
+      "tlf": "33 12 19 20",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Ronny Storvollen",
+    "address": "Rødsgate 36, 3145 TJØME",
+    "metadata": {
+      "legekontor": "Legekontoret på Tjøme V/Færder Kommune",
+      "tlf": "33 30 34 00",
+      "ledigePlasser": 65,
+      "antallPlasser": 1000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Geir Strømme",
+    "address": "Ringveien 16, 3275 SVARSTAD",
+    "metadata": {
+      "legekontor": "Lardal Legesenter",
+      "tlf": "33 15 53 00",
+      "antallPlasser": 1310
+    }
+  },
+  {
+    "title": "Vibeke Mørken Stuestøl",
+    "address": "Skaugveien 4, 3178 VÅLE",
+    "metadata": {
+      "legekontor": "Våle Legekontor",
+      "tlf": "33 06 17 00",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Marte Schønning Sture",
+    "address": "Strandparken 3-5, 3187 HORTEN",
+    "metadata": {
+      "legekontor": "Fastlegene AS",
+      "tlf": "33 04 47 60",
+      "ledigePlasser": 10,
+      "antallPlasser": 950,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Odd Sture",
+    "address": "St Olavsgate 28A, 3112 TØNSBERG",
+    "metadata": {
+      "legekontor": "3 leger",
+      "tlf": "33 30 99 99",
+      "ledigePlasser": 16,
+      "antallPlasser": 1300,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Ann Kristin Fet Støtvig",
+    "address": "Hjemsengveien 7B, 3140 Nøtterøy",
+    "metadata": {
+      "legekontor": "Tinghauglegene DA",
+      "tlf": "33 38 38 28",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Ragne Swift",
+    "address": "Steinbruddveien 8, 3173",
+    "metadata": {
+      "legekontor": "Vear Legegruppe",
+      "tlf": "33 36 27 00",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Torbjørn Fosse Sæthre",
+    "address": "Dronningensgate 3, 3211 SANDEFJORD",
+    "metadata": {
+      "legekontor": "Gleditschgården Legesenter AS",
+      "tlf": "33 44 60 10",
+      "antallPlasser": 950
+    }
+  },
+  {
+    "title": "Ksenia Søberg-Martinovic",
+    "address": "Holtanløkka 1, 3188 HORTEN",
+    "metadata": {
+      "legekontor": "Sentrum Legekontor Horten AS",
+      "tlf": "33 08 44 60",
+      "ledigePlasser": 25,
+      "antallPlasser": 800,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Iver André Pran Takla",
+    "address": "Sigurdsgt 4, 3256 LARVIK",
+    "metadata": {
+      "legekontor": "Sentrum-Legekontor ANS",
+      "tlf": "33 13 78 00",
+      "ledigePlasser": 343,
+      "antallPlasser": 600,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Ingrid Takle",
+    "address": "Danholmen 3, 3128 NØTTERØY",
+    "metadata": {
+      "legekontor": "Nøtterøy Legesenter",
+      "tlf": "33 35 17 50",
+      "antallPlasser": 980
+    }
+  },
+  {
+    "title": "Stian Hystad Tallaksen",
+    "address": "Nedre Movei 16, 3215 Sandefjord",
+    "metadata": {
+      "legekontor": "Lunden Kommunale Fastlegekontor",
+      "tlf": "33 42 31 42",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Hanna Hellum Tangen",
+    "address": "Kammegaten 8, 3110 TØNSBERG",
+    "metadata": {
+      "legekontor": "Medicalis Tønsberg AS",
+      "tlf": "33 30 81 81",
+      "antallPlasser": 750
+    }
+  },
+  {
+    "title": "Birgitte Tholin",
+    "address": "Søebergs gate 4, 3211 SANDEFJORD",
+    "metadata": {
+      "legekontor": "Søeberg legesenter",
+      "tlf": "33 29 65 30",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Thao Vo Thi Tran",
+    "address": "Havnegården Box 114, 3081 HOLMESTRAND",
+    "metadata": {
+      "legekontor": "Holmestrand Medisinske Senter As",
+      "tlf": "33 06 62 60",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Elise Constance Winnem Trydal",
+    "address": "Kjernåsveien 13A, 3142 Nøtterøy",
+    "metadata": {
+      "legekontor": "Vestskogen Medisinske Senter",
+      "tlf": "33 35 17 80",
+      "ledigePlasser": 127,
+      "antallPlasser": 700,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Astrid Synnøve Tschudi",
+    "address": "Danholmen 3, 3128 NØTTERØY",
+    "metadata": {
+      "legekontor": "Nøtterøy Legesenter",
+      "tlf": "33 35 17 50",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Bjarne Tungland",
+    "address": "Kjernåsveien 13A, 3142 Nøtterøy",
+    "metadata": {
+      "legekontor": "Vestskogen Medisinske Senter",
+      "tlf": "33 35 17 80",
+      "ledigePlasser": 75,
+      "antallPlasser": 815,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Hans Halvard Tvedten",
+    "address": "Gauterødveien 6B, 3154 Tolvsrød",
+    "metadata": {
+      "legekontor": "Atlaslegene",
+      "tlf": "33 30 19 00",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Johanne Marie Hovland Tvetene",
+    "address": "Torget 1, 3256 LARVIK",
+    "metadata": {
+      "legekontor": "Torget medisinske senter",
+      "tlf": "33 13 91 60",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Kjell Samuel Ugland",
+    "address": "Revetalgata 8, 3174 Revetal",
+    "metadata": {
+      "legekontor": "Revetal legekontor DA",
+      "tlf": "33 06 18 18",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Silvester Ole Van Leeuwen",
+    "address": "Dronningens gate 6, 3211 SANDEFJORD",
+    "metadata": {
+      "legekontor": "Legene Sentrum Vest",
+      "tlf": "33 42 15 80",
+      "ledigePlasser": 14,
+      "antallPlasser": 950,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Lene Christin Vatne",
+    "address": "Langgt. 45, 3080 HOLMESTRAND",
+    "metadata": {
+      "legekontor": "Kommunelegene i Holmestrand DA",
+      "tlf": "33 06 43 15",
+      "antallPlasser": 670
+    }
+  },
+  {
+    "title": "Eystein Vik",
+    "address": "Nygaards alle 4, 3160 Stokke",
+    "metadata": {
+      "legekontor": "Stokke Legesenter",
+      "tlf": "33 36 03 30",
+      "antallPlasser": 1425
+    }
+  },
+  {
+    "title": "Erlend Norum Viken",
+    "address": "Revetalgata 52, 3174 REVETAL",
+    "metadata": {
+      "legekontor": "Re Legegruppe DA",
+      "tlf": "33 30 68 88",
+      "antallPlasser": 750
+    }
+  },
+  {
+    "title": "Huy Phuong Nguyen Vu",
+    "address": "Søebergs gate 4, 3211 SANDEFJORD",
+    "metadata": {
+      "legekontor": "Søeberg legesenter",
+      "tlf": "33 29 65 30",
+      "antallPlasser": 300
+    }
+  },
+  {
+    "title": "Hege Marie Wahl",
+    "address": "Stokkeveien 55, 3160 STOKKE",
+    "metadata": {
+      "legekontor": "Helsehuset Stokke-Legene AS",
+      "tlf": "33 36 37 90",
+      "antallPlasser": 880
+    }
+  },
+  {
+    "title": "Adnan Safdar Warraich",
+    "address": "Hegnasletta 5, 3217 SANDEFJORD",
+    "metadata": {
+      "legekontor": "Annen Etasje Legesenter",
+      "tlf": "33 41 51 00",
+      "ledigePlasser": 11,
+      "antallPlasser": 1350,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Johanna Maarit Wedum",
+    "address": "Voldshagan 2, 3090 HOF",
+    "metadata": {
+      "legekontor": "Hof Legesenter DA",
+      "tlf": "33 09 54 00",
+      "antallPlasser": 1250
+    }
+  },
+  {
+    "title": "Helene Mathilde Wegger",
+    "address": "Havnegaten 7, 3080 HOLMESTRAND",
+    "metadata": {
+      "legekontor": "Sentrum Legeservice - Holmestrand",
+      "tlf": "33 05 22 92",
+      "antallPlasser": 500
+    }
+  },
+  {
+    "title": "Simon Westdahl",
+    "address": "Strandparken 3-5, 3187 HORTEN",
+    "metadata": {
+      "legekontor": "Fastlegene AS",
+      "tlf": "33 04 47 60",
+      "ledigePlasser": 213,
+      "antallPlasser": 600,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Svein Egil Wilvang",
+    "address": "Søndersrødveien 6, 3295 HELGEROA",
+    "metadata": {
+      "legekontor": "Helgeroa legesenter DA",
+      "tlf": "33 14 06 50",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Maciej Stefan Wojtak",
+    "address": "Kammegaten 8, 3110 TØNSBERG",
+    "metadata": {
+      "legekontor": "Medicalis Tønsberg AS",
+      "tlf": "33 30 81 81",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Ilona Teresa Wolanska-Borys",
+    "address": "Havnegata 23, 3080 Holmestrand",
+    "metadata": {
+      "legekontor": "Holmestrand Legesenter",
+      "tlf": "33 09 71 50",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Eirik Ødegård",
+    "address": "Steinbruddveien 8, 3173",
+    "metadata": {
+      "legekontor": "Vear Legegruppe",
+      "tlf": "33 36 27 00",
+      "ledigePlasser": 250,
+      "antallPlasser": 1150,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Marianne Meier Ødegård",
+    "address": "Grev Wedels gate 10, 3111 Tønsberg",
+    "metadata": {
+      "legekontor": "Grevens Legekontor DA",
+      "tlf": "33 31 94 55",
+      "ledigePlasser": 29,
+      "antallPlasser": 1200,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Vibeke Øfsti",
+    "address": "Håkestadveien 3, 3280 TJODALYNG",
+    "metadata": {
+      "legekontor": "Tjølling Legekontor",
+      "tlf": "33 18 05 80",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Ivanna Øien",
+    "address": "Skiringssalveien 20, 3208 SANDEFJORD",
+    "metadata": {
+      "legekontor": "Sandefjord Helsepark",
+      "tlf": "33 44 82 20",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Vera Irene Haugan Øksne",
+    "address": "Hegnasletta 5, 3217 SANDEFJORD",
+    "metadata": {
+      "legekontor": "Annen Etasje Legesenter",
+      "tlf": "33 41 51 00",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Rasmus Sørli Øksnes",
+    "address": "Bulls gate 2B, 3110 TØNSBERG",
+    "metadata": {
+      "legekontor": "Legene Blystad og Rasting",
+      "tlf": "33 35 03 30",
+      "ledigePlasser": 423,
+      "antallPlasser": 1500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Tom Ole Øren",
+    "address": "Danholmen 3, 3128 NØTTERØY",
+    "metadata": {
+      "legekontor": "Nøtterøy Legesenter",
+      "tlf": "33 35 17 50",
+      "ledigePlasser": 46,
+      "antallPlasser": 1100,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Emilie Vedeler Østrem",
+    "address": "Bulls gate 2A, 3110",
+    "metadata": {
+      "legekontor": "Bulldok Legekontor",
+      "tlf": "33 35 99 60",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Kjell Øyvin Aarflot",
+    "address": "Hjemsengveien 7B, 3140 Nøtterøy",
+    "metadata": {
+      "legekontor": "Tinghauglegene DA",
+      "tlf": "33 38 38 28",
+      "ledigePlasser": 9,
+      "antallPlasser": 1000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Knut Magne Aarflot",
+    "address": "Kjellengveien 2B, 3125 Tønsberg",
+    "metadata": {
+      "legekontor": "Tønsberg Legekontor",
+      "tlf": "33 29 25 99",
+      "ledigePlasser": 40,
+      "antallPlasser": 500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Christina Åsheim-Olsen",
+    "address": "Søebergs gate 4, 3211 SANDEFJORD",
+    "metadata": {
+      "legekontor": "Søeberg legesenter",
+      "tlf": "33 29 65 30",
+      "ledigePlasser": 42,
+      "antallPlasser": 700,
+      "valgbar": true
+    }
+  }
+]

@@ -1,0 +1,5734 @@
+[
+  {
+    "title": "Benedicte Agdestein",
+    "address": "Tangenveien 5, 7651 Verdal",
+    "metadata": {
+      "legekontor": "Ørmelen Legesenter",
+      "tlf": "74 07 52 70",
+      "antallPlasser": 800
+    },
+    "lat": 63.7887843,
+    "lng": 11.4687497
+  },
+  {
+    "title": "Christine Agdestein",
+    "address": "Fyrgata 3, 7714 STEINKJER",
+    "metadata": {
+      "legekontor": "Sjøsia Legekontor",
+      "tlf": "74 16 33 80",
+      "antallPlasser": 1000
+    },
+    "lat": 64.011946,
+    "lng": 11.487499
+  },
+  {
+    "title": "Suzann Mary-Beth Aksnes",
+    "address": "Nordre gate 6, 7011 Trondheim",
+    "metadata": {
+      "legekontor": "Midtbyen Legesenter AS",
+      "tlf": "73 92 38 80",
+      "antallPlasser": 1150
+    },
+    "lat": 63.431205,
+    "lng": 10.397434
+  },
+  {
+    "title": "Sufian R Abdalwhab Al-Dawood",
+    "address": "Breidablikkvegen 1, 7500 Stjørdal",
+    "metadata": {
+      "legekontor": "Stjørdal Legesenter",
+      "tlf": "74 80 44 00",
+      "antallPlasser": 1000
+    },
+    "lat": 63.468707,
+    "lng": 10.931574
+  },
+  {
+    "title": "Truls Johan Albert",
+    "address": "Løvsetvegen 2, 7224 Melhus",
+    "metadata": {
+      "legekontor": "Midt Legesenter AS",
+      "tlf": "73 18 88 80",
+      "ledigePlasser": 20,
+      "antallPlasser": 1100,
+      "valgbar": true
+    },
+    "lat": 63.284308,
+    "lng": 10.281447
+  },
+  {
+    "title": "Vera Albrigtsen",
+    "address": "Øyavegen 19, 7550 HOMMELVIK",
+    "metadata": {
+      "legekontor": "Hommelvik Legekontor DA",
+      "tlf": "73 97 21 00",
+      "antallPlasser": 950
+    },
+    "lat": 63.4121489,
+    "lng": 10.8036361
+  },
+  {
+    "title": "Niklas Amdal",
+    "address": "Wessels Veg 95, 7502",
+    "metadata": {
+      "legekontor": "Tangen Legekontor",
+      "tlf": "74 82 35 00",
+      "antallPlasser": 950
+    },
+    "lat": 63.4734665,
+    "lng": 10.9014559
+  },
+  {
+    "title": "Varatharasan Ananthan",
+    "address": "Årnsetveien 35, 7100 Rissa",
+    "metadata": {
+      "legekontor": "Indre Fosen Legetjeneste",
+      "tlf": "417 02 400",
+      "antallPlasser": 1200
+    },
+    "lat": 63.5868,
+    "lng": 9.958023
+  },
+  {
+    "title": "Kristin Iren Andersen",
+    "address": "Anders Estenstads Veg 18, 7046 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Valentinlyst Legesenter",
+      "tlf": "73 82 97 97",
+      "antallPlasser": 1300
+    },
+    "lat": 63.4249897,
+    "lng": 10.4420123
+  },
+  {
+    "title": "Malin Anshushaug",
+    "address": "Russervegen 5A, 7340 OPPDAL",
+    "metadata": {
+      "legekontor": "Oppdal Legesenter",
+      "tlf": "72 40 01 00",
+      "antallPlasser": 1001
+    },
+    "lat": 62.594377,
+    "lng": 9.684029
+  },
+  {
+    "title": "Petter Fredrik Antonsen",
+    "address": "Fergemannsvegen 6, 7863 Overhalla",
+    "metadata": {
+      "legekontor": "Overhalla legekontor",
+      "tlf": "74 28 03 00",
+      "antallPlasser": 1200
+    },
+    "lat": 64.484435,
+    "lng": 11.9594028
+  },
+  {
+    "title": "Asle Arnstad",
+    "address": "Moafjæra 8C, 7606 Levanger",
+    "metadata": {
+      "legekontor": "Moan Legesenter",
+      "tlf": "74 60 44 40",
+      "antallPlasser": 1000
+    },
+    "lat": 63.735913,
+    "lng": 11.280452
+  },
+  {
+    "title": "Anders Askelund",
+    "address": "Fjellseterveien 1, 7020 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Byåsen Legesenter A/S",
+      "tlf": "73 80 67 70",
+      "antallPlasser": 950
+    },
+    "lat": 63.4180001,
+    "lng": 10.3518947
+  },
+  {
+    "title": "Roger Askim",
+    "address": "Vestre Rosten 77, 7075 TILLER",
+    "metadata": {
+      "legekontor": "Fokus legesenter",
+      "tlf": "72 59 45 00",
+      "antallPlasser": 1100
+    },
+    "lat": 63.362539,
+    "lng": 10.3719311
+  },
+  {
+    "title": "Martin Isbrekken Aune",
+    "address": "Innherredsveien 7, 7014 Trondheim",
+    "metadata": {
+      "legekontor": "Solsiden Legesenter AS",
+      "tlf": "23 89 10 87",
+      "ledigePlasser": 6,
+      "antallPlasser": 1000,
+      "valgbar": true
+    },
+    "lat": 63.4339571,
+    "lng": 10.4137391
+  },
+  {
+    "title": "Bjarne Austad",
+    "address": "Prinsens gt 1 A, Statens Hus, 7011 Trondheim",
+    "metadata": {
+      "legekontor": "Øya Legesenter",
+      "tlf": "72 54 38 60",
+      "antallPlasser": 400
+    },
+    "lat": 63.4322408,
+    "lng": 10.3967299
+  },
+  {
+    "title": "Håvard Avelsgaard",
+    "address": "Wessels Veg 95, 7502",
+    "metadata": {
+      "legekontor": "Tangen Legekontor",
+      "tlf": "74 82 35 00",
+      "antallPlasser": 1000
+    },
+    "lat": 63.4734665,
+    "lng": 10.9014559
+  },
+  {
+    "title": "Adam Azzout",
+    "address": "Olav Tryggvasons Gate 24C, 7011 Trondheim",
+    "metadata": {
+      "legekontor": "Idungården Legesenter DA",
+      "tlf": "73 83 36 10",
+      "ledigePlasser": 12,
+      "antallPlasser": 1550,
+      "valgbar": true
+    },
+    "lat": 63.4332023,
+    "lng": 10.3946786
+  },
+  {
+    "title": "Kjersti Bach",
+    "address": "Nøkkrosevegen 2, 7970 Kolvereid",
+    "metadata": {
+      "legekontor": "Nærøysund Legekontor",
+      "tlf": "948 12 953",
+      "antallPlasser": 640
+    },
+    "lat": 64.8647037,
+    "lng": 11.6027053
+  },
+  {
+    "title": "Bjørn Ole Bache",
+    "address": "Høvdingveien 10, 7725 Steinkjer",
+    "metadata": {
+      "legekontor": "Høvdinggården Legekontor",
+      "tlf": "74 14 12 50",
+      "antallPlasser": 1000
+    },
+    "lat": 64.0238545,
+    "lng": 11.4813835
+  },
+  {
+    "title": "Karianne Bakken",
+    "address": "Helge Ingstadsvei 1, 7600 Levanger",
+    "metadata": {
+      "legekontor": "Røstad Legesenter",
+      "tlf": "74 08 50 50",
+      "antallPlasser": 1000
+    },
+    "lat": 63.752125,
+    "lng": 11.311775
+  },
+  {
+    "title": "Sigurd Baldersheim",
+    "address": "Vestre Rosten 79, 7075 TILLER",
+    "metadata": {
+      "legekontor": "MediSyd A/S",
+      "tlf": "72 88 77 55",
+      "antallPlasser": 980
+    },
+    "lat": 63.363886,
+    "lng": 10.372883
+  },
+  {
+    "title": "Thea Sand Baldersheim",
+    "address": "Haakon VIIs gate 27, 7041 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Leangen Legesenter",
+      "tlf": "73 51 77 13",
+      "antallPlasser": 1000
+    },
+    "lat": 63.438774,
+    "lng": 10.463933
+  },
+  {
+    "title": "Randi Iren Barli",
+    "address": "Nertunet 30, 7633 FROSTA",
+    "metadata": {
+      "legekontor": "Frosta Legekontor",
+      "tlf": "74 80 88 60",
+      "antallPlasser": 600
+    },
+    "lat": 63.589209,
+    "lng": 10.741988
+  },
+  {
+    "title": "Claudio Antonio Galdames Barrera",
+    "address": "Ringvålvegen 5, 7080 Heimdal",
+    "metadata": {
+      "legekontor": "Heimdal Medisinske Senter",
+      "tlf": "72 59 45 50",
+      "antallPlasser": 1300
+    },
+    "lat": 63.3517455,
+    "lng": 10.3544485
+  },
+  {
+    "title": "Berit Bartnes",
+    "address": "Hans Baucks veg 1, 7033 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Nardosletta legesenter",
+      "tlf": "73 82 10 40",
+      "antallPlasser": 900
+    },
+    "lat": 63.4030121,
+    "lng": 10.4276364
+  },
+  {
+    "title": "Monica Berg",
+    "address": "Moholt Allmenning 3, 7050 Trondheim",
+    "metadata": {
+      "legekontor": "Moholt legesenter AS",
+      "tlf": "950 04 420",
+      "antallPlasser": 1100
+    },
+    "lat": 63.4113331,
+    "lng": 10.4333493
+  },
+  {
+    "title": "Tomas Berg",
+    "address": "Haakon VIIs gate 9, 7041 Trondheim",
+    "metadata": {
+      "legekontor": "Lade Legesenter AS",
+      "tlf": "73 92 01 55",
+      "antallPlasser": 1090
+    },
+    "lat": 63.444122,
+    "lng": 10.448084
+  },
+  {
+    "title": "Vegard Berge",
+    "address": "Ivar Lykkes veg 3, 7075 Tiller",
+    "metadata": {
+      "legekontor": "Tillertorget Legesenter AS",
+      "tlf": "72 90 07 01",
+      "antallPlasser": 1300
+    },
+    "lat": 63.3580652,
+    "lng": 10.3748349
+  },
+  {
+    "title": "Ola Berger",
+    "address": "Smistadvegen 11, 7026 Trondheim",
+    "metadata": {
+      "legekontor": "Granåsen Legesenter AS",
+      "tlf": "73 18 65 30",
+      "antallPlasser": 1000
+    },
+    "lat": 63.3762253,
+    "lng": 10.3127707
+  },
+  {
+    "title": "Simon Girmai Berger",
+    "address": "Sørveien 17b, Kysthaven, 7260 Sistranda",
+    "metadata": {
+      "legekontor": "Frøya Legekontor",
+      "tlf": "72 44 70 80",
+      "ledigePlasser": 11,
+      "antallPlasser": 450,
+      "valgbar": true
+    },
+    "lat": 63.7301981,
+    "lng": 8.8297021
+  },
+  {
+    "title": "Ulrika Christina Berglund",
+    "address": "Mellomila 56, 7018 Trondheim",
+    "metadata": {
+      "legekontor": "Sjøsiden Legesenter",
+      "tlf": "73 80 95 00",
+      "ledigePlasser": 24,
+      "antallPlasser": 1150,
+      "valgbar": true
+    },
+    "lat": 63.431332,
+    "lng": 10.363492
+  },
+  {
+    "title": "Linn Marie Flotten Berle",
+    "address": "Russervegen 5A, 7340 OPPDAL",
+    "metadata": {
+      "legekontor": "Oppdal Legesenter",
+      "tlf": "72 40 01 00",
+      "antallPlasser": 800
+    },
+    "lat": 62.594377,
+    "lng": 9.684029
+  },
+  {
+    "title": "Carl Nokkve Brastad Bernhardt",
+    "address": "Vennaliveien 5, 7670 INDERØY",
+    "metadata": {
+      "legekontor": "Inderøy Legesenter",
+      "tlf": "74 70 15 13",
+      "ledigePlasser": 5,
+      "antallPlasser": 640,
+      "valgbar": true
+    },
+    "lat": 63.8756,
+    "lng": 11.289185
+  },
+  {
+    "title": "Vibeke Engan Berntzen",
+    "address": "Vestre Rosten 79, 7075 TILLER",
+    "metadata": {
+      "legekontor": "MediSyd A/S",
+      "tlf": "72 88 77 55",
+      "antallPlasser": 1150
+    },
+    "lat": 63.363886,
+    "lng": 10.372883
+  },
+  {
+    "title": "Andrea Tambs Berstad",
+    "address": "Ingeborg Aas veg 4, 7036 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Risvollan Legesenter AS",
+      "tlf": "73 84 48 80",
+      "antallPlasser": 1050
+    },
+    "lat": 63.391528,
+    "lng": 10.430585
+  },
+  {
+    "title": "Lars Christian Bjerkeli",
+    "address": "Sjukeheimsvegen 6, 6657 RINDAL",
+    "metadata": {
+      "legekontor": "Rindal Legekontor",
+      "tlf": "71 66 44 00",
+      "antallPlasser": 825
+    },
+    "lat": 63.055573,
+    "lng": 9.217015
+  },
+  {
+    "title": "Leif Hilding Bjermer",
+    "address": "Mellomvegen 8, 7750 NAMDALSEID",
+    "metadata": {
+      "legekontor": "Namdalseid Legekontor",
+      "tlf": "74 22 72 70",
+      "ledigePlasser": 138,
+      "antallPlasser": 600,
+      "valgbar": true
+    },
+    "lat": 64.222255,
+    "lng": 11.217865
+  },
+  {
+    "title": "Jakob Petter Bjertnæs",
+    "address": "Richard Birkelands veg 5, 7034 Trondheim",
+    "metadata": {
+      "legekontor": "Gløshaugen legesenter AS",
+      "tlf": "400 01 223",
+      "ledigePlasser": 27,
+      "antallPlasser": 2400,
+      "valgbar": true
+    },
+    "lat": 63.415693,
+    "lng": 10.4109041
+  },
+  {
+    "title": "Rikhard Johann Bjørgve",
+    "address": "Øvre Møllenberg 61/63, 7043 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Møllenberg Legesenter",
+      "tlf": "73 80 87 70",
+      "ledigePlasser": 16,
+      "antallPlasser": 1250,
+      "valgbar": true
+    },
+    "lat": 63.4344321,
+    "lng": 10.4201786
+  },
+  {
+    "title": "Magnus Bjørnaas",
+    "address": "Nordre gate 6, 7011 Trondheim",
+    "metadata": {
+      "legekontor": "Midtbyen Legesenter AS",
+      "tlf": "73 92 38 80",
+      "antallPlasser": 1380
+    },
+    "lat": 63.431205,
+    "lng": 10.397434
+  },
+  {
+    "title": "Andreas Bliksås",
+    "address": "Christian Bloms veg 2A, 7058 CHARLOTTENLUND",
+    "metadata": {
+      "legekontor": "Charlottenlund Legesenter",
+      "tlf": "73 84 81 80",
+      "antallPlasser": 1400
+    },
+    "lat": 63.419194,
+    "lng": 10.483482
+  },
+  {
+    "title": "Dag Blix-Nilsen",
+    "address": "Harald Hårfagresgate 2, 7041 Trondheim",
+    "metadata": {
+      "legekontor": "Ringve Legesenter",
+      "tlf": "73 58 50 30",
+      "antallPlasser": 1200
+    },
+    "lat": 63.4440653,
+    "lng": 10.4492614
+  },
+  {
+    "title": "Oleg Bogachev",
+    "address": "Nøkkrosevegen 2, 7970 Kolvereid",
+    "metadata": {
+      "legekontor": "Nærøysund Legekontor",
+      "tlf": "948 12 953",
+      "antallPlasser": 800
+    },
+    "lat": 64.8647037,
+    "lng": 11.6027053
+  },
+  {
+    "title": "Olga Bogacheva",
+    "address": "Nøkkrosevegen 2, 7970 Kolvereid",
+    "metadata": {
+      "legekontor": "Nærøysund Legekontor",
+      "tlf": "948 12 953",
+      "antallPlasser": 800
+    },
+    "lat": 64.8647037,
+    "lng": 11.6027053
+  },
+  {
+    "title": "Eirik Bones",
+    "address": "Stordalsveien 4 A, 7170 ÅFJORD",
+    "metadata": {
+      "legekontor": "Åfjord Legetjeneste",
+      "tlf": "72 53 02 00",
+      "antallPlasser": 1150
+    },
+    "lat": 63.960707,
+    "lng": 10.227979
+  },
+  {
+    "title": "Antal Bora",
+    "address": "Glåmsmyrveien 23, 6683 Vågland",
+    "metadata": {
+      "legekontor": "Halsa Legekontor",
+      "tlf": "71 55 96 50",
+      "ledigePlasser": 282,
+      "antallPlasser": 800,
+      "valgbar": true
+    },
+    "lat": 63.1184718,
+    "lng": 8.3120264
+  },
+  {
+    "title": "Viktor Aron Bottenhaug",
+    "address": "Russervegen 5A, 7340 OPPDAL",
+    "metadata": {
+      "legekontor": "Oppdal Legesenter",
+      "tlf": "72 40 01 00",
+      "antallPlasser": 700
+    },
+    "lat": 62.594377,
+    "lng": 9.684029
+  },
+  {
+    "title": "Maja Øyn Bragstad",
+    "address": "Stokmovegen 2, 7500 Stjørdal",
+    "metadata": {
+      "legekontor": "Torget legekontor Stjørdal AS",
+      "tlf": "74 80 40 00",
+      "antallPlasser": 1000
+    },
+    "lat": 63.4687715,
+    "lng": 10.924266
+  },
+  {
+    "title": "Torild Rødseth Brede",
+    "address": "Selsbakkvegen 36b, 7027 Trondheim",
+    "metadata": {
+      "legekontor": "Hallset Legesenter AS",
+      "tlf": "72 55 71 60",
+      "antallPlasser": 1300
+    },
+    "lat": 63.394501,
+    "lng": 10.368786
+  },
+  {
+    "title": "Trine Utne Brede",
+    "address": "Mellomila 56, 7018 Trondheim",
+    "metadata": {
+      "legekontor": "Sjøsiden Legesenter",
+      "tlf": "73 80 95 00",
+      "antallPlasser": 1250
+    },
+    "lat": 63.431332,
+    "lng": 10.363492
+  },
+  {
+    "title": "Hilde Bruheim",
+    "address": "Tine Bugges vei 1A, 7540 KLÆBU",
+    "metadata": {
+      "legekontor": "Klæbu legesenter AS",
+      "tlf": "72 83 01 70",
+      "ledigePlasser": 6,
+      "antallPlasser": 1010,
+      "valgbar": true
+    },
+    "lat": 63.2977947,
+    "lng": 10.4833433
+  },
+  {
+    "title": "Steinar Moen Brækken",
+    "address": "Rørosveien 1, 7290 STØREN",
+    "metadata": {
+      "legekontor": "Midtre Gauldal legekontor",
+      "tlf": "72 43 03 20",
+      "ledigePlasser": 6,
+      "antallPlasser": 1000,
+      "valgbar": true
+    },
+    "lat": 63.039709,
+    "lng": 10.286372
+  },
+  {
+    "title": "Morten Helgesen Busch",
+    "address": "Olav Tryggvasons gate 14, 7011 Trondheim",
+    "metadata": {
+      "legekontor": "Mathesongården Legesenter",
+      "tlf": "73 87 04 80",
+      "ledigePlasser": 7,
+      "antallPlasser": 1800,
+      "valgbar": true
+    },
+    "lat": 63.4334549,
+    "lng": 10.3996608
+  },
+  {
+    "title": "Marthe Sofia Butt",
+    "address": "Harald Hårfagresgate 2, 7041 Trondheim",
+    "metadata": {
+      "legekontor": "Ringve Legesenter",
+      "tlf": "73 58 50 30",
+      "antallPlasser": 1500
+    },
+    "lat": 63.4440653,
+    "lng": 10.4492614
+  },
+  {
+    "title": "Alfhild Grønning Bækken",
+    "address": "Dalgårdveien 1, 7024",
+    "metadata": {
+      "legekontor": "Dalgård Legesenter DA",
+      "tlf": "72 56 70 00",
+      "antallPlasser": 900
+    },
+    "lat": 63.3950255,
+    "lng": 10.3376118
+  },
+  {
+    "title": "Irene Bøaseter",
+    "address": "Vassliveien 83, 7391 RENNEBU",
+    "metadata": {
+      "legekontor": "Rennebu legekontor",
+      "tlf": "908 80 140",
+      "antallPlasser": 850
+    },
+    "lat": 62.834434,
+    "lng": 10.006455
+  },
+  {
+    "title": "Arnhild Østerås Bøgseth",
+    "address": "Hans Baucks veg 1, 7033 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Nardosletta legesenter",
+      "tlf": "73 82 10 40",
+      "antallPlasser": 1200
+    },
+    "lat": 63.4030121,
+    "lng": 10.4276364
+  },
+  {
+    "title": "Lena Kristina Canborn",
+    "address": "Miljøbygget, 7770 Flatanger",
+    "metadata": {
+      "legekontor": "Flatanger Legekontor",
+      "tlf": "74 22 11 37",
+      "ledigePlasser": 330,
+      "antallPlasser": 1200,
+      "valgbar": true
+    },
+    "lat": 64.5013755,
+    "lng": 10.8950299
+  },
+  {
+    "title": "Iestyn Thomas Hubert Carr",
+    "address": "Henrik Grønnsvei 25, 7374 RØROS",
+    "metadata": {
+      "legekontor": "Røros Legesenter",
+      "tlf": "72 41 94 80",
+      "antallPlasser": 800
+    },
+    "lat": 62.5771342,
+    "lng": 11.3786766
+  },
+  {
+    "title": "Tone Caspersen",
+    "address": "Breidablikkvegen 1, 7500 Stjørdal",
+    "metadata": {
+      "legekontor": "Stjørdal Legesenter",
+      "tlf": "74 80 44 00",
+      "antallPlasser": 900
+    },
+    "lat": 63.468707,
+    "lng": 10.931574
+  },
+  {
+    "title": "Silje Sandanger Christensen",
+    "address": "Seilmakergata 10, 7725 STEINKJER",
+    "metadata": {
+      "legekontor": "Elvebredden legekontor",
+      "tlf": "74 16 24 00",
+      "antallPlasser": 640
+    },
+    "lat": 64.013348,
+    "lng": 11.479886
+  },
+  {
+    "title": "Witoslaw Chwasta",
+    "address": "Nøkkrosevegen 2, 7970 Kolvereid",
+    "metadata": {
+      "legekontor": "Nærøysund Legekontor",
+      "tlf": "948 12 953",
+      "antallPlasser": 400
+    },
+    "lat": 64.8647037,
+    "lng": 11.6027053
+  },
+  {
+    "title": "Adam Thunold Cohen",
+    "address": "Olav Tryggvasons gate 14, 7011 Trondheim",
+    "metadata": {
+      "legekontor": "Mathesongården Legesenter",
+      "tlf": "73 87 04 80",
+      "ledigePlasser": 20,
+      "antallPlasser": 1200,
+      "valgbar": true
+    },
+    "lat": 63.4334549,
+    "lng": 10.3996608
+  },
+  {
+    "title": "Rikke Thunold Cohen",
+    "address": "Mellomila 56, 7018 Trondheim",
+    "metadata": {
+      "legekontor": "Sjøsiden Legesenter",
+      "tlf": "73 80 95 00",
+      "ledigePlasser": 20,
+      "antallPlasser": 1100,
+      "valgbar": true
+    },
+    "lat": 63.431332,
+    "lng": 10.363492
+  },
+  {
+    "title": "Kamilla Stylo Czownicki",
+    "address": "Blåklokkevegen 16, 7870 GRONG",
+    "metadata": {
+      "legekontor": "Indre Namdal legetjeneste",
+      "tlf": "902 35 363",
+      "ledigePlasser": 22,
+      "antallPlasser": 750,
+      "valgbar": true
+    },
+    "lat": 64.463265,
+    "lng": 12.3106839
+  },
+  {
+    "title": "Kamilla Stylo Czownicki",
+    "address": "Nøkkrosevegen 2, 7970 Kolvereid",
+    "metadata": {
+      "legekontor": "Nærøysund Legekontor",
+      "tlf": "948 12 953",
+      "antallPlasser": 400
+    },
+    "lat": 64.8647037,
+    "lng": 11.6027053
+  },
+  {
+    "title": "Carl Asbjørn Dahl",
+    "address": "Mellomila 56, 7018 Trondheim",
+    "metadata": {
+      "legekontor": "Sjøsiden Legesenter",
+      "tlf": "73 80 95 00",
+      "antallPlasser": 1200
+    },
+    "lat": 63.431332,
+    "lng": 10.363492
+  },
+  {
+    "title": "Kristian Holøymoen Dahlberg",
+    "address": "Ingeborg Aas veg 4, 7036 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Risvollan Legesenter AS",
+      "tlf": "73 84 48 80",
+      "antallPlasser": 1400
+    },
+    "lat": 63.391528,
+    "lng": 10.430585
+  },
+  {
+    "title": "Linn Kristin Holøymoen Dahlberg",
+    "address": "Ringvålvegen 5, 7080 Heimdal",
+    "metadata": {
+      "legekontor": "Heimdal Medisinske Senter",
+      "tlf": "72 59 45 50",
+      "antallPlasser": 1050
+    },
+    "lat": 63.3517455,
+    "lng": 10.3544485
+  },
+  {
+    "title": "Kjersti Øksnes Dalheim",
+    "address": "Bruarvegen 50, 7232 Lundamo",
+    "metadata": {
+      "legekontor": "Lundamo Legesenter",
+      "tlf": "72 85 27 70",
+      "antallPlasser": 675
+    },
+    "lat": 63.1520254,
+    "lng": 10.2852658
+  },
+  {
+    "title": "Monika Smistad Dalhøi",
+    "address": "Fjordgata 1, 7010 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Nidaros Legekontor",
+      "tlf": "73 52 56 20",
+      "antallPlasser": 1000
+    },
+    "lat": 63.4344691,
+    "lng": 10.403794
+  },
+  {
+    "title": "Kaja Danielsen",
+    "address": "Skolegata 9, 7130 BREKSTAD",
+    "metadata": {
+      "legekontor": "Ørland/Bjugn Legetjeneste (Legekontor)",
+      "tlf": "72 51 41 00",
+      "antallPlasser": 880
+    },
+    "lat": 63.685591,
+    "lng": 9.655906
+  },
+  {
+    "title": "Thor Leonard Lim Digre",
+    "address": "Ivar Lykkes veg 3, 7075 Tiller",
+    "metadata": {
+      "legekontor": "Tillertorget Legesenter AS",
+      "tlf": "72 90 07 01",
+      "antallPlasser": 1600
+    },
+    "lat": 63.3580652,
+    "lng": 10.3748349
+  },
+  {
+    "title": "Harmen Martinus Dijkstra",
+    "address": "Skolegata 9, 7130 BREKSTAD",
+    "metadata": {
+      "legekontor": "Ørland/Bjugn Legetjeneste (Legekontor)",
+      "tlf": "72 51 41 00",
+      "antallPlasser": 750
+    },
+    "lat": 63.685591,
+    "lng": 9.655906
+  },
+  {
+    "title": "Glenn Ståle Draveng",
+    "address": "Gjelbakken 15, 7580 SELBU",
+    "metadata": {
+      "legekontor": "Legekontoret i Selbu",
+      "tlf": "73 81 68 25",
+      "antallPlasser": 950
+    },
+    "lat": 63.217788,
+    "lng": 11.039243
+  },
+  {
+    "title": "Hallvard Dvergsdal",
+    "address": "Fjellseterveien 1, 7020 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Byåsen Legesenter A/S",
+      "tlf": "73 80 67 70",
+      "antallPlasser": 1100
+    },
+    "lat": 63.4180001,
+    "lng": 10.3518947
+  },
+  {
+    "title": "Håvard Dybdahl",
+    "address": "Helge Ingstadsvei 1, 7600 Levanger",
+    "metadata": {
+      "legekontor": "Røstad Legesenter",
+      "tlf": "74 08 50 50",
+      "antallPlasser": 800
+    },
+    "lat": 63.752125,
+    "lng": 11.311775
+  },
+  {
+    "title": "Daniel Dydland",
+    "address": "Nertunet 30, 7633 FROSTA",
+    "metadata": {
+      "legekontor": "Frosta Legekontor",
+      "tlf": "74 80 88 60",
+      "antallPlasser": 950
+    },
+    "lat": 63.589209,
+    "lng": 10.741988
+  },
+  {
+    "title": "Frode Edvardsen",
+    "address": "Ringvålvegen 5, 7080 Heimdal",
+    "metadata": {
+      "legekontor": "Heimdal Medisinske Senter",
+      "tlf": "72 59 45 50",
+      "antallPlasser": 1100
+    },
+    "lat": 63.3517455,
+    "lng": 10.3544485
+  },
+  {
+    "title": "Lars Erik Eggen",
+    "address": "Tangenveien 5, 7651 Verdal",
+    "metadata": {
+      "legekontor": "Ørmelen Legesenter",
+      "tlf": "74 07 52 70",
+      "antallPlasser": 650
+    },
+    "lat": 63.7887843,
+    "lng": 11.4687497
+  },
+  {
+    "title": "Tore Eggen",
+    "address": "Moafjæra 8C, 7606 Levanger",
+    "metadata": {
+      "legekontor": "Moan Legesenter",
+      "tlf": "74 60 44 40",
+      "antallPlasser": 1200
+    },
+    "lat": 63.735913,
+    "lng": 11.280452
+  },
+  {
+    "title": "Ingri Storås Einum",
+    "address": "Ressveien 55, 7336 Meldal",
+    "metadata": {
+      "legekontor": "Meldal Legekontor",
+      "tlf": "72 46 73 00",
+      "antallPlasser": 1000
+    },
+    "lat": 63.043552,
+    "lng": 9.721468
+  },
+  {
+    "title": "Kristine Rød Ekle",
+    "address": "Vegamot 8 B, 7049 Trondheim",
+    "metadata": {
+      "legekontor": "Strinda Legesenter AS",
+      "tlf": "73 98 40 10",
+      "antallPlasser": 1125
+    },
+    "lat": 63.4093566,
+    "lng": 10.4438168
+  },
+  {
+    "title": "Tom Andreas Ekle",
+    "address": "Erling Skakkesgt. 49B, 7012",
+    "metadata": {
+      "legekontor": "Kalvskinnet legesenter",
+      "tlf": "73 80 99 50",
+      "ledigePlasser": 2,
+      "antallPlasser": 1000,
+      "valgbar": true
+    },
+    "lat": 63.4290355,
+    "lng": 10.3849156
+  },
+  {
+    "title": "Mustafa Ali Hussien El Khafadji",
+    "address": "Mellomila 56, 7018 Trondheim",
+    "metadata": {
+      "legekontor": "Sjøsiden Legesenter",
+      "tlf": "73 80 95 00",
+      "antallPlasser": 1150
+    },
+    "lat": 63.431332,
+    "lng": 10.363492
+  },
+  {
+    "title": "Ines Saracevic Elgsæter",
+    "address": "Nordre gate 6, 7011 Trondheim",
+    "metadata": {
+      "legekontor": "Midtbyen Legesenter AS",
+      "tlf": "73 92 38 80",
+      "antallPlasser": 1100
+    },
+    "lat": 63.431205,
+    "lng": 10.397434
+  },
+  {
+    "title": "Anna Magdalena Eliasz",
+    "address": "Stasjonsvegen 1, 7630 Åsen",
+    "metadata": {
+      "legekontor": "Åsen Legekontor",
+      "tlf": "74 05 62 99",
+      "ledigePlasser": 38,
+      "antallPlasser": 675,
+      "valgbar": true
+    },
+    "lat": 63.6102561,
+    "lng": 11.0516518
+  },
+  {
+    "title": "Trygve Sølberg Ellingsen",
+    "address": "Øyavegen 19, 7550 HOMMELVIK",
+    "metadata": {
+      "legekontor": "Hommelvik Legekontor DA",
+      "tlf": "73 97 21 00",
+      "antallPlasser": 680
+    },
+    "lat": 63.4121489,
+    "lng": 10.8036361
+  },
+  {
+    "title": "Olga Erokhina",
+    "address": "Stasjonsvegen 1, 7630 Åsen",
+    "metadata": {
+      "legekontor": "Åsen Legekontor",
+      "tlf": "74 05 62 99",
+      "antallPlasser": 800
+    },
+    "lat": 63.6102561,
+    "lng": 11.0516518
+  },
+  {
+    "title": "Astrid Katarina Moen Fagerli",
+    "address": "Megardsvegen 6A, 7320 FANNREM",
+    "metadata": {
+      "legekontor": "Fannrem legesenter",
+      "tlf": "72 48 65 40",
+      "antallPlasser": 1200
+    },
+    "lat": 63.266312,
+    "lng": 9.814472
+  },
+  {
+    "title": "Guri Kåresdatter Falch",
+    "address": "Vennaliveien 5, 7670 INDERØY",
+    "metadata": {
+      "legekontor": "Inderøy Legesenter",
+      "tlf": "74 70 15 13",
+      "antallPlasser": 555
+    },
+    "lat": 63.8756,
+    "lng": 11.289185
+  },
+  {
+    "title": "Nick Faradonbeh",
+    "address": "Olav Tryggvasons gate 35, 7011 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Edda Legesenter DA",
+      "tlf": "73 83 19 00",
+      "ledigePlasser": 93,
+      "antallPlasser": 1200,
+      "valgbar": true
+    },
+    "lat": 63.43312,
+    "lng": 10.395589
+  },
+  {
+    "title": "Roman Fedorov",
+    "address": "Stokmovegen 2, 7500 Stjørdal",
+    "metadata": {
+      "legekontor": "Torget legekontor Stjørdal AS",
+      "tlf": "74 80 40 00",
+      "antallPlasser": 1000
+    },
+    "lat": 63.4687715,
+    "lng": 10.924266
+  },
+  {
+    "title": "Hedda Skjolde Fiske",
+    "address": "Vollabakken 3, 7030 Trondheim",
+    "metadata": {
+      "legekontor": "Din Doktor",
+      "tlf": "73 98 28 80",
+      "antallPlasser": 1150
+    },
+    "lat": 63.4239218,
+    "lng": 10.4019983
+  },
+  {
+    "title": "Cathrine Fiskum",
+    "address": "Vargeia 9, 7877 Høylandet",
+    "metadata": {
+      "legekontor": "Høylandet legekontor",
+      "tlf": "74 32 49 00",
+      "antallPlasser": 600
+    },
+    "lat": 64.628363,
+    "lng": 12.299114
+  },
+  {
+    "title": "Else Hansdatter Fjøsne",
+    "address": "Nordre gate 6, 7011 Trondheim",
+    "metadata": {
+      "legekontor": "Midtbyen Legesenter AS",
+      "tlf": "73 92 38 80",
+      "antallPlasser": 1060
+    },
+    "lat": 63.431205,
+    "lng": 10.397434
+  },
+  {
+    "title": "Ingunn Sæter Flasnes",
+    "address": "Nøkkrosevegen 2, 7970 Kolvereid",
+    "metadata": {
+      "legekontor": "Nærøysund Legekontor",
+      "tlf": "948 12 953",
+      "antallPlasser": 800
+    },
+    "lat": 64.8647037,
+    "lng": 11.6027053
+  },
+  {
+    "title": "Erik Sandbakken Flo",
+    "address": "Innherredsveien 7, 7014 Trondheim",
+    "metadata": {
+      "legekontor": "Solsiden Legesenter AS",
+      "tlf": "23 89 10 87",
+      "ledigePlasser": 159,
+      "antallPlasser": 800,
+      "valgbar": true
+    },
+    "lat": 63.4339571,
+    "lng": 10.4137391
+  },
+  {
+    "title": "Pål Ronny Flæsen",
+    "address": "Skolegata 9, 7130 BREKSTAD",
+    "metadata": {
+      "legekontor": "Ørland/Bjugn Legetjeneste (Legekontor)",
+      "tlf": "72 51 41 00",
+      "antallPlasser": 800
+    },
+    "lat": 63.685591,
+    "lng": 9.655906
+  },
+  {
+    "title": "Tuva Engstrøm Fløan",
+    "address": "Mellomvegen 8, 7750 NAMDALSEID",
+    "metadata": {
+      "legekontor": "Namdalseid Legekontor",
+      "tlf": "74 22 72 70",
+      "antallPlasser": 650
+    },
+    "lat": 64.222255,
+    "lng": 11.217865
+  },
+  {
+    "title": "Anders Folven",
+    "address": "Vestre Rosten 79, 7075 TILLER",
+    "metadata": {
+      "legekontor": "Sørbyen Legesenter",
+      "tlf": "72 59 20 00",
+      "antallPlasser": 1200
+    },
+    "lat": 63.363886,
+    "lng": 10.372883
+  },
+  {
+    "title": "Eva Anita Fordal",
+    "address": "Rådhusgata 6, 7530 MERÅKER",
+    "metadata": {
+      "legekontor": "Meråker legekontor",
+      "tlf": "74 81 33 30",
+      "antallPlasser": 800
+    },
+    "lat": 63.415109,
+    "lng": 11.748254
+  },
+  {
+    "title": "Camilla Forr-Garnvik",
+    "address": "Fyrgata 3, 7725 STEINKJER",
+    "metadata": {
+      "legekontor": "Fyrgata Legekontor AS",
+      "tlf": "74 17 12 10",
+      "antallPlasser": 700
+    },
+    "lat": 64.011946,
+    "lng": 11.487499
+  },
+  {
+    "title": "Tomas Nils Erik Forsberg",
+    "address": "Kirkegata 1 A, 7600 LEVANGER",
+    "metadata": {
+      "legekontor": "Kirkegata Legesenter AS",
+      "antallPlasser": 1225
+    },
+    "lat": 63.7431148,
+    "lng": 11.2882422
+  },
+  {
+    "title": "Anita Helén Foshaug",
+    "address": "Høvdingveien 10, 7725 Steinkjer",
+    "metadata": {
+      "legekontor": "Høvdinggården Legekontor",
+      "tlf": "74 14 12 50",
+      "antallPlasser": 700
+    },
+    "lat": 64.0238545,
+    "lng": 11.4813835
+  },
+  {
+    "title": "Anne Lise Fossmo",
+    "address": "Orkdalsveien 38 A, 7300 ORKDAL",
+    "metadata": {
+      "legekontor": "Orkland kommune legetjeneste Orkdal",
+      "tlf": "72 48 78 60",
+      "antallPlasser": 1000
+    },
+    "lat": 63.263466,
+    "lng": 9.8130761
+  },
+  {
+    "title": "Hanne Fremstad",
+    "address": "Øyavegen 19, 7550 HOMMELVIK",
+    "metadata": {
+      "legekontor": "Hommelvik Legekontor DA",
+      "tlf": "73 97 21 00",
+      "antallPlasser": 840
+    },
+    "lat": 63.4121489,
+    "lng": 10.8036361
+  },
+  {
+    "title": "Marte Hopland Frotjold",
+    "address": "Orkdalsveien 38 A, 7300 ORKDAL",
+    "metadata": {
+      "legekontor": "Orkland kommune legetjeneste Orkdal",
+      "tlf": "72 48 78 60",
+      "antallPlasser": 1250
+    },
+    "lat": 63.263466,
+    "lng": 9.8130761
+  },
+  {
+    "title": "Torunn Wigum Frøseth",
+    "address": "Haakon VIIs gate 9, 7041 Trondheim",
+    "metadata": {
+      "legekontor": "Lade Legesenter AS",
+      "tlf": "73 92 01 55",
+      "antallPlasser": 900
+    },
+    "lat": 63.444122,
+    "lng": 10.448084
+  },
+  {
+    "title": "Trygve Frøysnes",
+    "address": "Anders Estenstads Veg 18, 7046 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Valentinlyst Legesenter",
+      "tlf": "73 82 97 97",
+      "ledigePlasser": 5,
+      "antallPlasser": 1200,
+      "valgbar": true
+    },
+    "lat": 63.4249897,
+    "lng": 10.4420123
+  },
+  {
+    "title": "Maren Gartland",
+    "address": "Blåklokkevegen 16, 7870 GRONG",
+    "metadata": {
+      "legekontor": "Indre Namdal legetjeneste",
+      "tlf": "902 35 363",
+      "antallPlasser": 600
+    },
+    "lat": 64.463265,
+    "lng": 12.3106839
+  },
+  {
+    "title": "Martin Lynggaard Germann",
+    "address": "Bruarvegen 50, 7232 Lundamo",
+    "metadata": {
+      "legekontor": "Lundamo Legesenter",
+      "tlf": "72 85 27 70",
+      "ledigePlasser": 46,
+      "antallPlasser": 500,
+      "valgbar": true
+    },
+    "lat": 63.1520254,
+    "lng": 10.2852658
+  },
+  {
+    "title": "Andrea Lange Getz",
+    "address": "Vennaliveien 5, 7670 INDERØY",
+    "metadata": {
+      "legekontor": "Inderøy Legesenter",
+      "tlf": "74 70 15 13",
+      "antallPlasser": 400
+    },
+    "lat": 63.8756,
+    "lng": 11.289185
+  },
+  {
+    "title": "Mari-Ann Geving",
+    "address": "Canninggata 4, 7800 7800",
+    "metadata": {
+      "legekontor": "Robrygga Legekontor",
+      "tlf": "74 22 65 20",
+      "antallPlasser": 1000
+    },
+    "lat": 64.468016,
+    "lng": 11.485664
+  },
+  {
+    "title": "Navjeet Gill",
+    "address": "Fjordgata 1, 7010 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Nidaros Legekontor",
+      "tlf": "73 52 56 20",
+      "ledigePlasser": 16,
+      "antallPlasser": 1350,
+      "valgbar": true
+    },
+    "lat": 63.4344691,
+    "lng": 10.403794
+  },
+  {
+    "title": "Anne Marte Gisnås",
+    "address": "Rådhusvegen 6, 7353 Børsa",
+    "metadata": {
+      "legekontor": "Skaun Legekontor AS",
+      "tlf": "72 86 73 00",
+      "antallPlasser": 1100
+    },
+    "lat": 63.32398,
+    "lng": 10.066249
+  },
+  {
+    "title": "Kristin Gisvold",
+    "address": "Fyrgata 3, 7725 STEINKJER",
+    "metadata": {
+      "legekontor": "Fyrgata Legekontor AS",
+      "tlf": "74 17 12 10",
+      "antallPlasser": 1100
+    },
+    "lat": 64.011946,
+    "lng": 11.487499
+  },
+  {
+    "title": "Sigrid Gjære",
+    "address": "Dalgårdveien 1, 7024",
+    "metadata": {
+      "legekontor": "Dalgård Legesenter DA",
+      "tlf": "72 56 70 00",
+      "antallPlasser": 900
+    },
+    "lat": 63.3950255,
+    "lng": 10.3376118
+  },
+  {
+    "title": "Daniel Per Fredrik Granström",
+    "address": "Fjordgata 1, 7010 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Nidaros Legekontor",
+      "tlf": "73 52 56 20",
+      "ledigePlasser": 37,
+      "antallPlasser": 1200,
+      "valgbar": true
+    },
+    "lat": 63.4344691,
+    "lng": 10.403794
+  },
+  {
+    "title": "Kristin Gravaune",
+    "address": "Russervegen 5A, 7340 OPPDAL",
+    "metadata": {
+      "legekontor": "Oppdal Legesenter",
+      "tlf": "72 40 01 00",
+      "antallPlasser": 1076
+    },
+    "lat": 62.594377,
+    "lng": 9.684029
+  },
+  {
+    "title": "Kjetil Grjotheim",
+    "address": "Haakon VII Alle 5, 7650 VERDAL",
+    "metadata": {
+      "legekontor": "Sentrum Legesenter",
+      "tlf": "901 69 418",
+      "antallPlasser": 500
+    },
+    "lat": 63.7941885,
+    "lng": 11.4829075
+  },
+  {
+    "title": "Knut Erik Grønset",
+    "address": "Russervegen 5A, 7340 OPPDAL",
+    "metadata": {
+      "legekontor": "Oppdal Legesenter",
+      "tlf": "72 40 01 00",
+      "antallPlasser": 1082
+    },
+    "lat": 62.594377,
+    "lng": 9.684029
+  },
+  {
+    "title": "Inga Marthe Grønseth",
+    "address": "Vestre Rosten 79, 7075 TILLER",
+    "metadata": {
+      "legekontor": "Sørbyen Legesenter",
+      "tlf": "72 59 20 00",
+      "antallPlasser": 800
+    },
+    "lat": 63.363886,
+    "lng": 10.372883
+  },
+  {
+    "title": "Anna Brenne Grønskag",
+    "address": "Jomfrugt. 18, 7010 Trondheim",
+    "metadata": {
+      "legekontor": "Nidelven legekontor AS",
+      "tlf": "73 99 43 40",
+      "antallPlasser": 1100
+    },
+    "lat": 63.4354303,
+    "lng": 10.399709
+  },
+  {
+    "title": "Hans Ove Grøntvedt",
+    "address": "Selsbakkvegen 36b, 7027 Trondheim",
+    "metadata": {
+      "legekontor": "Hallset Legesenter AS",
+      "tlf": "72 55 71 60",
+      "antallPlasser": 1200
+    },
+    "lat": 63.394501,
+    "lng": 10.368786
+  },
+  {
+    "title": "Håkon Mortensen Gullsvåg",
+    "address": "Haakon VII Alle 5, 7650 VERDAL",
+    "metadata": {
+      "legekontor": "Sentrum Legesenter",
+      "tlf": "901 69 418",
+      "antallPlasser": 850
+    },
+    "lat": 63.7941885,
+    "lng": 11.4829075
+  },
+  {
+    "title": "Knut Gystad",
+    "address": "Fyrgata 3, 7725 STEINKJER",
+    "metadata": {
+      "legekontor": "Fyrgata Legekontor AS",
+      "tlf": "74 17 12 10",
+      "antallPlasser": 1200
+    },
+    "lat": 64.011946,
+    "lng": 11.487499
+  },
+  {
+    "title": "Per Arne Gaarden",
+    "address": "Dalgårdveien 1, 7024",
+    "metadata": {
+      "legekontor": "Dalgård Legesenter DA",
+      "tlf": "72 56 70 00",
+      "antallPlasser": 860
+    },
+    "lat": 63.3950255,
+    "lng": 10.3376118
+  },
+  {
+    "title": "Synne Mariette Kvam Haeger",
+    "address": "Vikelvfaret 4, 7054 Ranheim",
+    "metadata": {
+      "legekontor": "Ranheim Legesenter",
+      "tlf": "73 82 58 00",
+      "antallPlasser": 1100
+    },
+    "lat": 63.421276,
+    "lng": 10.53616
+  },
+  {
+    "title": "Bodil Hagen",
+    "address": "Sørveien 17b, Kysthaven, 7260 Sistranda",
+    "metadata": {
+      "legekontor": "Frøya Legekontor",
+      "tlf": "72 44 70 80",
+      "antallPlasser": 400
+    },
+    "lat": 63.7301981,
+    "lng": 8.8297021
+  },
+  {
+    "title": "Nina Therese Hagen",
+    "address": "Vegamot 8 B, 7049 Trondheim",
+    "metadata": {
+      "legekontor": "Strinda Legesenter AS",
+      "tlf": "73 98 40 10",
+      "antallPlasser": 1200
+    },
+    "lat": 63.4093566,
+    "lng": 10.4438168
+  },
+  {
+    "title": "Agnethe Halgunset",
+    "address": "Sjukeheimsvegen 6, 6657 RINDAL",
+    "metadata": {
+      "legekontor": "Rindal Legekontor",
+      "tlf": "71 66 44 00",
+      "antallPlasser": 550
+    },
+    "lat": 63.055573,
+    "lng": 9.217015
+  },
+  {
+    "title": "Gunnhild Halgunset",
+    "address": "Megardsvegen 6A, 7320 FANNREM",
+    "metadata": {
+      "legekontor": "Fannrem legesenter",
+      "tlf": "72 48 65 40",
+      "antallPlasser": 900
+    },
+    "lat": 63.266312,
+    "lng": 9.814472
+  },
+  {
+    "title": "Magnus Kristinn Halldorsson",
+    "address": "Olav Tryggvasons Gate 24C, 7011 Trondheim",
+    "metadata": {
+      "legekontor": "Idungården Legesenter DA",
+      "tlf": "73 83 36 10",
+      "ledigePlasser": 218,
+      "antallPlasser": 1550,
+      "valgbar": true
+    },
+    "lat": 63.4332023,
+    "lng": 10.3946786
+  },
+  {
+    "title": "Elisabeth Kvelstad Hallem",
+    "address": "Haakon VII Alle 5, 7650 VERDAL",
+    "metadata": {
+      "legekontor": "Sentrum Legesenter",
+      "tlf": "901 69 418",
+      "antallPlasser": 400
+    },
+    "lat": 63.7941885,
+    "lng": 11.4829075
+  },
+  {
+    "title": "Ole Håkon Kvelstad Hallem",
+    "address": "Vennaliveien 5, 7670 INDERØY",
+    "metadata": {
+      "legekontor": "Inderøy Legesenter",
+      "tlf": "74 70 15 13",
+      "antallPlasser": 480
+    },
+    "lat": 63.8756,
+    "lng": 11.289185
+  },
+  {
+    "title": "Marlene Iversen Halvorsrød",
+    "address": "Vestre Rosten 79, 7075 TILLER",
+    "metadata": {
+      "legekontor": "MediSyd A/S",
+      "tlf": "72 88 77 55",
+      "antallPlasser": 900
+    },
+    "lat": 63.363886,
+    "lng": 10.372883
+  },
+  {
+    "title": "Imad Hamadeh",
+    "address": "Stasjonsvegen 1, 7630 Åsen",
+    "metadata": {
+      "legekontor": "Åsen Legekontor",
+      "tlf": "74 05 62 99",
+      "ledigePlasser": 10,
+      "antallPlasser": 1200,
+      "valgbar": true
+    },
+    "lat": 63.6102561,
+    "lng": 11.0516518
+  },
+  {
+    "title": "Henrik Richter Hammeren",
+    "address": "Falkenborgveien 35c, 7044 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Gildheim Legesenter",
+      "tlf": "73 18 61 86",
+      "antallPlasser": 1150
+    },
+    "lat": 63.434941,
+    "lng": 10.459307
+  },
+  {
+    "title": "Hilde Susanne Hansen",
+    "address": "Rådhusvegen 6, 7353 Børsa",
+    "metadata": {
+      "legekontor": "Skaun Legekontor AS",
+      "tlf": "72 86 73 00",
+      "antallPlasser": 1350
+    },
+    "lat": 63.32398,
+    "lng": 10.066249
+  },
+  {
+    "title": "John-Erik Hansen",
+    "address": "Bruarvegen 50, 7232 Lundamo",
+    "metadata": {
+      "legekontor": "Lundamo Legesenter",
+      "tlf": "72 85 27 70",
+      "ledigePlasser": 46,
+      "antallPlasser": 600,
+      "valgbar": true
+    },
+    "lat": 63.1520254,
+    "lng": 10.2852658
+  },
+  {
+    "title": "Liz-Iren Hansen",
+    "address": "Rådhusgata 6, 7530 MERÅKER",
+    "metadata": {
+      "legekontor": "Meråker legekontor",
+      "tlf": "74 81 33 30",
+      "ledigePlasser": 243,
+      "antallPlasser": 800,
+      "valgbar": true
+    },
+    "lat": 63.415109,
+    "lng": 11.748254
+  },
+  {
+    "title": "Ole Kristian Harsvik",
+    "address": "Orkdalsveien 58, 7300 Orkanger",
+    "metadata": {
+      "legekontor": "Orkanger Legesenter",
+      "tlf": "72 47 11 50",
+      "antallPlasser": 1450
+    },
+    "lat": 63.3050429,
+    "lng": 9.849584
+  },
+  {
+    "title": "Iselinn Hartmann",
+    "address": "Fløytarveien 3B, 7650 Verdal",
+    "metadata": {
+      "legekontor": "Stekke Legesenter",
+      "tlf": "995 89 200",
+      "antallPlasser": 800
+    },
+    "lat": 63.7908272,
+    "lng": 11.4774841
+  },
+  {
+    "title": "Helge Hatlevoll",
+    "address": "Rådhusvegen 6, 7353 Børsa",
+    "metadata": {
+      "legekontor": "Skaun Legekontor AS",
+      "tlf": "72 86 73 00",
+      "ledigePlasser": 31,
+      "antallPlasser": 1200,
+      "valgbar": true
+    },
+    "lat": 63.32398,
+    "lng": 10.066249
+  },
+  {
+    "title": "Anne Mikaela Hauffen",
+    "address": "Vestre Rosten 79, 7075 TILLER",
+    "metadata": {
+      "legekontor": "Sørbyen Legesenter",
+      "tlf": "72 59 20 00",
+      "antallPlasser": 950
+    },
+    "lat": 63.363886,
+    "lng": 10.372883
+  },
+  {
+    "title": "Hans Haugan",
+    "address": "Melhusvegen 505, 7224 MELHUS",
+    "metadata": {
+      "legekontor": "Melhus Legesenter AS",
+      "tlf": "72 87 70 00",
+      "antallPlasser": 1200
+    },
+    "lat": 63.283712,
+    "lng": 10.280216
+  },
+  {
+    "title": "Ragnhild Skipnes Haugen",
+    "address": "Bruarvegen 50, 7232 Lundamo",
+    "metadata": {
+      "legekontor": "Lundamo Legesenter",
+      "tlf": "72 85 27 70",
+      "antallPlasser": 950
+    },
+    "lat": 63.1520254,
+    "lng": 10.2852658
+  },
+  {
+    "title": "Wenche Haugen",
+    "address": "Olav Tryggvasons gate 35, 7011 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Edda Legesenter DA",
+      "tlf": "73 83 19 00",
+      "antallPlasser": 1100
+    },
+    "lat": 63.43312,
+    "lng": 10.395589
+  },
+  {
+    "title": "Arnstein Hegge",
+    "address": "Einar Bergs Veg 4, 7520 HEGRA",
+    "metadata": {
+      "legekontor": "Hegra Legekontor",
+      "tlf": "74 83 46 80",
+      "antallPlasser": 750
+    },
+    "lat": 63.46294,
+    "lng": 11.113956
+  },
+  {
+    "title": "Amalie Flåten Helgesen",
+    "address": "Christian Bloms veg 2A, 7058 CHARLOTTENLUND",
+    "metadata": {
+      "legekontor": "Charlottenlund Legesenter",
+      "tlf": "73 84 81 80",
+      "antallPlasser": 1200
+    },
+    "lat": 63.419194,
+    "lng": 10.483482
+  },
+  {
+    "title": "Realf Ording Helgesen",
+    "address": "Saxe Viks veg 4, 7562 SAKSVIK",
+    "metadata": {
+      "legekontor": "Saksvik Legekontor",
+      "tlf": "73 98 71 00",
+      "antallPlasser": 900
+    },
+    "lat": 63.4381183,
+    "lng": 10.604318
+  },
+  {
+    "title": "Frode Helland",
+    "address": "Selsbakkvegen 36b, 7027 Trondheim",
+    "metadata": {
+      "legekontor": "Hallset Legesenter AS",
+      "tlf": "72 55 71 60",
+      "antallPlasser": 1250
+    },
+    "lat": 63.394501,
+    "lng": 10.368786
+  },
+  {
+    "title": "Olav Mørkved Hellenes",
+    "address": "Nordre gate 6, 7011 Trondheim",
+    "metadata": {
+      "legekontor": "Midtbyen Legesenter AS",
+      "tlf": "73 92 38 80",
+      "antallPlasser": 1100
+    },
+    "lat": 63.431205,
+    "lng": 10.397434
+  },
+  {
+    "title": "Tonje Agnete Gravvold Helmersen",
+    "address": "Moafjæra 8C, 7606 Levanger",
+    "metadata": {
+      "legekontor": "Moan Legesenter",
+      "tlf": "74 60 44 40",
+      "antallPlasser": 850
+    },
+    "lat": 63.735913,
+    "lng": 11.280452
+  },
+  {
+    "title": "Maria Bjørngaard Hembre",
+    "address": "Breidablikkvegen 1, 7500 Stjørdal",
+    "metadata": {
+      "legekontor": "Stjørdal Legesenter",
+      "tlf": "74 80 44 00",
+      "antallPlasser": 900
+    },
+    "lat": 63.468707,
+    "lng": 10.931574
+  },
+  {
+    "title": "Ingebjørg Hermstad-Pedersen",
+    "address": "Erling Skakkesgt. 49B, 7012",
+    "metadata": {
+      "legekontor": "Kalvskinnet legesenter",
+      "tlf": "73 80 99 50",
+      "antallPlasser": 850
+    },
+    "lat": 63.4290355,
+    "lng": 10.3849156
+  },
+  {
+    "title": "Elisabeth Hetle",
+    "address": "Vegamot 8 B, 7049 Trondheim",
+    "metadata": {
+      "legekontor": "Strinda Legesenter AS",
+      "tlf": "73 98 40 10",
+      "antallPlasser": 1200
+    },
+    "lat": 63.4093566,
+    "lng": 10.4438168
+  },
+  {
+    "title": "Kamilla Kahn Heuch",
+    "address": "Ingeborg Aas veg 4, 7036 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Risvollan Legesenter AS",
+      "tlf": "73 84 48 80",
+      "antallPlasser": 1000
+    },
+    "lat": 63.391528,
+    "lng": 10.430585
+  },
+  {
+    "title": "Ingrid Edna Hildrum",
+    "address": "Helge Ingstadsvei 1, 7600 Levanger",
+    "metadata": {
+      "legekontor": "Røstad Legesenter",
+      "tlf": "74 08 50 50",
+      "antallPlasser": 650
+    },
+    "lat": 63.752125,
+    "lng": 11.311775
+  },
+  {
+    "title": "Anna Hummelvoll Hillestad",
+    "address": "Helsetunet 9, 7380 ÅLEN",
+    "metadata": {
+      "legekontor": "Holtålen Legekontor",
+      "tlf": "72 41 76 60",
+      "ledigePlasser": 91,
+      "antallPlasser": 700,
+      "valgbar": true
+    },
+    "lat": 62.8438593,
+    "lng": 11.2985867
+  },
+  {
+    "title": "Torunn Hilstad",
+    "address": "Ivar Lykkes veg 3, 7075 Tiller",
+    "metadata": {
+      "legekontor": "Tillertorget Legesenter AS",
+      "tlf": "72 90 07 01",
+      "antallPlasser": 1300
+    },
+    "lat": 63.3580652,
+    "lng": 10.3748349
+  },
+  {
+    "title": "Karl Ulvan Hilt",
+    "address": "Vikelvfaret 4, 7054 Ranheim",
+    "metadata": {
+      "legekontor": "Ranheim Legesenter",
+      "tlf": "73 82 58 00",
+      "antallPlasser": 1300
+    },
+    "lat": 63.421276,
+    "lng": 10.53616
+  },
+  {
+    "title": "Tonje Herre Hjelseng",
+    "address": "Helge Ingstadsvei 1, 7600 Levanger",
+    "metadata": {
+      "legekontor": "Røstad Legesenter",
+      "tlf": "74 08 50 50",
+      "antallPlasser": 800
+    },
+    "lat": 63.752125,
+    "lng": 11.311775
+  },
+  {
+    "title": "Mark Leonard Hof",
+    "address": "Årnsetveien 35, 7100 Rissa",
+    "metadata": {
+      "legekontor": "Indre Fosen Legetjeneste",
+      "tlf": "417 02 400",
+      "ledigePlasser": 95,
+      "antallPlasser": 1000,
+      "valgbar": true
+    },
+    "lat": 63.5868,
+    "lng": 9.958023
+  },
+  {
+    "title": "Morten Joakim Hofstad",
+    "address": "Canninggata 4, 7800 7800",
+    "metadata": {
+      "legekontor": "Robrygga Legekontor",
+      "tlf": "74 22 65 20",
+      "antallPlasser": 1300
+    },
+    "lat": 64.468016,
+    "lng": 11.485664
+  },
+  {
+    "title": "Eivind Viken Holand",
+    "address": "Steinkjersannan 5, 7713 STEINKJER",
+    "metadata": {
+      "legekontor": "Sannan Legesenter AS",
+      "tlf": "73 60 42 60",
+      "ledigePlasser": 47,
+      "antallPlasser": 1100,
+      "valgbar": true
+    },
+    "lat": 64.0093584,
+    "lng": 11.5024645
+  },
+  {
+    "title": "Malin Aasprong Holberg",
+    "address": "Ingeborg Aas veg 4, 7036 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Risvollan Legesenter AS",
+      "tlf": "73 84 48 80",
+      "antallPlasser": 1100
+    },
+    "lat": 63.391528,
+    "lng": 10.430585
+  },
+  {
+    "title": "Hans Bjørnar Hole",
+    "address": "Ressveien 55, 7336 Meldal",
+    "metadata": {
+      "legekontor": "Meldal Legekontor",
+      "tlf": "72 46 73 00",
+      "antallPlasser": 1000
+    },
+    "lat": 63.043552,
+    "lng": 9.721468
+  },
+  {
+    "title": "Ingvild Risan Hole",
+    "address": "Stasjonsveien 14, 7560 7560",
+    "metadata": {
+      "legekontor": "Vikhammer Legekontor DA",
+      "tlf": "73 97 35 00",
+      "antallPlasser": 750
+    },
+    "lat": 60.3161053,
+    "lng": 5.3492704
+  },
+  {
+    "title": "Haldor Tømmervik Holien",
+    "address": "Pinavegen 14, 7800 NAMSOS",
+    "metadata": {
+      "legekontor": "Østre Legesenter",
+      "tlf": "919 05 519",
+      "antallPlasser": 900
+    },
+    "lat": 64.4651378,
+    "lng": 11.5037535
+  },
+  {
+    "title": "Raymond Husby Hollund",
+    "address": "Melhusvegen 505, 7224 MELHUS",
+    "metadata": {
+      "legekontor": "Melhus Legesenter AS",
+      "tlf": "72 87 70 00",
+      "ledigePlasser": 8,
+      "antallPlasser": 800,
+      "valgbar": true
+    },
+    "lat": 63.283712,
+    "lng": 10.280216
+  },
+  {
+    "title": "Anne Kristin Holmes",
+    "address": "Helsetunveien 4, 7200 KYRKSÆTERØRA",
+    "metadata": {
+      "legekontor": "Heim Legesenter avd. Kyrksæterøra",
+      "tlf": "72 45 00 30",
+      "antallPlasser": 650
+    },
+    "lat": 63.288691,
+    "lng": 9.06465
+  },
+  {
+    "title": "Helene Charlotte Holmqvist",
+    "address": "Årnsetveien 35, 7100 Rissa",
+    "metadata": {
+      "legekontor": "Indre Fosen Legetjeneste",
+      "tlf": "417 02 400",
+      "ledigePlasser": 91,
+      "antallPlasser": 1120,
+      "valgbar": true
+    },
+    "lat": 63.5868,
+    "lng": 9.958023
+  },
+  {
+    "title": "Guri Holmvik",
+    "address": "Fløytarveien 3B, 7650 Verdal",
+    "metadata": {
+      "legekontor": "Stekke Legesenter",
+      "tlf": "995 89 200",
+      "antallPlasser": 1350
+    },
+    "lat": 63.7908272,
+    "lng": 11.4774841
+  },
+  {
+    "title": "Ghita Marit Holten-Lund",
+    "address": "Årnsetveien 35, 7100 Rissa",
+    "metadata": {
+      "legekontor": "Indre Fosen Legetjeneste",
+      "tlf": "417 02 400",
+      "antallPlasser": 600
+    },
+    "lat": 63.5868,
+    "lng": 9.958023
+  },
+  {
+    "title": "Ingeborg Hov",
+    "address": "Vestre Rosten 79, 7075 TILLER",
+    "metadata": {
+      "legekontor": "Sørbyen Legesenter",
+      "tlf": "72 59 20 00",
+      "antallPlasser": 1000
+    },
+    "lat": 63.363886,
+    "lng": 10.372883
+  },
+  {
+    "title": "Thuy-Vu Le Hovdahl",
+    "address": "Rørosveien 1, 7290 STØREN",
+    "metadata": {
+      "legekontor": "Midtre Gauldal legekontor",
+      "tlf": "72 43 03 20",
+      "antallPlasser": 930
+    },
+    "lat": 63.039709,
+    "lng": 10.286372
+  },
+  {
+    "title": "Per Anders Hoven",
+    "address": "Helge Ingstadsvei 1, 7600 Levanger",
+    "metadata": {
+      "legekontor": "Røstad Legesenter",
+      "tlf": "74 08 50 50",
+      "antallPlasser": 1000
+    },
+    "lat": 63.752125,
+    "lng": 11.311775
+  },
+  {
+    "title": "Per Husby",
+    "address": "Vollabakken 3, 7030 Trondheim",
+    "metadata": {
+      "legekontor": "Din Doktor",
+      "tlf": "73 98 28 80",
+      "ledigePlasser": 21,
+      "antallPlasser": 1300,
+      "valgbar": true
+    },
+    "lat": 63.4239218,
+    "lng": 10.4019983
+  },
+  {
+    "title": "Hanne Svardal Huus",
+    "address": "Helsetunet 9, 7380 ÅLEN",
+    "metadata": {
+      "legekontor": "Holtålen Legekontor",
+      "tlf": "72 41 76 60",
+      "ledigePlasser": 112,
+      "antallPlasser": 700,
+      "valgbar": true
+    },
+    "lat": 62.8438593,
+    "lng": 11.2985867
+  },
+  {
+    "title": "Carine Hyll",
+    "address": "Vollabakken 3, 7030 Trondheim",
+    "metadata": {
+      "legekontor": "Din Doktor",
+      "tlf": "73 98 28 80",
+      "antallPlasser": 1000
+    },
+    "lat": 63.4239218,
+    "lng": 10.4019983
+  },
+  {
+    "title": "Olaug Høiberget",
+    "address": "Parkvegen 1 A, 7500 Stjørdal",
+    "metadata": {
+      "legekontor": "Triangel Legesenter",
+      "tlf": "465 00 900",
+      "antallPlasser": 1000
+    },
+    "lat": 63.468268,
+    "lng": 10.917549
+  },
+  {
+    "title": "Petter Andreas Høisen",
+    "address": "Stasjonsveien 14, 7560 7560",
+    "metadata": {
+      "legekontor": "Vikhammer Legekontor DA",
+      "tlf": "73 97 35 00",
+      "antallPlasser": 900
+    },
+    "lat": 60.3161053,
+    "lng": 5.3492704
+  },
+  {
+    "title": "Ketil Rygg Haanæs",
+    "address": "Vestre Rosten 77, 7075 TILLER",
+    "metadata": {
+      "legekontor": "Fokus legesenter",
+      "tlf": "72 59 45 00",
+      "antallPlasser": 970
+    },
+    "lat": 63.362539,
+    "lng": 10.3719311
+  },
+  {
+    "title": "Tina Reppe Haave",
+    "address": "Hans Baucks veg 1, 7033 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Nardosletta legesenter",
+      "tlf": "73 82 10 40",
+      "antallPlasser": 900
+    },
+    "lat": 63.4030121,
+    "lng": 10.4276364
+  },
+  {
+    "title": "Minke Mariette In 'T Velt",
+    "address": "Russervegen 5A, 7340 OPPDAL",
+    "metadata": {
+      "legekontor": "Oppdal Legesenter",
+      "tlf": "72 40 01 00",
+      "antallPlasser": 750
+    },
+    "lat": 62.594377,
+    "lng": 9.684029
+  },
+  {
+    "title": "Svenn Morten Iversen",
+    "address": "Canninggata 4, 7800 7800",
+    "metadata": {
+      "legekontor": "Robrygga Legekontor",
+      "tlf": "74 22 65 20",
+      "antallPlasser": 720
+    },
+    "lat": 64.468016,
+    "lng": 11.485664
+  },
+  {
+    "title": "Selma Jayaseela",
+    "address": "Stordalsveien 4 A, 7170 ÅFJORD",
+    "metadata": {
+      "legekontor": "Åfjord Legetjeneste",
+      "tlf": "72 53 02 00",
+      "antallPlasser": 1000
+    },
+    "lat": 63.960707,
+    "lng": 10.227979
+  },
+  {
+    "title": "Ane Karoline Slettbakk Jensen",
+    "address": "Skolegata 9, 7130 BREKSTAD",
+    "metadata": {
+      "legekontor": "Ørland/Bjugn Legetjeneste (Legekontor)",
+      "tlf": "72 51 41 00",
+      "antallPlasser": 800
+    },
+    "lat": 63.685591,
+    "lng": 9.655906
+  },
+  {
+    "title": "Mads Stene Johannessen",
+    "address": "Falkenborgveien 35c, 7044 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Gildheim Legesenter",
+      "tlf": "73 18 61 86",
+      "antallPlasser": 1100
+    },
+    "lat": 63.434941,
+    "lng": 10.459307
+  },
+  {
+    "title": "Bjørg Jordet",
+    "address": "Høvdingveien 10, 7725 Steinkjer",
+    "metadata": {
+      "legekontor": "Høvdinggården Legekontor",
+      "tlf": "74 14 12 50",
+      "ledigePlasser": 4,
+      "antallPlasser": 1000,
+      "valgbar": true
+    },
+    "lat": 64.0238545,
+    "lng": 11.4813835
+  },
+  {
+    "title": "Peter Dietrich Jost",
+    "address": "Øvre Møllenberg 61/63, 7043 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Møllenberg Legesenter",
+      "tlf": "73 80 87 70",
+      "ledigePlasser": 30,
+      "antallPlasser": 1100,
+      "valgbar": true
+    },
+    "lat": 63.4344321,
+    "lng": 10.4201786
+  },
+  {
+    "title": "Kristine Hatling Jystad",
+    "address": "Steinkjersannan 5, 7713 STEINKJER",
+    "metadata": {
+      "legekontor": "Sannan Legesenter AS",
+      "tlf": "73 60 42 60",
+      "antallPlasser": 650
+    },
+    "lat": 64.0093584,
+    "lng": 11.5024645
+  },
+  {
+    "title": "Anne Jølle",
+    "address": "Saxe Viks veg 4, 7562 SAKSVIK",
+    "metadata": {
+      "legekontor": "Saksvik Legekontor",
+      "tlf": "73 98 71 00",
+      "antallPlasser": 850
+    },
+    "lat": 63.4381183,
+    "lng": 10.604318
+  },
+  {
+    "title": "Pål Jørgensen",
+    "address": "Øvre Møllenberg 61/63, 7043 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Møllenberg Legesenter",
+      "tlf": "73 80 87 70",
+      "ledigePlasser": 5,
+      "antallPlasser": 1300,
+      "valgbar": true
+    },
+    "lat": 63.4344321,
+    "lng": 10.4201786
+  },
+  {
+    "title": "Berit Aarnes Jørstad",
+    "address": "Rådhusgata 6, 7530 MERÅKER",
+    "metadata": {
+      "legekontor": "Meråker legekontor",
+      "tlf": "74 81 33 30",
+      "ledigePlasser": 288,
+      "antallPlasser": 800,
+      "valgbar": true
+    },
+    "lat": 63.415109,
+    "lng": 11.748254
+  },
+  {
+    "title": "Ivar Morten Jørum",
+    "address": "Skatvalsvegen 126, 7510 SKATVAL",
+    "metadata": {
+      "legekontor": "Skatval Legekontor",
+      "tlf": "74 83 19 90",
+      "antallPlasser": 1000
+    },
+    "lat": 63.509318,
+    "lng": 10.8285339
+  },
+  {
+    "title": "Roger Kahn",
+    "address": "Ilevollen 50, 7018 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Ila Legesenter DA",
+      "tlf": "73 51 11 24",
+      "antallPlasser": 1000
+    },
+    "lat": 63.4282995,
+    "lng": 10.3673652
+  },
+  {
+    "title": "Marius Kaland",
+    "address": "Henrik Grønnsvei 25, 7374 RØROS",
+    "metadata": {
+      "legekontor": "Røros Legesenter",
+      "tlf": "72 41 94 80",
+      "antallPlasser": 800
+    },
+    "lat": 62.5771342,
+    "lng": 11.3786766
+  },
+  {
+    "title": "Maris Kalling",
+    "address": "Skolegata 9, 7130 BREKSTAD",
+    "metadata": {
+      "legekontor": "Ørland/Bjugn Legetjeneste (Legekontor)",
+      "tlf": "72 51 41 00",
+      "antallPlasser": 770
+    },
+    "lat": 63.685591,
+    "lng": 9.655906
+  },
+  {
+    "title": "Christine Karlsen",
+    "address": "Innherredsveien 7, 7014 Trondheim",
+    "metadata": {
+      "legekontor": "Solsiden Legesenter AS",
+      "tlf": "23 89 10 87",
+      "antallPlasser": 800
+    },
+    "lat": 63.4339571,
+    "lng": 10.4137391
+  },
+  {
+    "title": "Sunniva Nyberg Karlsen",
+    "address": "Tangenveien 5, 7651 Verdal",
+    "metadata": {
+      "legekontor": "Ørmelen Legesenter",
+      "tlf": "74 07 52 70",
+      "antallPlasser": 800
+    },
+    "lat": 63.7887843,
+    "lng": 11.4687497
+  },
+  {
+    "title": "Katrin Ulrike Katschinski",
+    "address": "Stallbakksvingen 2, 7760 SNÅSA",
+    "metadata": {
+      "legekontor": "Snåsa Legekontor",
+      "tlf": "74 13 83 50",
+      "ledigePlasser": 61,
+      "antallPlasser": 650,
+      "valgbar": true
+    },
+    "lat": 64.245435,
+    "lng": 12.372126
+  },
+  {
+    "title": "Martin Width Kielland",
+    "address": "Fergemannsvegen 6, 7863 Overhalla",
+    "metadata": {
+      "legekontor": "Overhalla legekontor",
+      "tlf": "74 28 03 00",
+      "antallPlasser": 500
+    },
+    "lat": 64.484435,
+    "lng": 11.9594028
+  },
+  {
+    "title": "Ole Dybro Kjeldsen",
+    "address": "Gjelbakken 15, 7580 SELBU",
+    "metadata": {
+      "legekontor": "Legekontoret i Selbu",
+      "tlf": "73 81 68 25",
+      "antallPlasser": 1000
+    },
+    "lat": 63.217788,
+    "lng": 11.039243
+  },
+  {
+    "title": "Marthe Kjeldstad",
+    "address": "Harald Hårfagresgate 2, 7041 Trondheim",
+    "metadata": {
+      "legekontor": "Ringve Legesenter",
+      "tlf": "73 58 50 30",
+      "antallPlasser": 1350
+    },
+    "lat": 63.4440653,
+    "lng": 10.4492614
+  },
+  {
+    "title": "Ingvild Kjesbu",
+    "address": "Stokmovegen 2, 7500 Stjørdal",
+    "metadata": {
+      "legekontor": "Torget legekontor Stjørdal AS",
+      "tlf": "74 80 40 00",
+      "antallPlasser": 1000
+    },
+    "lat": 63.4687715,
+    "lng": 10.924266
+  },
+  {
+    "title": "Magnus Tølløv Kjøbli",
+    "address": "Fyrgata 3, 7725 STEINKJER",
+    "metadata": {
+      "legekontor": "Fyrgata Legekontor AS",
+      "tlf": "74 17 12 10",
+      "antallPlasser": 900
+    },
+    "lat": 64.011946,
+    "lng": 11.487499
+  },
+  {
+    "title": "Ellen Judith Kjølstad",
+    "address": "Christian Bloms veg 2A, 7058 CHARLOTTENLUND",
+    "metadata": {
+      "legekontor": "Charlottenlund Legesenter",
+      "tlf": "73 84 81 80",
+      "antallPlasser": 900
+    },
+    "lat": 63.419194,
+    "lng": 10.483482
+  },
+  {
+    "title": "Kristin Lamvik Kjørholt",
+    "address": "Hans Baucks veg 1, 7033 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Nardosletta legesenter",
+      "tlf": "73 82 10 40",
+      "antallPlasser": 1000
+    },
+    "lat": 63.4030121,
+    "lng": 10.4276364
+  },
+  {
+    "title": "Sara Klefsås",
+    "address": "Parkvegen 1 A, 7500 Stjørdal",
+    "metadata": {
+      "legekontor": "Triangel Legesenter",
+      "tlf": "465 00 900",
+      "antallPlasser": 1000
+    },
+    "lat": 63.468268,
+    "lng": 10.917549
+  },
+  {
+    "title": "Kristoffer Bolt-Hansen Klonteig",
+    "address": "Vennaliveien 5, 7670 INDERØY",
+    "metadata": {
+      "legekontor": "Inderøy Legesenter",
+      "tlf": "74 70 15 13",
+      "antallPlasser": 800
+    },
+    "lat": 63.8756,
+    "lng": 11.289185
+  },
+  {
+    "title": "Kjetil Sørdal Klungre",
+    "address": "Kirkegata 1 A, 7600 LEVANGER",
+    "metadata": {
+      "legekontor": "Kirkegata Legesenter AS",
+      "antallPlasser": 1100
+    },
+    "lat": 63.7431148,
+    "lng": 11.2882422
+  },
+  {
+    "title": "Mats Erik Klæbu",
+    "address": "Haakon VII Alle 5, 7650 VERDAL",
+    "metadata": {
+      "legekontor": "Sentrum Legesenter",
+      "tlf": "901 69 418",
+      "antallPlasser": 700
+    },
+    "lat": 63.7941885,
+    "lng": 11.4829075
+  },
+  {
+    "title": "Erik Knoph",
+    "address": "Vennaliveien 5, 7670 INDERØY",
+    "metadata": {
+      "legekontor": "Inderøy Legesenter",
+      "tlf": "74 70 15 13",
+      "antallPlasser": 880
+    },
+    "lat": 63.8756,
+    "lng": 11.289185
+  },
+  {
+    "title": "Jøran Kokvold",
+    "address": "Stordalsveien 4 A, 7170 ÅFJORD",
+    "metadata": {
+      "legekontor": "Åfjord Legetjeneste",
+      "tlf": "72 53 02 00",
+      "ledigePlasser": 33,
+      "antallPlasser": 1100,
+      "valgbar": true
+    },
+    "lat": 63.960707,
+    "lng": 10.227979
+  },
+  {
+    "title": "Julie Austmo Kolstad",
+    "address": "Seilmakergata 10, 7725 STEINKJER",
+    "metadata": {
+      "legekontor": "Elvebredden legekontor",
+      "tlf": "74 16 24 00",
+      "antallPlasser": 740
+    },
+    "lat": 64.013348,
+    "lng": 11.479886
+  },
+  {
+    "title": "Bent Korssjøen",
+    "address": "Vestre Rosten 79, 7075 TILLER",
+    "metadata": {
+      "legekontor": "MediSyd A/S",
+      "tlf": "72 88 77 55",
+      "ledigePlasser": 51,
+      "antallPlasser": 1500,
+      "valgbar": true
+    },
+    "lat": 63.363886,
+    "lng": 10.372883
+  },
+  {
+    "title": "Ingrid Korssjøen",
+    "address": "Steinkjersannan 5, 7713 STEINKJER",
+    "metadata": {
+      "legekontor": "Sannan Legesenter AS",
+      "tlf": "73 60 42 60",
+      "antallPlasser": 1500
+    },
+    "lat": 64.0093584,
+    "lng": 11.5024645
+  },
+  {
+    "title": "Antanas Kraniauskas",
+    "address": "Harald Grønningensvei 22, 7316 LENSVIK",
+    "metadata": {
+      "legekontor": "Agdenes Legekontor",
+      "tlf": "72 46 73 00",
+      "antallPlasser": 1100
+    },
+    "lat": 63.506466,
+    "lng": 9.828478
+  },
+  {
+    "title": "June Slåli Kristiansen",
+    "address": "Steinkjersannan 5, 7713 STEINKJER",
+    "metadata": {
+      "legekontor": "Sannan Legesenter AS",
+      "tlf": "73 60 42 60",
+      "antallPlasser": 650
+    },
+    "lat": 64.0093584,
+    "lng": 11.5024645
+  },
+  {
+    "title": "Skjalg Kristiansen",
+    "address": "Bråmyra 4B, 7074 Spongdal",
+    "metadata": {
+      "legekontor": "Byneset Legekontor",
+      "tlf": "469 68 727",
+      "antallPlasser": 1035
+    },
+    "lat": 63.3559355,
+    "lng": 10.1626318
+  },
+  {
+    "title": "Hanna Helgetun Krogh",
+    "address": "Erling Skakkesgt. 49B, 7012",
+    "metadata": {
+      "legekontor": "Kalvskinnet legesenter",
+      "tlf": "73 80 99 50",
+      "antallPlasser": 900
+    },
+    "lat": 63.4290355,
+    "lng": 10.3849156
+  },
+  {
+    "title": "Martin Hegge Krogstad",
+    "address": "Sverres gate 23, 7800 NAMSOS",
+    "metadata": {
+      "legekontor": "Bakklandet legekontor",
+      "tlf": "74 20 90 40",
+      "antallPlasser": 800
+    },
+    "lat": 64.4678547,
+    "lng": 11.493618
+  },
+  {
+    "title": "Ingrid Rushfeldt Krüger",
+    "address": "Haakon VIIs gate 27, 7041 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Leangen Legesenter",
+      "tlf": "73 51 77 13",
+      "antallPlasser": 1000
+    },
+    "lat": 63.438774,
+    "lng": 10.463933
+  },
+  {
+    "title": "Julia Bogacheva Kvaløy",
+    "address": "Nøkkrosevegen 2, 7970 Kolvereid",
+    "metadata": {
+      "legekontor": "Nærøysund Legekontor",
+      "tlf": "948 12 953",
+      "antallPlasser": 800
+    },
+    "lat": 64.8647037,
+    "lng": 11.6027053
+  },
+  {
+    "title": "Esten Kvello",
+    "address": "Vegamot 8 B, 7049 Trondheim",
+    "metadata": {
+      "legekontor": "Strinda Legesenter AS",
+      "tlf": "73 98 40 10",
+      "ledigePlasser": 8,
+      "antallPlasser": 1200,
+      "valgbar": true
+    },
+    "lat": 63.4093566,
+    "lng": 10.4438168
+  },
+  {
+    "title": "Kaia Kvisterø",
+    "address": "Pinavegen 14, 7800 NAMSOS",
+    "metadata": {
+      "legekontor": "Østre Legesenter",
+      "tlf": "919 05 519",
+      "antallPlasser": 600
+    },
+    "lat": 64.4651378,
+    "lng": 11.5037535
+  },
+  {
+    "title": "Birgitte Kvaal",
+    "address": "Wessels Veg 95, 7502",
+    "metadata": {
+      "legekontor": "Tangen Legekontor",
+      "tlf": "74 82 35 00",
+      "antallPlasser": 1100
+    },
+    "lat": 63.4734665,
+    "lng": 10.9014559
+  },
+  {
+    "title": "Lars Øyvind Kvaale",
+    "address": "Vikaholmveien 2, 7240 HITRA",
+    "metadata": {
+      "legekontor": "Hitra legekontor",
+      "tlf": "72 44 42 42",
+      "antallPlasser": 1200
+    },
+    "lat": 63.6021551,
+    "lng": 8.9796618
+  },
+  {
+    "title": "Cecilie Køste",
+    "address": "Melhusvegen 505, 7224 MELHUS",
+    "metadata": {
+      "legekontor": "Melhus Legesenter AS",
+      "tlf": "72 87 70 00",
+      "antallPlasser": 1200
+    },
+    "lat": 63.283712,
+    "lng": 10.280216
+  },
+  {
+    "title": "Aaste Kaasa",
+    "address": "Vollabakken 3, 7030 Trondheim",
+    "metadata": {
+      "legekontor": "Din Doktor",
+      "tlf": "73 98 28 80",
+      "antallPlasser": 1100
+    },
+    "lat": 63.4239218,
+    "lng": 10.4019983
+  },
+  {
+    "title": "Erik Stein Kaasbøll",
+    "address": "Årnsetveien 35, 7100 Rissa",
+    "metadata": {
+      "legekontor": "Indre Fosen Legetjeneste",
+      "tlf": "417 02 400",
+      "ledigePlasser": 14,
+      "antallPlasser": 1000,
+      "valgbar": true
+    },
+    "lat": 63.5868,
+    "lng": 9.958023
+  },
+  {
+    "title": "Helle Kristine L'Abée-Lund",
+    "address": "Richard Birkelands veg 5, 7034 Trondheim",
+    "metadata": {
+      "legekontor": "Gløshaugen legesenter AS",
+      "tlf": "400 01 223",
+      "antallPlasser": 1000
+    },
+    "lat": 63.415693,
+    "lng": 10.4109041
+  },
+  {
+    "title": "Maria Michaela Lahner",
+    "address": "Navarvegen 19, 7820 SPILLUM",
+    "metadata": {
+      "legekontor": "Namsen Legesenter",
+      "tlf": "74 21 80 80",
+      "ledigePlasser": 7,
+      "antallPlasser": 1310,
+      "valgbar": true
+    },
+    "lat": 64.459991,
+    "lng": 11.541966
+  },
+  {
+    "title": "Inga Skeie Lambine",
+    "address": "Helsetunet 9, 7380 ÅLEN",
+    "metadata": {
+      "legekontor": "Holtålen Legekontor",
+      "tlf": "72 41 76 60",
+      "ledigePlasser": 136,
+      "antallPlasser": 700,
+      "valgbar": true
+    },
+    "lat": 62.8438593,
+    "lng": 11.2985867
+  },
+  {
+    "title": "Arnulf Langhammer",
+    "address": "Høvdingveien 10, 7725 Steinkjer",
+    "metadata": {
+      "legekontor": "Høvdinggården Legekontor",
+      "tlf": "74 14 12 50",
+      "ledigePlasser": 57,
+      "antallPlasser": 700,
+      "valgbar": true
+    },
+    "lat": 64.0238545,
+    "lng": 11.4813835
+  },
+  {
+    "title": "Nina Maria Farstad Langlo",
+    "address": "Stasjonsveien 14, 7560 7560",
+    "metadata": {
+      "legekontor": "Vikhammer Legekontor DA",
+      "tlf": "73 97 35 00",
+      "antallPlasser": 875
+    },
+    "lat": 60.3161053,
+    "lng": 5.3492704
+  },
+  {
+    "title": "Marianne Langøygard",
+    "address": "Helge Ingstadsvei 1, 7600 Levanger",
+    "metadata": {
+      "legekontor": "Røstad Legesenter",
+      "tlf": "74 08 50 50",
+      "antallPlasser": 1000
+    },
+    "lat": 63.752125,
+    "lng": 11.311775
+  },
+  {
+    "title": "Marcin Lapinski",
+    "address": "Sørveien 17b, Kysthaven, 7260 Sistranda",
+    "metadata": {
+      "legekontor": "Frøya Legekontor",
+      "tlf": "72 44 70 80",
+      "antallPlasser": 1000
+    },
+    "lat": 63.7301981,
+    "lng": 8.8297021
+  },
+  {
+    "title": "Jan Laugen",
+    "address": "Canninggata 4, 7800 7800",
+    "metadata": {
+      "legekontor": "Robrygga Legekontor",
+      "tlf": "74 22 65 20",
+      "antallPlasser": 950
+    },
+    "lat": 64.468016,
+    "lng": 11.485664
+  },
+  {
+    "title": "Kristin Lauglo",
+    "address": "Bruarvegen 50, 7232 Lundamo",
+    "metadata": {
+      "legekontor": "Lundamo Legesenter",
+      "tlf": "72 85 27 70",
+      "antallPlasser": 1040
+    },
+    "lat": 63.1520254,
+    "lng": 10.2852658
+  },
+  {
+    "title": "Sølvi Ledahl",
+    "address": "Erling Skakkesgt. 49B, 7012",
+    "metadata": {
+      "legekontor": "Kalvskinnet legesenter",
+      "tlf": "73 80 99 50",
+      "antallPlasser": 1000
+    },
+    "lat": 63.4290355,
+    "lng": 10.3849156
+  },
+  {
+    "title": "Sara Leirfall",
+    "address": "Falkenborgveien 35c, 7044 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Gildheim Legesenter",
+      "tlf": "73 18 61 86",
+      "antallPlasser": 1050
+    },
+    "lat": 63.434941,
+    "lng": 10.459307
+  },
+  {
+    "title": "Hermann Leithe",
+    "address": "Moafjæra 8C, 7606 Levanger",
+    "metadata": {
+      "legekontor": "Moan Legesenter",
+      "tlf": "74 60 44 40",
+      "antallPlasser": 725
+    },
+    "lat": 63.735913,
+    "lng": 11.280452
+  },
+  {
+    "title": "Stein Kristian Lereim",
+    "address": "Ingeborg Aas veg 4, 7036 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Risvollan Legesenter AS",
+      "tlf": "73 84 48 80",
+      "antallPlasser": 1100
+    },
+    "lat": 63.391528,
+    "lng": 10.430585
+  },
+  {
+    "title": "Lars Christian Naterstad Lervik",
+    "address": "Selsbakkvegen 36b, 7027 Trondheim",
+    "metadata": {
+      "legekontor": "Hallset Legesenter AS",
+      "tlf": "72 55 71 60",
+      "ledigePlasser": 3,
+      "antallPlasser": 900,
+      "valgbar": true
+    },
+    "lat": 63.394501,
+    "lng": 10.368786
+  },
+  {
+    "title": "Nils Ivar Løvendahl Leraand",
+    "address": "Skatvalsvegen 126, 7510 SKATVAL",
+    "metadata": {
+      "legekontor": "Skatval Legekontor",
+      "tlf": "74 83 19 90",
+      "antallPlasser": 1000
+    },
+    "lat": 63.509318,
+    "lng": 10.8285339
+  },
+  {
+    "title": "Mette Leth-Olsen",
+    "address": "Glåmsmyrveien 23, 6683 Vågland",
+    "metadata": {
+      "legekontor": "Halsa Legekontor",
+      "tlf": "71 55 96 50",
+      "ledigePlasser": 7,
+      "antallPlasser": 800,
+      "valgbar": true
+    },
+    "lat": 63.1184718,
+    "lng": 8.3120264
+  },
+  {
+    "title": "Oda Lian",
+    "address": "Rørosveien 1, 7290 STØREN",
+    "metadata": {
+      "legekontor": "Midtre Gauldal legekontor",
+      "tlf": "72 43 03 20",
+      "antallPlasser": 600
+    },
+    "lat": 63.039709,
+    "lng": 10.286372
+  },
+  {
+    "title": "Jeanette Lien",
+    "address": "Fergemannsvegen 6, 7863 Overhalla",
+    "metadata": {
+      "legekontor": "Overhalla legekontor",
+      "tlf": "74 28 03 00",
+      "antallPlasser": 800
+    },
+    "lat": 64.484435,
+    "lng": 11.9594028
+  },
+  {
+    "title": "Kristina Lien",
+    "address": "Russervegen 5A, 7340 OPPDAL",
+    "metadata": {
+      "legekontor": "Oppdal Legesenter",
+      "tlf": "72 40 01 00",
+      "antallPlasser": 838
+    },
+    "lat": 62.594377,
+    "lng": 9.684029
+  },
+  {
+    "title": "Anne Mette Lieng",
+    "address": "Ringvålvegen 5, 7080 Heimdal",
+    "metadata": {
+      "legekontor": "Heimdal Medisinske Senter",
+      "tlf": "72 59 45 50",
+      "antallPlasser": 900
+    },
+    "lat": 63.3517455,
+    "lng": 10.3544485
+  },
+  {
+    "title": "Trond Erling Lieng",
+    "address": "Dalgårdveien 1, 7024",
+    "metadata": {
+      "legekontor": "Dalgård Legesenter DA",
+      "tlf": "72 56 70 00",
+      "antallPlasser": 900
+    },
+    "lat": 63.3950255,
+    "lng": 10.3376118
+  },
+  {
+    "title": "Anita Lilleberg",
+    "address": "Statsråd Kroghs vei 15C, 7021 Trondheim",
+    "metadata": {
+      "legekontor": "Havstein Legesenter",
+      "tlf": "72 56 03 00",
+      "antallPlasser": 1100
+    },
+    "lat": 63.4104419,
+    "lng": 10.3647978
+  },
+  {
+    "title": "Anniken Lindgjerdet",
+    "address": "Hans Baucks veg 1, 7033 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Nardosletta legesenter",
+      "tlf": "73 82 10 40",
+      "antallPlasser": 1000
+    },
+    "lat": 63.4030121,
+    "lng": 10.4276364
+  },
+  {
+    "title": "Liv Agnes Gravrok Lorch-Falch",
+    "address": "Haakon VIIs gate 9, 7041 Trondheim",
+    "metadata": {
+      "legekontor": "Lade Legesenter AS",
+      "tlf": "73 92 01 55",
+      "antallPlasser": 1400
+    },
+    "lat": 63.444122,
+    "lng": 10.448084
+  },
+  {
+    "title": "Sharon Lovett",
+    "address": "Prinsens gt 1 A, Statens Hus, 7011 Trondheim",
+    "metadata": {
+      "legekontor": "Øya Legesenter",
+      "tlf": "72 54 38 60",
+      "antallPlasser": 450
+    },
+    "lat": 63.4322408,
+    "lng": 10.3967299
+  },
+  {
+    "title": "Leticia Lucas Bernal",
+    "address": "Sørveien 17b, Kysthaven, 7260 Sistranda",
+    "metadata": {
+      "legekontor": "Frøya Legekontor",
+      "tlf": "72 44 70 80",
+      "antallPlasser": 800
+    },
+    "lat": 63.7301981,
+    "lng": 8.8297021
+  },
+  {
+    "title": "Hanne Seljeli Ludvigsen",
+    "address": "Prinsens gt 1 A, Statens Hus, 7011 Trondheim",
+    "metadata": {
+      "legekontor": "Øya Legesenter",
+      "tlf": "72 54 38 60",
+      "antallPlasser": 150
+    },
+    "lat": 63.4322408,
+    "lng": 10.3967299
+  },
+  {
+    "title": "Janne Svinndal Lundbom",
+    "address": "Øyavegen 19, 7550 HOMMELVIK",
+    "metadata": {
+      "legekontor": "Hommelvik Legekontor DA",
+      "tlf": "73 97 21 00",
+      "antallPlasser": 900
+    },
+    "lat": 63.4121489,
+    "lng": 10.8036361
+  },
+  {
+    "title": "Tone Lundeby",
+    "address": "Statsråd Kroghs vei 15C, 7021 Trondheim",
+    "metadata": {
+      "legekontor": "Havstein Legesenter",
+      "tlf": "72 56 03 00",
+      "antallPlasser": 850
+    },
+    "lat": 63.4104419,
+    "lng": 10.3647978
+  },
+  {
+    "title": "Halvor Lundgaard",
+    "address": "Ringvålvegen 5, 7080 Heimdal",
+    "metadata": {
+      "legekontor": "Heimdal Medisinske Senter",
+      "tlf": "72 59 45 50",
+      "antallPlasser": 1000
+    },
+    "lat": 63.3517455,
+    "lng": 10.3544485
+  },
+  {
+    "title": "Bjørn Lyngen",
+    "address": "Rørosveien 1, 7290 STØREN",
+    "metadata": {
+      "legekontor": "Midtre Gauldal legekontor",
+      "tlf": "72 43 03 20",
+      "antallPlasser": 600
+    },
+    "lat": 63.039709,
+    "lng": 10.286372
+  },
+  {
+    "title": "Are Løset",
+    "address": "Smistadvegen 11, 7026 Trondheim",
+    "metadata": {
+      "legekontor": "Granåsen Legesenter AS",
+      "tlf": "73 18 65 30",
+      "antallPlasser": 1000
+    },
+    "lat": 63.3762253,
+    "lng": 10.3127707
+  },
+  {
+    "title": "Birgitta Florentine Løthman",
+    "address": "Rådhusveien17, 7740 STEINSDALEN",
+    "metadata": {
+      "legekontor": "Osen legekontor",
+      "tlf": "72 57 82 80",
+      "ledigePlasser": 532,
+      "antallPlasser": 1500,
+      "valgbar": true
+    },
+    "lat": 64.2371593,
+    "lng": 10.6586645
+  },
+  {
+    "title": "Ole Christen Løvli",
+    "address": "Ingeborg Aas veg 4, 7036 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Risvollan Legesenter AS",
+      "tlf": "73 84 48 80",
+      "antallPlasser": 1280
+    },
+    "lat": 63.391528,
+    "lng": 10.430585
+  },
+  {
+    "title": "Ina Løvlihaugen",
+    "address": "Moholt Allmenning 3, 7050 Trondheim",
+    "metadata": {
+      "legekontor": "Moholt legesenter AS",
+      "tlf": "950 04 420",
+      "antallPlasser": 1000
+    },
+    "lat": 63.4113331,
+    "lng": 10.4333493
+  },
+  {
+    "title": "Liv Løvaas",
+    "address": "Vegamot 8 B, 7049 Trondheim",
+    "metadata": {
+      "legekontor": "Strinda Legesenter AS",
+      "tlf": "73 98 40 10",
+      "antallPlasser": 1100
+    },
+    "lat": 63.4093566,
+    "lng": 10.4438168
+  },
+  {
+    "title": "Else Rita Malcolmsen",
+    "address": "Helsetunveien 4, 7200 KYRKSÆTERØRA",
+    "metadata": {
+      "legekontor": "Heim Legesenter avd. Kyrksæterøra",
+      "tlf": "72 45 00 30",
+      "antallPlasser": 850
+    },
+    "lat": 63.288691,
+    "lng": 9.06465
+  },
+  {
+    "title": "Stine Malvik",
+    "address": "Innherredsveien 7, 7014 Trondheim",
+    "metadata": {
+      "legekontor": "Solsiden Legesenter AS",
+      "tlf": "23 89 10 87",
+      "antallPlasser": 850
+    },
+    "lat": 63.4339571,
+    "lng": 10.4137391
+  },
+  {
+    "title": "Adem Mandzuka",
+    "address": "Orkdalsveien 58, 7300 Orkanger",
+    "metadata": {
+      "legekontor": "Orkanger Legesenter",
+      "tlf": "72 47 11 50",
+      "antallPlasser": 1150
+    },
+    "lat": 63.3050429,
+    "lng": 9.849584
+  },
+  {
+    "title": "Smail Mandzuka",
+    "address": "Rådhusvegen 6, 7353 Børsa",
+    "metadata": {
+      "legekontor": "Skaun Legekontor AS",
+      "tlf": "72 86 73 00",
+      "ledigePlasser": 39,
+      "antallPlasser": 1050,
+      "valgbar": true
+    },
+    "lat": 63.32398,
+    "lng": 10.066249
+  },
+  {
+    "title": "Tobias Resell Martens",
+    "address": "Vegamot 8 B, 7049 Trondheim",
+    "metadata": {
+      "legekontor": "Strinda Legesenter AS",
+      "tlf": "73 98 40 10",
+      "ledigePlasser": 14,
+      "antallPlasser": 1200,
+      "valgbar": true
+    },
+    "lat": 63.4093566,
+    "lng": 10.4438168
+  },
+  {
+    "title": "Rolf Kristian Mathisen",
+    "address": "Russervegen 5A, 7340 OPPDAL",
+    "metadata": {
+      "legekontor": "Oppdal Legesenter",
+      "tlf": "72 40 01 00",
+      "antallPlasser": 850
+    },
+    "lat": 62.594377,
+    "lng": 9.684029
+  },
+  {
+    "title": "Lars Olav Bondahl Mehl",
+    "address": "Henrik Grønnsvei 25, 7374 RØROS",
+    "metadata": {
+      "legekontor": "Røros Legesenter",
+      "tlf": "72 41 94 80",
+      "antallPlasser": 800
+    },
+    "lat": 62.5771342,
+    "lng": 11.3786766
+  },
+  {
+    "title": "Ole Christian Khosla Mehlum",
+    "address": "Christian Bloms veg 2A, 7058 CHARLOTTENLUND",
+    "metadata": {
+      "legekontor": "Charlottenlund Legesenter",
+      "tlf": "73 84 81 80",
+      "ledigePlasser": 6,
+      "antallPlasser": 1150,
+      "valgbar": true
+    },
+    "lat": 63.419194,
+    "lng": 10.483482
+  },
+  {
+    "title": "Jeanine Melby",
+    "address": "Stasjonsveien 14, 7560 7560",
+    "metadata": {
+      "legekontor": "Vikhammer Legekontor DA",
+      "tlf": "73 97 35 00",
+      "antallPlasser": 900
+    },
+    "lat": 60.3161053,
+    "lng": 5.3492704
+  },
+  {
+    "title": "Linde Melby",
+    "address": "Melhusvegen 505, 7224 MELHUS",
+    "metadata": {
+      "legekontor": "Melhus Legesenter AS",
+      "tlf": "72 87 70 00",
+      "antallPlasser": 660
+    },
+    "lat": 63.283712,
+    "lng": 10.280216
+  },
+  {
+    "title": "Mona Røli Melhus",
+    "address": "Helge Ingstadsvei 1, 7600 Levanger",
+    "metadata": {
+      "legekontor": "Røstad Legesenter",
+      "tlf": "74 08 50 50",
+      "antallPlasser": 710
+    },
+    "lat": 63.752125,
+    "lng": 11.311775
+  },
+  {
+    "title": "Gunnar Melhuus",
+    "address": "Gjelbakken 15, 7580 SELBU",
+    "metadata": {
+      "legekontor": "Legekontoret i Selbu",
+      "tlf": "73 81 68 25",
+      "ledigePlasser": 197,
+      "antallPlasser": 500,
+      "valgbar": true
+    },
+    "lat": 63.217788,
+    "lng": 11.039243
+  },
+  {
+    "title": "Sven Midelfart",
+    "address": "Jomfrugt. 18, 7010 Trondheim",
+    "metadata": {
+      "legekontor": "Nidelven legekontor AS",
+      "tlf": "73 99 43 40",
+      "antallPlasser": 1750
+    },
+    "lat": 63.4354303,
+    "lng": 10.399709
+  },
+  {
+    "title": "Elin Mikalsen",
+    "address": "Ås, 7590 TYDAL",
+    "metadata": {
+      "legekontor": "Tydal legekontor",
+      "tlf": "73 81 58 40",
+      "ledigePlasser": 208,
+      "antallPlasser": 600,
+      "valgbar": true
+    },
+    "lat": 63.0448743,
+    "lng": 11.6577805
+  },
+  {
+    "title": "Torkel Mohn",
+    "address": "Richard Birkelands veg 5, 7034 Trondheim",
+    "metadata": {
+      "legekontor": "Gløshaugen legesenter AS",
+      "tlf": "400 01 223",
+      "antallPlasser": 1700
+    },
+    "lat": 63.415693,
+    "lng": 10.4109041
+  },
+  {
+    "title": "Tine Molden",
+    "address": "Olav Tryggvasons gate 14, 7011 Trondheim",
+    "metadata": {
+      "legekontor": "Mathesongården Legesenter",
+      "tlf": "73 87 04 80",
+      "ledigePlasser": 4,
+      "antallPlasser": 1100,
+      "valgbar": true
+    },
+    "lat": 63.4334549,
+    "lng": 10.3996608
+  },
+  {
+    "title": "Lendite Morina",
+    "address": "Prinsens gt 1 A, Statens Hus, 7011 Trondheim",
+    "metadata": {
+      "legekontor": "Øya Legesenter",
+      "tlf": "72 54 38 60",
+      "ledigePlasser": 9,
+      "antallPlasser": 500,
+      "valgbar": true
+    },
+    "lat": 63.4322408,
+    "lng": 10.3967299
+  },
+  {
+    "title": "Even Mork",
+    "address": "Harald Hårfagresgate 2, 7041 Trondheim",
+    "metadata": {
+      "legekontor": "Ringve Legesenter",
+      "tlf": "73 58 50 30",
+      "antallPlasser": 1100
+    },
+    "lat": 63.4440653,
+    "lng": 10.4492614
+  },
+  {
+    "title": "Line Mostad",
+    "address": "Saxe Viks veg 4, 7562 SAKSVIK",
+    "metadata": {
+      "legekontor": "Saksvik Legekontor",
+      "tlf": "73 98 71 00",
+      "antallPlasser": 900
+    },
+    "lat": 63.4381183,
+    "lng": 10.604318
+  },
+  {
+    "title": "Hanna Moum",
+    "address": "Utsiravegen 1A, 7045 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Persaunet Legesenter",
+      "tlf": "73 82 85 50",
+      "ledigePlasser": 2,
+      "antallPlasser": 1350,
+      "valgbar": true
+    },
+    "lat": 63.4300526,
+    "lng": 10.4425915
+  },
+  {
+    "title": "Ingjerd Murvoll",
+    "address": "Vikelvfaret 4, 7054 Ranheim",
+    "metadata": {
+      "legekontor": "Ranheim Legesenter",
+      "tlf": "73 82 58 00",
+      "antallPlasser": 1100
+    },
+    "lat": 63.421276,
+    "lng": 10.53616
+  },
+  {
+    "title": "Jens Eskild Musum",
+    "address": "Rådhusvegen 6, 7353 Børsa",
+    "metadata": {
+      "legekontor": "Skaun Legekontor AS",
+      "tlf": "72 86 73 00",
+      "antallPlasser": 1100
+    },
+    "lat": 63.32398,
+    "lng": 10.066249
+  },
+  {
+    "title": "Janne Limandvik Myhr",
+    "address": "Jernbanegata 9 L, 7650 VERDAL",
+    "metadata": {
+      "legekontor": "Verdalsøra Legesenter AS",
+      "tlf": "74 07 07 00",
+      "antallPlasser": 500
+    },
+    "lat": 63.791207,
+    "lng": 11.487323
+  },
+  {
+    "title": "Marthe Myhra",
+    "address": "Ivar Lykkes veg 3, 7075 Tiller",
+    "metadata": {
+      "legekontor": "Tillertorget Legesenter AS",
+      "tlf": "72 90 07 01",
+      "antallPlasser": 1015
+    },
+    "lat": 63.3580652,
+    "lng": 10.3748349
+  },
+  {
+    "title": "Linn Mari Telneset Myhre",
+    "address": "Erling Skakkesgt. 49B, 7012",
+    "metadata": {
+      "legekontor": "Kalvskinnet legesenter",
+      "tlf": "73 80 99 50",
+      "antallPlasser": 1200
+    },
+    "lat": 63.4290355,
+    "lng": 10.3849156
+  },
+  {
+    "title": "Torill Myhre",
+    "address": "Breidablikkvegen 1, 7500 Stjørdal",
+    "metadata": {
+      "legekontor": "Stjørdal Legesenter",
+      "tlf": "74 80 44 00",
+      "antallPlasser": 900
+    },
+    "lat": 63.468707,
+    "lng": 10.931574
+  },
+  {
+    "title": "Rigmor Myran",
+    "address": "Haakon VIIs gate 27, 7041 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Leangen Legesenter",
+      "tlf": "73 51 77 13",
+      "ledigePlasser": 14,
+      "antallPlasser": 1200,
+      "valgbar": true
+    },
+    "lat": 63.438774,
+    "lng": 10.463933
+  },
+  {
+    "title": "Nikolai Aarre Mæhlum",
+    "address": "Vikelvfaret 4, 7054 Ranheim",
+    "metadata": {
+      "legekontor": "Ranheim Legesenter",
+      "tlf": "73 82 58 00",
+      "ledigePlasser": 54,
+      "antallPlasser": 1400,
+      "valgbar": true
+    },
+    "lat": 63.421276,
+    "lng": 10.53616
+  },
+  {
+    "title": "Njål Flem Mæland",
+    "address": "Selsbakkvegen 36b, 7027 Trondheim",
+    "metadata": {
+      "legekontor": "Hallset Legesenter AS",
+      "tlf": "72 55 71 60",
+      "antallPlasser": 1200
+    },
+    "lat": 63.394501,
+    "lng": 10.368786
+  },
+  {
+    "title": "Christina Tanem Møller",
+    "address": "Fyrgata 3, 7714 STEINKJER",
+    "metadata": {
+      "legekontor": "Sjøsia Legekontor",
+      "tlf": "74 16 33 80",
+      "antallPlasser": 900
+    },
+    "lat": 64.011946,
+    "lng": 11.487499
+  },
+  {
+    "title": "Erik Paltiel Mørch",
+    "address": "Anders Estenstads Veg 18, 7046 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Valentinlyst Legesenter",
+      "tlf": "73 82 97 97",
+      "antallPlasser": 1300
+    },
+    "lat": 63.4249897,
+    "lng": 10.4420123
+  },
+  {
+    "title": "Martine Maalø",
+    "address": "Hans Baucks veg 1, 7033 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Nardosletta legesenter",
+      "tlf": "73 82 10 40",
+      "antallPlasser": 1000
+    },
+    "lat": 63.4030121,
+    "lng": 10.4276364
+  },
+  {
+    "title": "Ali Naseribafrouei",
+    "address": "Årnsetveien 35, 7100 Rissa",
+    "metadata": {
+      "legekontor": "Indre Fosen Legetjeneste",
+      "tlf": "417 02 400",
+      "antallPlasser": 1100
+    },
+    "lat": 63.5868,
+    "lng": 9.958023
+  },
+  {
+    "title": "Momtaz Ahmad Nazari",
+    "address": "Blåklokkevegen 16, 7870 GRONG",
+    "metadata": {
+      "legekontor": "Indre Namdal legetjeneste",
+      "tlf": "902 35 363",
+      "ledigePlasser": 48,
+      "antallPlasser": 500,
+      "valgbar": true
+    },
+    "lat": 64.463265,
+    "lng": 12.3106839
+  },
+  {
+    "title": "Aina Nerdahl",
+    "address": "Anders Estenstads Veg 18, 7046 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Valentinlyst Legesenter",
+      "tlf": "73 82 97 97",
+      "ledigePlasser": 4,
+      "antallPlasser": 1700,
+      "valgbar": true
+    },
+    "lat": 63.4249897,
+    "lng": 10.4420123
+  },
+  {
+    "title": "Hege Graneng Nesbø",
+    "address": "Jernbanegata 9 L, 7650 VERDAL",
+    "metadata": {
+      "legekontor": "Verdalsøra Legesenter AS",
+      "tlf": "74 07 07 00",
+      "antallPlasser": 1150
+    },
+    "lat": 63.791207,
+    "lng": 11.487323
+  },
+  {
+    "title": "Julie Nesheim",
+    "address": "Ilevollen 50, 7018 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Ila Legesenter DA",
+      "tlf": "73 51 11 24",
+      "antallPlasser": 1500
+    },
+    "lat": 63.4282995,
+    "lng": 10.3673652
+  },
+  {
+    "title": "Lene Marit Ness-Jensen",
+    "address": "Fløytarveien 3B, 7650 Verdal",
+    "metadata": {
+      "legekontor": "Stekke Legesenter",
+      "tlf": "995 89 200",
+      "antallPlasser": 1350
+    },
+    "lat": 63.7908272,
+    "lng": 11.4774841
+  },
+  {
+    "title": "Hong-Ly Thi Nguyen",
+    "address": "Vikaholmveien 2, 7240 HITRA",
+    "metadata": {
+      "legekontor": "Hitra legekontor",
+      "tlf": "72 44 42 42",
+      "antallPlasser": 900
+    },
+    "lat": 63.6021551,
+    "lng": 8.9796618
+  },
+  {
+    "title": "Gerd Peter Niebelschütz",
+    "address": "Stallbakksvingen 2, 7760 SNÅSA",
+    "metadata": {
+      "legekontor": "Snåsa Legekontor",
+      "tlf": "74 13 83 50",
+      "ledigePlasser": 9,
+      "antallPlasser": 800,
+      "valgbar": true
+    },
+    "lat": 64.245435,
+    "lng": 12.372126
+  },
+  {
+    "title": "Nikola Nikolic",
+    "address": "Nøkkrosevegen 2, 7970 Kolvereid",
+    "metadata": {
+      "legekontor": "Nærøysund Legekontor",
+      "tlf": "948 12 953",
+      "antallPlasser": 800
+    },
+    "lat": 64.8647037,
+    "lng": 11.6027053
+  },
+  {
+    "title": "Anders Nilsen",
+    "address": "Skolegata 9, 7130 BREKSTAD",
+    "metadata": {
+      "legekontor": "Ørland/Bjugn Legetjeneste (Legekontor)",
+      "tlf": "72 51 41 00",
+      "antallPlasser": 800
+    },
+    "lat": 63.685591,
+    "lng": 9.655906
+  },
+  {
+    "title": "Børge Lønnebakke Norberg",
+    "address": "Ivar Lykkes veg 3, 7075 Tiller",
+    "metadata": {
+      "legekontor": "Tillertorget Legesenter AS",
+      "tlf": "72 90 07 01",
+      "antallPlasser": 1300
+    },
+    "lat": 63.3580652,
+    "lng": 10.3748349
+  },
+  {
+    "title": "Åse Norberg",
+    "address": "Christian Bloms veg 2A, 7058 CHARLOTTENLUND",
+    "metadata": {
+      "legekontor": "Charlottenlund Legesenter",
+      "tlf": "73 84 81 80",
+      "antallPlasser": 1100
+    },
+    "lat": 63.419194,
+    "lng": 10.483482
+  },
+  {
+    "title": "Åse Kopreitan Nordseth",
+    "address": "Sverres gate 23, 7800 NAMSOS",
+    "metadata": {
+      "legekontor": "Bakklandet legekontor",
+      "tlf": "74 20 90 40",
+      "antallPlasser": 800
+    },
+    "lat": 64.4678547,
+    "lng": 11.493618
+  },
+  {
+    "title": "Arnfinn Nordstrand",
+    "address": "Vollabakken 3, 7030 Trondheim",
+    "metadata": {
+      "legekontor": "Din Doktor",
+      "tlf": "73 98 28 80",
+      "ledigePlasser": 18,
+      "antallPlasser": 1400,
+      "valgbar": true
+    },
+    "lat": 63.4239218,
+    "lng": 10.4019983
+  },
+  {
+    "title": "Mette Nordsæter",
+    "address": "Øvre Flatåsvei 4b, 7079 FLATÅSEN",
+    "metadata": {
+      "legekontor": "Flatåsen Legesenter DA",
+      "tlf": "72 59 58 58",
+      "antallPlasser": 1000
+    },
+    "lat": 63.371625,
+    "lng": 10.34271
+  },
+  {
+    "title": "Jostein Nordvoll",
+    "address": "Vennaliveien 5, 7670 INDERØY",
+    "metadata": {
+      "legekontor": "Inderøy Legesenter",
+      "tlf": "74 70 15 13",
+      "ledigePlasser": 1,
+      "antallPlasser": 830,
+      "valgbar": true
+    },
+    "lat": 63.8756,
+    "lng": 11.289185
+  },
+  {
+    "title": "Petter Olberg",
+    "address": "Vollabakken 3, 7030 Trondheim",
+    "metadata": {
+      "legekontor": "Din Doktor",
+      "tlf": "73 98 28 80",
+      "ledigePlasser": 14,
+      "antallPlasser": 1750,
+      "valgbar": true
+    },
+    "lat": 63.4239218,
+    "lng": 10.4019983
+  },
+  {
+    "title": "Frank Andre Opdahl",
+    "address": "Vennaliveien 5, 7670 INDERØY",
+    "metadata": {
+      "legekontor": "Inderøy Legesenter",
+      "tlf": "74 70 15 13",
+      "antallPlasser": 880
+    },
+    "lat": 63.8756,
+    "lng": 11.289185
+  },
+  {
+    "title": "Kirsten Vikan Opdahl",
+    "address": "Vassliveien 83, 7391 RENNEBU",
+    "metadata": {
+      "legekontor": "Rennebu legekontor",
+      "tlf": "908 80 140",
+      "ledigePlasser": 86,
+      "antallPlasser": 400,
+      "valgbar": true
+    },
+    "lat": 62.834434,
+    "lng": 10.006455
+  },
+  {
+    "title": "Even Overskaug",
+    "address": "Gjelbakken 15, 7580 SELBU",
+    "metadata": {
+      "legekontor": "Legekontoret i Selbu",
+      "tlf": "73 81 68 25",
+      "ledigePlasser": 9,
+      "antallPlasser": 1300,
+      "valgbar": true
+    },
+    "lat": 63.217788,
+    "lng": 11.039243
+  },
+  {
+    "title": "Tajinder Kumar Parpugga",
+    "address": "Årnsetveien 35, 7100 Rissa",
+    "metadata": {
+      "legekontor": "Indre Fosen Legetjeneste",
+      "tlf": "417 02 400",
+      "antallPlasser": 1000
+    },
+    "lat": 63.5868,
+    "lng": 9.958023
+  },
+  {
+    "title": "Morten Paulsen",
+    "address": "Helge Ingstadsvei 1, 7600 Levanger",
+    "metadata": {
+      "legekontor": "Røstad Legesenter",
+      "tlf": "74 08 50 50",
+      "antallPlasser": 1200
+    },
+    "lat": 63.752125,
+    "lng": 11.311775
+  },
+  {
+    "title": "Anne Elise Blokkum Pedersen",
+    "address": "Vestre Rosten 79, 7075 TILLER",
+    "metadata": {
+      "legekontor": "MediSyd A/S",
+      "tlf": "72 88 77 55",
+      "antallPlasser": 1135
+    },
+    "lat": 63.363886,
+    "lng": 10.372883
+  },
+  {
+    "title": "Mai-Helene Stolsmo Pedersen",
+    "address": "Vestre Rosten 77, 7075 TILLER",
+    "metadata": {
+      "legekontor": "Fokus legesenter",
+      "tlf": "72 59 45 00",
+      "antallPlasser": 1020
+    },
+    "lat": 63.362539,
+    "lng": 10.3719311
+  },
+  {
+    "title": "Mihai Petreaca",
+    "address": "Blåklokkevegen 16, 7870 GRONG",
+    "metadata": {
+      "legekontor": "Indre Namdal legetjeneste",
+      "tlf": "902 35 363",
+      "ledigePlasser": 227,
+      "antallPlasser": 750,
+      "valgbar": true
+    },
+    "lat": 64.463265,
+    "lng": 12.3106839
+  },
+  {
+    "title": "Eli Marita Pettersen",
+    "address": "Tine Bugges vei 1A, 7540 KLÆBU",
+    "metadata": {
+      "legekontor": "Klæbu legesenter AS",
+      "tlf": "72 83 01 70",
+      "ledigePlasser": 2,
+      "antallPlasser": 1100,
+      "valgbar": true
+    },
+    "lat": 63.2977947,
+    "lng": 10.4833433
+  },
+  {
+    "title": "Jan Erik Ho Phan",
+    "address": "Saxe Viks veg 4, 7562 SAKSVIK",
+    "metadata": {
+      "legekontor": "Saksvik Legekontor",
+      "tlf": "73 98 71 00",
+      "antallPlasser": 900
+    },
+    "lat": 63.4381183,
+    "lng": 10.604318
+  },
+  {
+    "title": "Nghi Thoi Phan",
+    "address": "Fjellseterveien 1, 7020 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Byåsen Legesenter A/S",
+      "tlf": "73 80 67 70",
+      "antallPlasser": 1250
+    },
+    "lat": 63.4180001,
+    "lng": 10.3518947
+  },
+  {
+    "title": "Carl Wolfgang Schøyen Pintzka",
+    "address": "Haakon VIIs gate 27, 7041 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Leangen Legesenter",
+      "tlf": "73 51 77 13",
+      "antallPlasser": 1200
+    },
+    "lat": 63.438774,
+    "lng": 10.463933
+  },
+  {
+    "title": "Ingrid Forbord Platou",
+    "address": "Kirkegata 1 A, 7600 LEVANGER",
+    "metadata": {
+      "legekontor": "Kirkegata Legesenter AS",
+      "antallPlasser": 775
+    },
+    "lat": 63.7431148,
+    "lng": 11.2882422
+  },
+  {
+    "title": "Cynthia Magdalena Poblete Torres",
+    "address": "Skolegata 9, 7130 BREKSTAD",
+    "metadata": {
+      "legekontor": "Ørland/Bjugn Legetjeneste (Legekontor)",
+      "tlf": "72 51 41 00",
+      "antallPlasser": 650
+    },
+    "lat": 63.685591,
+    "lng": 9.655906
+  },
+  {
+    "title": "Karen Prytz",
+    "address": "Henrik Grønnsvei 25, 7374 RØROS",
+    "metadata": {
+      "legekontor": "Røros Legesenter",
+      "tlf": "72 41 94 80",
+      "antallPlasser": 700
+    },
+    "lat": 62.5771342,
+    "lng": 11.3786766
+  },
+  {
+    "title": "Kirsti Torevik Paasche",
+    "address": "Moholt Allmenning 3, 7050 Trondheim",
+    "metadata": {
+      "legekontor": "Moholt legesenter AS",
+      "tlf": "950 04 420",
+      "antallPlasser": 1100
+    },
+    "lat": 63.4113331,
+    "lng": 10.4333493
+  },
+  {
+    "title": "Charlotte Rabben",
+    "address": "Vikaholmveien 2, 7240 HITRA",
+    "metadata": {
+      "legekontor": "Hitra legekontor",
+      "tlf": "72 44 42 42",
+      "antallPlasser": 700
+    },
+    "lat": 63.6021551,
+    "lng": 8.9796618
+  },
+  {
+    "title": "Terje Thorkildsen Rambøl",
+    "address": "Vestre Rosten 79, 7075 TILLER",
+    "metadata": {
+      "legekontor": "Sørbyen Legesenter",
+      "tlf": "72 59 20 00",
+      "antallPlasser": 1050
+    },
+    "lat": 63.363886,
+    "lng": 10.372883
+  },
+  {
+    "title": "Ines Ramirez Alvarez",
+    "address": "Skatvalsvegen 126, 7510 SKATVAL",
+    "metadata": {
+      "legekontor": "Skatval Legekontor",
+      "tlf": "74 83 19 90",
+      "ledigePlasser": 20,
+      "antallPlasser": 900,
+      "valgbar": true
+    },
+    "lat": 63.509318,
+    "lng": 10.8285339
+  },
+  {
+    "title": "Endre Rao",
+    "address": "Megardsvegen 6A, 7320 FANNREM",
+    "metadata": {
+      "legekontor": "Fannrem legesenter",
+      "tlf": "72 48 65 40",
+      "antallPlasser": 1200
+    },
+    "lat": 63.266312,
+    "lng": 9.814472
+  },
+  {
+    "title": "Ahmad Nazir Rasekh",
+    "address": "Nøkkrosevegen 2, 7970 Kolvereid",
+    "metadata": {
+      "legekontor": "Nærøysund Legekontor",
+      "tlf": "948 12 953",
+      "ledigePlasser": 243,
+      "antallPlasser": 700,
+      "valgbar": true
+    },
+    "lat": 64.8647037,
+    "lng": 11.6027053
+  },
+  {
+    "title": "Ingrid Gunnarsdatter Reese",
+    "address": "Vestre Rosten 77, 7075 TILLER",
+    "metadata": {
+      "legekontor": "Fokus legesenter",
+      "tlf": "72 59 45 00",
+      "antallPlasser": 1000
+    },
+    "lat": 63.362539,
+    "lng": 10.3719311
+  },
+  {
+    "title": "Tommy Aune Rehn",
+    "address": "Helge Ingstadsvei 1, 7600 Levanger",
+    "metadata": {
+      "legekontor": "Røstad Legesenter",
+      "tlf": "74 08 50 50",
+      "antallPlasser": 750
+    },
+    "lat": 63.752125,
+    "lng": 11.311775
+  },
+  {
+    "title": "Nina Reimers",
+    "address": "Prinsens gt 1 A, Statens Hus, 7011 Trondheim",
+    "metadata": {
+      "legekontor": "Øya Legesenter",
+      "tlf": "72 54 38 60",
+      "antallPlasser": 400
+    },
+    "lat": 63.4322408,
+    "lng": 10.3967299
+  },
+  {
+    "title": "Else Rise Rekstad",
+    "address": "Selsbakkvegen 36b, 7027 Trondheim",
+    "metadata": {
+      "legekontor": "Hallset Legesenter AS",
+      "tlf": "72 55 71 60",
+      "antallPlasser": 1300
+    },
+    "lat": 63.394501,
+    "lng": 10.368786
+  },
+  {
+    "title": "Eystein Relling",
+    "address": "Løvsetvegen 2, 7224 Melhus",
+    "metadata": {
+      "legekontor": "Midt Legesenter AS",
+      "tlf": "73 18 88 80",
+      "ledigePlasser": 201,
+      "antallPlasser": 900,
+      "valgbar": true
+    },
+    "lat": 63.284308,
+    "lng": 10.281447
+  },
+  {
+    "title": "Gustav Relling",
+    "address": "Olav Tryggvasons gate 35, 7011 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Edda Legesenter DA",
+      "tlf": "73 83 19 00",
+      "ledigePlasser": 31,
+      "antallPlasser": 1080,
+      "valgbar": true
+    },
+    "lat": 63.43312,
+    "lng": 10.395589
+  },
+  {
+    "title": "Håkon Relling",
+    "address": "Ringvålvegen 5, 7080 Heimdal",
+    "metadata": {
+      "legekontor": "Heimdal Medisinske Senter",
+      "tlf": "72 59 45 50",
+      "antallPlasser": 1000
+    },
+    "lat": 63.3517455,
+    "lng": 10.3544485
+  },
+  {
+    "title": "Kristin Lein Rendum",
+    "address": "Vestre Rosten 79, 7075 TILLER",
+    "metadata": {
+      "legekontor": "MediSyd A/S",
+      "tlf": "72 88 77 55",
+      "antallPlasser": 1200
+    },
+    "lat": 63.363886,
+    "lng": 10.372883
+  },
+  {
+    "title": "Jannike Reymert",
+    "address": "Sverres gate 23, 7800 NAMSOS",
+    "metadata": {
+      "legekontor": "Bakklandet legekontor",
+      "tlf": "74 20 90 40",
+      "ledigePlasser": 32,
+      "antallPlasser": 875,
+      "valgbar": true
+    },
+    "lat": 64.4678547,
+    "lng": 11.493618
+  },
+  {
+    "title": "Angelina Lied Rimehaug",
+    "address": "Parkvegen 1 A, 7500 Stjørdal",
+    "metadata": {
+      "legekontor": "Triangel Legesenter",
+      "tlf": "465 00 900",
+      "antallPlasser": 1150
+    },
+    "lat": 63.468268,
+    "lng": 10.917549
+  },
+  {
+    "title": "Tone Camilla Ringen",
+    "address": "Parkvegen 1 A, 7500 Stjørdal",
+    "metadata": {
+      "legekontor": "Triangel Legesenter",
+      "tlf": "465 00 900",
+      "antallPlasser": 900
+    },
+    "lat": 63.468268,
+    "lng": 10.917549
+  },
+  {
+    "title": "Gollaug Belbo Ringseth",
+    "address": "Seilmakergata 10, 7725 STEINKJER",
+    "metadata": {
+      "legekontor": "Elvebredden legekontor",
+      "tlf": "74 16 24 00",
+      "antallPlasser": 700
+    },
+    "lat": 64.013348,
+    "lng": 11.479886
+  },
+  {
+    "title": "Tonje Kristin Leinum Ringstad",
+    "address": "Ivar Lykkes veg 3, 7075 Tiller",
+    "metadata": {
+      "legekontor": "Tillertorget Legesenter AS",
+      "tlf": "72 90 07 01",
+      "antallPlasser": 1075
+    },
+    "lat": 63.3580652,
+    "lng": 10.3748349
+  },
+  {
+    "title": "Vigdis Risan",
+    "address": "Dalgårdveien 1, 7024",
+    "metadata": {
+      "legekontor": "Dalgård Legesenter DA",
+      "tlf": "72 56 70 00",
+      "antallPlasser": 980
+    },
+    "lat": 63.3950255,
+    "lng": 10.3376118
+  },
+  {
+    "title": "Sigrid Sirisdatter Rise",
+    "address": "Vassliveien 83, 7391 RENNEBU",
+    "metadata": {
+      "legekontor": "Rennebu legekontor",
+      "tlf": "908 80 140",
+      "ledigePlasser": 152,
+      "antallPlasser": 800,
+      "valgbar": true
+    },
+    "lat": 62.834434,
+    "lng": 10.006455
+  },
+  {
+    "title": "Lars Arne Riseth",
+    "address": "Melhusvegen 505, 7224 MELHUS",
+    "metadata": {
+      "legekontor": "Melhus Legesenter AS",
+      "tlf": "72 87 70 00",
+      "antallPlasser": 1200
+    },
+    "lat": 63.283712,
+    "lng": 10.280216
+  },
+  {
+    "title": "Marte Ulvestad Riseth",
+    "address": "Vegamot 8 B, 7049 Trondheim",
+    "metadata": {
+      "legekontor": "Strinda Legesenter AS",
+      "tlf": "73 98 40 10",
+      "antallPlasser": 1200
+    },
+    "lat": 63.4093566,
+    "lng": 10.4438168
+  },
+  {
+    "title": "Roar Rismark",
+    "address": "Vennaliveien 5, 7670 INDERØY",
+    "metadata": {
+      "legekontor": "Inderøy Legesenter",
+      "tlf": "74 70 15 13",
+      "antallPlasser": 640
+    },
+    "lat": 63.8756,
+    "lng": 11.289185
+  },
+  {
+    "title": "Jan Christer Rosqvist",
+    "address": "Skeisveien 115, 7994 Leka",
+    "metadata": {
+      "legekontor": "Leka Legekontor",
+      "tlf": "74 38 70 38",
+      "ledigePlasser": 232,
+      "antallPlasser": 705,
+      "valgbar": true
+    },
+    "lat": 65.08812,
+    "lng": 11.711751
+  },
+  {
+    "title": "Dennis Ross",
+    "address": "Olav Tryggvasons gate 35, 7011 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Edda Legesenter DA",
+      "tlf": "73 83 19 00",
+      "ledigePlasser": 45,
+      "antallPlasser": 1080,
+      "valgbar": true
+    },
+    "lat": 63.43312,
+    "lng": 10.395589
+  },
+  {
+    "title": "Ola Rossvoll",
+    "address": "Vikelvfaret 4, 7054 Ranheim",
+    "metadata": {
+      "legekontor": "Ranheim Legesenter",
+      "tlf": "73 82 58 00",
+      "antallPlasser": 1150
+    },
+    "lat": 63.421276,
+    "lng": 10.53616
+  },
+  {
+    "title": "Marianne Opland Rostad",
+    "address": "Breidablikkvegen 1, 7500 Stjørdal",
+    "metadata": {
+      "legekontor": "Stjørdal Legesenter",
+      "tlf": "74 80 44 00",
+      "antallPlasser": 950
+    },
+    "lat": 63.468707,
+    "lng": 10.931574
+  },
+  {
+    "title": "Andrea Steen Rosten",
+    "address": "Innherredsveien 7, 7014 Trondheim",
+    "metadata": {
+      "legekontor": "Solsiden Legesenter AS",
+      "tlf": "23 89 10 87",
+      "antallPlasser": 800
+    },
+    "lat": 63.4339571,
+    "lng": 10.4137391
+  },
+  {
+    "title": "Anders Spakmo Rosvoldaunet",
+    "address": "Haakon VIIs gate 9, 7041 Trondheim",
+    "metadata": {
+      "legekontor": "Lade Legesenter AS",
+      "tlf": "73 92 01 55",
+      "antallPlasser": 1050
+    },
+    "lat": 63.444122,
+    "lng": 10.448084
+  },
+  {
+    "title": "Almute Rukiene",
+    "address": "Megardsvegen 6A, 7320 FANNREM",
+    "metadata": {
+      "legekontor": "Fannrem legesenter",
+      "tlf": "72 48 65 40",
+      "antallPlasser": 750
+    },
+    "lat": 63.266312,
+    "lng": 9.814472
+  },
+  {
+    "title": "Andreas Rye",
+    "address": "Navarvegen 19, 7820 SPILLUM",
+    "metadata": {
+      "legekontor": "Namsen Legesenter",
+      "tlf": "74 21 80 80",
+      "ledigePlasser": 32,
+      "antallPlasser": 1300,
+      "valgbar": true
+    },
+    "lat": 64.459991,
+    "lng": 11.541966
+  },
+  {
+    "title": "Kristen Rye",
+    "address": "Statsråd Kroghs vei 15C, 7021 Trondheim",
+    "metadata": {
+      "legekontor": "Havstein Legesenter",
+      "tlf": "72 56 03 00",
+      "antallPlasser": 1000
+    },
+    "lat": 63.4104419,
+    "lng": 10.3647978
+  },
+  {
+    "title": "Marit Rye",
+    "address": "Olav Tryggvasons gate 35, 7011 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Edda Legesenter DA",
+      "tlf": "73 83 19 00",
+      "antallPlasser": 1000
+    },
+    "lat": 63.43312,
+    "lng": 10.395589
+  },
+  {
+    "title": "Tone Røe",
+    "address": "Nordre gate 6, 7011 Trondheim",
+    "metadata": {
+      "legekontor": "Midtbyen Legesenter AS",
+      "tlf": "73 92 38 80",
+      "ledigePlasser": 7,
+      "antallPlasser": 1200,
+      "valgbar": true
+    },
+    "lat": 63.431205,
+    "lng": 10.397434
+  },
+  {
+    "title": "Marit Rønne",
+    "address": "Olav Tryggvasons Gate 24C, 7011 Trondheim",
+    "metadata": {
+      "legekontor": "Idungården Legesenter DA",
+      "tlf": "73 83 36 10",
+      "ledigePlasser": 296,
+      "antallPlasser": 1550,
+      "valgbar": true
+    },
+    "lat": 63.4332023,
+    "lng": 10.3946786
+  },
+  {
+    "title": "Gry Silje Dahl Raaen",
+    "address": "Smistadvegen 11, 7026 Trondheim",
+    "metadata": {
+      "legekontor": "Granåsen Legesenter AS",
+      "tlf": "73 18 65 30",
+      "antallPlasser": 1000
+    },
+    "lat": 63.3762253,
+    "lng": 10.3127707
+  },
+  {
+    "title": "Emil Millgård Sagberg",
+    "address": "Orkdalsveien 58, 7300 Orkanger",
+    "metadata": {
+      "legekontor": "Orkanger Legesenter",
+      "tlf": "72 47 11 50",
+      "ledigePlasser": 3,
+      "antallPlasser": 1150,
+      "valgbar": true
+    },
+    "lat": 63.3050429,
+    "lng": 9.849584
+  },
+  {
+    "title": "Absar Zaki Sajid",
+    "address": "Vikaholmveien 2, 7240 HITRA",
+    "metadata": {
+      "legekontor": "Hitra legekontor",
+      "tlf": "72 44 42 42",
+      "ledigePlasser": 66,
+      "antallPlasser": 1300,
+      "valgbar": true
+    },
+    "lat": 63.6021551,
+    "lng": 8.9796618
+  },
+  {
+    "title": "Torstein Sakshaug",
+    "address": "Vestre Rosten 79, 7075 TILLER",
+    "metadata": {
+      "legekontor": "Sørbyen Legesenter",
+      "tlf": "72 59 20 00",
+      "antallPlasser": 1250
+    },
+    "lat": 63.363886,
+    "lng": 10.372883
+  },
+  {
+    "title": "Jörg Dieter Sallaba",
+    "address": "Årnsetveien 35, 7100 Rissa",
+    "metadata": {
+      "legekontor": "Indre Fosen Legetjeneste",
+      "tlf": "417 02 400",
+      "antallPlasser": 1100
+    },
+    "lat": 63.5868,
+    "lng": 9.958023
+  },
+  {
+    "title": "Sverre Sande",
+    "address": "Harald Hårfagresgate 2, 7041 Trondheim",
+    "metadata": {
+      "legekontor": "Ringve Legesenter",
+      "tlf": "73 58 50 30",
+      "ledigePlasser": 6,
+      "antallPlasser": 1350,
+      "valgbar": true
+    },
+    "lat": 63.4440653,
+    "lng": 10.4492614
+  },
+  {
+    "title": "Isa Mari Sandstad",
+    "address": "Seilmakergata 10, 7725 STEINKJER",
+    "metadata": {
+      "legekontor": "Elvebredden legekontor",
+      "tlf": "74 16 24 00",
+      "antallPlasser": 600
+    },
+    "lat": 64.013348,
+    "lng": 11.479886
+  },
+  {
+    "title": "Astrid Schjelvaag",
+    "address": "Sørveien 17b, Kysthaven, 7260 Sistranda",
+    "metadata": {
+      "legekontor": "Frøya Legekontor",
+      "tlf": "72 44 70 80",
+      "antallPlasser": 700
+    },
+    "lat": 63.7301981,
+    "lng": 8.8297021
+  },
+  {
+    "title": "Arnfinn Seim",
+    "address": "Årnsetveien 35, 7100 Rissa",
+    "metadata": {
+      "legekontor": "Indre Fosen Legetjeneste",
+      "tlf": "417 02 400",
+      "antallPlasser": 350
+    },
+    "lat": 63.5868,
+    "lng": 9.958023
+  },
+  {
+    "title": "Arne Selmer",
+    "address": "Vikaholmveien 2, 7240 HITRA",
+    "metadata": {
+      "legekontor": "Hitra legekontor",
+      "tlf": "72 44 42 42",
+      "antallPlasser": 1229
+    },
+    "lat": 63.6021551,
+    "lng": 8.9796618
+  },
+  {
+    "title": "Eli Kathinka Selsås",
+    "address": "Rådhusvegen 6, 7353 Børsa",
+    "metadata": {
+      "legekontor": "Skaun Legekontor AS",
+      "tlf": "72 86 73 00",
+      "antallPlasser": 1200
+    },
+    "lat": 63.32398,
+    "lng": 10.066249
+  },
+  {
+    "title": "Ole-Kristian Sem",
+    "address": "Øyavegen 19, 7550 HOMMELVIK",
+    "metadata": {
+      "legekontor": "Hommelvik Legekontor DA",
+      "tlf": "73 97 21 00",
+      "antallPlasser": 900
+    },
+    "lat": 63.4121489,
+    "lng": 10.8036361
+  },
+  {
+    "title": "Eyvind Vaag Senneset",
+    "address": "Mellomila 56, 7018 Trondheim",
+    "metadata": {
+      "legekontor": "Sjøsiden Legesenter",
+      "tlf": "73 80 95 00",
+      "antallPlasser": 1200
+    },
+    "lat": 63.431332,
+    "lng": 10.363492
+  },
+  {
+    "title": "Peter Setsaas",
+    "address": "Jomfrugt. 18, 7010 Trondheim",
+    "metadata": {
+      "legekontor": "Nidelven legekontor AS",
+      "tlf": "73 99 43 40",
+      "ledigePlasser": 12,
+      "antallPlasser": 1600,
+      "valgbar": true
+    },
+    "lat": 63.4354303,
+    "lng": 10.399709
+  },
+  {
+    "title": "Jan Oddvar Setten",
+    "address": "Steinkjersannan 5, 7713 STEINKJER",
+    "metadata": {
+      "legekontor": "Sannan Legesenter AS",
+      "tlf": "73 60 42 60",
+      "antallPlasser": 1800
+    },
+    "lat": 64.0093584,
+    "lng": 11.5024645
+  },
+  {
+    "title": "Hanieh Shakeri",
+    "address": "Høvdingveien 10, 7725 Steinkjer",
+    "metadata": {
+      "legekontor": "Høvdinggården Legekontor",
+      "tlf": "74 14 12 50",
+      "antallPlasser": 1000
+    },
+    "lat": 64.0238545,
+    "lng": 11.4813835
+  },
+  {
+    "title": "Øyvind Singsaas",
+    "address": "Fjellseterveien 1, 7020 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Byåsen Legesenter A/S",
+      "tlf": "73 80 67 70",
+      "antallPlasser": 1100
+    },
+    "lat": 63.4180001,
+    "lng": 10.3518947
+  },
+  {
+    "title": "Randi Lovise Sjønnegård",
+    "address": "Statsråd Kroghs vei 15C, 7021 Trondheim",
+    "metadata": {
+      "legekontor": "Havstein Legesenter",
+      "tlf": "72 56 03 00",
+      "antallPlasser": 1050
+    },
+    "lat": 63.4104419,
+    "lng": 10.3647978
+  },
+  {
+    "title": "Sigrid Skaftnesmo",
+    "address": "Nøkkrosevegen 2, 7970 Kolvereid",
+    "metadata": {
+      "legekontor": "Nærøysund Legekontor",
+      "tlf": "948 12 953",
+      "antallPlasser": 800
+    },
+    "lat": 64.8647037,
+    "lng": 11.6027053
+  },
+  {
+    "title": "Lars Høsøien Skanke",
+    "address": "Vestre Rosten 79, 7075 TILLER",
+    "metadata": {
+      "legekontor": "MediSyd A/S",
+      "tlf": "72 88 77 55",
+      "antallPlasser": 1025
+    },
+    "lat": 63.363886,
+    "lng": 10.372883
+  },
+  {
+    "title": "Trine Irene Skarsvåg",
+    "address": "Ingeborg Aas veg 4, 7036 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Risvollan Legesenter AS",
+      "tlf": "73 84 48 80",
+      "antallPlasser": 1100
+    },
+    "lat": 63.391528,
+    "lng": 10.430585
+  },
+  {
+    "title": "Anne Gulborg Skei",
+    "address": "Fløytarveien 3B, 7650 Verdal",
+    "metadata": {
+      "legekontor": "Stekke Legesenter",
+      "tlf": "995 89 200",
+      "antallPlasser": 800
+    },
+    "lat": 63.7908272,
+    "lng": 11.4774841
+  },
+  {
+    "title": "Jørund Skjei",
+    "address": "Haakon VII Alle 5, 7650 VERDAL",
+    "metadata": {
+      "legekontor": "Sentrum Legesenter",
+      "tlf": "901 69 418",
+      "antallPlasser": 400
+    },
+    "lat": 63.7941885,
+    "lng": 11.4829075
+  },
+  {
+    "title": "Jørund Skjei",
+    "address": "Blåklokkevegen 16, 7870 GRONG",
+    "metadata": {
+      "legekontor": "Indre Namdal legetjeneste",
+      "tlf": "902 35 363",
+      "ledigePlasser": 57,
+      "antallPlasser": 700,
+      "valgbar": true
+    },
+    "lat": 64.463265,
+    "lng": 12.3106839
+  },
+  {
+    "title": "Skule Ystad Skjei",
+    "address": "Steinkjersannan 5, 7713 STEINKJER",
+    "metadata": {
+      "legekontor": "Sannan Legesenter AS",
+      "tlf": "73 60 42 60",
+      "antallPlasser": 1000
+    },
+    "lat": 64.0093584,
+    "lng": 11.5024645
+  },
+  {
+    "title": "Jakob Ciljan Skjelbred",
+    "address": "Vestre Rosten 79, 7075 TILLER",
+    "metadata": {
+      "legekontor": "MediSyd A/S",
+      "tlf": "72 88 77 55",
+      "ledigePlasser": 70,
+      "antallPlasser": 1500,
+      "valgbar": true
+    },
+    "lat": 63.363886,
+    "lng": 10.372883
+  },
+  {
+    "title": "Marthe Sand Skjelbred",
+    "address": "Vikelvfaret 4, 7054 Ranheim",
+    "metadata": {
+      "legekontor": "Ranheim Legesenter",
+      "tlf": "73 82 58 00",
+      "ledigePlasser": 43,
+      "antallPlasser": 1350,
+      "valgbar": true
+    },
+    "lat": 63.421276,
+    "lng": 10.53616
+  },
+  {
+    "title": "Håvard Kjesbu Skjellegrind",
+    "address": "Fyrgata 3, 7714 STEINKJER",
+    "metadata": {
+      "legekontor": "Sjøsia Legekontor",
+      "tlf": "74 16 33 80",
+      "antallPlasser": 1000
+    },
+    "lat": 64.011946,
+    "lng": 11.487499
+  },
+  {
+    "title": "Rune Skjesol",
+    "address": "Melhusvegen 505, 7224 MELHUS",
+    "metadata": {
+      "legekontor": "Melhus Legesenter AS",
+      "tlf": "72 87 70 00",
+      "ledigePlasser": 16,
+      "antallPlasser": 1450,
+      "valgbar": true
+    },
+    "lat": 63.283712,
+    "lng": 10.280216
+  },
+  {
+    "title": "Hanna Salberg Skjærseth",
+    "address": "Stasjonsveien 14, 7560 7560",
+    "metadata": {
+      "legekontor": "Vikhammer Legekontor DA",
+      "tlf": "73 97 35 00",
+      "antallPlasser": 820
+    },
+    "lat": 60.3161053,
+    "lng": 5.3492704
+  },
+  {
+    "title": "Ida Sklet",
+    "address": "Pinavegen 14, 7800 NAMSOS",
+    "metadata": {
+      "legekontor": "Østre Legesenter",
+      "tlf": "919 05 519",
+      "ledigePlasser": 1,
+      "antallPlasser": 720,
+      "valgbar": true
+    },
+    "lat": 64.4651378,
+    "lng": 11.5037535
+  },
+  {
+    "title": "Harald Skogholt",
+    "address": "Nertunet 30, 7633 FROSTA",
+    "metadata": {
+      "legekontor": "Frosta Legekontor",
+      "tlf": "74 80 88 60",
+      "ledigePlasser": 46,
+      "antallPlasser": 600,
+      "valgbar": true
+    },
+    "lat": 63.589209,
+    "lng": 10.741988
+  },
+  {
+    "title": "Linn Beate Skogholt",
+    "address": "Nertunet 30, 7633 FROSTA",
+    "metadata": {
+      "legekontor": "Frosta Legekontor",
+      "tlf": "74 80 88 60",
+      "antallPlasser": 795
+    },
+    "lat": 63.589209,
+    "lng": 10.741988
+  },
+  {
+    "title": "Marte Rasmussen Skogstad",
+    "address": "Øvre Flatåsvei 4b, 7079 FLATÅSEN",
+    "metadata": {
+      "legekontor": "Flatåsen Legesenter DA",
+      "tlf": "72 59 58 58",
+      "ledigePlasser": 3,
+      "antallPlasser": 950,
+      "valgbar": true
+    },
+    "lat": 63.371625,
+    "lng": 10.34271
+  },
+  {
+    "title": "John Slettum",
+    "address": "Olav Tryggvasons gate 14, 7011 Trondheim",
+    "metadata": {
+      "legekontor": "Mathesongården Legesenter",
+      "tlf": "73 87 04 80",
+      "ledigePlasser": 12,
+      "antallPlasser": 980,
+      "valgbar": true
+    },
+    "lat": 63.4334549,
+    "lng": 10.3996608
+  },
+  {
+    "title": "Birgitte Volden Snekvik",
+    "address": "Helsetunveien 4, 7200 KYRKSÆTERØRA",
+    "metadata": {
+      "legekontor": "Heim Legesenter avd. Kyrksæterøra",
+      "tlf": "72 45 00 30",
+      "antallPlasser": 700
+    },
+    "lat": 63.288691,
+    "lng": 9.06465
+  },
+  {
+    "title": "Ragnhild Agnes Snustad-Grønskag",
+    "address": "Fjordgata 1, 7010 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Nidaros Legekontor",
+      "tlf": "73 52 56 20",
+      "ledigePlasser": 22,
+      "antallPlasser": 1000,
+      "valgbar": true
+    },
+    "lat": 63.4344691,
+    "lng": 10.403794
+  },
+  {
+    "title": "Berit Marie Solberg",
+    "address": "Skolegata 9, 7130 BREKSTAD",
+    "metadata": {
+      "legekontor": "Ørland/Bjugn Legetjeneste (Legekontor)",
+      "tlf": "72 51 41 00",
+      "antallPlasser": 800
+    },
+    "lat": 63.685591,
+    "lng": 9.655906
+  },
+  {
+    "title": "Dag Asting Solberg",
+    "address": "Jernbanegata 9 L, 7650 VERDAL",
+    "metadata": {
+      "legekontor": "Verdalsøra Legesenter AS",
+      "tlf": "74 07 07 00",
+      "antallPlasser": 900
+    },
+    "lat": 63.791207,
+    "lng": 11.487323
+  },
+  {
+    "title": "Eirik Røvde Solberg",
+    "address": "Tangenveien 5, 7651 Verdal",
+    "metadata": {
+      "legekontor": "Ørmelen Legesenter",
+      "tlf": "74 07 52 70",
+      "ledigePlasser": 224,
+      "antallPlasser": 1250,
+      "valgbar": true
+    },
+    "lat": 63.7887843,
+    "lng": 11.4687497
+  },
+  {
+    "title": "Knut Arne Solberg",
+    "address": "Rørosveien 1, 7290 STØREN",
+    "metadata": {
+      "legekontor": "Midtre Gauldal legekontor",
+      "tlf": "72 43 03 20",
+      "antallPlasser": 1000
+    },
+    "lat": 63.039709,
+    "lng": 10.286372
+  },
+  {
+    "title": "Ulf Asting Solberg",
+    "address": "Øyavegen 19, 7550 HOMMELVIK",
+    "metadata": {
+      "legekontor": "Hommelvik Legekontor DA",
+      "tlf": "73 97 21 00",
+      "antallPlasser": 850
+    },
+    "lat": 63.4121489,
+    "lng": 10.8036361
+  },
+  {
+    "title": "Arne Harald Solem",
+    "address": "Einar Bergs Veg 4, 7520 HEGRA",
+    "metadata": {
+      "legekontor": "Hegra Legekontor",
+      "tlf": "74 83 46 80",
+      "ledigePlasser": 84,
+      "antallPlasser": 900,
+      "valgbar": true
+    },
+    "lat": 63.46294,
+    "lng": 11.113956
+  },
+  {
+    "title": "Håvard Rein Solhaug",
+    "address": "Navarvegen 19, 7820 SPILLUM",
+    "metadata": {
+      "legekontor": "Namsen Legesenter",
+      "tlf": "74 21 80 80",
+      "antallPlasser": 1150
+    },
+    "lat": 64.459991,
+    "lng": 11.541966
+  },
+  {
+    "title": "Stephan Somma",
+    "address": "Mellomila 56, 7018 Trondheim",
+    "metadata": {
+      "legekontor": "Sjøsiden Legesenter",
+      "tlf": "73 80 95 00",
+      "ledigePlasser": 295,
+      "antallPlasser": 1300,
+      "valgbar": true
+    },
+    "lat": 63.431332,
+    "lng": 10.363492
+  },
+  {
+    "title": "Tom Richard Stafne",
+    "address": "Fjordgata 1, 7010 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Nidaros Legekontor",
+      "tlf": "73 52 56 20",
+      "ledigePlasser": 12,
+      "antallPlasser": 1100,
+      "valgbar": true
+    },
+    "lat": 63.4344691,
+    "lng": 10.403794
+  },
+  {
+    "title": "Niels Stagegaard",
+    "address": "Stordalsveien 4 A, 7170 ÅFJORD",
+    "metadata": {
+      "legekontor": "Åfjord Legetjeneste",
+      "tlf": "72 53 02 00",
+      "antallPlasser": 900
+    },
+    "lat": 63.960707,
+    "lng": 10.227979
+  },
+  {
+    "title": "Gunn Kristin Austli Staverløkk",
+    "address": "Bruarvegen 50, 7232 Lundamo",
+    "metadata": {
+      "legekontor": "Lundamo Legesenter",
+      "tlf": "72 85 27 70",
+      "antallPlasser": 700
+    },
+    "lat": 63.1520254,
+    "lng": 10.2852658
+  },
+  {
+    "title": "Hege Liljedahl Steene",
+    "address": "Henrik Grønnsvei 25, 7374 RØROS",
+    "metadata": {
+      "legekontor": "Røros Legesenter",
+      "tlf": "72 41 94 80",
+      "antallPlasser": 800
+    },
+    "lat": 62.5771342,
+    "lng": 11.3786766
+  },
+  {
+    "title": "Hjalmar Storeide Steinsvåg",
+    "address": "Sørveien 17b, Kysthaven, 7260 Sistranda",
+    "metadata": {
+      "legekontor": "Frøya Legekontor",
+      "tlf": "72 44 70 80",
+      "antallPlasser": 800
+    },
+    "lat": 63.7301981,
+    "lng": 8.8297021
+  },
+  {
+    "title": "Helga Stene",
+    "address": "Orkdalsveien 38 A, 7300 ORKDAL",
+    "metadata": {
+      "legekontor": "Orkland kommune legetjeneste Orkdal",
+      "tlf": "72 48 78 60",
+      "antallPlasser": 600
+    },
+    "lat": 63.263466,
+    "lng": 9.8130761
+  },
+  {
+    "title": "Line Stensland-Nesset",
+    "address": "Jernbanegata 9 L, 7650 VERDAL",
+    "metadata": {
+      "legekontor": "Verdalsøra Legesenter AS",
+      "tlf": "74 07 07 00",
+      "antallPlasser": 870
+    },
+    "lat": 63.791207,
+    "lng": 11.487323
+  },
+  {
+    "title": "Øyvind Stjern",
+    "address": "Melhusvegen 505, 7224 MELHUS",
+    "metadata": {
+      "legekontor": "Melhus Legesenter AS",
+      "tlf": "72 87 70 00",
+      "ledigePlasser": 31,
+      "antallPlasser": 1200,
+      "valgbar": true
+    },
+    "lat": 63.283712,
+    "lng": 10.280216
+  },
+  {
+    "title": "Andreas Hopstock Storeheier",
+    "address": "Helge Ingstadsvei 1, 7600 Levanger",
+    "metadata": {
+      "legekontor": "Røstad Legesenter",
+      "tlf": "74 08 50 50",
+      "antallPlasser": 800
+    },
+    "lat": 63.752125,
+    "lng": 11.311775
+  },
+  {
+    "title": "Egil Storrusten",
+    "address": "Utsiravegen 1A, 7045 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Persaunet Legesenter",
+      "tlf": "73 82 85 50",
+      "antallPlasser": 1200
+    },
+    "lat": 63.4300526,
+    "lng": 10.4425915
+  },
+  {
+    "title": "Rahele Zarabi Storrø",
+    "address": "Tine Bugges vei 1A, 7540 KLÆBU",
+    "metadata": {
+      "legekontor": "Klæbu legesenter AS",
+      "tlf": "72 83 01 70",
+      "antallPlasser": 1100
+    },
+    "lat": 63.2977947,
+    "lng": 10.4833433
+  },
+  {
+    "title": "Magne Stranden",
+    "address": "Skolegata 9, 7130 BREKSTAD",
+    "metadata": {
+      "legekontor": "Ørland/Bjugn Legetjeneste (Legekontor)",
+      "tlf": "72 51 41 00",
+      "antallPlasser": 800
+    },
+    "lat": 63.685591,
+    "lng": 9.655906
+  },
+  {
+    "title": "John Midtlyng Strandheim",
+    "address": "Helsetunveien 4, 7200 KYRKSÆTERØRA",
+    "metadata": {
+      "legekontor": "Heim Legesenter avd. Kyrksæterøra",
+      "tlf": "72 45 00 30",
+      "antallPlasser": 850
+    },
+    "lat": 63.288691,
+    "lng": 9.06465
+  },
+  {
+    "title": "Siri Valle Straum",
+    "address": "Saxe Viks veg 4, 7562 SAKSVIK",
+    "metadata": {
+      "legekontor": "Saksvik Legekontor",
+      "tlf": "73 98 71 00",
+      "antallPlasser": 850
+    },
+    "lat": 63.4381183,
+    "lng": 10.604318
+  },
+  {
+    "title": "Elin Johanne Hansteen Strøm",
+    "address": "Falkenborgveien 35c, 7044 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Gildheim Legesenter",
+      "tlf": "73 18 61 86",
+      "antallPlasser": 1020
+    },
+    "lat": 63.434941,
+    "lng": 10.459307
+  },
+  {
+    "title": "Kjersti Strømmen",
+    "address": "Haakon VIIs gate 9, 7041 Trondheim",
+    "metadata": {
+      "legekontor": "Lade Legesenter AS",
+      "tlf": "73 92 01 55",
+      "antallPlasser": 1140
+    },
+    "lat": 63.444122,
+    "lng": 10.448084
+  },
+  {
+    "title": "Hanna Haugan Størseth",
+    "address": "Parkvegen 1 A, 7500 Stjørdal",
+    "metadata": {
+      "legekontor": "Triangel Legesenter",
+      "tlf": "465 00 900",
+      "antallPlasser": 1000
+    },
+    "lat": 63.468268,
+    "lng": 10.917549
+  },
+  {
+    "title": "Mona Størseth",
+    "address": "Olav Tryggvasons gate 14, 7011 Trondheim",
+    "metadata": {
+      "legekontor": "Mathesongården Legesenter",
+      "tlf": "73 87 04 80",
+      "ledigePlasser": 6,
+      "antallPlasser": 1500,
+      "valgbar": true
+    },
+    "lat": 63.4334549,
+    "lng": 10.3996608
+  },
+  {
+    "title": "Jon Ivar Stålen",
+    "address": "Øvre Møllenberg 61/63, 7043 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Møllenberg Legesenter",
+      "tlf": "73 80 87 70",
+      "antallPlasser": 1200
+    },
+    "lat": 63.4344321,
+    "lng": 10.4201786
+  },
+  {
+    "title": "Usman Sultan",
+    "address": "Helsetunveien 4, 7200 KYRKSÆTERØRA",
+    "metadata": {
+      "legekontor": "Heim Legesenter avd. Kyrksæterøra",
+      "tlf": "72 45 00 30",
+      "ledigePlasser": 304,
+      "antallPlasser": 1000,
+      "valgbar": true
+    },
+    "lat": 63.288691,
+    "lng": 9.06465
+  },
+  {
+    "title": "Stein Inge Suphellen",
+    "address": "Christian Bloms veg 2A, 7058 CHARLOTTENLUND",
+    "metadata": {
+      "legekontor": "Charlottenlund Legesenter",
+      "tlf": "73 84 81 80",
+      "antallPlasser": 1300
+    },
+    "lat": 63.419194,
+    "lng": 10.483482
+  },
+  {
+    "title": "Ona Svedaite",
+    "address": "Sørveien 17b, Kysthaven, 7260 Sistranda",
+    "metadata": {
+      "legekontor": "Frøya Legekontor",
+      "tlf": "72 44 70 80",
+      "ledigePlasser": 284,
+      "antallPlasser": 600,
+      "valgbar": true
+    },
+    "lat": 63.7301981,
+    "lng": 8.8297021
+  },
+  {
+    "title": "Vilija Svediene",
+    "address": "Orkdalsveien 38 A, 7300 ORKDAL",
+    "metadata": {
+      "legekontor": "Orkland kommune legetjeneste Orkdal",
+      "tlf": "72 48 78 60",
+      "antallPlasser": 900
+    },
+    "lat": 63.263466,
+    "lng": 9.8130761
+  },
+  {
+    "title": "Bernt Kristian Svorkdal",
+    "address": "Megardsvegen 6A, 7320 FANNREM",
+    "metadata": {
+      "legekontor": "Fannrem legesenter",
+      "tlf": "72 48 65 40",
+      "antallPlasser": 650
+    },
+    "lat": 63.266312,
+    "lng": 9.814472
+  },
+  {
+    "title": "Ørjan Sæknan",
+    "address": "Ingeborg Aas veg 4, 7036 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Risvollan Legesenter AS",
+      "tlf": "73 84 48 80",
+      "antallPlasser": 1200
+    },
+    "lat": 63.391528,
+    "lng": 10.430585
+  },
+  {
+    "title": "Nikolai Havn Sæther",
+    "address": "Løvsetvegen 2, 7224 Melhus",
+    "metadata": {
+      "legekontor": "Midt Legesenter AS",
+      "tlf": "73 18 88 80",
+      "antallPlasser": 1000
+    },
+    "lat": 63.284308,
+    "lng": 10.281447
+  },
+  {
+    "title": "Rut Sæther",
+    "address": "Blåklokkevegen 16, 7870 GRONG",
+    "metadata": {
+      "legekontor": "Indre Namdal legetjeneste",
+      "tlf": "902 35 363",
+      "antallPlasser": 750
+    },
+    "lat": 64.463265,
+    "lng": 12.3106839
+  },
+  {
+    "title": "Rune Søberg",
+    "address": "Helge Ingstadsvei 1, 7600 Levanger",
+    "metadata": {
+      "legekontor": "Røstad Legesenter",
+      "tlf": "74 08 50 50",
+      "antallPlasser": 1100
+    },
+    "lat": 63.752125,
+    "lng": 11.311775
+  },
+  {
+    "title": "Eric Takyi",
+    "address": "Rørosveien 1, 7290 STØREN",
+    "metadata": {
+      "legekontor": "Midtre Gauldal legekontor",
+      "tlf": "72 43 03 20",
+      "ledigePlasser": 14,
+      "antallPlasser": 1010,
+      "valgbar": true
+    },
+    "lat": 63.039709,
+    "lng": 10.286372
+  },
+  {
+    "title": "Hina Talat",
+    "address": "Prinsens gt 1 A, Statens Hus, 7011 Trondheim",
+    "metadata": {
+      "legekontor": "Øya Legesenter",
+      "tlf": "72 54 38 60",
+      "ledigePlasser": 13,
+      "antallPlasser": 500,
+      "valgbar": true
+    },
+    "lat": 63.4322408,
+    "lng": 10.3967299
+  },
+  {
+    "title": "Trine Moen Tangen",
+    "address": "Skolegata 9, 7130 BREKSTAD",
+    "metadata": {
+      "legekontor": "Ørland/Bjugn Legetjeneste (Legekontor)",
+      "tlf": "72 51 41 00",
+      "antallPlasser": 700
+    },
+    "lat": 63.685591,
+    "lng": 9.655906
+  },
+  {
+    "title": "Torunn Telneset",
+    "address": "Olav Tryggvasons gate 14, 7011 Trondheim",
+    "metadata": {
+      "legekontor": "Mathesongården Legesenter",
+      "tlf": "73 87 04 80",
+      "ledigePlasser": 61,
+      "antallPlasser": 1100,
+      "valgbar": true
+    },
+    "lat": 63.4334549,
+    "lng": 10.3996608
+  },
+  {
+    "title": "Cathrine Thunem",
+    "address": "Sørveien 17b, Kysthaven, 7260 Sistranda",
+    "metadata": {
+      "legekontor": "Frøya Legekontor",
+      "tlf": "72 44 70 80",
+      "ledigePlasser": 3,
+      "antallPlasser": 450,
+      "valgbar": true
+    },
+    "lat": 63.7301981,
+    "lng": 8.8297021
+  },
+  {
+    "title": "Cathinka Thyness",
+    "address": "Prinsens gt 1 A, Statens Hus, 7011 Trondheim",
+    "metadata": {
+      "legekontor": "Øya Legesenter",
+      "tlf": "72 54 38 60",
+      "antallPlasser": 500
+    },
+    "lat": 63.4322408,
+    "lng": 10.3967299
+  },
+  {
+    "title": "Morten Overrein Torp",
+    "address": "Anders Estenstads Veg 18, 7046 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Valentinlyst Legesenter",
+      "tlf": "73 82 97 97",
+      "ledigePlasser": 3,
+      "antallPlasser": 1300,
+      "valgbar": true
+    },
+    "lat": 63.4249897,
+    "lng": 10.4420123
+  },
+  {
+    "title": "Jon Frode Tranaas",
+    "address": "Canninggata 4, 7800 7800",
+    "metadata": {
+      "legekontor": "Robrygga Legekontor",
+      "tlf": "74 22 65 20",
+      "antallPlasser": 1200
+    },
+    "lat": 64.468016,
+    "lng": 11.485664
+  },
+  {
+    "title": "Asbjørg Melien Trojanowski",
+    "address": "Ressveien 55, 7336 Meldal",
+    "metadata": {
+      "legekontor": "Meldal Legekontor",
+      "tlf": "72 46 73 00",
+      "antallPlasser": 1000
+    },
+    "lat": 63.043552,
+    "lng": 9.721468
+  },
+  {
+    "title": "Peter Melien Trojanowski",
+    "address": "Ressveien 55, 7336 Meldal",
+    "metadata": {
+      "legekontor": "Meldal Legekontor",
+      "tlf": "72 46 73 00",
+      "antallPlasser": 1000
+    },
+    "lat": 63.043552,
+    "lng": 9.721468
+  },
+  {
+    "title": "Tone Tviberg",
+    "address": "Olav Tryggvasons Gate 24C, 7011 Trondheim",
+    "metadata": {
+      "legekontor": "Idungården Legesenter DA",
+      "tlf": "73 83 36 10",
+      "antallPlasser": 1400
+    },
+    "lat": 63.4332023,
+    "lng": 10.3946786
+  },
+  {
+    "title": "Kjersti Foros Ulriksen",
+    "address": "Parkvegen 1 A, 7500 Stjørdal",
+    "metadata": {
+      "legekontor": "Triangel Legesenter",
+      "tlf": "465 00 900",
+      "antallPlasser": 900
+    },
+    "lat": 63.468268,
+    "lng": 10.917549
+  },
+  {
+    "title": "Michael Ulvan",
+    "address": "Utsiravegen 1A, 7045 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Persaunet Legesenter",
+      "tlf": "73 82 85 50",
+      "antallPlasser": 1150
+    },
+    "lat": 63.4300526,
+    "lng": 10.4425915
+  },
+  {
+    "title": "Åsne Kristine Unsgård",
+    "address": "Moholt Allmenning 3, 7050 Trondheim",
+    "metadata": {
+      "legekontor": "Moholt legesenter AS",
+      "tlf": "950 04 420",
+      "antallPlasser": 1100
+    },
+    "lat": 63.4113331,
+    "lng": 10.4333493
+  },
+  {
+    "title": "Jørgen Alexander Urnes",
+    "address": "Olav Tryggvasons gate 35, 7011 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Edda Legesenter DA",
+      "tlf": "73 83 19 00",
+      "ledigePlasser": 14,
+      "antallPlasser": 900,
+      "valgbar": true
+    },
+    "lat": 63.43312,
+    "lng": 10.395589
+  },
+  {
+    "title": "Kristine Samdahl Utne",
+    "address": "Vestre Rosten 77, 7075 TILLER",
+    "metadata": {
+      "legekontor": "Fokus legesenter",
+      "tlf": "72 59 45 00",
+      "antallPlasser": 950
+    },
+    "lat": 63.362539,
+    "lng": 10.3719311
+  },
+  {
+    "title": "Filip Vagle",
+    "address": "Jomfrugt. 18, 7010 Trondheim",
+    "metadata": {
+      "legekontor": "Nidelven legekontor AS",
+      "tlf": "73 99 43 40",
+      "ledigePlasser": 39,
+      "antallPlasser": 700,
+      "valgbar": true
+    },
+    "lat": 63.4354303,
+    "lng": 10.399709
+  },
+  {
+    "title": "Eli Johnsen Valør",
+    "address": "Olav Tryggvasons gate 14, 7011 Trondheim",
+    "metadata": {
+      "legekontor": "Mathesongården Legesenter",
+      "tlf": "73 87 04 80",
+      "antallPlasser": 1150
+    },
+    "lat": 63.4334549,
+    "lng": 10.3996608
+  },
+  {
+    "title": "Caroline Irma M Van Noten",
+    "address": "Stallbakksvingen 2, 7760 SNÅSA",
+    "metadata": {
+      "legekontor": "Snåsa Legekontor",
+      "tlf": "74 13 83 50",
+      "antallPlasser": 700
+    },
+    "lat": 64.245435,
+    "lng": 12.372126
+  },
+  {
+    "title": "Håvard Torpe Vassenden",
+    "address": "Breidablikkvegen 1, 7500 Stjørdal",
+    "metadata": {
+      "legekontor": "Stjørdal Legesenter",
+      "tlf": "74 80 44 00",
+      "antallPlasser": 700
+    },
+    "lat": 63.468707,
+    "lng": 10.931574
+  },
+  {
+    "title": "Daniel Vatn",
+    "address": "Ivar Lykkes veg 3, 7075 Tiller",
+    "metadata": {
+      "legekontor": "Tillertorget Legesenter AS",
+      "tlf": "72 90 07 01",
+      "antallPlasser": 1325
+    },
+    "lat": 63.3580652,
+    "lng": 10.3748349
+  },
+  {
+    "title": "Ingrid Marie Løvnes Vedum",
+    "address": "Henrik Grønnsvei 25, 7374 RØROS",
+    "metadata": {
+      "legekontor": "Røros Legesenter",
+      "tlf": "72 41 94 80",
+      "antallPlasser": 800
+    },
+    "lat": 62.5771342,
+    "lng": 11.3786766
+  },
+  {
+    "title": "Christina Vekseth",
+    "address": "Høvdingveien 10, 7725 Steinkjer",
+    "metadata": {
+      "legekontor": "Høvdinggården Legekontor",
+      "tlf": "74 14 12 50",
+      "antallPlasser": 850
+    },
+    "lat": 64.0238545,
+    "lng": 11.4813835
+  },
+  {
+    "title": "Torbjørn Velle-Forbord",
+    "address": "Wessels Veg 95, 7502",
+    "metadata": {
+      "legekontor": "Tangen Legekontor",
+      "tlf": "74 82 35 00",
+      "antallPlasser": 650
+    },
+    "lat": 63.4734665,
+    "lng": 10.9014559
+  },
+  {
+    "title": "Svend Peder Vesterfjell",
+    "address": "Henrik Grønnsvei 25, 7374 RØROS",
+    "metadata": {
+      "legekontor": "Røros Legesenter",
+      "tlf": "72 41 94 80",
+      "antallPlasser": 700
+    },
+    "lat": 62.5771342,
+    "lng": 11.3786766
+  },
+  {
+    "title": "John Olav Vinge",
+    "address": "Skolegata 9, 7130 BREKSTAD",
+    "metadata": {
+      "legekontor": "Ørland/Bjugn Legetjeneste (Legekontor)",
+      "tlf": "72 51 41 00",
+      "antallPlasser": 640
+    },
+    "lat": 63.685591,
+    "lng": 9.655906
+  },
+  {
+    "title": "Kristine Vinge-Holmquist",
+    "address": "Skolegata 9, 7130 BREKSTAD",
+    "metadata": {
+      "legekontor": "Ørland/Bjugn Legetjeneste (Legekontor)",
+      "tlf": "72 51 41 00",
+      "antallPlasser": 650
+    },
+    "lat": 63.685591,
+    "lng": 9.655906
+  },
+  {
+    "title": "Solveig Vold",
+    "address": "Orkdalsveien 38 A, 7300 ORKDAL",
+    "metadata": {
+      "legekontor": "Orkland kommune legetjeneste Orkdal",
+      "tlf": "72 48 78 60",
+      "antallPlasser": 700
+    },
+    "lat": 63.263466,
+    "lng": 9.8130761
+  },
+  {
+    "title": "Maria Wahl",
+    "address": "Wessels Veg 95, 7502",
+    "metadata": {
+      "legekontor": "Tangen Legekontor",
+      "tlf": "74 82 35 00",
+      "antallPlasser": 900
+    },
+    "lat": 63.4734665,
+    "lng": 10.9014559
+  },
+  {
+    "title": "Saiqa Walayat",
+    "address": "Steinkjersannan 5, 7713 STEINKJER",
+    "metadata": {
+      "legekontor": "Sannan Legesenter AS",
+      "tlf": "73 60 42 60",
+      "ledigePlasser": 94,
+      "antallPlasser": 700,
+      "valgbar": true
+    },
+    "lat": 64.0093584,
+    "lng": 11.5024645
+  },
+  {
+    "title": "Uliana Wassæther",
+    "address": "Sørveien 17b, Kysthaven, 7260 Sistranda",
+    "metadata": {
+      "legekontor": "Frøya Legekontor",
+      "tlf": "72 44 70 80",
+      "ledigePlasser": 28,
+      "antallPlasser": 800,
+      "valgbar": true
+    },
+    "lat": 63.7301981,
+    "lng": 8.8297021
+  },
+  {
+    "title": "Ida Kathrin Ingebrigtsen Welde",
+    "address": "Navarvegen 19, 7820 SPILLUM",
+    "metadata": {
+      "legekontor": "Namsen Legesenter",
+      "tlf": "74 21 80 80",
+      "antallPlasser": 1000
+    },
+    "lat": 64.459991,
+    "lng": 11.541966
+  },
+  {
+    "title": "Johanna Austgulen Westin",
+    "address": "Ås, 7590 TYDAL",
+    "metadata": {
+      "legekontor": "Tydal legekontor",
+      "tlf": "73 81 58 40",
+      "ledigePlasser": 181,
+      "antallPlasser": 600,
+      "valgbar": true
+    },
+    "lat": 63.0448743,
+    "lng": 11.6577805
+  },
+  {
+    "title": "Einar Stenvold Wik",
+    "address": "Øvre Flatåsvei 4b, 7079 FLATÅSEN",
+    "metadata": {
+      "legekontor": "Flatåsen Legesenter DA",
+      "tlf": "72 59 58 58",
+      "ledigePlasser": 81,
+      "antallPlasser": 1275,
+      "valgbar": true
+    },
+    "lat": 63.371625,
+    "lng": 10.34271
+  },
+  {
+    "title": "Arne Winsnes",
+    "address": "Smistadvegen 11, 7026 Trondheim",
+    "metadata": {
+      "legekontor": "Granåsen Legesenter AS",
+      "tlf": "73 18 65 30",
+      "antallPlasser": 1000
+    },
+    "lat": 63.3762253,
+    "lng": 10.3127707
+  },
+  {
+    "title": "Kirsti Merete Withbro",
+    "address": "Tine Bugges vei 1A, 7540 KLÆBU",
+    "metadata": {
+      "legekontor": "Klæbu legesenter AS",
+      "tlf": "72 83 01 70",
+      "antallPlasser": 1100
+    },
+    "lat": 63.2977947,
+    "lng": 10.4833433
+  },
+  {
+    "title": "Anders Waagaard Wold",
+    "address": "Orkdalsveien 58, 7300 Orkanger",
+    "metadata": {
+      "legekontor": "Orkanger Legesenter",
+      "tlf": "72 47 11 50",
+      "antallPlasser": 1300
+    },
+    "lat": 63.3050429,
+    "lng": 9.849584
+  },
+  {
+    "title": "Desirre Wold",
+    "address": "Kirkegata 1 A, 7600 LEVANGER",
+    "metadata": {
+      "legekontor": "Kirkegata Legesenter AS",
+      "antallPlasser": 1225
+    },
+    "lat": 63.7431148,
+    "lng": 11.2882422
+  },
+  {
+    "title": "Mari Waagaard Wold",
+    "address": "Sjukeheimsvegen 6, 6657 RINDAL",
+    "metadata": {
+      "legekontor": "Rindal Legekontor",
+      "tlf": "71 66 44 00",
+      "antallPlasser": 550
+    },
+    "lat": 63.055573,
+    "lng": 9.217015
+  },
+  {
+    "title": "Aleksandra Zofia Wrobel",
+    "address": "Anders Estenstads Veg 18, 7046 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Valentinlyst Legesenter",
+      "tlf": "73 82 97 97",
+      "antallPlasser": 1150
+    },
+    "lat": 63.4249897,
+    "lng": 10.4420123
+  },
+  {
+    "title": "Ben Xue",
+    "address": "Skolegata 9, 7130 BREKSTAD",
+    "metadata": {
+      "legekontor": "Ørland/Bjugn Legetjeneste (Legekontor)",
+      "tlf": "72 51 41 00",
+      "antallPlasser": 810
+    },
+    "lat": 63.685591,
+    "lng": 9.655906
+  },
+  {
+    "title": "Prages Yogeswaran",
+    "address": "Rørosveien 1, 7290 STØREN",
+    "metadata": {
+      "legekontor": "Midtre Gauldal legekontor",
+      "tlf": "72 43 03 20",
+      "ledigePlasser": 80,
+      "antallPlasser": 1030,
+      "valgbar": true
+    },
+    "lat": 63.039709,
+    "lng": 10.286372
+  },
+  {
+    "title": "Dragan Zerajic",
+    "address": "Steinkjersannan 5, 7713 STEINKJER",
+    "metadata": {
+      "legekontor": "Sannan Legesenter AS",
+      "tlf": "73 60 42 60",
+      "antallPlasser": 1300
+    },
+    "lat": 64.0093584,
+    "lng": 11.5024645
+  },
+  {
+    "title": "Eirik Øksenvåg",
+    "address": "Haakon VIIs gate 27, 7041 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Leangen Legesenter",
+      "tlf": "73 51 77 13",
+      "antallPlasser": 1210
+    },
+    "lat": 63.438774,
+    "lng": 10.463933
+  },
+  {
+    "title": "Guro Ølstøren-Moe",
+    "address": "Løvsetvegen 2, 7224 Melhus",
+    "metadata": {
+      "legekontor": "Midt Legesenter AS",
+      "tlf": "73 18 88 80",
+      "antallPlasser": 800
+    },
+    "lat": 63.284308,
+    "lng": 10.281447
+  },
+  {
+    "title": "Kristoffer Ølstøren-Moe",
+    "address": "Løvsetvegen 2, 7224 Melhus",
+    "metadata": {
+      "legekontor": "Midt Legesenter AS",
+      "tlf": "73 18 88 80",
+      "ledigePlasser": 95,
+      "antallPlasser": 1100,
+      "valgbar": true
+    },
+    "lat": 63.284308,
+    "lng": 10.281447
+  },
+  {
+    "title": "Johan Østerås",
+    "address": "Tine Bugges vei 1A, 7540 KLÆBU",
+    "metadata": {
+      "legekontor": "Klæbu legesenter AS",
+      "tlf": "72 83 01 70",
+      "antallPlasser": 1100
+    },
+    "lat": 63.2977947,
+    "lng": 10.4833433
+  },
+  {
+    "title": "Eli Øvstedal",
+    "address": "Øvre Flatåsvei 4b, 7079 FLATÅSEN",
+    "metadata": {
+      "legekontor": "Flatåsen Legesenter DA",
+      "tlf": "72 59 58 58",
+      "antallPlasser": 1100
+    },
+    "lat": 63.371625,
+    "lng": 10.34271
+  },
+  {
+    "title": "Bjørg Aadahl",
+    "address": "Richard Birkelands veg 5, 7034 Trondheim",
+    "metadata": {
+      "legekontor": "Gløshaugen legesenter AS",
+      "tlf": "400 01 223",
+      "antallPlasser": 1400
+    },
+    "lat": 63.415693,
+    "lng": 10.4109041
+  },
+  {
+    "title": "Marianne Aadal",
+    "address": "Falkenborgveien 35c, 7044 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Gildheim Legesenter",
+      "tlf": "73 18 61 86",
+      "antallPlasser": 1050
+    },
+    "lat": 63.434941,
+    "lng": 10.459307
+  },
+  {
+    "title": "Solgunn Aalrust",
+    "address": "Einar Bergs Veg 4, 7520 HEGRA",
+    "metadata": {
+      "legekontor": "Hegra Legekontor",
+      "tlf": "74 83 46 80",
+      "antallPlasser": 900
+    },
+    "lat": 63.46294,
+    "lng": 11.113956
+  },
+  {
+    "title": "Kjersti Kierulf Åm",
+    "address": "Ilevollen 50, 7018 TRONDHEIM",
+    "metadata": {
+      "legekontor": "Ila Legesenter DA",
+      "tlf": "73 51 11 24",
+      "antallPlasser": 1300
+    },
+    "lat": 63.4282995,
+    "lng": 10.3673652
+  },
+  {
+    "title": "Morten Aas",
+    "address": "Sverres gate 23, 7800 NAMSOS",
+    "metadata": {
+      "legekontor": "Bakklandet legekontor",
+      "tlf": "74 20 90 40",
+      "antallPlasser": 770
+    },
+    "lat": 64.4678547,
+    "lng": 11.493618
+  },
+  {
+    "title": "Olav Aas",
+    "address": "Vikelvfaret 4, 7054 Ranheim",
+    "metadata": {
+      "legekontor": "Ranheim Legesenter",
+      "tlf": "73 82 58 00",
+      "ledigePlasser": 112,
+      "antallPlasser": 1300,
+      "valgbar": true
+    },
+    "lat": 63.421276,
+    "lng": 10.53616
+  },
+  {
+    "title": "Katrina Forberg Aasen",
+    "address": "Richard Birkelands veg 5, 7034 Trondheim",
+    "metadata": {
+      "legekontor": "Gløshaugen legesenter AS",
+      "tlf": "400 01 223",
+      "antallPlasser": 1250
+    },
+    "lat": 63.415693,
+    "lng": 10.4109041
+  },
+  {
+    "title": "Katrine Marie Åvitsland",
+    "address": "Nøkkrosevegen 2, 7970 Kolvereid",
+    "metadata": {
+      "legekontor": "Nærøysund Legekontor",
+      "tlf": "948 12 953",
+      "antallPlasser": 800
+    },
+    "lat": 64.8647037,
+    "lng": 11.6027053
+  }
+]

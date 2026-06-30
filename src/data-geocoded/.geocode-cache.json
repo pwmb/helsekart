@@ -852,5 +852,4555 @@
   "Oslo Hospital, Ekebergveien 1 A, 0192 Oslo": {
     "lat": 59.903121,
     "lng": 10.7677257
+  },
+  "Alleen 16, 4580 LYNGDAL": {
+    "lat": 58.137357,
+    "lng": 7.065483
+  },
+  "Skarvøyveien 55, 4517 MANDAL": {
+    "lat": 58.029041,
+    "lng": 7.460841
+  },
+  "Vestre Strandgate 32, 4612 KRISTIANSAND S": {
+    "lat": 58.145792,
+    "lng": 7.989596
+  },
+  "Noroddveien 2, 4816 KOLBJØRNSVIK": {
+    "lat": 58.4519935,
+    "lng": 8.768601
+  },
+  "Brokelandsheia 52, 4993 SUNDEBRU": {
+    "lat": 58.823057,
+    "lng": 9.070937
+  },
+  "Storgata 2, 4790 LILLESAND": {
+    "lat": 58.249285,
+    "lng": 8.376427
+  },
+  "Dronningens gate 15, 4610": {
+    "lat": 58.144698,
+    "lng": 7.9962066
+  },
+  "Lauvåsen Hovedvei 1, 4656 HAMRESANDEN": {
+    "lat": 58.180488,
+    "lng": 8.0983511
+  },
+  "Rådhusveien 12, 4523 LINDESNES": {
+    "lat": 58.084455,
+    "lng": 7.300537
+  },
+  "Rådhusveien 7, 4640 Søgne": {
+    "lat": 58.0963381,
+    "lng": 7.8141339
+  },
+  "Kystveien 244, 4841 ARENDAL": {
+    "lat": 58.4744348,
+    "lng": 8.8164611
+  },
+  "Havnegaten 1, 4836 ARENDAL": {
+    "lat": 58.460551,
+    "lng": 8.767654
+  },
+  "Elvegaten 14, 4400 Flekkefjord": {
+    "lat": 58.2948326,
+    "lng": 6.6613099
+  },
+  "Bark Silas' vei 7, 4876 GRIMSTAD": {
+    "lat": 58.335318,
+    "lng": 8.590593
+  },
+  "Feviktoppen 1, 4870 FEVIK": {
+    "lat": 58.3800825,
+    "lng": 8.6754186
+  },
+  "Østre Strandagate 76 A, 4608 Kristiansand S": {
+    "lat": 58.1466907,
+    "lng": 8.0051381
+  },
+  "Vardåsveien 69, 4637 KRISTIANSAND S": {
+    "lat": 58.1523447,
+    "lng": 8.0578199
+  },
+  "Barbrosgate 13B, 4550 Farsund": {
+    "lat": 58.1027858,
+    "lng": 6.8167104
+  },
+  "Stadionveien 21, 4632 Kristiansand S": {
+    "lat": 58.153247,
+    "lng": 8.029055
+  },
+  "Kirsten Flagstads vei 1, 4621 KRISTIANSAND S": {
+    "lat": 58.1246897,
+    "lng": 7.9606681
+  },
+  "Universitetsveien 3B, 4630 KRISTIANSAND S": {
+    "lat": 58.162218,
+    "lng": 8.007754
+  },
+  "Brogata 9, 4400 Flekkefjord": {
+    "lat": 58.2941588,
+    "lng": 6.6566959
+  },
+  "Elgveien 5, 4818 FÆRVIK": {
+    "lat": 58.4634545,
+    "lng": 8.8220979
+  },
+  "Storgaten 33, 4876 Grimstad": {
+    "lat": 58.342673,
+    "lng": 8.590681
+  },
+  "Kystveien 690, 4851 Arendal": {
+    "lat": 58.4947901,
+    "lng": 8.8484562
+  },
+  "Frolandsveien 6, 4847 ARENDAL": {
+    "lat": 58.4648081,
+    "lng": 8.7442812
+  },
+  "Gata 10, 4865 ÅMLI": {
+    "lat": 58.7665027,
+    "lng": 8.4847903
+  },
+  "Lumberveien 49, 4621 Kristiansand S": {
+    "lat": 58.1230247,
+    "lng": 7.9685098
+  },
+  "Klinkenberg 2, 4838 ARENDAL": {
+    "lat": 58.468077,
+    "lng": 8.755759
+  },
+  "Storgata 1C, 4790 LILLESAND": {
+    "lat": 58.2494868,
+    "lng": 8.3767058
+  },
+  "Furuvegen 1, 4820 FROLAND": {
+    "lat": 58.506116,
+    "lng": 8.6400708
+  },
+  "Hollendergt 3, 4514 Mandal": {
+    "lat": 58.0268181,
+    "lng": 7.4534802
+  },
+  "Kirkeveien 4, 4631 KRISTIANSAND S": {
+    "lat": 58.1524016,
+    "lng": 8.0133521
+  },
+  "Sentrumsveien 41, 4700 VENNESLA": {
+    "lat": 58.267283,
+    "lng": 7.973558
+  },
+  "Frigstadveien 20, 4724 IVELAND": {
+    "lat": 58.4631277,
+    "lng": 7.9223025
+  },
+  "Søsterdalen 16, 4900 TVEDESTRAND": {
+    "lat": 58.6274131,
+    "lng": 8.9245147
+  },
+  "Henrik Wergelands gate 4, 4612 KRISTIANSAND S": {
+    "lat": 58.146127,
+    "lng": 7.9900956
+  },
+  "Halseveien 5, 4517 MANDAL": {
+    "lat": 58.0300906,
+    "lng": 7.4579514
+  },
+  "Songdalsvn.53, 4645 Nodeland": {
+    "lat": 58.1526992,
+    "lng": 7.8367764
+  },
+  "Vestre Strandgate 32, 4612 Kristiansand": {
+    "lat": 58.145792,
+    "lng": 7.989596
+  },
+  "Setesdalsveien 277, 4618 KRISTIANSAND S": {
+    "lat": 58.188878,
+    "lng": 7.927531
+  },
+  "Grøm Næringspark 19, 4887 GRIMSTAD": {
+    "lat": 58.339035,
+    "lng": 8.57044
+  },
+  "Arendalsveien 32, 4878 GRIMSTAD": {
+    "lat": 58.3462746,
+    "lng": 8.5990073
+  },
+  "Hovlandsveien 9, 4985 Vegårshei, 4985 VEGÅRSHEI": {
+    "lat": 58.7598276,
+    "lng": 8.8577184
+  },
+  "barstølveien 34, 4636 KRISTIANSAND S": {
+    "lat": 58.1712817,
+    "lng": 8.1263211
+  },
+  "Kystveien 154, 4842 Arendal": {
+    "lat": 58.4681512,
+    "lng": 8.7953396
+  },
+  "Festningsgata 4A, 4608 KRISTIANSAND S": {
+    "lat": 58.145873,
+    "lng": 7.999713
+  },
+  "Rykeneveien 113, 4824 Bjorbekk": {
+    "lat": 58.4389896,
+    "lng": 8.7077113
+  },
+  "Hæstadveien 16, 4770 HØVÅG": {
+    "lat": 58.159298,
+    "lng": 8.216952
+  },
+  "Farmonen 9, 4480 Kvinesdal": {
+    "lat": 58.3098766,
+    "lng": 6.9590813
+  },
+  "Nordre Heddeland 22, 4534 MARNARDAL": {
+    "lat": 58.197979,
+    "lng": 7.527043
+  },
+  "Krags gate 48B, 4950 RISØR": {
+    "lat": 58.719452,
+    "lng": 9.228095
+  },
+  "Vesterveien 44, 4839 Arendal": {
+    "lat": 58.454513,
+    "lng": 8.747319
+  },
+  "Sarvsvegen 31, 4754 BYKLE": {
+    "lat": 59.3570067,
+    "lng": 7.3549139
+  },
+  "Ljosheimvegen 5, 4735 EVJE": {
+    "lat": 58.5871,
+    "lng": 7.810316
+  },
+  "Strøget, 4760 Birkeland": {
+    "lat": 58.3346876,
+    "lng": 8.2318061
+  },
+  "Skonnertveien 12, 4624 KRISTIANSAND S": {
+    "lat": 58.106534,
+    "lng": 7.960004
+  },
+  "Kvåsheiveien 1, 4525 KONSMO": {
+    "lat": 58.2859181,
+    "lng": 7.3550079
+  },
+  "Josdalsveien 4, 4440 TONSTAD": {
+    "lat": 58.6637219,
+    "lng": 6.7180893
+  },
+  "Gardsvegen 68, 4540 ÅSERAL": {
+    "lat": 58.6174296,
+    "lng": 7.4112407
+  },
+  "Vesterveien 778, 4823 NEDENES": {
+    "lat": 58.411969,
+    "lng": 8.698008
+  },
+  "Egsveien 102, 4615 KRISTIANSAND S": {
+    "lat": 58.1631423,
+    "lng": 7.9799969
+  },
+  "Barbros gate 7A, 4550 FARSUND": {
+    "lat": 58.0929258,
+    "lng": 6.8073984
+  },
+  "Dronningensgate 4, 4610": {
+    "lat": 58.9988996,
+    "lng": 10.0384722
+  },
+  "Ola Garsonsvei 6, 4596 Eiken": {
+    "lat": 58.4609128,
+    "lng": 7.229688
+  },
+  "Hovedgt. 42, 4900 TVEDESTRAND": {
+    "lat": 58.6227658,
+    "lng": 8.9244798
+  },
+  "Andøyveien 23, 4623 KRISTIANSAND S": {
+    "lat": 58.1125951,
+    "lng": 7.9681387
+  },
+  "Bærumsveien 205, 1357 BEKKESTUA": {
+    "lat": 59.917244,
+    "lng": 10.586857
+  },
+  "Grindbråtan 1, 1484 Hakadal": {
+    "lat": 60.0892904,
+    "lng": 10.8712029
+  },
+  "Boecksgate 3, 1473 LØRENSKOG": {
+    "lat": 59.9232572,
+    "lng": 10.9599559
+  },
+  "Solheimveien 30, 1461 LØRENSKOG": {
+    "lat": 59.933932,
+    "lng": 10.939372
+  },
+  "Vestre Strandvei 3, 3482 TOFTE": {
+    "lat": 59.5405014,
+    "lng": 10.5563261
+  },
+  "Prestegårdsvn 4, 1912 Enebakk": {
+    "lat": 59.7643935,
+    "lng": 11.1448818
+  },
+  "Prost Stabelsvei 6, 2019 SKEDSMOKORSET": {
+    "lat": 59.9865012,
+    "lng": 11.0273285
+  },
+  "Morellveien 1, 1387 Asker": {
+    "lat": 59.8264783,
+    "lng": 10.4482786
+  },
+  "Losbyveien 34, 1475 FINSTADJORDET": {
+    "lat": 59.913008,
+    "lng": 10.958111
+  },
+  "Senterveien 9-15, 1930 AURSKOG": {
+    "lat": 59.9293059,
+    "lng": 11.4456613
+  },
+  "Torgveien 2, 1400 SKI": {
+    "lat": 59.7190635,
+    "lng": 10.8369042
+  },
+  "Wergelands gt. 5, 2080 EIDSVOLL": {
+    "lat": 60.328496,
+    "lng": 11.258528
+  },
+  "Gamle Fetvei 13, 1900 FETSUND": {
+    "lat": 59.9281266,
+    "lng": 11.1624553
+  },
+  "Bærumsveien 206, 1357 BEKKESTUA": {
+    "lat": 59.917283,
+    "lng": 10.588554
+  },
+  "Gladbakkvegen 2, 2070 RÅHOLT": {
+    "lat": 60.279853,
+    "lng": 11.174994
+  },
+  "Mauravegen 4, 2032 MAURA": {
+    "lat": 60.258461,
+    "lng": 11.03531
+  },
+  "Stasjonsveien 5, 2010 STRØMMEN": {
+    "lat": 59.9478961,
+    "lng": 11.0044152
+  },
+  "C J Hansens vei 13, 2007 KJELLER": {
+    "lat": 59.9627551,
+    "lng": 11.0623578
+  },
+  "Rudsveien 45, 1346 GJETTUM": {
+    "lat": 59.9049,
+    "lng": 10.505722
+  },
+  "Vardåsveien 3, 1402 SKI": {
+    "lat": 59.7264146,
+    "lng": 10.8436748
+  },
+  "Storgata 27, 1440 Drøbak": {
+    "lat": 59.66043,
+    "lng": 10.629809
+  },
+  "Forneburingen 209, 1364 FORNEBU": {
+    "lat": 59.893834,
+    "lng": 10.618665
+  },
+  "Sagbruksveien 59, 2010 STRØMMEN": {
+    "lat": 59.9512022,
+    "lng": 11.0109854
+  },
+  "Bregnefaret 1A, 1405 LANGHUS": {
+    "lat": 59.764305,
+    "lng": 10.851957
+  },
+  "Furuholtet 1, 2020 Skedsmokorset": {
+    "lat": 60.013403,
+    "lng": 11.0402298
+  },
+  "Vestheimveien 31, 1541 VESTBY": {
+    "lat": 59.6035123,
+    "lng": 10.7515238
+  },
+  "Amfi Senter 4. etg, Kjølstadvegen 1, 2160 VORMSUND": {
+    "lat": 60.1534246,
+    "lng": 11.41601
+  },
+  "Kirkegata 6, 3520 JEVNAKER": {
+    "lat": 60.2406051,
+    "lng": 10.3858137
+  },
+  "Skårersletta 18, 1473 LØRENSKOG": {
+    "lat": 59.9260045,
+    "lng": 10.9543164
+  },
+  "Trondheimsveien 84 Postgården, 2040 KLØFTA": {
+    "lat": 60.0740687,
+    "lng": 11.1380487
+  },
+  "Vogellund 6, 1394 NESBRU": {
+    "lat": 59.8543757,
+    "lng": 10.4883029
+  },
+  "Idrettsveien 16A, 1400 SKI": {
+    "lat": 59.7197712,
+    "lng": 10.8402506
+  },
+  "Dyrløkkeveien 15, 1448 DRØBAK": {
+    "lat": 59.6713442,
+    "lng": 10.6507479
+  },
+  "Trondheimsvegen - Jessheim 60, 2050 JESSHEIM": {
+    "lat": 60.139203,
+    "lng": 11.172932
+  },
+  "Åsenveien 10, 1400 SKI": {
+    "lat": 59.718495,
+    "lng": 10.839555
+  },
+  "Søndre Borgen 16, 1388 BORGEN": {
+    "lat": 59.826815,
+    "lng": 10.425113
+  },
+  "Dampsagveien 25, 2004 Lillestrøm": {
+    "lat": 59.9520866,
+    "lng": 11.0451226
+  },
+  "Trondheimsvegen 266-268, 2070 RÅHOLT": {
+    "lat": 60.2808854,
+    "lng": 11.1757328
+  },
+  "Munins v. 1, 1348 RYKKINN": {
+    "lat": 59.9239927,
+    "lng": 10.4861886
+  },
+  "Øvre Rælingsvei 203, 2025 FJERDINGBY": {
+    "lat": 59.92407,
+    "lng": 11.06413
+  },
+  "Stallbakken 1, 2005 RÆLINGEN": {
+    "lat": 59.94614,
+    "lng": 11.0299489
+  },
+  "Bankgården Legekontor, 1920 SØRUMSAND": {
+    "lat": 59.9867954,
+    "lng": 11.2421922
+  },
+  "Hagaskogveien 17, 2150 ÅRNES": {
+    "lat": 60.119785,
+    "lng": 11.477177
+  },
+  "Prost Stabels vei 6, 2019": {
+    "lat": 59.9865012,
+    "lng": 11.0273285
+  },
+  "Munins vei 1, 1348 Rykkinn": {
+    "lat": 59.9239927,
+    "lng": 10.4861886
+  },
+  "John Strandrudsv. 14, 1360 Fornebu": {
+    "lat": 59.903273,
+    "lng": 10.626315
+  },
+  "Bankveien 1, 1383 Asker": {
+    "lat": 59.834477,
+    "lng": 10.433995
+  },
+  "Raveien 6A, 1430 ÅS": {
+    "lat": 59.665554,
+    "lng": 10.79118
+  },
+  "Bassengveien 1, 3440 RØYKEN": {
+    "lat": 59.741733,
+    "lng": 10.391051
+  },
+  "Kolbotnveien 23, 1410 KOLBOTN": {
+    "lat": 59.8112948,
+    "lng": 10.8016914
+  },
+  "Hadelandsvegen 859, 2743 Harestua": {
+    "lat": 60.205295,
+    "lng": 10.714411
+  },
+  "Vakåsveien 9, 1395 HVALSTAD": {
+    "lat": 59.8527257,
+    "lng": 10.4753044
+  },
+  "Sundbytunet 14, 2050 JESSHEIM": {
+    "lat": 60.1415121,
+    "lng": 11.1751516
+  },
+  "Trevaren 3, 1389 HEGGEDAL": {
+    "lat": 59.787088,
+    "lng": 10.436599
+  },
+  "Hagaløkkveien 7, 1383 ASKER": {
+    "lat": 59.8321885,
+    "lng": 10.429526
+  },
+  "Garderbakken 6, 1900 FETSUND": {
+    "lat": 59.9283299,
+    "lng": 11.1632019
+  },
+  "Slependveien 48, 1341 SLEPENDEN": {
+    "lat": 59.886991,
+    "lng": 10.501583
+  },
+  "Elias Smiths vei 10, 1337 Sandvika": {
+    "lat": 59.8915453,
+    "lng": 10.5192197
+  },
+  "Dampsagveien 2-4, oppgang A3, 2. etg, 2000 LILLESTRØM": {
+    "lat": 59.9557453,
+    "lng": 11.0600384
+  },
+  "Ringsveien 3, 1368 STABEKK": {
+    "lat": 59.911299,
+    "lng": 10.602751
+  },
+  "Hamangskogen 60, 1338 SANDVIKA": {
+    "lat": 59.8949845,
+    "lng": 10.5105043
+  },
+  "Vestveien 18, 1423 SKI": {
+    "lat": 59.7137704,
+    "lng": 10.8287678
+  },
+  "Flåtestadveien 3, 1415 OPPEGÅRD": {
+    "lat": 59.774186,
+    "lng": 10.803207
+  },
+  "Magnus Blikstads vei 9, 1362 HOSLE": {
+    "lat": 59.931016,
+    "lng": 10.587518
+  },
+  "Stortorget 24, 2000 LILLESTRØM": {
+    "lat": 59.958677,
+    "lng": 11.05184
+  },
+  "Bryggevn. 90, 3470 SLEMMESTAD": {
+    "lat": 59.7808404,
+    "lng": 10.4979197
+  },
+  "Hellinga 8, 1481 HAGAN": {
+    "lat": 59.9974081,
+    "lng": 10.9183763
+  },
+  "Engervannsveien 31, 1337 SANDVIKA": {
+    "lat": 59.8935545,
+    "lng": 10.5230916
+  },
+  "Trollåsenveien 25, 1414": null,
+  "Hurumveien 49A, 3474 ÅROS": {
+    "lat": 59.7050858,
+    "lng": 10.5116895
+  },
+  "Gamleveien 5, 1354 Bærums Verk": {
+    "lat": 59.9430176,
+    "lng": 10.5017437
+  },
+  "Teiealleen 9, 2031 NANNESTAD": {
+    "lat": 60.2192042,
+    "lng": 11.0150355
+  },
+  "Tunveien 2, 1430 Ås": {
+    "lat": 59.656628,
+    "lng": 10.793382
+  },
+  "Sagstuveien 1, 1914 YTRE ENEBAKK": {
+    "lat": 59.7239803,
+    "lng": 11.0502988
+  },
+  "Lørdagsrudveien 2, 1472 FJELLHAMAR": {
+    "lat": 59.9393468,
+    "lng": 10.989488
+  },
+  "Veiberggata 7, 2050 JESSHEIM": {
+    "lat": 60.141378,
+    "lng": 11.172337
+  },
+  "Sandvikveien 26, 1363 Høvik": {
+    "lat": 59.8970552,
+    "lng": 10.5787568
+  },
+  "Nystuen 1D, 2022 GJERDRUM": {
+    "lat": 60.065985,
+    "lng": 11.038908
+  },
+  "Blakervegen 37, 1920 Sørumsand": {
+    "lat": 59.985751,
+    "lng": 11.250473
+  },
+  "Engehaget 1, 1950 RØMSKOG": {
+    "lat": 59.749606,
+    "lng": 11.811147
+  },
+  "Haldenveien 34, 1940 BJØRKELANGEN": {
+    "lat": 59.8843138,
+    "lng": 11.5620848
+  },
+  "Øraveien 5, 3475 SÆTRE": {
+    "lat": 59.6814843,
+    "lng": 10.5286356
+  },
+  "Jan Baalsruds Plass 5, 1410": {
+    "lat": 59.810858,
+    "lng": 10.799657
+  },
+  "Saggata 3, 2053 JESSHEIM": {
+    "lat": 60.142302,
+    "lng": 11.178576
+  },
+  "Sagavn 32, 1555 SON": {
+    "lat": 59.524358,
+    "lng": 10.688954
+  },
+  "Håkonskastet 5, 1453 BJØRNEMYR": {
+    "lat": 59.839352,
+    "lng": 10.64517
+  },
+  "Haugervegen 25, 2008 FJERDINGBY": {
+    "lat": 59.9231007,
+    "lng": 11.071514
+  },
+  "Gjerdrumsvegen 5, 2040": {
+    "lat": 60.074487,
+    "lng": 11.135849
+  },
+  "Engervannsveien 29, 1337 Sandvika": {
+    "lat": 59.893802,
+    "lng": 10.523637
+  },
+  "Knud Askers vei 28B, 1383 Asker": {
+    "lat": 59.8368287,
+    "lng": 10.4347567
+  },
+  "Myklerudveien 124, 1454 FAGERSTRAND": {
+    "lat": 59.745974,
+    "lng": 10.608878
+  },
+  "Smed Hagens Veg 11, 2080 EIDSVOLL": {
+    "lat": 60.3277977,
+    "lng": 11.2741844
+  },
+  "Vøyenengtunet 5, 1314 Vøyenenga": {
+    "lat": 59.9079975,
+    "lng": 10.4766116
+  },
+  "Skjæret 47, 1390 VOLLEN": {
+    "lat": 59.8117115,
+    "lng": 10.4847242
+  },
+  "Rådhusveien 3, 1482 NITTEDAL": {
+    "lat": 60.0432778,
+    "lng": 10.8812518
+  },
+  "Løvenstadveien 16, 2006 LØVENSTAD": {
+    "lat": 59.937484,
+    "lng": 11.028041
+  },
+  "Jernbanegata 12A, 2150 Årnes": {
+    "lat": 60.1240231,
+    "lng": 11.4666418
+  },
+  "TORVVEIEN 12 C, 4.ETG, 1383 ASKER": {
+    "lat": 59.8336774,
+    "lng": 10.4123355
+  },
+  "Spikkestadveien 128, 3430 SPIKKESTAD": {
+    "lat": 59.7438156,
+    "lng": 10.3393188
+  },
+  "Mølleveien 4, 1541 VESTBY": {
+    "lat": 59.6011959,
+    "lng": 10.7460158
+  },
+  "Boligveien 10, 3470 SLEMMESTAD": {
+    "lat": 59.7800303,
+    "lng": 10.4938801
+  },
+  "Skårer Legesenter, Skårersletta 18, 1473 LØRENSKOG": {
+    "lat": 59.9232572,
+    "lng": 10.9599559
+  },
+  "Skuiløkka 13, 1340 SKUI": {
+    "lat": 59.9271987,
+    "lng": 10.4452306
+  },
+  "Moerveien 14, 1430 ÅS": {
+    "lat": 59.6613466,
+    "lng": 10.7934037
+  },
+  "Arnestadveien 2B, 1390 VOLLEN": {
+    "lat": 59.8071528,
+    "lng": 10.4866323
+  },
+  "Rastastubben 3, 1476 RASTA": {
+    "lat": 59.923364,
+    "lng": 10.937063
+  },
+  "Otto Rugesvei 80, 1361 ØSTERÅS": {
+    "lat": 59.94373,
+    "lng": 10.60709
+  },
+  "Tamburveien 5, 1406 Ski": {
+    "lat": 59.7190409,
+    "lng": 10.8042016
+  },
+  "Gamle Tanumvei 66, 1341 Slependen": {
+    "lat": 59.88396,
+    "lng": 10.492276
+  },
+  "Baker Østbys vei 26, 1351 Rud": {
+    "lat": 59.9055013,
+    "lng": 10.498851
+  },
+  "Ragnar Strøms veg 4, 2067 JESSHEIM": {
+    "lat": 60.1658064,
+    "lng": 11.1653592
+  },
+  "Otto Ruges vei 80, 1361 ØSTERÅS": {
+    "lat": 59.94373,
+    "lng": 10.60709
+  },
+  "Odalsgata 42, 2003 LILLESTRØM": {
+    "lat": 59.9621494,
+    "lng": 11.04603
+  },
+  "Tulipanveien 4, 2034 HOLTER": {
+    "lat": 60.1382706,
+    "lng": 11.0401756
+  },
+  "Bærumsveien 206, 1357 Bekkestua": {
+    "lat": 59.917283,
+    "lng": 10.588554
+  },
+  "Brodtkorbsgate 7, 1338 Sandvika": {
+    "lat": 59.890583,
+    "lng": 10.519496
+  },
+  "Kapellveien 84, 1450 NESODDTANGEN": {
+    "lat": 59.8495182,
+    "lng": 10.6587734
+  },
+  "Martin Linges vei 25 Terminalbygget, 1364 FORNEBU": {
+    "lat": 59.8990329,
+    "lng": 10.6282938
+  },
+  "Solbråveien 23, 1383 ASKER": {
+    "lat": 59.8322913,
+    "lng": 10.4158643
+  },
+  "Teiealleen 7, 2030 NANNESTAD": {
+    "lat": 60.2194588,
+    "lng": 11.015431
+  },
+  "Svarstadvegen 1, 1925 BLAKER": {
+    "lat": 59.99916,
+    "lng": 11.311932
+  },
+  "Aurveien 111, 1930 AURSKOG": {
+    "lat": 59.9250513,
+    "lng": 11.4501946
+  },
+  "Bråsetveien 10, 3440 Røyken": {
+    "lat": 59.7446577,
+    "lng": 10.3887574
+  },
+  "Vestveien 51, 1452 Nesoddtangen": {
+    "lat": 59.8559228,
+    "lng": 10.6608247
+  },
+  "Konglungveien 202, 1392 Vettre": {
+    "lat": 59.828083,
+    "lng": 10.472475
+  },
+  "Jernbanesvingen 6, 1400 SKI": {
+    "lat": 59.716364,
+    "lng": 10.835714
+  },
+  "Storgata 38, 1440 DRØBAK": {
+    "lat": 59.659251,
+    "lng": 10.630343
+  },
+  "Storgata 26, 2000 LILLESTRØM": {
+    "lat": 59.9575957,
+    "lng": 11.0483284
+  },
+  "Skollerudveien 11, 1353 BÆRUMS VERK": {
+    "lat": 59.943187,
+    "lng": 10.509237
+  },
+  "Sjøskogenveien 7, 1407 VINTERBRO": {
+    "lat": 59.7397337,
+    "lng": 10.7712965
+  },
+  "HOLTERVEIEN 4G, 1448 Drøbak": {
+    "lat": 59.675317,
+    "lng": 10.659588
+  },
+  "Parkveien 2, Helsehuset 1. etg., 1940 BJØRKELANGEN": {
+    "lat": 59.8834497,
+    "lng": 11.5660867
+  },
+  "Haneborgveien 103, 1463 Fjellhamar": {
+    "lat": 59.941047,
+    "lng": 10.980287
+  },
+  "Doktorvegen 15, 2090 HURDAL": {
+    "lat": 60.4269,
+    "lng": 11.066923
+  },
+  "Høvlerigata 3, 2150 ÅRNES": {
+    "lat": 60.124741,
+    "lng": 11.467964
+  },
+  "Dampsagveien 2, 2000 LILLESTRØM": {
+    "lat": 59.9533368,
+    "lng": 11.0413401
+  },
+  "Nordens vei 15, 2013 SKJETTEN": {
+    "lat": 59.9670665,
+    "lng": 10.9994814
+  },
+  "Vestheimveien 33, 1540 VESTBY": {
+    "lat": 59.6037081,
+    "lng": 10.7516569
+  },
+  "Langhussenteret 7, 1405 LANGHUS": {
+    "lat": 59.754351,
+    "lng": 10.844654
+  },
+  "Skogveien 2, 2053 JESSHEIM": {
+    "lat": 60.140332,
+    "lng": 11.177583
+  },
+  "Presthagav. 20, 2020 SKEDSMOKORSET": {
+    "lat": 60.013403,
+    "lng": 11.0402298
+  },
+  "Moerveien 6E, 1430 ÅS": {
+    "lat": 59.6629983,
+    "lng": 10.7927577
+  },
+  "Duevegen 5, 2016 FROGNER": {
+    "lat": 60.024501,
+    "lng": 11.101606
+  },
+  "Gladbakkvegen 1, 2070 RÅHOLT": {
+    "lat": 60.281003,
+    "lng": 11.173984
+  },
+  "Hølandsveien 2008, 1960 LØKEN": {
+    "lat": 59.7962525,
+    "lng": 11.4656097
+  },
+  "Kulturpassasjen 15, 1540 VESTBY": {
+    "lat": 59.5954452,
+    "lng": 10.7532964
+  },
+  "Støperiveien 30, 2010": {
+    "lat": 59.9482381,
+    "lng": 11.0102721
+  },
+  "Sandsveien 5, 2740 ROA": {
+    "lat": 60.293562,
+    "lng": 10.606256
+  },
+  "Skolegata 14, 2010": {
+    "lat": 59.949993,
+    "lng": 11.0135666
+  },
+  "Kvartsveien 2, 1555 SON": {
+    "lat": 59.5102189,
+    "lng": 10.6905946
+  },
+  "Storgata 18, 1440 DRØBAK": {
+    "lat": 59.6613834,
+    "lng": 10.6300844
+  },
+  "Stasjonsveien 45, 1482 NITTEDAL": {
+    "lat": 60.0537691,
+    "lng": 10.8702528
+  },
+  "Grønlandsveien 3, 3520 Jevnaker": {
+    "lat": 60.238952,
+    "lng": 10.403286
+  },
+  "Dueveien 1, 2016 FROGNER": {
+    "lat": 60.024583,
+    "lng": 11.101987
+  },
+  "LYSAKER TORG 2, 1366 LYSAKER": {
+    "lat": 59.912072,
+    "lng": 10.637773
+  },
+  "Rådhusgata 26, 2150 ÅRNES": {
+    "lat": 60.123558,
+    "lng": 11.468588
+  },
+  "Myrveien 2, 1434 ÅS": {
+    "lat": 59.6694498,
+    "lng": 10.7961112
+  },
+  "Belsjøveien 2, 1443 DRØBAK": {
+    "lat": 59.668894,
+    "lng": 10.635321
+  },
+  "Sykehjemsveien 1, 1970 HEMNES": {
+    "lat": 59.7182753,
+    "lng": 11.4492734
+  },
+  "Slattum Terrasse 2, 1480 SLATTUM": {
+    "lat": 60.009451,
+    "lng": 10.921722
+  },
+  "Ringvegen 23, 2066 JESSHEIM": {
+    "lat": 60.146486,
+    "lng": 11.1752315
+  },
+  "Rådmann Halmrastsvei 4, 1337 Sandvika": {
+    "lat": 59.8910259,
+    "lng": 10.5253118
+  },
+  "Sandviksveien 36, 1363 HØVIK": {
+    "lat": 59.8977701,
+    "lng": 10.5727256
+  },
+  "Rosenkrantzgata 75, 3018 DRAMMEN": {
+    "lat": 59.749621,
+    "lng": 10.175154
+  },
+  "Skolegata 8, 3611 KONGSBERG": {
+    "lat": 59.670677,
+    "lng": 9.649311
+  },
+  "Storgaten 94, 3060 SVELVIK": {
+    "lat": 59.6109103,
+    "lng": 10.4075148
+  },
+  "Gamle drammensvei 98, 3420 Lierskogen": {
+    "lat": 59.8195058,
+    "lng": 10.3276695
+  },
+  "Thorsbergv 6, 3032 DRAMMEN": {
+    "lat": 59.7097014,
+    "lng": 10.1546781
+  },
+  "Vikersundveien 226, 3533 Tyristrand": {
+    "lat": 60.086074,
+    "lng": 10.10001
+  },
+  "Sentrumsvegen 9, 3539 Flå": {
+    "lat": 60.429919,
+    "lng": 9.4626456
+  },
+  "Øvre Torggate 10, 3017 DRAMMEN": {
+    "lat": 59.744872,
+    "lng": 10.202073
+  },
+  "Fossveien 28, 3403 LIER": {
+    "lat": 59.792493,
+    "lng": 10.263147
+  },
+  "Albums gate 9, 3016 Drammen": {
+    "lat": 59.746663,
+    "lng": 10.204647
+  },
+  "Storgata 24, 3320 VESTFOSSEN": {
+    "lat": 59.7349584,
+    "lng": 9.8694428
+  },
+  "Hallingdalsveien 25, 3534 SOKNA": {
+    "lat": 60.2396658,
+    "lng": 9.9267227
+  },
+  "Furusletta 1, 3524 NES I ÅDAL": {
+    "lat": 60.5620944,
+    "lng": 9.9834323
+  },
+  "Nymoens Torg 9, 3611 KONGSBERG": {
+    "lat": 59.670392,
+    "lng": 9.646909
+  },
+  "Dølasletta 7, 3408 Tranby": {
+    "lat": 59.818335,
+    "lng": 10.27591
+  },
+  "Møllebakken 4, 3611": {
+    "lat": 59.667856,
+    "lng": 9.651315
+  },
+  "Pettersvollen 50B, 3032 DRAMMEN": {
+    "lat": 59.715642,
+    "lng": 10.150884
+  },
+  "Nedre Storgate 31, 3015 DRAMMEN": {
+    "lat": 59.742616,
+    "lng": 10.212134
+  },
+  "Borgestubakken 3, 3350 Prestfoss": {
+    "lat": 60.045482,
+    "lng": 9.63499
+  },
+  "Storgata 69 A, 3060 SVELVIK": {
+    "lat": 59.62911,
+    "lng": 10.3882023
+  },
+  "Gamleveien 9, 3030 DRAMMEN": {
+    "lat": 59.7243135,
+    "lng": 10.1501586
+  },
+  "Strandpromenaden 1, 3370 Vikersund": {
+    "lat": 59.968603,
+    "lng": 9.999176
+  },
+  "Buskerudveien 126, 3027 DRAMMEN": {
+    "lat": 59.7519668,
+    "lng": 10.1281317
+  },
+  "Stasjonsgata 25, 3300 Hokksund": {
+    "lat": 59.7713579,
+    "lng": 9.9100449
+  },
+  "Vestre Kjennervei 2B, 3420 LIERSKOGEN": {
+    "lat": 59.8103863,
+    "lng": 10.3057251
+  },
+  "Kartverksveien 9, 3511 HØNEFOSS": {
+    "lat": 60.1459858,
+    "lng": 10.2478949
+  },
+  "Krøderfjordveien 1677, 3536 NORESUND": {
+    "lat": 60.180248,
+    "lng": 9.625772
+  },
+  "Fredfossgata 41, 3320 VESTFOSSEN": {
+    "lat": 59.7294597,
+    "lng": 9.8872272
+  },
+  "Helsetunvegen, 3570 Ål": {
+    "lat": 60.628144,
+    "lng": 8.5609953
+  },
+  "Verksvn. 90, 3330 SKOTSELV": {
+    "lat": 59.8443523,
+    "lng": 9.8830016
+  },
+  "Strandveien 39, 3050 MJØNDALEN": {
+    "lat": 59.7516357,
+    "lng": 10.0226941
+  },
+  "Lauritz Hervigs vei 13, 3035 Drammen": {
+    "lat": 59.7214501,
+    "lng": 10.2235844
+  },
+  "Tollbugata 13, 3044 Drammen": {
+    "lat": 59.738775,
+    "lng": 10.205021
+  },
+  "Ustedalen 2, 3580 GEILO": {
+    "lat": 60.5329279,
+    "lng": 8.2066107
+  },
+  "Storgata 13, 3512 HØNEFOSS": {
+    "lat": 60.163653,
+    "lng": 10.2561319
+  },
+  "Thornes vei 3A, 3616": {
+    "lat": 59.666671,
+    "lng": 9.647653
+  },
+  "Lampelandhagan 3, 3623 LAMPELAND": {
+    "lat": 59.8334099,
+    "lng": 9.5822173
+  },
+  "Sentrum 16, 3630 RØDBERG": {
+    "lat": 60.2670429,
+    "lng": 8.9468433
+  },
+  "Nedre Storgate 6, 3015 DRAMMEN": {
+    "lat": 59.742854,
+    "lng": 10.206752
+  },
+  "Losjeplassen 28, 3015 DRAMMEN": {
+    "lat": 59.742426,
+    "lng": 10.214227
+  },
+  "Kleivstadgata 1, 3531 KROKKLEIVA": {
+    "lat": 60.0621735,
+    "lng": 10.3095513
+  },
+  "Myntgata 4, 3616 KONGSBERG": {
+    "lat": 59.666301,
+    "lng": 9.647877
+  },
+  "Vesterngata 5, 3513 HØNEFOSS": {
+    "lat": 60.170584,
+    "lng": 10.263964
+  },
+  "Alfarvegen 134, 3540 Nesbyen": {
+    "lat": 60.5694085,
+    "lng": 9.0981839
+  },
+  "Drammensveien 16, 3300 HOKKSUND": {
+    "lat": 59.767415,
+    "lng": 9.912804
+  },
+  "Gamlevegen 4, 3550 Gol": {
+    "lat": 60.6995982,
+    "lng": 8.9501983
+  },
+  "Vårveien 22, 3024 DRAMMEN": {
+    "lat": 59.7537102,
+    "lng": 10.1466662
+  },
+  "Sentrumsveien 101, 3550 GOL": {
+    "lat": 60.702197,
+    "lng": 8.93939
+  },
+  "Nybruveien 3, 3055 KROKSTADELVA": {
+    "lat": 59.7561526,
+    "lng": 10.0287837
+  },
+  "Hønengata 70, 3515 HØNEFOSS": {
+    "lat": 60.1775109,
+    "lng": 10.2672253
+  },
+  "Rådyrveien 2, 3370 VIKERSUND": {
+    "lat": 59.9674626,
+    "lng": 9.9935688
+  },
+  "Gamle Riksvei 106 A, 3057 SOLBERGELVA": {
+    "lat": 59.763791,
+    "lng": 10.072684
+  },
+  "Hemsedalsvegen 2887, 3560 Hemsedal": {
+    "lat": 60.860704,
+    "lng": 8.5656715
+  },
+  "Bragernes Torg 6A, 3017 Drammen": {
+    "lat": 59.745133,
+    "lng": 10.204983
+  },
+  "Landfalløya 49, 3023 DRAMMEN": {
+    "lat": 59.748381,
+    "lng": 10.168531
+  },
+  "Vik Torg, 3530 Røyse": {
+    "lat": 60.077936,
+    "lng": 10.282437
+  },
+  "Furuhallveien 17b, 3512 HØNEFOSS": {
+    "lat": 60.1096479,
+    "lng": 10.2293986
+  },
+  "17. Maigata 6, 3611 KONGSBERG": {
+    "lat": 59.6788766,
+    "lng": 9.6479189
+  },
+  "Sentrumsveien 18, 3647 Hvittingfoss": {
+    "lat": 59.4841458,
+    "lng": 10.0107632
+  },
+  "Bruveien 2, 3403 Lier": {
+    "lat": 59.7872308,
+    "lng": 10.2445397
+  },
+  "Stadionveien 4, 3340 Åmot": {
+    "lat": 59.894192,
+    "lng": 9.924117
+  },
+  "Søndre Torv 1, 3510 HØNEFOSS": {
+    "lat": 60.165822,
+    "lng": 10.256261
+  },
+  "Jordeslykkja 6, 3540 NESBYEN": {
+    "lat": 60.56982,
+    "lng": 9.105063
+  },
+  "Meieribakken 1, 3410 SYLLING": {
+    "lat": 59.894585,
+    "lng": 10.2818174
+  },
+  "Bachesvei 97, 3413 LIER": {
+    "lat": 59.75107,
+    "lng": 10.2320167
+  },
+  "Nordbyveien 75, 3038 DRAMMEN": {
+    "lat": 59.7120266,
+    "lng": 10.2571561
+  },
+  "Schwabesgate 9, 3611 Kongsberg": {
+    "lat": 59.6788766,
+    "lng": 9.6479189
+  },
+  "Bragernes torg 4, 3017 DRAMMEN": {
+    "lat": 59.744544,
+    "lng": 10.204229
+  },
+  "Geithus Legekontor Geithusveien 9, 3360 GEITHUS": {
+    "lat": 59.932029,
+    "lng": 9.9679296
+  },
+  "Vintergt 19, 3048 DRAMMEN": {
+    "lat": 59.7445078,
+    "lng": 10.1495646
+  },
+  "Myntgata 4, 3616": {
+    "lat": 59.666301,
+    "lng": 9.647877
+  },
+  "Øvre Tverrgate 6, 3050 MJØNDALEN": {
+    "lat": 59.748537,
+    "lng": 10.011157
+  },
+  "Iversens veg 1, 9980 BERLEVÅG": {
+    "lat": 70.854276,
+    "lng": 29.084868
+  },
+  "Hankenbakken 26, 9550 Øksfjord": {
+    "lat": 70.2458875,
+    "lng": 22.3495671
+  },
+  "Markveien 51, 9510 ALTA": {
+    "lat": 69.964538,
+    "lng": 23.2790638
+  },
+  "Box 401, Storgata 2, 9915 KIRKENES": {
+    "lat": 69.7271478,
+    "lng": 30.0448971
+  },
+  "Maskevarreveien 1, 9845 TANA": {
+    "lat": 70.1986741,
+    "lng": 28.1741532
+  },
+  "Sykestuveien 13, 9590 HASVIK": {
+    "lat": 70.4856544,
+    "lng": 22.1647408
+  },
+  "Strandparken 1 Strandgata 52, 9616 HAMMERFEST": {
+    "lat": 70.6628361,
+    "lng": 23.6831069
+  },
+  "Helsetunveien 4, 9700 LAKSELV": {
+    "lat": 70.0520158,
+    "lng": 24.9500269
+  },
+  "Johan Salmillas veg 22, 9790 KJØLLEFJORD": {
+    "lat": 70.944082,
+    "lng": 27.3517343
+  },
+  "Hesteskoen 8, 9510 ALTA": {
+    "lat": 69.9661271,
+    "lng": 23.2755139
+  },
+  "Sykehusveien 16B, 9750 HONNINGSVÅG": {
+    "lat": 70.9770382,
+    "lng": 25.9850516
+  },
+  "Helseveien 1, 9991 BÅTSFJORD": {
+    "lat": 70.634903,
+    "lng": 29.712407
+  },
+  "Skipper Wirkolas vei 4, 9515 ALTA": {
+    "lat": 69.974636,
+    "lng": 23.367185
+  },
+  "Sjøgata 9, 9600 HAMMERFEST": {
+    "lat": 70.6635258,
+    "lng": 23.6813281
+  },
+  "Hospitalgata 6, 9950 VARDØ": {
+    "lat": 70.373966,
+    "lng": 31.095337
+  },
+  "Várjjatgeaidnu 231, 9840 VARANGERBOTN": {
+    "lat": 70.177518,
+    "lng": 28.614537
+  },
+  "Raddeviesugeaidnu 7, 9730 KARASJOK": {
+    "lat": 69.4719917,
+    "lng": 25.5160134
+  },
+  "Sarritluodda 2, 9520 KAUTOKEINO": {
+    "lat": 69.0099148,
+    "lng": 23.0299521
+  },
+  "Vidjeveien 4, 9800 VADSØ": {
+    "lat": 70.083202,
+    "lng": 29.734643
+  },
+  "Thomasbakkveien, 9513 ALTA": {
+    "lat": 69.9580061,
+    "lng": 23.2390231
+  },
+  "Søndregate 1, 9690 HAVØYSUND": {
+    "lat": 70.9963105,
+    "lng": 24.6609576
+  },
+  "Follumsvei 17, 9510 ALTA": {
+    "lat": 69.968455,
+    "lng": 23.280782
+  },
+  "Johan Larsens vei 10A, 9770 MEHAMN": {
+    "lat": 71.033907,
+    "lng": 27.854038
+  },
+  "Grubevegen 23, 9620 KVALSUND": {
+    "lat": 70.5027,
+    "lng": 23.977137
+  },
+  "Storgata 51, 2406 ELVERUM": {
+    "lat": 60.875343,
+    "lng": 11.5649438
+  },
+  "Tangstubakken 2, 2337 TANGEN": {
+    "lat": 60.6175867,
+    "lng": 11.2676567
+  },
+  "Rådhusgata 6, 2270 FLISA": {
+    "lat": 60.6146092,
+    "lng": 12.0126011
+  },
+  "Bruvegen 6, 2100 SKARNES": {
+    "lat": 60.2544018,
+    "lng": 11.6807341
+  },
+  "Brugata 4, 2212 Kongsvinger": {
+    "lat": 60.1907935,
+    "lng": 11.9974532
+  },
+  "Garlivegen 20, 2900 FAGERNES": {
+    "lat": 60.9866447,
+    "lng": 9.242366
+  },
+  "Torggata 1, 2317 HAMAR": {
+    "lat": 60.791851,
+    "lng": 11.077108
+  },
+  "Landmovegen 5B, 2870 DOKKA": {
+    "lat": 60.8403414,
+    "lng": 10.0651375
+  },
+  "Rådhusvegen 39, 2770 JAREN": {
+    "lat": 60.3929532,
+    "lng": 10.5604211
+  },
+  "Meierihagan 20, 2847 KOLBU": {
+    "lat": 60.648753,
+    "lng": 10.7425521
+  },
+  "Botten Hansens Gate 9, 2670 OTTA": {
+    "lat": 61.7726474,
+    "lng": 9.534011
+  },
+  "Torggata 83, 2317 Hamar": {
+    "lat": 60.795301,
+    "lng": 11.068642
+  },
+  "Våler Legesenter Vålgutua 200, 2436 VÅLER I SOLØR": {
+    "lat": 60.6753593,
+    "lng": 11.8327667
+  },
+  "Storgata 23, 2815 GJØVIK": {
+    "lat": 60.794291,
+    "lng": 10.687708
+  },
+  "Nymosvingen 6, 2609 Lillehammer": {
+    "lat": 61.116771,
+    "lng": 10.463096
+  },
+  "Nygata 22A, 2380 BRUMUNDDAL": {
+    "lat": 60.8839554,
+    "lng": 10.9403037
+  },
+  "Åsmarkveien 3 Pb34, 2390 MOELV": {
+    "lat": 60.9297779,
+    "lng": 10.7000422
+  },
+  "Berger Langmoens veg 6, 2386 Brumunddal": {
+    "lat": 60.886455,
+    "lng": 10.939883
+  },
+  "Rådhusplassen 12, 2260 KIRKENÆR": {
+    "lat": 60.4563525,
+    "lng": 12.058381
+  },
+  "Brugata 24, 2212 Kongsvinger": {
+    "lat": 60.1918904,
+    "lng": 11.996254
+  },
+  "Kyrkjevegen 12, 2890 ETNEDAL": {
+    "lat": 60.888525,
+    "lng": 9.640318
+  },
+  "Stasjonsvegen 13B, 2340 LØTEN": {
+    "lat": 60.819584,
+    "lng": 11.341678
+  },
+  "Torget 1, 2450 Rena": {
+    "lat": 61.1318617,
+    "lng": 11.3728319
+  },
+  "Lars Moens Veg 3, 2660 DOMBÅS": {
+    "lat": 62.0751595,
+    "lng": 9.1220712
+  },
+  "Boligveien 43, 2230 Skotterud": {
+    "lat": 59.989033,
+    "lng": 12.120255
+  },
+  "Stasjonsveien 22, 2100 SKARNES": {
+    "lat": 60.2537826,
+    "lng": 11.6803013
+  },
+  "Torggata 3, 2317 HAMAR": {
+    "lat": 60.7921249,
+    "lng": 11.0766939
+  },
+  "Nordre Byre 21, 2640 Vinstra": {
+    "lat": 61.601117,
+    "lng": 9.74069
+  },
+  "Krokamyrvegen 18, 2686 LOM": {
+    "lat": 61.837651,
+    "lng": 8.556373
+  },
+  "Elvarheimgaten 10C, 2408 Elverum": {
+    "lat": 60.8896167,
+    "lng": 11.5639848
+  },
+  "Vangsvegen 31, 2317 Hamar": {
+    "lat": 60.79375,
+    "lng": 11.075919
+  },
+  "Nedre Hagalia 18, 2760 BRANDBU": {
+    "lat": 60.4207532,
+    "lng": 10.5070018
+  },
+  "Møllergata 3A, 2390 MOELV": {
+    "lat": 60.929547,
+    "lng": 10.703612
+  },
+  "Elvarheimgata 10, 2408 ELVERUM": {
+    "lat": 60.8822679,
+    "lng": 11.5602659
+  },
+  "Tingnesvegen 720, 2350 NES PÅ HEDMARKEN": {
+    "lat": 60.762714,
+    "lng": 10.92792
+  },
+  "Lundgutua 4, 2319 Hamar": {
+    "lat": 60.8156902,
+    "lng": 11.0620791
+  },
+  "Hovsvegen 4, 2750 GRAN": {
+    "lat": 60.3599243,
+    "lng": 10.5739979
+  },
+  "Fahlstrøms Plass 1, 2815 GJØVIK": {
+    "lat": 60.7887617,
+    "lng": 10.6878228
+  },
+  "Valdresvegen 4, 2816 GJØVIK": {
+    "lat": 60.7811008,
+    "lng": 10.6918286
+  },
+  "Bygdinvegen 2134, 2940 HEGGENES": {
+    "lat": 61.1436239,
+    "lng": 9.0684479
+  },
+  "Kommunevegen 1, 2647 Sør Fron": {
+    "lat": 61.5565247,
+    "lng": 9.9394052
+  },
+  "Torvgata 1, 2500 TYNSET": {
+    "lat": 62.2739869,
+    "lng": 10.7767469
+  },
+  "Lundevegen 3, 2420 Trysil": {
+    "lat": 61.314375,
+    "lng": 12.269016
+  },
+  "Dr.Thorshaugs Veg 25, 2335 STANGE": {
+    "lat": 60.7194457,
+    "lng": 11.1819694
+  },
+  "Gågata 5, 2211 Kongsvinger": {
+    "lat": 60.1869616,
+    "lng": 12.002029
+  },
+  "Granheimveien 3, 2480 KOPPANG": {
+    "lat": 61.5740488,
+    "lng": 11.0469148
+  },
+  "Hovsbakken 3, 2860 HOV": {
+    "lat": 60.70006,
+    "lng": 10.350497
+  },
+  "Hundervegen 19, 2636 Øyer": {
+    "lat": 61.241006,
+    "lng": 10.438363
+  },
+  "Bryggerigata 8, 2609 LILLEHAMMER": {
+    "lat": 61.116011,
+    "lng": 10.466651
+  },
+  "Sigurd Østliens veg 4, 2830 RAUFOSS": {
+    "lat": 60.7238476,
+    "lng": 10.6149485
+  },
+  "Moavegen 30, 2690 SKJÅK": {
+    "lat": 61.883091,
+    "lng": 8.265669
+  },
+  "Birivegen 97, 2836 BIRI": {
+    "lat": 60.9569103,
+    "lng": 10.6100911
+  },
+  "Torggata 3, 2408 Elverum": {
+    "lat": 60.884876,
+    "lng": 11.562387
+  },
+  "Vangsvegen 121, 2318 HAMAR": {
+    "lat": 60.7963539,
+    "lng": 11.087755
+  },
+  "Kinogt. 34, 2850 LENA": {
+    "lat": 60.6739717,
+    "lng": 10.8134458
+  },
+  "Rytrøa 17, 2550 OS I ØSTERDALEN": {
+    "lat": 62.495926,
+    "lng": 11.22731
+  },
+  "Trimvegen 1, 2634 Fåvang": {
+    "lat": 61.4542663,
+    "lng": 10.1930666
+  },
+  "Nymosvingen 6, 2609 LILLEHAMMER": {
+    "lat": 61.116771,
+    "lng": 10.463096
+  },
+  "Ankerskogvegen 7, 2319 Hamar": {
+    "lat": 60.8037539,
+    "lng": 11.0663071
+  },
+  "Vestringvegen 10B, 2651 ØSTRE GAUSDAL": {
+    "lat": 61.2591399,
+    "lng": 10.1553974
+  },
+  "Måsåbekkveien 2, 2316 HAMAR": {
+    "lat": 60.804312,
+    "lng": 11.044654
+  },
+  "Gimleveien 24, 2846 BØVERBRU": {
+    "lat": 60.6664173,
+    "lng": 10.6815251
+  },
+  "Stasjonsvegen 7, 2340 LØTEN": {
+    "lat": 60.820316,
+    "lng": 11.340146
+  },
+  "Slidrevegen 16, 2966 SLIDRE": {
+    "lat": 61.088638,
+    "lng": 8.982125
+  },
+  "Ingrid Semmingsens veg 6, 2312 OTTESTAD": {
+    "lat": 60.7869712,
+    "lng": 11.123074
+  },
+  "Winsnes gate 62, 2212 Kongsvinger": {
+    "lat": 60.1951783,
+    "lng": 11.9958685
+  },
+  "Tingvollbakkin 21, 2930 BAGN": {
+    "lat": 60.8223241,
+    "lng": 9.5482302
+  },
+  "Lillekollvegen 12, 2827 HUNNDALEN": {
+    "lat": 60.7891672,
+    "lng": 10.6545348
+  },
+  "Kirkegata 55, 2609 Lillehammer": {
+    "lat": 61.1146173,
+    "lng": 10.464286
+  },
+  "Elvegata 19, 2609 LILLEHAMMER": {
+    "lat": 61.116873,
+    "lng": 10.466636
+  },
+  "Brøttumsvegen 6, 2373 BRØTTUM": {
+    "lat": 61.0278707,
+    "lng": 10.5547165
+  },
+  "Storgata 34, 2830 Raufoss": {
+    "lat": 60.7261589,
+    "lng": 10.6139462
+  },
+  "Stasjonsvegen 15, 2848 SKREIA": {
+    "lat": 60.6534364,
+    "lng": 10.9320776
+  },
+  "Vikaveien 15, 2312 OTTESTAD": {
+    "lat": 60.7472679,
+    "lng": 11.1364791
+  },
+  "Moavegen 20 A, 2680 VÅGÅ": {
+    "lat": 61.8734746,
+    "lng": 9.0953382
+  },
+  "Gjelen 3, 2560 ALVDAL": {
+    "lat": 62.1084083,
+    "lng": 10.6348867
+  },
+  "PB 668, 2204 Kongsvinger": {
+    "lat": 60.1909329,
+    "lng": 11.9986784
+  },
+  "Storgata 89, 2615 LILLEHAMMER": {
+    "lat": 61.118027,
+    "lng": 10.464573
+  },
+  "Romsdalsvegen 1382, 2665 Lesja, 2665 LESJA": {
+    "lat": 62.1183499,
+    "lng": 8.8639467
+  },
+  "Mågårdvegen 85, 2334 Romedal": {
+    "lat": 60.7374538,
+    "lng": 11.2918143
+  },
+  "Tiurveien 15, 2120 SAGSTUA": {
+    "lat": 60.3933483,
+    "lng": 11.5444546
+  },
+  "Nord-Torpvegen 15, 2881 AUST-TORPA": {
+    "lat": 60.964991,
+    "lng": 10.105727
+  },
+  "Tyinvegen 5151, 2975 VANG I VALDRES": {
+    "lat": 61.1257859,
+    "lng": 8.5732137
+  },
+  "Flatavegen 9, 2653 VESTRE GAUSDAL": {
+    "lat": 61.2014467,
+    "lng": 10.1400875
+  },
+  "Sykehusveien 24, 2100 SKARNES": {
+    "lat": 60.2564174,
+    "lng": 11.6677898
+  },
+  "Trondhjemsvegen 8, 2821 Gjøvik": {
+    "lat": 60.7976346,
+    "lng": 10.6895965
+  },
+  "Søndregate 2B, 2609 LILLEHAMMER": {
+    "lat": 61.1130883,
+    "lng": 10.4699884
+  },
+  "Rendalen Legekontor Søstuveien 6, 2485 RENDALEN": {
+    "lat": 61.7096935,
+    "lng": 11.316203
+  },
+  "St. Olavs gate 5, 2414 ELVERUM": {
+    "lat": 60.880906,
+    "lng": 11.5647823
+  },
+  "Storgata 55, 2212 KONGSVINGER": {
+    "lat": 60.1942216,
+    "lng": 12.0032162
+  },
+  "Futveien 8, 2443 Drevsjø": {
+    "lat": 61.883027,
+    "lng": 12.0280348
+  },
+  "Storgata 44, 2212 Kongsvinger": {
+    "lat": 60.1931245,
+    "lng": 12.0014287
+  },
+  "Samfunnsparken 12, 2849 KAPP": {
+    "lat": 60.714281,
+    "lng": 10.870115
+  },
+  "Wilhelmsveg 15, 2580 FOLLDAL": {
+    "lat": 62.1335902,
+    "lng": 9.9984156
+  },
+  "Ivarsveien 2, 2540 TOLGA": {
+    "lat": 62.41003,
+    "lng": 10.996725
+  },
+  "Nysethvegen 3, 2830 RAUFOSS": {
+    "lat": 60.7263198,
+    "lng": 10.6094995
+  },
+  "Snertingdalsvegen 1747, 2838 SNERTINGDAL": {
+    "lat": 60.881495,
+    "lng": 10.384953
+  },
+  "Stormyra 6, 6100 VOLDA": {
+    "lat": 62.1467119,
+    "lng": 6.0691647
+  },
+  "Astrupsgate 9, 6509 KRISTIANSUND N": {
+    "lat": 63.1124571,
+    "lng": 7.7301698
+  },
+  "Midtvågvegen 6, 6630 TINGVOLL": {
+    "lat": 62.9123505,
+    "lng": 8.2068244
+  },
+  "Verftsgata 10, 6416 Molde": {
+    "lat": 62.738924,
+    "lng": 7.195011
+  },
+  "Rådhusvegen 3, 6143 Fiskå": {
+    "lat": 62.100104,
+    "lng": 5.556617
+  },
+  "Sjøgt.1, 6065 Ulsteinvik": {
+    "lat": 62.3426629,
+    "lng": 5.84686
+  },
+  "Brugata 6, 6390 Vestnes": {
+    "lat": 62.621833,
+    "lng": 7.091333
+  },
+  "Borgund Legekontor Borgundveien 390, 6015 ÅLESUND": {
+    "lat": 62.4651776,
+    "lng": 6.2556673
+  },
+  "Mongstugt. 5, 6600 Sunndalsøra": {
+    "lat": 62.6751972,
+    "lng": 8.5632934
+  },
+  "Blindheimshaugen 9, 6012 ÅLESUND": {
+    "lat": 62.4413851,
+    "lng": 6.3720654
+  },
+  "Konsul Knudtzons gate 8, 6508 Kristiansund N": {
+    "lat": 63.1090092,
+    "lng": 7.7262674
+  },
+  "Dalevegen 28 A, 6153 ØRSTA": {
+    "lat": 62.198771,
+    "lng": 6.135298
+  },
+  "Mekveien 13A, 6411 MOLDE": {
+    "lat": 62.7367068,
+    "lng": 7.0939173
+  },
+  "Stadsnesveien 9B, 6030 LANGEVÅG": {
+    "lat": 62.4414785,
+    "lng": 6.1892406
+  },
+  "Korsegata 8, 6002 ÅLESUND": {
+    "lat": 62.4721686,
+    "lng": 6.1554301
+  },
+  "Langelandsveien 17, 6010 ÅLESUND": {
+    "lat": 62.4642898,
+    "lng": 6.348683
+  },
+  "Myrvåg, 6080 GURSKØY": {
+    "lat": 62.2476391,
+    "lng": 5.7814561
+  },
+  "Notenesgata 6, 6002 ÅLESUND": {
+    "lat": 62.471986,
+    "lng": 6.154484
+  },
+  "Kongens plass 3, 6509 KRISTIANSUND N": {
+    "lat": 63.1104492,
+    "lng": 7.7296928
+  },
+  "Øyna 13, 6200 Stranda": {
+    "lat": 62.3077185,
+    "lng": 6.9444066
+  },
+  "Grandegata 54, 6210 VALLDAL": {
+    "lat": 62.297078,
+    "lng": 7.254153
+  },
+  "Kjøpmannsgata 16, 6060 Hareid": {
+    "lat": 62.371293,
+    "lng": 6.028089
+  },
+  "Sundgata 12, 6003 ÅLESUND": {
+    "lat": 62.4710208,
+    "lng": 6.1679297
+  },
+  "Bårdshaugvegen 1, 6650 SURNADAL": {
+    "lat": 62.9752521,
+    "lng": 8.7255948
+  },
+  "Jonasvegen 49, 6290 HARAMSØY": {
+    "lat": 62.6374641,
+    "lng": 6.2714365
+  },
+  "Sjøholtvegen 86, 6240 ØRSKOG": {
+    "lat": 62.4823206,
+    "lng": 6.8311473
+  },
+  "Strandgata 40, 6270 BRATTVÅG": {
+    "lat": 62.597473,
+    "lng": 6.446412
+  },
+  "Skarpetegvegen 4, 6012 ÅLESUND": {
+    "lat": 62.4428955,
+    "lng": 6.3747724
+  },
+  "Eggesbøvegen 11, 6092 Fosnavåg": {
+    "lat": 62.3254767,
+    "lng": 5.6414433
+  },
+  "Vollan 8a, 6300 ÅNDALSNES": {
+    "lat": 62.5682454,
+    "lng": 7.6862737
+  },
+  "Auregata 19, 6230 SYKKYLVEN": {
+    "lat": 62.3910321,
+    "lng": 6.5828225
+  },
+  "Skoganvegen 52, 6690 Aure": {
+    "lat": 63.269365,
+    "lng": 8.529991
+  },
+  "Rådhuset, 6260 SKODJE": {
+    "lat": 62.5037394,
+    "lng": 6.6962479
+  },
+  "Storgata 14, 6413 Molde": {
+    "lat": 62.735804,
+    "lng": 7.156722
+  },
+  "Kanalveien 18, 6010 ÅLESUND": {
+    "lat": 62.463008,
+    "lng": 6.363205
+  },
+  "Averøyveien 34, 6530 AVERØY": {
+    "lat": 63.052673,
+    "lng": 7.633166
+  },
+  "Veøygata 1, 6413 Molde": {
+    "lat": 62.739457,
+    "lng": 7.161137
+  },
+  "Sentervegen 125, 6440 ELNESVÅGEN": {
+    "lat": 62.85512,
+    "lng": 7.159927
+  },
+  "Kaptein Dreyersvei 13, 6456 SKÅLA": {
+    "lat": 62.6996016,
+    "lng": 7.4200459
+  },
+  "Ragnvald Blakstadsgt. 22, 6600 Sunndalsøra": {
+    "lat": 62.6732796,
+    "lng": 8.559272
+  },
+  "Østsideveien 126, 6570 Smøla": {
+    "lat": 63.332786,
+    "lng": 8.079477
+  },
+  "Nordmørsveien 54, 6517 KRISTIANSUND N": {
+    "lat": 63.109668,
+    "lng": 7.773086
+  },
+  "Aukraringen 17, 6480 AUKRA": {
+    "lat": 62.80553,
+    "lng": 6.886048
+  },
+  "Julsundvegen 2, 6412 MOLDE": {
+    "lat": 62.734442,
+    "lng": 7.154127
+  },
+  "Gjemnes legesenter, 6631 Batnfjordsøra": {
+    "lat": 62.8918313,
+    "lng": 7.6786925
+  },
+  "Trolldalssletta 2, 6264 TENNFJORD": {
+    "lat": 62.544825,
+    "lng": 6.586584
+  },
+  "Postboks 24, 6761 HORNINDAL": {
+    "lat": 61.9743535,
+    "lng": 6.5250604
+  },
+  "Bukthaugvegen 2, 6475 Midsund": {
+    "lat": 62.6722026,
+    "lng": 6.6781336
+  },
+  "Konsult Knudzonsgt. 8, 6508 KRISTIANSUND N": {
+    "lat": 63.110644,
+    "lng": 7.7218842
+  },
+  "Eidsvågvegen 30, 6460 Eidsvåg": {
+    "lat": 62.776224,
+    "lng": 8.066961
+  },
+  "Ytterland 1, 6050 VALDERØYA": {
+    "lat": 62.5034873,
+    "lng": 6.108548
+  },
+  "Vestmoa 6, 6018 ÅLESUND": {
+    "lat": 62.466313,
+    "lng": 6.347487
+  },
+  "Prestegardsveien 5, 6084 Larsnes": {
+    "lat": 62.206638,
+    "lng": 5.573058
+  },
+  "Myklebustvegen 69A, 6092 FOSNAVÅG": {
+    "lat": 62.327672,
+    "lng": 5.645982
+  },
+  "Helsehuset, 6520 FREI": {
+    "lat": 63.024971,
+    "lng": 7.8017412
+  },
+  "Keiser Wilhelms gate 24-26, 6003 ÅLESUND": {
+    "lat": 62.4718093,
+    "lng": 6.1653721
+  },
+  "Stordalsvegen 550, 6250 STORDAL": {
+    "lat": 62.382215,
+    "lng": 6.987296
+  },
+  "Austrevegen 15, 6296 HARØY": {
+    "lat": 62.78067,
+    "lng": 6.470732
+  },
+  "Øyra 5, 8283 LEINESFJORD": {
+    "lat": 67.774433,
+    "lng": 15.011774
+  },
+  "Gammelveien 16, 8150 ØRNES": {
+    "lat": 66.874799,
+    "lng": 13.705878
+  },
+  "Dr. Kalstads vei 8, 8294 HAMARØY": {
+    "lat": 68.084986,
+    "lng": 15.617202
+  },
+  "Onøyveien 14, 8766 LURØY": {
+    "lat": 66.39285,
+    "lng": 12.829497
+  },
+  "Frydenlundgata 15, 8517 NARVIK": {
+    "lat": 68.440111,
+    "lng": 17.422057
+  },
+  "Revegårdsveien 10, 9440 EVENSKJER": {
+    "lat": 68.5845685,
+    "lng": 16.5759803
+  },
+  "Rådhusgata 21, 8430 Myre": {
+    "lat": 68.914023,
+    "lng": 15.08903
+  },
+  "Strømsnes, 8215 VALNESFJORD": {
+    "lat": 67.2992486,
+    "lng": 15.1870628
+  },
+  "Trålveien 56, 8013 BODØ": {
+    "lat": 67.2756215,
+    "lng": 14.463578
+  },
+  "Sjøgata 6, 2.etasje, 8006 BODØ": {
+    "lat": 67.2848248,
+    "lng": 14.3892775
+  },
+  "Værøy legekontor, 8063 VÆRØY": {
+    "lat": 67.6663162,
+    "lng": 12.6980316
+  },
+  "Storgata 9, 8370 LEKNES": {
+    "lat": 68.1491308,
+    "lng": 13.6166484
+  },
+  "Moloveien 20, 8003 BODØ": {
+    "lat": 67.281518,
+    "lng": 14.375132
+  },
+  "Østensenveien 9, 8009 Bodø": {
+    "lat": 67.290317,
+    "lng": 14.417684
+  },
+  "Skulesvei 13, 8900 BRØNNØYSUND": {
+    "lat": 65.464758,
+    "lng": 12.206807
+  },
+  "Parkveien 10, 8400 SORTLAND": {
+    "lat": 68.696104,
+    "lng": 15.409828
+  },
+  "Sjøvegen 14, 8410 LØDINGEN": {
+    "lat": 68.414769,
+    "lng": 15.994425
+  },
+  "Jernbanegata 45, 8250 ROGNAN": {
+    "lat": 67.097595,
+    "lng": 15.39343
+  },
+  "Gammelveien 11d, 8614 YTTEREN": {
+    "lat": 66.3409025,
+    "lng": 14.144684
+  },
+  "Torget 1, 8300 SVOLVÆR": {
+    "lat": 68.2323729,
+    "lng": 14.5637783
+  },
+  "Bøheimen 2, 8475 Straumsjøen": {
+    "lat": 68.6806709,
+    "lng": 14.4680561
+  },
+  "Mølnbakken 86, 8050 Bodø": {
+    "lat": 67.2959642,
+    "lng": 14.7423829
+  },
+  "Kong Øysteins Gt 7, 8300": {
+    "lat": 68.2357293,
+    "lng": 14.5660891
+  },
+  "Ole Tobias Olsens gate 2, 8622 MO I RANA": {
+    "lat": 66.307563,
+    "lng": 14.135662
+  },
+  "Åsen Sør 10, 8920 SØMNA": {
+    "lat": 65.310246,
+    "lng": 12.170254
+  },
+  "Daniel Hægstads gt 24, 8480 Andenes": {
+    "lat": 69.3219521,
+    "lng": 16.117879
+  },
+  "Helsetunet 1, 8200 FAUSKE": {
+    "lat": 67.2613054,
+    "lng": 15.3973919
+  },
+  "Kirkeveien 2, 8540 BALLANGEN": {
+    "lat": 68.3401181,
+    "lng": 16.8218121
+  },
+  "Dr. Thodes gate 8, 8450 Stokmarknes": {
+    "lat": 68.5605089,
+    "lng": 14.9078239
+  },
+  "C. M. Havigs gate 39, 8656 Mosjøen": {
+    "lat": 65.835933,
+    "lng": 13.191773
+  },
+  "Rana lokalmedisinske senter Postboks 173, 8601 MO I RANA": {
+    "lat": 66.3110969,
+    "lng": 14.1386991
+  },
+  "Fjellveien 1, 8011 BODØ": {
+    "lat": 67.293878,
+    "lng": 14.413811
+  },
+  "Sjømyra 9, 8140 INNDYR": {
+    "lat": 67.036122,
+    "lng": 14.030982
+  },
+  "Parkveien 2, 8646 KORGEN": {
+    "lat": 66.0758783,
+    "lng": 13.8215349
+  },
+  "Mørkvedsenteret 17, 8028 Bodø": {
+    "lat": 67.290427,
+    "lng": 14.576097
+  },
+  "Rådhuset, 8226 Straumen": {
+    "lat": 67.3484259,
+    "lng": 15.5968083
+  },
+  "Kirkegata 36, 8516 NARVIK": {
+    "lat": 68.4400826,
+    "lng": 17.420571
+  },
+  "Sjøgata 78, 8200 Fauske": {
+    "lat": 67.2586009,
+    "lng": 15.397375
+  },
+  "Origobygget 2 etg., 8376 LEKNES": {
+    "lat": 68.1474646,
+    "lng": 13.6115311
+  },
+  "Stasjonsveien 59, 8515 NARVIK": {
+    "lat": 68.447535,
+    "lng": 17.463779
+  },
+  "Almvassvegen 5, 8683 TROFORS": {
+    "lat": 65.536225,
+    "lng": 13.40893
+  },
+  "Furumoen Helsesenter, 8100 MISVÆR": {
+    "lat": 67.1188306,
+    "lng": 14.999309
+  },
+  "Kommunelegen, 8976 VEVELSTAD": {
+    "lat": 65.6894701,
+    "lng": 12.4214386
+  },
+  "Stormyrveien 20 Inngang T1, 3. Etg Stormyra 20, 8008 BODØ": {
+    "lat": 67.2790591,
+    "lng": 14.4101646
+  },
+  "Nyborgveien 2, 8692 HATTFJELLDAL": {
+    "lat": 65.597169,
+    "lng": 13.994093
+  },
+  "Håreks Gt 37, 8800 SANDNESSJØEN": {
+    "lat": 66.018663,
+    "lng": 12.619974
+  },
+  "Nyrudveien 10, 8657 MOSJØEN": {
+    "lat": 65.8322254,
+    "lng": 13.215419
+  },
+  "Fritjof Nansensgate 2C, 8622 MO I RANA": {
+    "lat": 66.3110969,
+    "lng": 14.1386991
+  },
+  "Trollvikveien 32, 8530 BJERKVIK": {
+    "lat": 68.55204,
+    "lng": 17.5383972
+  },
+  "Røstlandsveien 28, 8064 RØST": {
+    "lat": 67.5171938,
+    "lng": 12.1089695
+  },
+  "Havneveien 18, 8700 NESNA": {
+    "lat": 66.2014096,
+    "lng": 13.0203809
+  },
+  "Dronningensgate 45, 8514 NARVIK": {
+    "lat": 68.4270997,
+    "lng": 17.4349161
+  },
+  "Karolineveien 29, 8850 HERØY": {
+    "lat": 65.981351,
+    "lng": 12.288189
+  },
+  "Kila, 8185 VÅGAHOLMEN": {
+    "lat": 66.7135006,
+    "lng": 13.2877436
+  },
+  "Torvgata 8B, 8006 BODØ": {
+    "lat": 67.283275,
+    "lng": 14.3816768
+  },
+  "Oldervikveien 5, 7980 TERRÅK": {
+    "lat": 65.087855,
+    "lng": 12.377303
+  },
+  "Sjøgata 1B, 8656 Mosjøen": {
+    "lat": 65.838461,
+    "lng": 13.186208
+  },
+  "krunhaugen 1, 8820 DØNNA": {
+    "lat": 66.1058195,
+    "lng": 12.4807649
+  },
+  "Leland, 8890 LEIRFJORD": {
+    "lat": 66.0639866,
+    "lng": 12.9433171
+  },
+  "Havnegata 9, 8006 BODØ": {
+    "lat": 67.2829193,
+    "lng": 14.3848187
+  },
+  "Fridtjof Nansens gate 29, 8622 MO I RANA": {
+    "lat": 66.31213,
+    "lng": 14.133759
+  },
+  "Torvåsmyra 1, 8983 VEGA": {
+    "lat": 65.678637,
+    "lng": 11.960302
+  },
+  "Vall 135, 8170 ENGAVÅGEN": {
+    "lat": 66.791216,
+    "lng": 13.504069
+  },
+  "Helsesenteret, 8380 RAMBERG": {
+    "lat": 68.0899056,
+    "lng": 13.2298917
+  },
+  "Leirtjønna 5, 8770 TRÆNA": {
+    "lat": 66.503752,
+    "lng": 12.099081
+  },
+  "Prestegårdsveien 1, 8590 KJØPSVIK": {
+    "lat": 68.0976972,
+    "lng": 16.383638
+  },
+  "Reineveien 67, 8390 REINE": {
+    "lat": 67.932131,
+    "lng": 13.090423
+  },
+  "St.Marie gate 71, 1706 SARPSBORG": {
+    "lat": 59.2816401,
+    "lng": 11.1178135
+  },
+  "vidarsvei 22, 1781 Halden": {
+    "lat": 59.134413,
+    "lng": 11.3713883
+  },
+  "Roald Amundsensgate 36, 1723 SARPSBORG": {
+    "lat": 59.281737,
+    "lng": 11.102027
+  },
+  "Storveien 27, 1816 Skiptvet": {
+    "lat": 59.4743528,
+    "lng": 11.1606717
+  },
+  "Storveien 77, 1621 GRESSVIK": {
+    "lat": 59.216948,
+    "lng": 10.905525
+  },
+  "Sentrum Legesenter Moss, 1530 MOSS": {
+    "lat": 59.4357244,
+    "lng": 10.6629881
+  },
+  "Bjørnstadveien 2, 1712 GRÅLUM": {
+    "lat": 59.294261,
+    "lng": 11.064557
+  },
+  "Bryggeriveien 10 A, 1607 FREDRIKSTAD": {
+    "lat": 59.2137148,
+    "lng": 10.9419451
+  },
+  "Prinsens gate 6, 1530 MOSS": {
+    "lat": 59.4369172,
+    "lng": 10.6633675
+  },
+  "Prinsens gate 7, 1530 MOSS": {
+    "lat": 59.43726,
+    "lng": 10.6639944
+  },
+  "Kirkeveien 17, 1860 TRØGSTAD": {
+    "lat": 59.641354,
+    "lng": 11.315436
+  },
+  "Skredderveien 2, 1537 MOSS": {
+    "lat": 59.4640846,
+    "lng": 10.6894721
+  },
+  "Oscar Pedersens vei 2 A, 1706 SARPSBORG": {
+    "lat": 59.282916,
+    "lng": 11.121213
+  },
+  "Sølvgata 20, 1767 HALDEN": {
+    "lat": 59.1168331,
+    "lng": 11.3869634
+  },
+  "Ole Vigs gate 13, 1517 MOSS": {
+    "lat": 59.4332,
+    "lng": 10.631781
+  },
+  "Pancoveien 22A, 1624 GRESSVIK": {
+    "lat": 59.2355019,
+    "lng": 10.9070901
+  },
+  "Dronningensgate 19, 1530 MOSS": {
+    "lat": 59.4365113,
+    "lng": 10.667312
+  },
+  "Verkstedveien 6A, 1671 Kråkerøy": {
+    "lat": 59.210075,
+    "lng": 10.936843
+  },
+  "Storgata 32, 1607 FREDRIKSTAD": {
+    "lat": 59.2144103,
+    "lng": 10.9332786
+  },
+  "Nordbyveien 98/100, 1734 HAFSLUNDSØY": {
+    "lat": 59.2892848,
+    "lng": 11.1476984
+  },
+  "Rosenlund 51, 1617 FREDRIKSTAD": {
+    "lat": 59.2301179,
+    "lng": 10.9664167
+  },
+  "Villaveien 7, 1710 SARPSBORG": {
+    "lat": 59.28935,
+    "lng": 11.09537
+  },
+  "Bergskrenten 12, 1592 VÅLER I ØSTFOLD": {
+    "lat": 59.488703,
+    "lng": 10.871609
+  },
+  "Sykehusgata 2, 1807 ASKIM": {
+    "lat": 59.587284,
+    "lng": 11.161414
+  },
+  "Bankbrygga 2, 1606 FREDRIKSTAD": {
+    "lat": 59.2100643,
+    "lng": 10.9391805
+  },
+  "Ringvoll Senter 1D, 1827 HOBØL": {
+    "lat": 59.5586658,
+    "lng": 10.8456439
+  },
+  "Nygaardsgaten 49, 1607 Fredrikstad": {
+    "lat": 59.2127964,
+    "lng": 10.940221
+  },
+  "Gudes gate 1, 1530 Moss": {
+    "lat": 59.437419,
+    "lng": 10.667235
+  },
+  "Torggata 10, 1707 SARPSBORG": {
+    "lat": 59.2840136,
+    "lng": 11.1110772
+  },
+  "Storgata 52, 1870 ØRJE": {
+    "lat": 59.4805554,
+    "lng": 11.6581121
+  },
+  "Kapperstien 24, 1621 GRESSVIK": {
+    "lat": 59.215453,
+    "lng": 10.905331
+  },
+  "Nordmyrv 3, 1820 SPYDEBERG": {
+    "lat": 59.6152567,
+    "lng": 11.0788072
+  },
+  "LØENVEIEN 5, 1653 SELLEBAKK": {
+    "lat": 59.2275782,
+    "lng": 10.9945773
+  },
+  "Trykkeriveien 6, 1653 SELLEBAKK": {
+    "lat": 59.2281753,
+    "lng": 10.9937353
+  },
+  "Stasjonsveien 3B, 1580 RYGGE": {
+    "lat": 59.3781946,
+    "lng": 10.749131
+  },
+  "Hundskinnveien 96, 1711 SARPSBORG": {
+    "lat": 59.2851,
+    "lng": 11.08122
+  },
+  "Lilleengveien 8, 1523 Moss": {
+    "lat": 59.4181618,
+    "lng": 10.6784675
+  },
+  "Torsvei 1, 1640 RÅDE": {
+    "lat": 59.3507728,
+    "lng": 10.8760346
+  },
+  "Violgata 8 , 1.Etasje, 1776 HALDEN": {
+    "lat": 59.1250444,
+    "lng": 11.3834094
+  },
+  "3. etasje Violgata 8, 1776 HALDEN": {
+    "lat": 59.1250444,
+    "lng": 11.3834094
+  },
+  "Fossbyåsen 41, 1798 AREMARK": {
+    "lat": 59.2234472,
+    "lng": 11.7014222
+  },
+  "Trafoveien 2, 1784 HALDEN": {
+    "lat": 59.141736,
+    "lng": 11.383473
+  },
+  "Jernbanegata 11B, 1850 Mysen": {
+    "lat": 59.5533013,
+    "lng": 11.3250073
+  },
+  "Sarpsborgveien 5, 1640 RÅDE": {
+    "lat": 59.3516132,
+    "lng": 10.8746259
+  },
+  "Christianslund alle 4, 1613 FREDRIKSTAD": {
+    "lat": 59.2249904,
+    "lng": 10.930932
+  },
+  "Torget 4, 1707 SARPSBORG": {
+    "lat": 59.2842828,
+    "lng": 11.1105509
+  },
+  "Kirkebrygga 2, 1607 FREDRIKSTAD": {
+    "lat": 59.2092733,
+    "lng": 10.9394213
+  },
+  "St. Marie gate 96/98, 1706 Sarpsborg": {
+    "lat": 59.2800237,
+    "lng": 11.1222214
+  },
+  "Dyrendalsveien 13C, 1778 HALDEN": {
+    "lat": 59.131105,
+    "lng": 11.384216
+  },
+  "Roald Amundsensgate 17, 1723 SARPSBORG": {
+    "lat": 59.281737,
+    "lng": 11.102027
+  },
+  "Midtveien 1A, 1526 MOSS": {
+    "lat": 59.4163,
+    "lng": 10.677475
+  },
+  "Helsehuset Jens Wilhelmsens gate 1, 1671 KRÅKERØY": {
+    "lat": 59.1821455,
+    "lng": 10.9237329
+  },
+  "Rådhusveien 4, 1890 Rakkestad": {
+    "lat": 59.4276613,
+    "lng": 11.3423133
+  },
+  "Trøgstadveien 4b, 1830 Askim": {
+    "lat": 59.5848208,
+    "lng": 11.1659902
+  },
+  "Snekkerstubakken 26, 1738 BORGENHAUGEN": {
+    "lat": 59.2691073,
+    "lng": 11.1592635
+  },
+  "Storgata 12, 1771 HALDEN": {
+    "lat": 59.123214,
+    "lng": 11.387274
+  },
+  "Spinneriveien 3, 1632 Gamle Fredrikstad": {
+    "lat": 59.2085737,
+    "lng": 10.9648803
+  },
+  "Storveien 7, 1624 Gressvik": {
+    "lat": 59.228279,
+    "lng": 10.910733
+  },
+  "Villaveien 1, 1820 SPYDEBERG": {
+    "lat": 59.6204934,
+    "lng": 11.0849254
+  },
+  "Kjærlighetsstien 28, 1781 HALDEN": {
+    "lat": 59.1283145,
+    "lng": 11.3752308
+  },
+  "Veigård 1, 1823 Knapstad": {
+    "lat": 59.620843,
+    "lng": 11.0306533
+  },
+  "Storgata 10, 1607 FREDRIKSTAD": {
+    "lat": 59.2122923,
+    "lng": 10.9367661
+  },
+  "Rådhusgata 23, 1830 ASKIM": {
+    "lat": 59.583697,
+    "lng": 11.159489
+  },
+  "G. A. Stouslands vei 1, 1671 Kråkerøy": {
+    "lat": 59.209661,
+    "lng": 10.929934
+  },
+  "Helgebyveien 2, 1734 HAFSLUNDSØY": {
+    "lat": 59.2918805,
+    "lng": 11.1494399
+  },
+  "Spjærøy 212, 1684 Vesterøy": {
+    "lat": 59.096611,
+    "lng": 10.920482
+  },
+  "Dr. Randers gate 4, 1830": {
+    "lat": 59.5829933,
+    "lng": 11.1617937
+  },
+  "Rådshusveien 1, 1891 RAKKESTAD": {
+    "lat": 59.4279914,
+    "lng": 11.3399373
+  },
+  "Prinsens gate 2, 1530": {
+    "lat": 59.4362709,
+    "lng": 10.6640506
+  },
+  "Tistedalsgata 9-11, 1772 HALDEN": {
+    "lat": 59.1257828,
+    "lng": 11.3974912
+  },
+  "Trøgstad torg 3, 1860 TRØGSTAD": {
+    "lat": 59.641949,
+    "lng": 11.316886
+  },
+  "Prinsebakken 1, 1680 Skjærhalden": {
+    "lat": 59.027451,
+    "lng": 11.034282
+  },
+  "Violgata 8, 1776 Halden": {
+    "lat": 59.1234726,
+    "lng": 11.385975
+  },
+  "Gudes gate 1B, 1530 MOSS": {
+    "lat": 59.437419,
+    "lng": 10.667235
+  },
+  "Storgt 4C, 1767 HALDEN": {
+    "lat": 59.1174994,
+    "lng": 11.3886893
+  },
+  "Glennveien 14, 1781 HALDEN": {
+    "lat": 59.1293327,
+    "lng": 11.3677954
+  },
+  "Råkollveien 103, 1664 ROLVSØY": {
+    "lat": 59.265811,
+    "lng": 11.004988
+  },
+  "Kråkerøyveien 9, 1671 Kråkerøy": {
+    "lat": 59.206064,
+    "lng": 10.937047
+  },
+  "Lerviksveien 28, 1626 MANSTAD": {
+    "lat": 59.2690667,
+    "lng": 10.7686583
+  },
+  "Skippergata 20, 1767 HALDEN": {
+    "lat": 59.1183646,
+    "lng": 11.3891499
+  },
+  "Sarpsborgveien 7E, 1640 RÅDE": {
+    "lat": 59.3515871,
+    "lng": 10.8757313
+  },
+  "Vestlia 1, 1592 VÅLER I ØSTFOLD": {
+    "lat": 59.4902722,
+    "lng": 10.848626
+  },
+  "Dokka 6, 1671 KRÅKERØY": {
+    "lat": 59.213964,
+    "lng": 10.925957
+  },
+  "Fladebyveien 8 A, 1746 SKJEBERG": {
+    "lat": 59.2054103,
+    "lng": 11.1914206
+  },
+  "Tørkoppveien 10, 1570 DILLING": {
+    "lat": 59.4074408,
+    "lng": 10.6965703
+  },
+  "Tønne Huitfeldts Plass 2, 1767 HALDEN": {
+    "lat": 59.117192,
+    "lng": 11.387523
+  },
+  "Rådmann Siras vei 1, 1712 GRÅLUM": {
+    "lat": 59.2943813,
+    "lng": 11.0627938
+  },
+  "Storgata 41, 1531 MOSS": {
+    "lat": 59.4374426,
+    "lng": 10.662345
+  },
+  "Karl Johans Gate 8, 1706 SARPSBORG": {
+    "lat": 59.2846036,
+    "lng": 11.1112382
+  },
+  "Kurlandveien 2, 1727 SARPSBORG": {
+    "lat": 59.2929024,
+    "lng": 11.112471
+  },
+  "Nygårdsgt. 29, 1606 Fredrikstad": {
+    "lat": 59.2078557,
+    "lng": 10.9457351
+  },
+  "Dyrendalveien 13C, 1778 HALDEN": {
+    "lat": 59.1297852,
+    "lng": 11.3804771
+  },
+  "Storgaten 5, 1767 HALDEN": {
+    "lat": 59.1174994,
+    "lng": 11.3886893
+  },
+  "Tamburveien 9, 1718 GREÅKER": {
+    "lat": 59.267889,
+    "lng": 11.0320627
+  },
+  "Holbergs gate 15, 4306 SANDNES": {
+    "lat": 58.849413,
+    "lng": 5.7396272
+  },
+  "Nedre Holmegate 30, 4006 STAVANGER": {
+    "lat": 58.9730659,
+    "lng": 5.7326201
+  },
+  "Ålgårdsheiå 10, 4331 Ålgård": {
+    "lat": 58.770297,
+    "lng": 5.855454
+  },
+  "Jærveien 12, 4319 SANDNES": {
+    "lat": 58.849443,
+    "lng": 5.7301549
+  },
+  "Madlakrossen 9, 4042": {
+    "lat": 58.9522366,
+    "lng": 5.6795349
+  },
+  "Karmsundgata 208, 5527 HAUGESUND": {
+    "lat": 59.4151128,
+    "lng": 5.2741797
+  },
+  "Gullspennetunet 1, 4032": {
+    "lat": 58.9050762,
+    "lng": 5.7322788
+  },
+  "Frakkagjerdvegen 90, 5563 FØRRESFJORDEN": {
+    "lat": 59.4168333,
+    "lng": 5.4049592
+  },
+  "Ånestadvegen 17, 4360 VARHAUG": {
+    "lat": 58.617537,
+    "lng": 5.648075
+  },
+  "Lagårdsveien 91, 4010 STAVANGER": {
+    "lat": 58.9570575,
+    "lng": 5.7400354
+  },
+  "Håbafjellveien 4, 4325 SANDNES": {
+    "lat": 58.8258357,
+    "lng": 5.7559166
+  },
+  "Lagårdsveien 73, 4010 STAVANGER": {
+    "lat": 58.9586869,
+    "lng": 5.7397475
+  },
+  "Austbøsletta 5, 4085 Hundvåg": {
+    "lat": 58.99327,
+    "lng": 5.744287
+  },
+  "Øyren 1, 4110 FORSAND": {
+    "lat": 58.901364,
+    "lng": 6.089468
+  },
+  "Langflåtv 38, 4017 STAVANGER": {
+    "lat": 58.937452,
+    "lng": 5.7412577
+  },
+  "Moiveien 9, 4460 Moi": {
+    "lat": 58.4571569,
+    "lng": 6.5483753
+  },
+  "Eidsvegen 3, 4230 SAND": {
+    "lat": 59.4855986,
+    "lng": 6.2534679
+  },
+  "Bergtunvegen 2, 4120 TAU": {
+    "lat": 59.065229,
+    "lng": 5.913275
+  },
+  "Skåregata 92 - 4. etg, 5528 Haugesund": {
+    "lat": 59.4096576,
+    "lng": 5.2753327
+  },
+  "Lyngvegen 14, 4365 NÆRBØ": {
+    "lat": 58.66736,
+    "lng": 5.635425
+  },
+  "Verksgata 2, 4013 STAVANGER": {
+    "lat": 58.9717729,
+    "lng": 5.7372574
+  },
+  "Sokndalsveien 26, 4372 Egersund": {
+    "lat": 58.447899,
+    "lng": 6.00633
+  },
+  "Hjelmeland legekontor Prestagarden 13, 4130 HJELMELAND": {
+    "lat": 59.2225429,
+    "lng": 6.1455015
+  },
+  "Fjelltunveien 84, 4100 JØRPELAND": {
+    "lat": 59.026419,
+    "lng": 6.029241
+  },
+  "Vigdelsveien 700, 4054 Tjelta": {
+    "lat": 58.8418512,
+    "lng": 5.5961148
+  },
+  "Oldeidegården, 4100 JØRPELAND": {
+    "lat": 59.0208917,
+    "lng": 6.0393553
+  },
+  "Randabergveien 300, 4070 RANDABERG": {
+    "lat": 58.9918138,
+    "lng": 5.6482493
+  },
+  "Aksdalsvegen 165, 5570 AKSDAL": {
+    "lat": 59.4226554,
+    "lng": 5.4481734
+  },
+  "St. Olavs gate 2, 4319 SANDNES": {
+    "lat": 58.848725,
+    "lng": 5.730477
+  },
+  "Arne Garborgsveg 15-17, 4344 Bryne": {
+    "lat": 58.735494,
+    "lng": 5.6543111
+  },
+  "Kleppelundsveien 15, 4352 Kleppe": {
+    "lat": 58.774243,
+    "lng": 5.6293516
+  },
+  "Lindøyveien 8, 4373 EGERSUND": {
+    "lat": 58.4594185,
+    "lng": 6.0022551
+  },
+  "Skippergata 14, 5527 HAUGESUND": {
+    "lat": 59.4132679,
+    "lng": 5.2728483
+  },
+  "Klubbgata 5, 4013 STAVANGER": {
+    "lat": 58.9707269,
+    "lng": 5.7357692
+  },
+  "St. Olavs gate 6, 4005 Stavanger": {
+    "lat": 58.9667288,
+    "lng": 5.7298427
+  },
+  "Orstadvegen 191, 4353 KLEPP STASJON": {
+    "lat": 58.7859612,
+    "lng": 5.7061975
+  },
+  "Vestheimvegen 1, 4250 KOPERVIK": {
+    "lat": 59.2947059,
+    "lng": 5.2901379
+  },
+  "Åbødalsveien 79, 4200 SAUDA": {
+    "lat": 59.6560312,
+    "lng": 6.3633592
+  },
+  "Bleikemyr Legesenter Myrullvegen 3, 5518 HAUGESUND": {
+    "lat": 59.4308598,
+    "lng": 5.2773594
+  },
+  "Holbergs gate 22, 4306 SANDNES": {
+    "lat": 58.8500704,
+    "lng": 5.7393226
+  },
+  "Spannavegen 152, 5535 HAUGESUND": {
+    "lat": 59.394899,
+    "lng": 5.304501
+  },
+  "St. Olavsgate 13, 4005 STAVANGER": {
+    "lat": 58.9665941,
+    "lng": 5.7298613
+  },
+  "Seljebakken 4, 4150": {
+    "lat": 59.098005,
+    "lng": 5.697028
+  },
+  "Hillevågsveien 41, 4016 STAVANGER": {
+    "lat": 58.9486398,
+    "lng": 5.7427089
+  },
+  "Vågsgata 40, 4306 SANDNES": {
+    "lat": 58.853481,
+    "lng": 5.739286
+  },
+  "Sverdrupsgate 23, 4007 STAVANGER": {
+    "lat": 58.9788433,
+    "lng": 5.714374
+  },
+  "Vågsgata 20, 4306 SANDNES": {
+    "lat": 58.8509237,
+    "lng": 5.7364593
+  },
+  "Selvåg 2A, 4297 SKUDENESHAVN": {
+    "lat": 59.14977,
+    "lng": 5.257766
+  },
+  "Asheimveien 2, 4318 SANDNES": {
+    "lat": 58.846103,
+    "lng": 5.716475
+  },
+  "Boganesveien 10, 4020 Stavanger": {
+    "lat": 58.92098,
+    "lng": 5.724539
+  },
+  "Traneveien 10, 4048 HAFRSFJORD": {
+    "lat": 58.965644,
+    "lng": 5.611008
+  },
+  "Gamle Sokndalsvei 38, 4372 Egersund": {
+    "lat": 58.4515121,
+    "lng": 6.0007554
+  },
+  "Tastatunet 1, 4027 STAVANGER": {
+    "lat": 58.9840002,
+    "lng": 5.6911066
+  },
+  "Vikesågata 57A, 4389 VIKESÅ": {
+    "lat": 58.639302,
+    "lng": 6.103098
+  },
+  "Madlamarkveien 2, 4041 Hafrsfjord": {
+    "lat": 58.9527605,
+    "lng": 5.6831707
+  },
+  "Randabergveien 372, 4096 RANDABERG": {
+    "lat": 58.9992608,
+    "lng": 5.6190787
+  },
+  "Randabergveien 45, 4025 Stavanger": {
+    "lat": 58.9777674,
+    "lng": 5.7046685
+  },
+  "Vingvegen 1, 4050 SOLA": {
+    "lat": 58.8833264,
+    "lng": 5.6464011
+  },
+  "Stølsmyr 22, 5542 KARMSUND": {
+    "lat": 59.3891601,
+    "lng": 5.3250047
+  },
+  "Gravarsveien 7, 4306 Sandnes": {
+    "lat": 58.8482273,
+    "lng": 5.739652
+  },
+  "Sørhauggaten 111, 5527 Haugesund": {
+    "lat": 59.4119297,
+    "lng": 5.2685577
+  },
+  "Solaveien 95, 4316 SANDNES": {
+    "lat": 58.8561749,
+    "lng": 5.7146857
+  },
+  "Gartnerveien 15, 4016 Stavanger": {
+    "lat": 58.9481535,
+    "lng": 5.7408119
+  },
+  "Austbøvegen 10, 5542 KARMSUND": {
+    "lat": 59.377549,
+    "lng": 5.305717
+  },
+  "Kirsten Brynes veg 7, 4344 Bryne": {
+    "lat": 58.7346022,
+    "lng": 5.6515495
+  },
+  "Luramyrveien 40, 4313 SANDNES": {
+    "lat": 58.8808317,
+    "lng": 5.723215
+  },
+  "Kjøpmannsbrotet 5, 4351 KLEPPE": {
+    "lat": 58.780045,
+    "lng": 5.622716
+  },
+  "Larsamyrå 1, 4313 SANDNES": {
+    "lat": 58.8687766,
+    "lng": 5.7181607
+  },
+  "Judabergvegen 6, 4160 FINNØY": {
+    "lat": 59.171148,
+    "lng": 5.873741
+  },
+  "Skogstøstraen 37, 4029 Stavanger": {
+    "lat": 58.9940716,
+    "lng": 5.6912749
+  },
+  "Grensegaten 1, 4250 KOPERVIK": {
+    "lat": 59.280739,
+    "lng": 5.306189
+  },
+  "Hanaveien 17, 4327": {
+    "lat": 58.853919,
+    "lng": 5.7515222
+  },
+  "Vikevegen 32, 5574 Skjold": {
+    "lat": 59.5006015,
+    "lng": 5.5766961
+  },
+  "Lagårdsveien 78, 4010": {
+    "lat": 58.9579841,
+    "lng": 5.740388
+  },
+  "Madlakrossen 25, 4042 Hafrsfjord": {
+    "lat": 58.9512853,
+    "lng": 5.6759509
+  },
+  "Hommersåkveien 20, 4311 HOMMERSÅK": {
+    "lat": 58.9243375,
+    "lng": 5.8517899
+  },
+  "Gamleveien 20, 4380 Hauge I Dalane": {
+    "lat": 58.3427451,
+    "lng": 6.2943222
+  },
+  "Rettedalen 11, 4330 ÅLGÅRD": {
+    "lat": 58.7649059,
+    "lng": 5.8569799
+  },
+  "Klubbgata 1, 4013 STAVANGER": {
+    "lat": 58.9697483,
+    "lng": 5.7348837
+  },
+  "Eiabakken 7, 5580 Ølen": {
+    "lat": 59.603259,
+    "lng": 5.81542
+  },
+  "Torvmyrveien 4E, 4070 RANDABERG": {
+    "lat": 59.0006867,
+    "lng": 5.6217086
+  },
+  "Ljosheimvegen 12, 4050 SOLA": {
+    "lat": 58.8793731,
+    "lng": 5.6517157
+  },
+  "Olabakken 5, 4322 Sandnes": {
+    "lat": 58.8263996,
+    "lng": 5.7146317
+  },
+  "Torgveien 15c, 4016 STAVANGER": {
+    "lat": 58.949011,
+    "lng": 5.738818
+  },
+  "Hinnasvingene 55, 4020 STAVANGER": {
+    "lat": 58.921583,
+    "lng": 5.724322
+  },
+  "Madlakrossen 25, 4042 HAFRSFJORD": {
+    "lat": 58.9512853,
+    "lng": 5.6759509
+  },
+  "Skulevegen 7, 4350 Kleppe": {
+    "lat": 58.773182,
+    "lng": 5.628048
+  },
+  "Boganesveien 29, 4020 STAVANGER": {
+    "lat": 58.919267,
+    "lng": 5.724342
+  },
+  "Langgata 27, 4362 VIGRESTAD": {
+    "lat": 58.570381,
+    "lng": 5.691562
+  },
+  "Elvegata 11, 4306 SANDNES": {
+    "lat": 58.8495884,
+    "lng": 5.7373214
+  },
+  "Risavika Havnering 247, 4056 TANANGER": {
+    "lat": 58.9222838,
+    "lng": 5.602701
+  },
+  "Hundvågveien 41B, 4085": {
+    "lat": 58.9960814,
+    "lng": 5.7330663
+  },
+  "Havnealleèn 36, 4056 TANANGER": {
+    "lat": 58.936534,
+    "lng": 5.5787954
+  },
+  "Engveien 2, 4270 ÅKREHAMN": {
+    "lat": 59.2576785,
+    "lng": 5.1997992
+  },
+  "Ryfylkegata 55, 4014 STAVANGER": {
+    "lat": 58.9667458,
+    "lng": 5.7588696
+  },
+  "Ole Nielsensvei 20, 4330 ÅLGÅRD": {
+    "lat": 58.7677578,
+    "lng": 5.8478984
+  },
+  "Jernbaneveien 32, 4370 EGERSUND": {
+    "lat": 58.4604329,
+    "lng": 6.0029386
+  },
+  "Øvre Stokkavei 46, 4023 Stavanger": {
+    "lat": 58.9646568,
+    "lng": 5.7026459
+  },
+  "Theodor Dahlsvei 8, 4355 KVERNALAND": {
+    "lat": 58.7795594,
+    "lng": 5.7215478
+  },
+  "Hovedgata 35, 4250 KOPERVIK": {
+    "lat": 59.2835845,
+    "lng": 5.3066975
+  },
+  "Breidablikkgata 149, 5501 HAUGESUND": {
+    "lat": 59.413807,
+    "lng": 5.2681249
+  },
+  "Tjensvolltorget 4, 4021 STAVANGER": {
+    "lat": 58.949711,
+    "lng": 5.6955647
+  },
+  "Nylundsbakken 2, 4280 SKUDENESHAVN": {
+    "lat": 59.1519338,
+    "lng": 5.2552095
+  },
+  "Luramyrveien 19, 4313 SANDNES": {
+    "lat": 58.8788895,
+    "lng": 5.7253084
+  },
+  "Spinnerigaten 13, 4370 EGERSUND": {
+    "lat": 58.4515018,
+    "lng": 6.0076783
+  },
+  "Hammaren 23, 4056 Tananger": {
+    "lat": 58.9208446,
+    "lng": 5.6045074
+  },
+  "Austmannaveien 11, 5537 HAUGESUND": {
+    "lat": 59.3939995,
+    "lng": 5.3048941
+  },
+  "Munkajordvegen 2, 4276 Veavågen": {
+    "lat": 59.291648,
+    "lng": 5.225644
+  },
+  "Boknatunvegen 39, 5561 BOKN": {
+    "lat": 59.2304948,
+    "lng": 5.4358493
+  },
+  "Solakrossen 15, 4050 SOLA": {
+    "lat": 58.8851948,
+    "lng": 5.6460117
+  },
+  "Løkkeveien 54, 4008 Stavanger": {
+    "lat": 58.969958,
+    "lng": 5.725525
+  },
+  "Skagen 12, 4006 STAVANGER": {
+    "lat": 58.9709342,
+    "lng": 5.7317692
+  },
+  "Vågen 17-19, 4364 SIREVÅG": {
+    "lat": 58.5045448,
+    "lng": 5.7969835
+  },
+  "Frakkagjerdvegen 121, 5563 FØRRESFJORDEN": {
+    "lat": 59.418815,
+    "lng": 5.405729
+  },
+  "Jon Torbergssonsvei 9, 4070 RANDABERG": {
+    "lat": 58.9994807,
+    "lng": 5.6157996
+  },
+  "Kannikbakken 6, 4005": {
+    "lat": 58.9665132,
+    "lng": 5.7300981
+  },
+  "Sande legesenter Revåveien 18, 3070 SANDE I VESTFOLD": {
+    "lat": 59.5872896,
+    "lng": 10.2075012
+  },
+  "Hjemsengveien 7B, 3140 Nøtterøy": {
+    "lat": 59.223377,
+    "lng": 10.418545
+  },
+  "Dronningensgate 3, 3211 SANDEFJORD": {
+    "lat": 59.1326707,
+    "lng": 10.2184841
+  },
+  "Voldshagan 2, 3090 HOF": {
+    "lat": 59.528938,
+    "lng": 10.087423
+  },
+  "Håkonsgate 34, 3257 LARVIK": {
+    "lat": 59.0539873,
+    "lng": 10.0376803
+  },
+  "Ørsnesalleèn 37, 3120 Nøtterøy": {
+    "lat": 59.2519896,
+    "lng": 10.4165032
+  },
+  "Nedre Movei 16, 3215 Sandefjord": {
+    "lat": 59.137636,
+    "lng": 10.2142258
+  },
+  "Harald Pedersens gate 9, 3182 HORTEN": {
+    "lat": 59.413446,
+    "lng": 10.470191
+  },
+  "Skiringssalveien 24, 3208 SANDEFJORD": {
+    "lat": 59.134953,
+    "lng": 10.211214
+  },
+  "Kjernåsveien 13A, 3142 Nøtterøy": {
+    "lat": 59.2294611,
+    "lng": 10.4080217
+  },
+  "Skiringssalveien 20, 3208 SANDEFJORD": {
+    "lat": 59.135105,
+    "lng": 10.212466
+  },
+  "Tjømegaten 2, 3126 TØNSBERG": {
+    "lat": 59.2668108,
+    "lng": 10.4072051
+  },
+  "Trimveien 41, 3188 HORTEN": {
+    "lat": 59.4013258,
+    "lng": 10.4620099
+  },
+  "Langgata 2, 3187 HORTEN": {
+    "lat": 59.4160851,
+    "lng": 10.4856172
+  },
+  "Langgt. 45, 3080 HOLMESTRAND": {
+    "lat": 59.489149,
+    "lng": 10.3176406
+  },
+  "Havnegaten 7, 3080 HOLMESTRAND": {
+    "lat": 59.488462,
+    "lng": 10.31789
+  },
+  "Kilengaten 18, 3117 TØNSBERG": {
+    "lat": 59.2761442,
+    "lng": 10.430965
+  },
+  "Steinbruddveien 8, 3173": {
+    "lat": 59.2643136,
+    "lng": 10.3616482
+  },
+  "Skiringssalsgaten 1a, 3116 Tønsberg": {
+    "lat": 59.2717409,
+    "lng": 10.416221
+  },
+  "Kjellengveien 2A, 3125 Tønsberg": {
+    "lat": 59.284611,
+    "lng": 10.397532
+  },
+  "Bulls gate 2B, 3110 TØNSBERG": {
+    "lat": 59.26782,
+    "lng": 10.4152298
+  },
+  "Bulls gate 2A, 3110": {
+    "lat": 59.267813,
+    "lng": 10.415826
+  },
+  "Søndersrødveien 6, 3295 HELGEROA": {
+    "lat": 58.9884454,
+    "lng": 9.8730222
+  },
+  "Kveldevn 246, 3282 KVELDE": {
+    "lat": 59.1919114,
+    "lng": 9.9675649
+  },
+  "Skaugveien 4, 3178 VÅLE": {
+    "lat": 59.4164182,
+    "lng": 10.2795395
+  },
+  "Torget 1, 3256 LARVIK": {
+    "lat": 59.053438,
+    "lng": 10.026711
+  },
+  "Valløveien 31, 3151 TOLVSRØD": {
+    "lat": 59.272954,
+    "lng": 10.463174
+  },
+  "Andebuveien 939, 3158 Andebu": {
+    "lat": 59.307051,
+    "lng": 10.184395
+  },
+  "Gloppeskogen 24, 3260 Larvik": {
+    "lat": 59.0400306,
+    "lng": 10.0687634
+  },
+  "Kilgata 9, 3217 SANDEFJORD": {
+    "lat": 59.127096,
+    "lng": 10.235322
+  },
+  "Revetalgata 52, 3174 REVETAL": {
+    "lat": 59.369261,
+    "lng": 10.2681195
+  },
+  "Kjellengveien 2B, 3125 Tønsberg": {
+    "lat": 59.28474,
+    "lng": 10.397412
+  },
+  "Sigurdsgt 4, 3256 LARVIK": {
+    "lat": 59.0542134,
+    "lng": 10.0275024
+  },
+  "St Olavsgate 28A, 3112 TØNSBERG": {
+    "lat": 59.2680306,
+    "lng": 10.419034
+  },
+  "Olavs gate 7, 3256 Larvik": {
+    "lat": 59.054626,
+    "lng": 10.0309301
+  },
+  "Holtanløkka 1, 3188 HORTEN": {
+    "lat": 59.4151078,
+    "lng": 10.4625651
+  },
+  "Fila 8a, 3070 Sande": {
+    "lat": 59.5868137,
+    "lng": 10.2067531
+  },
+  "Fridjof Nansensv. 4, 3269 LARVIK": {
+    "lat": 59.0630453,
+    "lng": 10.0391429
+  },
+  "Rådhusgata 27C, 3290 STAVERN": {
+    "lat": 58.9983397,
+    "lng": 10.0360061
+  },
+  "Rødsgate 36, 3145 TJØME": {
+    "lat": 59.1149169,
+    "lng": 10.3916872
+  },
+  "Søebergs gate 4, 3211 SANDEFJORD": {
+    "lat": 59.1326707,
+    "lng": 10.2184841
+  },
+  "Gauterødveien 6B, 3154 Tolvsrød": {
+    "lat": 59.2756343,
+    "lng": 10.4518361
+  },
+  "Prinsegata 11B, 3256 LARVIK": {
+    "lat": 59.0521638,
+    "lng": 10.0300204
+  },
+  "Grev Wedels gate 10, 3111 Tønsberg": {
+    "lat": 59.2708453,
+    "lng": 10.4087746
+  },
+  "Øreveien 7, 3120 NØTTERØY": {
+    "lat": 59.238305,
+    "lng": 10.424559
+  },
+  "Dronningens gate 6, 3211 SANDEFJORD": {
+    "lat": 59.130778,
+    "lng": 10.220628
+  },
+  "Strandparken 3-5, 3187 HORTEN": {
+    "lat": 59.404566,
+    "lng": 10.4833616
+  },
+  "Storgaten 35, 3126 TØNSBERG": {
+    "lat": 59.2673125,
+    "lng": 10.4081916
+  },
+  "Håkestadveien 3, 3280 TJODALYNG": {
+    "lat": 59.0560597,
+    "lng": 10.1244319
+  },
+  "Nygaards alle 4, 3160 Stokke": {
+    "lat": 59.2220282,
+    "lng": 10.2994122
+  },
+  "Frankendalveien 101, 3274 LARVIK": {
+    "lat": 59.0640413,
+    "lng": 10.0546874
+  },
+  "Kilengaten 18B, 3117 TØNSBERG": {
+    "lat": 59.2763237,
+    "lng": 10.4309549
+  },
+  "Kammegaten 8, 3110 TØNSBERG": {
+    "lat": 59.2689893,
+    "lng": 10.4087104
+  },
+  "Hegnasletta 5, 3217 SANDEFJORD": {
+    "lat": 59.12838,
+    "lng": 10.243585
+  },
+  "Revetalgata 8, 3174 Revetal": {
+    "lat": 59.3724681,
+    "lng": 10.2680808
+  },
+  "Stokkeveien 55, 3160 STOKKE": {
+    "lat": 59.227391,
+    "lng": 10.286742
+  },
+  "Halvdan Svartes gate 12, 3208 SANDEFJORD": {
+    "lat": 59.136223,
+    "lng": 10.211589
+  },
+  "Torvet 1, 3179 Åsgårdstrand": {
+    "lat": 59.349297,
+    "lng": 10.467861
+  },
+  "Danholmen 3, 3128 NØTTERØY": {
+    "lat": 59.2646281,
+    "lng": 10.3897122
+  },
+  "Havnegården Box 114, 3081 HOLMESTRAND": {
+    "lat": 59.4899583,
+    "lng": 10.3150445
+  },
+  "Havnegata 23, 3080 Holmestrand": {
+    "lat": 59.489149,
+    "lng": 10.3176406
+  },
+  "Fritzøe Brygge 1, 3264 LARVIK": {
+    "lat": 59.050184,
+    "lng": 10.021419
+  },
+  "Grev Wedels gate 44, 3179 ÅSGÅRDSTRAND": {
+    "lat": 59.349768,
+    "lng": 10.461021
+  },
+  "Ringveien 16, 3275 SVARSTAD": {
+    "lat": 59.399626,
+    "lng": 9.952609
+  },
+  "Harald Pedersens gate 9B, 3182 HORTEN": {
+    "lat": 59.413735,
+    "lng": 10.470333
+  },
+  "Havnegata 1, 9404 HARSTAD": {
+    "lat": 68.804862,
+    "lng": 16.549849
+  },
+  "Laukhellaveien 106, 9303 SILSAND": {
+    "lat": 69.234579,
+    "lng": 17.9275081
+  },
+  "Helsesenterveien 2, 9350 SJØVEGAN": {
+    "lat": 68.87295,
+    "lng": 17.849778
+  },
+  "Nordlysveien 374, 9046 Oteren": {
+    "lat": 69.25487,
+    "lng": 19.880948
+  },
+  "Kvæfjord Helsehus, Kveldroveien 2, 9475 BORKENES": {
+    "lat": 68.7726305,
+    "lng": 16.1715549
+  },
+  "Stortorget 2, 9008 Tromsø": {
+    "lat": 69.6510011,
+    "lng": 18.9594511
+  },
+  "Helsetunet Bakkemoveien 22, 9147 BIRTAVARRE": {
+    "lat": 69.4949552,
+    "lng": 20.8319007
+  },
+  "Sonjatunvegen 21, 9151 STORSLETT": {
+    "lat": 69.7663922,
+    "lng": 21.0357997
+  },
+  "Verkstedveien 1, 9406 Harstad": {
+    "lat": 68.790447,
+    "lng": 16.539458
+  },
+  "Stakkevollvegen 41, 9010 TROMSØ": {
+    "lat": 69.667076,
+    "lng": 18.970989
+  },
+  "Killengreensgate 7, 9008 TROMSØ": {
+    "lat": 69.6514008,
+    "lng": 18.9573941
+  },
+  "B A Løvolds veg 12, 9022 KROKELVDALEN": {
+    "lat": 69.6820022,
+    "lng": 19.0672059
+  },
+  "Helsesenterveien 32, 9300 FINNSNES": {
+    "lat": 69.234735,
+    "lng": 18.010281
+  },
+  "Stortorget 4, 9008 Tromsø": {
+    "lat": 69.6510876,
+    "lng": 18.9584089
+  },
+  "Rådhusveien 41, 9130 Hansnes": {
+    "lat": 69.96787,
+    "lng": 19.626157
+  },
+  "Andselv, 9325 BARDUFOSS": {
+    "lat": 69.073508,
+    "lng": 18.5306953
+  },
+  "Storsteinnes Legekontor, 9050 STORSTEINNES": {
+    "lat": 69.2401412,
+    "lng": 19.2267725
+  },
+  "Skippergata 7a, 9008 Tromsø": {
+    "lat": 69.6530183,
+    "lng": 18.9615981
+  },
+  "Nesseveien 2B, 9411 HARSTAD": {
+    "lat": 68.7728082,
+    "lng": 16.5614933
+  },
+  "Solstrandveien 19, 9020 TROMSDALEN": {
+    "lat": 69.6421144,
+    "lng": 18.9773796
+  },
+  "Sandvåghaugan 1, 9180 SKJERVØY": {
+    "lat": 70.028541,
+    "lng": 20.981251
+  },
+  "St. Olavs gate 68, 9406 Harstad": {
+    "lat": 68.796823,
+    "lng": 16.527637
+  },
+  "Stakkevollvegen 33, 9010 Tromsø": {
+    "lat": 69.6654887,
+    "lng": 18.9687418
+  },
+  "Fogd Holmboes gate 56, 9360 Bardu": {
+    "lat": 68.863594,
+    "lng": 18.345398
+  },
+  "Framstredet 79, 9037 Tromsø": {
+    "lat": 69.682048,
+    "lng": 18.96587
+  },
+  "Utsikten, 9018 Tromsø": {
+    "lat": 69.6946752,
+    "lng": 19.0021419
+  },
+  "Nergårdveien 2, 9470 GRATANGEN": {
+    "lat": 68.6927285,
+    "lng": 17.5318806
+  },
+  "Tordenskjolds gate 8, 9404 HARSTAD": {
+    "lat": 68.804811,
+    "lng": 16.545567
+  },
+  "Blåmannsveien 10, 9100 KVALØYSLETTA": {
+    "lat": 69.6928213,
+    "lng": 18.8626204
+  },
+  "Strandvegen 106, 9006": {
+    "lat": 69.6353103,
+    "lng": 18.9345505
+  },
+  "Karlsøyvegen 12, 9015 Tromsø": {
+    "lat": 69.6742551,
+    "lng": 18.9264972
+  },
+  "Rødbergveien 6, 9408 Harstad": {
+    "lat": 68.784305,
+    "lng": 16.559947
+  },
+  "Kjosveien 20, 9060 LYNGSEIDET": {
+    "lat": 69.5762083,
+    "lng": 20.2103506
+  },
+  "Moan 12, 9426 Bjarkøy": {
+    "lat": 68.9937506,
+    "lng": 16.5424607
+  },
+  "Rådhuset Gárgu 8, 9161 BURFJORD": {
+    "lat": 69.9378704,
+    "lng": 22.0518668
+  },
+  "Sykehjemsveien 41, 9310 SØRREISA": {
+    "lat": 69.1472856,
+    "lng": 18.1555342
+  },
+  "Tangenveien 5, 7651 Verdal": {
+    "lat": 63.7887843,
+    "lng": 11.4687497
+  },
+  "Fyrgata 3, 7714 STEINKJER": {
+    "lat": 64.011946,
+    "lng": 11.487499
+  },
+  "Nordre gate 6, 7011 Trondheim": {
+    "lat": 63.431205,
+    "lng": 10.397434
+  },
+  "Breidablikkvegen 1, 7500 Stjørdal": {
+    "lat": 63.468707,
+    "lng": 10.931574
+  },
+  "Løvsetvegen 2, 7224 Melhus": {
+    "lat": 63.284308,
+    "lng": 10.281447
+  },
+  "Øyavegen 19, 7550 HOMMELVIK": {
+    "lat": 63.4121489,
+    "lng": 10.8036361
+  },
+  "Wessels Veg 95, 7502": {
+    "lat": 63.4734665,
+    "lng": 10.9014559
+  },
+  "Årnsetveien 35, 7100 Rissa": {
+    "lat": 63.5868,
+    "lng": 9.958023
+  },
+  "Anders Estenstads Veg 18, 7046 TRONDHEIM": {
+    "lat": 63.4249897,
+    "lng": 10.4420123
+  },
+  "Russervegen 5A, 7340 OPPDAL": {
+    "lat": 62.594377,
+    "lng": 9.684029
+  },
+  "Fergemannsvegen 6, 7863 Overhalla": {
+    "lat": 64.484435,
+    "lng": 11.9594028
+  },
+  "Moafjæra 8C, 7606 Levanger": {
+    "lat": 63.735913,
+    "lng": 11.280452
+  },
+  "Fjellseterveien 1, 7020 TRONDHEIM": {
+    "lat": 63.4180001,
+    "lng": 10.3518947
+  },
+  "Vestre Rosten 77, 7075 TILLER": {
+    "lat": 63.362539,
+    "lng": 10.3719311
+  },
+  "Innherredsveien 7, 7014 Trondheim": {
+    "lat": 63.4339571,
+    "lng": 10.4137391
+  },
+  "Prinsens gt 1 A, Statens Hus, 7011 Trondheim": {
+    "lat": 63.4322408,
+    "lng": 10.3967299
+  },
+  "Olav Tryggvasons Gate 24C, 7011 Trondheim": {
+    "lat": 63.4332023,
+    "lng": 10.3946786
+  },
+  "Nøkkrosevegen 2, 7970 Kolvereid": {
+    "lat": 64.8647037,
+    "lng": 11.6027053
+  },
+  "Høvdingveien 10, 7725 Steinkjer": {
+    "lat": 64.0238545,
+    "lng": 11.4813835
+  },
+  "Helge Ingstadsvei 1, 7600 Levanger": {
+    "lat": 63.752125,
+    "lng": 11.311775
+  },
+  "Vestre Rosten 79, 7075 TILLER": {
+    "lat": 63.363886,
+    "lng": 10.372883
+  },
+  "Haakon VIIs gate 27, 7041 TRONDHEIM": {
+    "lat": 63.438774,
+    "lng": 10.463933
+  },
+  "Nertunet 30, 7633 FROSTA": {
+    "lat": 63.589209,
+    "lng": 10.741988
+  },
+  "Ringvålvegen 5, 7080 Heimdal": {
+    "lat": 63.3517455,
+    "lng": 10.3544485
+  },
+  "Hans Baucks veg 1, 7033 TRONDHEIM": {
+    "lat": 63.4030121,
+    "lng": 10.4276364
+  },
+  "Moholt Allmenning 3, 7050 Trondheim": {
+    "lat": 63.4113331,
+    "lng": 10.4333493
+  },
+  "Haakon VIIs gate 9, 7041 Trondheim": {
+    "lat": 63.444122,
+    "lng": 10.448084
+  },
+  "Ivar Lykkes veg 3, 7075 Tiller": {
+    "lat": 63.3580652,
+    "lng": 10.3748349
+  },
+  "Smistadvegen 11, 7026 Trondheim": {
+    "lat": 63.3762253,
+    "lng": 10.3127707
+  },
+  "Sørveien 17b, Kysthaven, 7260 Sistranda": {
+    "lat": 63.7301981,
+    "lng": 8.8297021
+  },
+  "Mellomila 56, 7018 Trondheim": {
+    "lat": 63.431332,
+    "lng": 10.363492
+  },
+  "Vennaliveien 5, 7670 INDERØY": {
+    "lat": 63.8756,
+    "lng": 11.289185
+  },
+  "Ingeborg Aas veg 4, 7036 TRONDHEIM": {
+    "lat": 63.391528,
+    "lng": 10.430585
+  },
+  "Sjukeheimsvegen 6, 6657 RINDAL": {
+    "lat": 63.055573,
+    "lng": 9.217015
+  },
+  "Mellomvegen 8, 7750 NAMDALSEID": {
+    "lat": 64.222255,
+    "lng": 11.217865
+  },
+  "Richard Birkelands veg 5, 7034 Trondheim": {
+    "lat": 63.415693,
+    "lng": 10.4109041
+  },
+  "Øvre Møllenberg 61/63, 7043 TRONDHEIM": {
+    "lat": 63.4344321,
+    "lng": 10.4201786
+  },
+  "Christian Bloms veg 2A, 7058 CHARLOTTENLUND": {
+    "lat": 63.419194,
+    "lng": 10.483482
+  },
+  "Harald Hårfagresgate 2, 7041 Trondheim": {
+    "lat": 63.4440653,
+    "lng": 10.4492614
+  },
+  "Stordalsveien 4 A, 7170 ÅFJORD": {
+    "lat": 63.960707,
+    "lng": 10.227979
+  },
+  "Glåmsmyrveien 23, 6683 Vågland": {
+    "lat": 63.1184718,
+    "lng": 8.3120264
+  },
+  "Stokmovegen 2, 7500 Stjørdal": {
+    "lat": 63.4687715,
+    "lng": 10.924266
+  },
+  "Selsbakkvegen 36b, 7027 Trondheim": {
+    "lat": 63.394501,
+    "lng": 10.368786
+  },
+  "Tine Bugges vei 1A, 7540 KLÆBU": {
+    "lat": 63.2977947,
+    "lng": 10.4833433
+  },
+  "Rørosveien 1, 7290 STØREN": {
+    "lat": 63.039709,
+    "lng": 10.286372
+  },
+  "Olav Tryggvasons gate 14, 7011 Trondheim": {
+    "lat": 63.4334549,
+    "lng": 10.3996608
+  },
+  "Dalgårdveien 1, 7024": {
+    "lat": 63.3950255,
+    "lng": 10.3376118
+  },
+  "Vassliveien 83, 7391 RENNEBU": {
+    "lat": 62.834434,
+    "lng": 10.006455
+  },
+  "Miljøbygget, 7770 Flatanger": {
+    "lat": 64.5013755,
+    "lng": 10.8950299
+  },
+  "Henrik Grønnsvei 25, 7374 RØROS": {
+    "lat": 62.5771342,
+    "lng": 11.3786766
+  },
+  "Seilmakergata 10, 7725 STEINKJER": {
+    "lat": 64.013348,
+    "lng": 11.479886
+  },
+  "Blåklokkevegen 16, 7870 GRONG": {
+    "lat": 64.463265,
+    "lng": 12.3106839
+  },
+  "Bruarvegen 50, 7232 Lundamo": {
+    "lat": 63.1520254,
+    "lng": 10.2852658
+  },
+  "Fjordgata 1, 7010 TRONDHEIM": {
+    "lat": 63.4344691,
+    "lng": 10.403794
+  },
+  "Skolegata 9, 7130 BREKSTAD": {
+    "lat": 63.685591,
+    "lng": 9.655906
+  },
+  "Gjelbakken 15, 7580 SELBU": {
+    "lat": 63.217788,
+    "lng": 11.039243
+  },
+  "Ressveien 55, 7336 Meldal": {
+    "lat": 63.043552,
+    "lng": 9.721468
+  },
+  "Vegamot 8 B, 7049 Trondheim": {
+    "lat": 63.4093566,
+    "lng": 10.4438168
+  },
+  "Erling Skakkesgt. 49B, 7012": {
+    "lat": 63.4290355,
+    "lng": 10.3849156
+  },
+  "Stasjonsvegen 1, 7630 Åsen": {
+    "lat": 63.6102561,
+    "lng": 11.0516518
+  },
+  "Megardsvegen 6A, 7320 FANNREM": {
+    "lat": 63.266312,
+    "lng": 9.814472
+  },
+  "Olav Tryggvasons gate 35, 7011 TRONDHEIM": {
+    "lat": 63.43312,
+    "lng": 10.395589
+  },
+  "Vollabakken 3, 7030 Trondheim": {
+    "lat": 63.4239218,
+    "lng": 10.4019983
+  },
+  "Vargeia 9, 7877 Høylandet": {
+    "lat": 64.628363,
+    "lng": 12.299114
+  },
+  "Rådhusgata 6, 7530 MERÅKER": {
+    "lat": 63.415109,
+    "lng": 11.748254
+  },
+  "Fyrgata 3, 7725 STEINKJER": {
+    "lat": 64.011946,
+    "lng": 11.487499
+  },
+  "Kirkegata 1 A, 7600 LEVANGER": {
+    "lat": 63.7431148,
+    "lng": 11.2882422
+  },
+  "Orkdalsveien 38 A, 7300 ORKDAL": {
+    "lat": 63.263466,
+    "lng": 9.8130761
+  },
+  "Canninggata 4, 7800 7800": {
+    "lat": 64.468016,
+    "lng": 11.485664
+  },
+  "Rådhusvegen 6, 7353 Børsa": {
+    "lat": 63.32398,
+    "lng": 10.066249
+  },
+  "Haakon VII Alle 5, 7650 VERDAL": {
+    "lat": 63.7941885,
+    "lng": 11.4829075
+  },
+  "Jomfrugt. 18, 7010 Trondheim": {
+    "lat": 63.4354303,
+    "lng": 10.399709
+  },
+  "Vikelvfaret 4, 7054 Ranheim": {
+    "lat": 63.421276,
+    "lng": 10.53616
+  },
+  "Falkenborgveien 35c, 7044 TRONDHEIM": {
+    "lat": 63.434941,
+    "lng": 10.459307
+  },
+  "Orkdalsveien 58, 7300 Orkanger": {
+    "lat": 63.3050429,
+    "lng": 9.849584
+  },
+  "Fløytarveien 3B, 7650 Verdal": {
+    "lat": 63.7908272,
+    "lng": 11.4774841
+  },
+  "Melhusvegen 505, 7224 MELHUS": {
+    "lat": 63.283712,
+    "lng": 10.280216
+  },
+  "Einar Bergs Veg 4, 7520 HEGRA": {
+    "lat": 63.46294,
+    "lng": 11.113956
+  },
+  "Saxe Viks veg 4, 7562 SAKSVIK": {
+    "lat": 63.4381183,
+    "lng": 10.604318
+  },
+  "Helsetunet 9, 7380 ÅLEN": {
+    "lat": 62.8438593,
+    "lng": 11.2985867
+  },
+  "Steinkjersannan 5, 7713 STEINKJER": {
+    "lat": 64.0093584,
+    "lng": 11.5024645
+  },
+  "Stasjonsveien 14, 7560 7560": {
+    "lat": 60.3161053,
+    "lng": 5.3492704
+  },
+  "Pinavegen 14, 7800 NAMSOS": {
+    "lat": 64.4651378,
+    "lng": 11.5037535
+  },
+  "Helsetunveien 4, 7200 KYRKSÆTERØRA": {
+    "lat": 63.288691,
+    "lng": 9.06465
+  },
+  "Parkvegen 1 A, 7500 Stjørdal": {
+    "lat": 63.468268,
+    "lng": 10.917549
+  },
+  "Skatvalsvegen 126, 7510 SKATVAL": {
+    "lat": 63.509318,
+    "lng": 10.8285339
+  },
+  "Ilevollen 50, 7018 TRONDHEIM": {
+    "lat": 63.4282995,
+    "lng": 10.3673652
+  },
+  "Stallbakksvingen 2, 7760 SNÅSA": {
+    "lat": 64.245435,
+    "lng": 12.372126
+  },
+  "Harald Grønningensvei 22, 7316 LENSVIK": {
+    "lat": 63.506466,
+    "lng": 9.828478
+  },
+  "Bråmyra 4B, 7074 Spongdal": {
+    "lat": 63.3559355,
+    "lng": 10.1626318
+  },
+  "Sverres gate 23, 7800 NAMSOS": {
+    "lat": 64.4678547,
+    "lng": 11.493618
+  },
+  "Vikaholmveien 2, 7240 HITRA": {
+    "lat": 63.6021551,
+    "lng": 8.9796618
+  },
+  "Navarvegen 19, 7820 SPILLUM": {
+    "lat": 64.459991,
+    "lng": 11.541966
+  },
+  "Statsråd Kroghs vei 15C, 7021 Trondheim": {
+    "lat": 63.4104419,
+    "lng": 10.3647978
+  },
+  "Rådhusveien17, 7740 STEINSDALEN": {
+    "lat": 64.2371593,
+    "lng": 10.6586645
+  },
+  "Ås, 7590 TYDAL": {
+    "lat": 63.0448743,
+    "lng": 11.6577805
+  },
+  "Utsiravegen 1A, 7045 TRONDHEIM": {
+    "lat": 63.4300526,
+    "lng": 10.4425915
+  },
+  "Jernbanegata 9 L, 7650 VERDAL": {
+    "lat": 63.791207,
+    "lng": 11.487323
+  },
+  "Øvre Flatåsvei 4b, 7079 FLATÅSEN": {
+    "lat": 63.371625,
+    "lng": 10.34271
+  },
+  "Skeisveien 115, 7994 Leka": {
+    "lat": 65.08812,
+    "lng": 11.711751
+  },
+  "Friisebrygga 3, 3921 Porsgrunn": {
+    "lat": 59.1391041,
+    "lng": 9.6482847
+  },
+  "Stridsklev Ring 46, 3929 PORSGRUNN": {
+    "lat": 59.11639,
+    "lng": 9.6599988
+  },
+  "Vinjevegen 212, 3890 Vinje": {
+    "lat": 59.568618,
+    "lng": 7.987588
+  },
+  "Skrapeklevvegen 4, 3937 PORSGRUNN": {
+    "lat": 59.1059477,
+    "lng": 9.6612476
+  },
+  "Bambleveien 24, 3970 LANGESUND": {
+    "lat": 59.0030284,
+    "lng": 9.740707
+  },
+  "Granlivegen 1, 3850 KVITESEID": {
+    "lat": 59.3982584,
+    "lng": 8.5006608
+  },
+  "Tinnegrendveien 5, 3683 NOTODDEN": {
+    "lat": 59.559777,
+    "lng": 9.269158
+  },
+  "Stokkevannveien 13, 3960 Stathelle": {
+    "lat": 59.037387,
+    "lng": 9.677994
+  },
+  "Kongens gate 31, 3717 Skien": {
+    "lat": 59.2114908,
+    "lng": 9.6074354
+  },
+  "Storgata 16, 3660 RJUKAN": {
+    "lat": 59.8790005,
+    "lng": 8.5909395
+  },
+  "Holbergs gate 6, 3717 SKIEN": {
+    "lat": 59.20957,
+    "lng": 9.604175
+  },
+  "Hellandvegen 10, 3800 BØ I TELEMARK": {
+    "lat": 59.4143901,
+    "lng": 9.0668778
+  },
+  "Gamlegata 56, 3810 GVARV": {
+    "lat": 59.3873276,
+    "lng": 9.1687092
+  },
+  "Teknikergata 16, 3912 PORSGRUNN": {
+    "lat": 59.150348,
+    "lng": 9.658476
+  },
+  "Porselensvegen 8, 3920 PORSGRUNN": {
+    "lat": 59.1407889,
+    "lng": 9.6397126
+  },
+  "Sentrumsveien 22, 3748 SILJAN": {
+    "lat": 59.2791325,
+    "lng": 9.7282509
+  },
+  "Henrik Ibsensgate 6, 3724 Skien": {
+    "lat": 59.2022242,
+    "lng": 9.6127897
+  },
+  "Storgata 40, 3674 Notodden": {
+    "lat": 59.559806,
+    "lng": 9.258979
+  },
+  "Stårrvegen 14, 3830 Ulefoss": {
+    "lat": 59.28227,
+    "lng": 9.268932
+  },
+  "Birgittesgate 19, 3730 SKIEN": {
+    "lat": 59.1951235,
+    "lng": 9.6048628
+  },
+  "Stemmenveien 6, 3750 DRANGEDAL": {
+    "lat": 59.0984158,
+    "lng": 9.0623445
+  },
+  "Gamle Breviksvei 110, 3940 Porsgrunn": {
+    "lat": 59.0856171,
+    "lng": 9.6833843
+  },
+  "Bruene 1, 3724": {
+    "lat": 59.2071317,
+    "lng": 9.6081984
+  },
+  "Krabberødvn 3, 3960 STATHELLE": {
+    "lat": 59.044211,
+    "lng": 9.691484
+  },
+  "Hågånvegen 17, 3692 SAULAND": {
+    "lat": 59.6145162,
+    "lng": 8.9510151
+  },
+  "Revahaugvegen 4, 3880 DALEN": {
+    "lat": 59.4444775,
+    "lng": 8.0043161
+  },
+  "Gamle kragerøvei 12, 3770 Kragerø": {
+    "lat": 58.8751885,
+    "lng": 9.416287
+  },
+  "Bjørnstj. Bjørnsonsgate 13, 3722 Skien": {
+    "lat": 59.2101745,
+    "lng": 9.5932748
+  },
+  "Gamleveien 19, 3922 PORSGRUNN": {
+    "lat": 59.135347,
+    "lng": 9.6495467
+  },
+  "Nyhusveien 14, 3726 SKIEN": {
+    "lat": 59.2161176,
+    "lng": 9.5653556
+  },
+  "Stathelleveien 33, 3970 LANGESUND": {
+    "lat": 59.012784,
+    "lng": 9.743511
+  },
+  "Kirkegt. 13, 3770 KRAGERØ": {
+    "lat": 58.8712508,
+    "lng": 9.4065081
+  },
+  "Pelotongvegen 2, 3734 SKIEN": {
+    "lat": 59.1833033,
+    "lng": 9.6030332
+  },
+  "Landstadvegen 35, 3870 FYRESDAL": {
+    "lat": 59.185654,
+    "lng": 8.0859652
+  },
+  "Buervegen 18, 3711 SKIEN": {
+    "lat": 59.164272,
+    "lng": 9.662773
+  },
+  "Ingrid Slettensveg 16, 3840 SELJORD": {
+    "lat": 59.4810018,
+    "lng": 8.6326162
+  },
+  "Nedre Hjellegate 2, 3724 SKIEN": {
+    "lat": 59.2068327,
+    "lng": 9.6068278
+  },
+  "Treungvegen 398, 3855 TREUNGEN": {
+    "lat": 59.0196639,
+    "lng": 8.5211988
+  },
+  "Alexander Kiellands gate 26, 3716 Skien": {
+    "lat": 59.2161973,
+    "lng": 9.6092713
+  },
+  "Stølshaugvegen 3, 5460 HUSNES": {
+    "lat": 59.85489,
+    "lng": 5.744997
+  },
+  "Olsvik Legesenter AS Olsvikåsen 4, 5884 BERGEN": {
+    "lat": 60.3943055,
+    "lng": 5.3259192
+  },
+  "Florvågvegen 93, 5305 FLORVÅG": {
+    "lat": 60.4200763,
+    "lng": 5.2394261
+  },
+  "Skjergardsvegen 1376, 5363 ÅGOTNES": {
+    "lat": 60.4028141,
+    "lng": 5.0016684
+  },
+  "Tysnes Legekontor, Uggdalsvegen 301, 5685 UGGDAL": {
+    "lat": 59.9974011,
+    "lng": 5.4944109
+  },
+  "Havnevegen 3, 5918 FREKHAUG": {
+    "lat": 60.5186843,
+    "lng": 5.2398568
+  },
+  "Holmavegen 8, 5590 Etne": {
+    "lat": 59.665723,
+    "lng": 5.940133
+  },
+  "Gurid Almenningens plass 1, 5704 VOSS": {
+    "lat": 60.629634,
+    "lng": 6.405523
+  },
+  "Ytrebygdsvegen 250, 5258 BLOMSTERDALEN": {
+    "lat": 60.284021,
+    "lng": 5.2539384
+  },
+  "Kokstadvegen 23, 5257 KOKSTAD": {
+    "lat": 60.294218,
+    "lng": 5.2658817
+  },
+  "Skogsleitet 24, 5382 SKOGSVÅG": {
+    "lat": 60.2688183,
+    "lng": 5.1031688
+  },
+  "Kalfarveien 20, 5018 BERGEN": {
+    "lat": 60.3898889,
+    "lng": 5.338497
+  },
+  "Nordåsdalen 44, 5235 RÅDAL": {
+    "lat": 60.305636,
+    "lng": 5.326663
+  },
+  "Søråsbrotet 9, 5235 RÅDAL": {
+    "lat": 60.3026776,
+    "lng": 5.3264993
+  },
+  "Laguneveien 9, 5239 RÅDAL": {
+    "lat": 60.294549,
+    "lng": 5.326054
+  },
+  "Kanalveien 109, 5068 Bergen": {
+    "lat": 60.359511,
+    "lng": 5.3424887
+  },
+  "Fana legekontor Høgsetebrotet 6, 5244 FANA": {
+    "lat": 60.2524835,
+    "lng": 5.321362
+  },
+  "Fjordsenteret, 5745 AURLAND": {
+    "lat": 60.8964608,
+    "lng": 7.2384478
+  },
+  "Brakeveien 2, 5141 FYLLINGSDALEN": {
+    "lat": 60.3377699,
+    "lng": 5.2707628
+  },
+  "Årstadveien 17, 5009 BERGEN": {
+    "lat": 60.3819579,
+    "lng": 5.3583433
+  },
+  "Andreas Gjellesviksveg 14, 5260 Indre Arna": {
+    "lat": 60.4294235,
+    "lng": 5.4694165
+  },
+  "Prestegardsskogen 2A, 5210 OS": {
+    "lat": 62.756443,
+    "lng": 7.293846
+  },
+  "Blombakkane 77, 5354 STRAUME": {
+    "lat": 60.364938,
+    "lng": 5.118783
+  },
+  "Florvågvn. 6, 5300 KLEPPESTØ": {
+    "lat": 60.4127624,
+    "lng": 5.2309483
+  },
+  "Setrevegen 4, 6783 STRYN": {
+    "lat": 61.903054,
+    "lng": 6.715238
+  },
+  "Nygårdsgaten 4, 5015 BERGEN": {
+    "lat": 60.3892364,
+    "lng": 5.324623
+  },
+  "Nesttunveien 98, 5221 NESTTUN": {
+    "lat": 60.318157,
+    "lng": 5.353281
+  },
+  "Logemannsgården C. Sundts gate 51, 5004 BERGEN": {
+    "lat": 60.3972878,
+    "lng": 5.3134405
+  },
+  "Søreidtunet 1, 5251 SØREIDGREND": {
+    "lat": 60.315108,
+    "lng": 5.271647
+  },
+  "Langebruvegen 28, 6800 Førde": {
+    "lat": 61.4537431,
+    "lng": 5.8579937
+  },
+  "Austevoll Legesenter, Birkelandsvegen 6, 5392 STOREBØ": {
+    "lat": 60.0961406,
+    "lng": 5.2247435
+  },
+  "Bråvoll 1, 5780 KINSARVIK": {
+    "lat": 60.3756428,
+    "lng": 6.7276494
+  },
+  "Kvassnesvegen 48, 5914 ISDALSTØ": {
+    "lat": 60.544552,
+    "lng": 5.291409
+  },
+  "Plassen 2, 6856 SOGNDAL": {
+    "lat": 61.231992,
+    "lng": 7.097583
+  },
+  "Brugata 36, 5200 OS": {
+    "lat": 60.1851935,
+    "lng": 5.4716628
+  },
+  "Vollane 1, 5105 EIDSVÅG I ÅSANE": {
+    "lat": 60.4365625,
+    "lng": 5.3194062
+  },
+  "Eid Legekontor/Selje legekontor, 6770 NORDFJORDEID": {
+    "lat": 61.907681,
+    "lng": 5.9891381
+  },
+  "Borggatta 5-7, 5417 STORD": {
+    "lat": 59.7833608,
+    "lng": 5.4935826
+  },
+  "Hamnevegen 48, 5200 OS": {
+    "lat": 60.183747,
+    "lng": 5.4723781
+  },
+  "Hardangerveien 6, 5705 VOSS": {
+    "lat": 60.6293565,
+    "lng": 6.4304909
+  },
+  "Brugata 50, 5200 OS": {
+    "lat": 60.1848036,
+    "lng": 5.4715607
+  },
+  "Flatbygdi 10, 6893 VIK I SOGN": {
+    "lat": 61.082577,
+    "lng": 6.579257
+  },
+  "Gate 1 120, 6700 MÅLØY": {
+    "lat": 61.935747,
+    "lng": 5.114177
+  },
+  "Øyraplassen 8, 6887 LÆRDAL": {
+    "lat": 61.0990146,
+    "lng": 7.4822512
+  },
+  "Rosendalsvegen 10, 5470 ROSENDAL": {
+    "lat": 59.9842706,
+    "lng": 6.0122704
+  },
+  "Ulvedal 5, 5134 FLAKTVEIT": {
+    "lat": 60.4705897,
+    "lng": 5.3393373
+  },
+  "Heiane 31, 5412 STORD": {
+    "lat": 59.7630037,
+    "lng": 5.4550198
+  },
+  "kanalveien 64, 5068 BERGEN": {
+    "lat": 60.362406,
+    "lng": 5.346762
+  },
+  "Kvassnesveien 48, 5914 ISDALSTØ": {
+    "lat": 60.544552,
+    "lng": 5.291409
+  },
+  "Krambualegesenter Fjøsangerveien 215, 5073 BERGEN": {
+    "lat": 60.3583182,
+    "lng": 5.3374615
+  },
+  "Mostravegen 546, 5440 MOSTERHAMN": {
+    "lat": 59.702605,
+    "lng": 5.373784
+  },
+  "Skeiesvegen 7, 5730 ULVIK": {
+    "lat": 60.5679647,
+    "lng": 6.9156616
+  },
+  "Gamle Havnavegen 2, 5419 FITJAR": {
+    "lat": 59.921211,
+    "lng": 5.319326
+  },
+  "Tyssevegen 108, 5650 TYSSE": {
+    "lat": 60.3873584,
+    "lng": 5.7683101
+  },
+  "Sartor senter Sartorvegen 12, 5353 STRAUME": {
+    "lat": 60.3466575,
+    "lng": 5.1332071
+  },
+  "4. etg Solheimsgaten 9, 5058 BERGEN": {
+    "lat": 60.3798532,
+    "lng": 5.3249738
+  },
+  "Hans Blomgate 39, 6905 FLORØ": {
+    "lat": 61.5992801,
+    "lng": 5.0395179
+  },
+  "Breiviksbakken 1B, 5042 BERGEN": {
+    "lat": 60.4256334,
+    "lng": 5.2994556
+  },
+  "Konsul Jebsensgate 16, 5722 DALEKVAM": {
+    "lat": 60.587884,
+    "lng": 5.819093
+  },
+  "Øyagata 4, 6868 GAUPNE": {
+    "lat": 61.403594,
+    "lng": 7.296533
+  },
+  "Lyderhornsveien 353 Iskanten Pb 85, 5881 BERGEN": {
+    "lat": 60.3943055,
+    "lng": 5.3259192
+  },
+  "Fossen Senter, 5281 VALESTRANDSFOSSEN": {
+    "lat": 60.5057028,
+    "lng": 5.4327556
+  },
+  "Myrdalsveien 22, 5131 NYBORG": {
+    "lat": 60.4711527,
+    "lng": 5.3209787
+  },
+  "Strandgaten 221, 5004 BERGEN": {
+    "lat": 60.3987053,
+    "lng": 5.3095296
+  },
+  "Folke Bernadottesvei 52, Inngang A, 3. etg., 5147 FYLLINGSDALEN": {
+    "lat": 60.351138,
+    "lng": 5.280693
+  },
+  "Sandvenvegen 35, 5600 NORHEIMSUND": {
+    "lat": 60.3690509,
+    "lng": 6.1463433
+  },
+  "Nattlandsveien 89, 5094 BERGEN": {
+    "lat": 60.3563166,
+    "lng": 5.3679196
+  },
+  "Nattlandsveien 8, 5093 BERGEN": {
+    "lat": 60.3684439,
+    "lng": 5.3637375
+  },
+  "Ladegårdsgaten 67, 5033 BERGEN": {
+    "lat": 60.4048972,
+    "lng": 5.3257265
+  },
+  "Østre Nesttunvei 20, 5221 NESTTUN": {
+    "lat": 60.3162644,
+    "lng": 5.35439
+  },
+  "Straume Legesenter AS, Blombakkane 2, 5354 STRAUME": {
+    "lat": 60.3466575,
+    "lng": 5.1332071
+  },
+  "Sandviksbodene 65B, 5035 BERGEN": {
+    "lat": 60.4108556,
+    "lng": 5.3224354
+  },
+  "Sverresplassen 4, 5700 VOSS": {
+    "lat": 60.628944,
+    "lng": 6.424329
+  },
+  "Solheimsgaten 13, 5058 BERGEN": {
+    "lat": 60.376351,
+    "lng": 5.33646
+  },
+  "Pb 2346 Solheimsviken, Fjøsangerveien 51, 5824 BERGEN": null,
+  "Åsane Senter 42, 5116 ULSET": {
+    "lat": 60.4662369,
+    "lng": 5.3226284
+  },
+  "Taklegarden 1, 6924 HARDBAKKE": {
+    "lat": 61.076053,
+    "lng": 4.840693
+  },
+  "Grandavegen 12, 6823 SANDANE": {
+    "lat": 61.775831,
+    "lng": 6.212813
+  },
+  "Hardangerfjordvegen 650, 5610 ØYSTESE": {
+    "lat": 60.3877842,
+    "lng": 6.2060758
+  },
+  "Helsesenteret, 6899 BALESTRAND": {
+    "lat": 61.2096194,
+    "lng": 6.5360834
+  },
+  "Grønamyrvegen 2, 5353 STRAUME": {
+    "lat": 60.3607292,
+    "lng": 5.1253983
+  },
+  "Kommunehuset, Lifjordvegen 7, 6957 Hyllestad": {
+    "lat": 61.1674862,
+    "lng": 5.2638963
+  },
+  "Kalfarveien 31, 5018 BERGEN": {
+    "lat": 60.3881936,
+    "lng": 5.3412482
+  },
+  "Øvre Kråkenes 115, 5152 BØNES": {
+    "lat": 60.3344446,
+    "lng": 5.3103791
+  },
+  "Øyrane legekontor Ådnavegen 63, 5260 INDRE ARNA": {
+    "lat": 60.4177222,
+    "lng": 5.4708944
+  },
+  "Fotlandsvegen 11, 5282 LONEVÅG": {
+    "lat": 60.524688,
+    "lng": 5.497264
+  },
+  "Havnevegen 41 B, 5918 FREKHAUG": {
+    "lat": 60.5176712,
+    "lng": 5.2413299
+  },
+  "Damsgårdsveien 167-169, 5160 Bergen": {
+    "lat": 60.3873291,
+    "lng": 5.2947446
+  },
+  "Grimseidvegen 37, 5239 RÅDAL": {
+    "lat": 60.2918583,
+    "lng": 5.3201091
+  },
+  "Ternholmvegen 2, 5337 RONG": {
+    "lat": 60.5143048,
+    "lng": 4.9120999
+  },
+  "Modalen Legekontor, 5732 MODALEN": {
+    "lat": 60.8139446,
+    "lng": 5.8032667
+  },
+  "Indre Arnavegen 175, 5261 INDRE ARNA": {
+    "lat": 60.4238304,
+    "lng": 5.4706605
+  },
+  "Vadmyrveien 85, 5172 LODDEFJORD": {
+    "lat": 60.366394,
+    "lng": 5.229521
+  },
+  "Slettevikveien 1, 5124 MORVIK": {
+    "lat": 60.474298,
+    "lng": 5.265572
+  },
+  "Ohnstadhaugen 17, 6863 LEIKANGER": {
+    "lat": 61.1867555,
+    "lng": 6.8523871
+  },
+  "Sætremarka 2, 5943 AUSTRHEIM": {
+    "lat": 60.7832268,
+    "lng": 4.9320831
+  },
+  "Berrvellene 32, 6806 Naustdal": {
+    "lat": 61.5135733,
+    "lng": 5.7168903
+  },
+  "Dalsvegen 81, 6963 DALE I SUNNFJORD": {
+    "lat": 61.366015,
+    "lng": 5.404668
+  },
+  "Sande Legesenter, 6973 SANDE I SUNNFJORD": {
+    "lat": 61.3254728,
+    "lng": 5.7967607
+  },
+  "Svortlandsvegen 119, 5430 BREMNES": {
+    "lat": 59.796094,
+    "lng": 5.185974
+  },
+  "Valkendorfsgate 9, 5012 BERGEN": {
+    "lat": 60.3933416,
+    "lng": 5.3213203
+  },
+  "Leiro 33, 5640 EIKELANDSOSEN": {
+    "lat": 60.23991,
+    "lng": 5.748815
+  },
+  "Kleppevegen 17, 5300 KLEPPESTØ": {
+    "lat": 60.4117042,
+    "lng": 5.227992
+  },
+  "Radøyvegen 1621B, 5936 MANGER": {
+    "lat": 60.6409244,
+    "lng": 5.0529743
+  },
+  "Vestre Torggt. 8, 5015 BERGEN": {
+    "lat": 60.3898633,
+    "lng": 5.3227229
+  },
+  "Liamyrane 1, 5132 NYBORG": {
+    "lat": 60.4726145,
+    "lng": 5.3329025
+  },
+  "Åslia 3, 5115 ULSET": {
+    "lat": 60.462452,
+    "lng": 5.332047
+  },
+  "Vikabrekko 11, 5411 STORD": {
+    "lat": 59.7800152,
+    "lng": 5.4981176
+  },
+  "Jotunvegen 4, 6884 ØVRE ÅRDAL": {
+    "lat": 61.3098965,
+    "lng": 7.8063338
+  },
+  "Røldalsveien 34, 5750 ODDA": {
+    "lat": 60.067429,
+    "lng": 6.546073
+  },
+  "Storgata 8, 6993 HØYANGER": {
+    "lat": 61.2177454,
+    "lng": 6.0735733
+  },
+  "Nesttunveien 90, 5221 NESTTUN": {
+    "lat": 60.320066,
+    "lng": 5.353412
+  },
+  "Knarren legesenter Kvassnesvegen 40, 5914 ISDALSTØ": {
+    "lat": 60.5553217,
+    "lng": 5.2693625
+  },
+  "Nordbøen 2, 5627 JONDAL": {
+    "lat": 60.279078,
+    "lng": 6.249678
+  },
+  "Eivindvikvegen 1102, 5966 EIVINDVIK": {
+    "lat": 60.9798829,
+    "lng": 5.0779608
+  },
+  "Folke Bernadottesvei 52, 5147 FYLLINGSDALEN": {
+    "lat": 60.348956,
+    "lng": 5.291796
+  },
+  "Lindås Senter, Kolåsvegen 5, 5955 LINDÅS": {
+    "lat": 60.7363494,
+    "lng": 5.1614412
+  },
+  "Heiavegen 84, 5454 SÆBØVIK": {
+    "lat": 59.795283,
+    "lng": 5.715587
+  },
+  "Aurdalslia 14, 5253 SANDSLI": {
+    "lat": 60.305766,
+    "lng": 5.2818459
+  },
+  "Fjordavegen 4173 A, 5778 UTNE": {
+    "lat": 60.423321,
+    "lng": 6.620486
+  },
+  "Stormarkvegen 49, 5947 FEDJE": {
+    "lat": 60.778785,
+    "lng": 4.7197172
+  },
+  "Ospene 5, 6843 Skei I Jølster": {
+    "lat": 61.569044,
+    "lng": 6.483433
+  },
+  "Leirskarvegen 10, 5555 FØRDE I HORDALAND": {
+    "lat": 59.6111719,
+    "lng": 5.4725425
+  },
+  "Helsehuset, 6980 Askvoll": {
+    "lat": 61.3497926,
+    "lng": 5.075423
+  },
+  "Solheimsgaten 16, 5058 BERGEN": {
+    "lat": 60.3769878,
+    "lng": 5.3370792
+  },
+  "Hamnegata 2, 5411 STORD": {
+    "lat": 59.779439,
+    "lng": 5.498534
+  },
+  "OSTEREIDET legekontor, 5993 OSTEREIDET": {
+    "lat": 60.625801,
+    "lng": 5.4731672
+  },
+  "Skutlevika 3, 5314 KJERRGARDEN": {
+    "lat": 60.5031019,
+    "lng": 5.065613
+  },
+  "Simadalsvegen 1, 5783 EIDFJORD": {
+    "lat": 60.467404,
+    "lng": 7.070009
+  },
+  "Sveio Legekontor , Pb 98, Sveiogata 70, 5559 SVEIO": {
+    "lat": 59.5438554,
+    "lng": 5.3545271
+  },
+  "Kleppestø Senter, Gamle Kleppestøvegen 2, 5300 KLEPPESTØ": {
+    "lat": 60.4084337,
+    "lng": 5.2276317
+  },
+  "Bendixens vei 52, 5063 BERGEN": {
+    "lat": 60.3597268,
+    "lng": 5.3532794
+  },
+  "Vilhelm Bjerknesvei 21, 5081 Bergen": {
+    "lat": 60.354587,
+    "lng": 5.357608
+  },
+  "Hauge helsesenter, 6727 BREMANGER": {
+    "lat": 61.8367792,
+    "lng": 4.9874946
+  },
+  "Fortunen 5, 5013 BERGEN": {
+    "lat": 60.3940629,
+    "lng": 5.3216984
+  },
+  "Granden 3, 6723 SVELGEN": {
+    "lat": 61.768879,
+    "lng": 5.287677
+  },
+  "Johan Berentsensvei 4, 5160 LAKSEVÅG": {
+    "lat": 60.3891125,
+    "lng": 5.2897308
+  },
+  "Vangsgata 38, 5700 VOSS": {
+    "lat": 60.6290497,
+    "lng": 6.4210793
+  },
+  "Nesttunveien 109, 5221 NESTTUN": {
+    "lat": 60.3176914,
+    "lng": 5.3526985
+  },
+  "Albatross Legesenter, Postboks 10, 5559 SVEIO": {
+    "lat": 59.5438554,
+    "lng": 5.3545271
+  },
+  "Tongavegen 20, 5635 HATLESTRAND": {
+    "lat": 60.058273,
+    "lng": 5.917926
   }
 }

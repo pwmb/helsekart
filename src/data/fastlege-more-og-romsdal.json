@@ -1,0 +1,2820 @@
+[
+  {
+    "title": "Oddvar Alfsvåg",
+    "address": "Stormyra 6, 6100 VOLDA",
+    "metadata": {
+      "legekontor": "Volda Legesenter",
+      "tlf": "70 05 89 00",
+      "antallPlasser": 810
+    }
+  },
+  {
+    "title": "Eirik Brekne Alsaker",
+    "address": "Astrupsgate 9, 6509 KRISTIANSUND N",
+    "metadata": {
+      "legekontor": "Bryggen Medisinske Senter",
+      "tlf": "71 56 60 60",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Mahdiyeh Amirideram",
+    "address": "Midtvågvegen 6, 6630 TINGVOLL",
+    "metadata": {
+      "legekontor": "Tingvoll Legesenter AS",
+      "tlf": "71 53 24 50",
+      "antallPlasser": 974
+    }
+  },
+  {
+    "title": "Monica Cassandra Rejkestam Andersen",
+    "address": "Verftsgata 10, 6416 Molde",
+    "metadata": {
+      "legekontor": "Legekontoret Fem Faste AS",
+      "tlf": "71 20 32 00",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Eirik Kjerstad Andresen",
+    "address": "Rådhusvegen 3, 6143 Fiskå",
+    "metadata": {
+      "legekontor": "Vanylven Legesenter",
+      "tlf": "70 03 01 00",
+      "antallPlasser": 400
+    }
+  },
+  {
+    "title": "Jorunn Karterud Arnø",
+    "address": "Rådhusvegen 3, 6143 Fiskå",
+    "metadata": {
+      "legekontor": "Vanylven Legesenter",
+      "tlf": "70 03 01 00",
+      "antallPlasser": 400
+    }
+  },
+  {
+    "title": "Mohammad Asghar",
+    "address": "Sjøgt.1, 6065 Ulsteinvik",
+    "metadata": {
+      "legekontor": "Ulstein Legesenter AS",
+      "tlf": "70 01 89 89",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Gabriel Azour",
+    "address": "Brugata 6, 6390 Vestnes",
+    "metadata": {
+      "legekontor": "Vestnes Kommune Legesenteret",
+      "tlf": "71 18 41 00",
+      "antallPlasser": 960
+    }
+  },
+  {
+    "title": "Shiva Badiee",
+    "address": "Borgund Legekontor Borgundveien 390, 6015 ÅLESUND",
+    "metadata": {
+      "legekontor": "Borgund Legekontor",
+      "tlf": "70 15 52 88",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Katrine Barli Bakk",
+    "address": "Mongstugt. 5, 6600 Sunndalsøra",
+    "metadata": {
+      "legekontor": "Sunndal Legesenter",
+      "tlf": "71 69 40 20",
+      "antallPlasser": 840
+    }
+  },
+  {
+    "title": "Idun Schawlann Barsnes",
+    "address": "Blindheimshaugen 9, 6012 ÅLESUND",
+    "metadata": {
+      "legekontor": "Jomarka Legesenter DA",
+      "tlf": "71 40 28 28",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Linn Cathrine Berg",
+    "address": "Konsul Knudtzons gate 8, 6508 Kristiansund N",
+    "metadata": {
+      "legekontor": "Sentrum legesenter Kristiansund",
+      "tlf": "71 58 75 40",
+      "antallPlasser": 600
+    }
+  },
+  {
+    "title": "Louise Årthun Bergane",
+    "address": "Dalevegen 28 A, 6153 ØRSTA",
+    "metadata": {
+      "legekontor": "Ørsta Helsesenter",
+      "tlf": "70 04 80 50",
+      "antallPlasser": 650
+    }
+  },
+  {
+    "title": "Gunnar Berland",
+    "address": "Mekveien 13A, 6411 MOLDE",
+    "metadata": {
+      "legekontor": "Kvam Legesenter",
+      "tlf": "71 20 38 50",
+      "antallPlasser": 910
+    }
+  },
+  {
+    "title": "Ingrid Grønvik Bernseter",
+    "address": "Dalevegen 28 A, 6153 ØRSTA",
+    "metadata": {
+      "legekontor": "Ørsta Helsesenter",
+      "tlf": "70 04 80 50",
+      "antallPlasser": 650
+    }
+  },
+  {
+    "title": "Marianne Kolsvik Bjerkevåg",
+    "address": "Stadsnesveien 9B, 6030 LANGEVÅG",
+    "metadata": {
+      "legekontor": "Kommunelegekontoret i Sula",
+      "tlf": "70 19 91 60",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Kjetil Bjørge",
+    "address": "Korsegata 8, 6002 ÅLESUND",
+    "metadata": {
+      "legekontor": "Ålesund Legesenter AS",
+      "tlf": "70 12 10 72",
+      "antallPlasser": 1800
+    }
+  },
+  {
+    "title": "Anders Olav Bjørkavåg",
+    "address": "Langelandsveien 17, 6010 ÅLESUND",
+    "metadata": {
+      "legekontor": "Daaeskogen Legesenter",
+      "tlf": "70 16 41 50",
+      "ledigePlasser": 1,
+      "antallPlasser": 900,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Torstein Bjørndal",
+    "address": "Myrvåg, 6080 GURSKØY",
+    "metadata": {
+      "legekontor": "Myrvåg Legesenter",
+      "tlf": "70 08 03 00",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Bartlomiej Blazewicz",
+    "address": "Notenesgata 6, 6002 ÅLESUND",
+    "metadata": {
+      "legekontor": "Kremmergården Legesenter",
+      "tlf": "70 16 48 00",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Anniken Blix",
+    "address": "Stormyra 6, 6100 VOLDA",
+    "metadata": {
+      "legekontor": "Volda Legesenter",
+      "tlf": "70 05 89 00",
+      "antallPlasser": 650
+    }
+  },
+  {
+    "title": "Sven Jordahl Blix",
+    "address": "Kongens plass 3, 6509 KRISTIANSUND N",
+    "metadata": {
+      "legekontor": "Kongens Plass Medisinske senter",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Maiken Solari Boldsen",
+    "address": "Øyna 13, 6200 Stranda",
+    "metadata": {
+      "legekontor": "Stranda Legekontor",
+      "tlf": "70 26 81 20",
+      "ledigePlasser": 73,
+      "antallPlasser": 750,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Hanne Flacké Botnen",
+    "address": "Dalevegen 28 A, 6153 ØRSTA",
+    "metadata": {
+      "legekontor": "Ørsta Helsesenter",
+      "tlf": "70 04 80 50",
+      "antallPlasser": 650
+    }
+  },
+  {
+    "title": "Såmund Botnen",
+    "address": "Grandegata 54, 6210 VALLDAL",
+    "metadata": {
+      "legekontor": "Fjord legekontor",
+      "tlf": "418 67 850",
+      "ledigePlasser": 9,
+      "antallPlasser": 698,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Lina Brandal",
+    "address": "Kjøpmannsgata 16, 6060 Hareid",
+    "metadata": {
+      "legekontor": "Hareid Legesenter AS",
+      "tlf": "70 30 70 70",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Runar Bratli",
+    "address": "Verftsgata 10, 6416 Molde",
+    "metadata": {
+      "legekontor": "Legekontoret Fem Faste AS",
+      "tlf": "71 20 32 00",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Nancy Ann Eide Brattli",
+    "address": "Dalevegen 28 A, 6153 ØRSTA",
+    "metadata": {
+      "legekontor": "Ørsta Helsesenter",
+      "tlf": "70 04 80 50",
+      "antallPlasser": 880
+    }
+  },
+  {
+    "title": "Per Olav Brautaset",
+    "address": "Stormyra 6, 6100 VOLDA",
+    "metadata": {
+      "legekontor": "Volda Legesenter",
+      "tlf": "70 05 89 00",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Sabine Relling Bredeli",
+    "address": "Brugata 6, 6390 Vestnes",
+    "metadata": {
+      "legekontor": "Vestnes Kommune Legesenteret",
+      "tlf": "71 18 41 00",
+      "antallPlasser": 880
+    }
+  },
+  {
+    "title": "Marianne Breivik",
+    "address": "Øyna 13, 6200 Stranda",
+    "metadata": {
+      "legekontor": "Stranda Legekontor",
+      "tlf": "70 26 81 20",
+      "ledigePlasser": 2,
+      "antallPlasser": 600,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Hanne Boksasp Bryn",
+    "address": "Kongens plass 3, 6509 KRISTIANSUND N",
+    "metadata": {
+      "legekontor": "Kongens Plass Medisinske senter",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Geir Bukholm",
+    "address": "Sundgata 12, 6003 ÅLESUND",
+    "metadata": {
+      "legekontor": "Sundgata Helsesenter",
+      "tlf": "21 04 78 50",
+      "ledigePlasser": 14,
+      "antallPlasser": 1000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Thomas Alexander Bulling",
+    "address": "Midtvågvegen 6, 6630 TINGVOLL",
+    "metadata": {
+      "legekontor": "Tingvoll Legesenter AS",
+      "tlf": "71 53 24 50",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Rebecca Therese Bøe",
+    "address": "Bårdshaugvegen 1, 6650 SURNADAL",
+    "metadata": {
+      "legekontor": "Surnadal Legesenter",
+      "tlf": "71 65 78 00",
+      "ledigePlasser": 86,
+      "antallPlasser": 1000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Torhild Sletten Bøen",
+    "address": "Stormyra 6, 6100 VOLDA",
+    "metadata": {
+      "legekontor": "Volda Legesenter",
+      "tlf": "70 05 89 00",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Gunn Eline Børmark",
+    "address": "Bårdshaugvegen 1, 6650 SURNADAL",
+    "metadata": {
+      "legekontor": "Surnadal Legesenter",
+      "tlf": "71 65 78 00",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Tom Arne Christensen",
+    "address": "Jonasvegen 49, 6290 HARAMSØY",
+    "metadata": {
+      "legekontor": "Haramsøy Legekontor",
+      "tlf": "481 00 190",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Tom Willy Christiansen",
+    "address": "Sjøholtvegen 86, 6240 ØRSKOG",
+    "metadata": {
+      "legekontor": "Ørskog Legekontor",
+      "tlf": "70 16 59 80",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Egidio Niclas D'Angelo",
+    "address": "Astrupsgate 9, 6509 KRISTIANSUND N",
+    "metadata": {
+      "legekontor": "Bryggen Medisinske Senter",
+      "tlf": "71 56 60 60",
+      "antallPlasser": 600
+    }
+  },
+  {
+    "title": "Ingeborg Ailin Alessandra D'Angelo",
+    "address": "Kongens plass 3, 6509 KRISTIANSUND N",
+    "metadata": {
+      "legekontor": "Kongens Plass Medisinske senter",
+      "antallPlasser": 650
+    }
+  },
+  {
+    "title": "Lene Dahl",
+    "address": "Strandgata 40, 6270 BRATTVÅG",
+    "metadata": {
+      "legekontor": "Brattvåg legekontor",
+      "tlf": "468 07 830",
+      "antallPlasser": 650
+    }
+  },
+  {
+    "title": "Michael Flindt Dahl",
+    "address": "Sjøgt.1, 6065 Ulsteinvik",
+    "metadata": {
+      "legekontor": "Ulstein Legesenter AS",
+      "tlf": "70 01 89 89",
+      "antallPlasser": 1400
+    }
+  },
+  {
+    "title": "Servet Degirmenci",
+    "address": "Skarpetegvegen 4, 6012 ÅLESUND",
+    "metadata": {
+      "legekontor": "Blindheim Legesenter",
+      "tlf": "70 15 24 40",
+      "antallPlasser": 1700
+    }
+  },
+  {
+    "title": "Elin Dons",
+    "address": "Øyna 13, 6200 Stranda",
+    "metadata": {
+      "legekontor": "Stranda Legekontor",
+      "tlf": "70 26 81 20",
+      "ledigePlasser": 14,
+      "antallPlasser": 600,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Nynke Rianne Douma",
+    "address": "Stormyra 6, 6100 VOLDA",
+    "metadata": {
+      "legekontor": "Volda Legesenter",
+      "tlf": "70 05 89 00",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Arne Rasmus Finsådal Drabløs",
+    "address": "Stormyra 6, 6100 VOLDA",
+    "metadata": {
+      "legekontor": "Volda Legesenter",
+      "tlf": "70 05 89 00",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Sunniva Tjervåg Drage",
+    "address": "Eggesbøvegen 11, 6092 Fosnavåg",
+    "metadata": {
+      "legekontor": "Herøy Legesenter Møre og Romsdal",
+      "tlf": "70 08 14 60",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Jan Drahos",
+    "address": "Vollan 8a, 6300 ÅNDALSNES",
+    "metadata": {
+      "legekontor": "Rauma Legesenter",
+      "tlf": "71 16 67 00",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Anette Elfriede Drengk",
+    "address": "Auregata 19, 6230 SYKKYLVEN",
+    "metadata": {
+      "legekontor": "Sykkylven legesenter",
+      "tlf": "70 25 50 50",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Daniel Due-Tønnessen",
+    "address": "Verftsgata 10, 6416 Molde",
+    "metadata": {
+      "legekontor": "Legekontoret Fem Faste AS",
+      "tlf": "71 20 32 00",
+      "antallPlasser": 950
+    }
+  },
+  {
+    "title": "Karoline Sjøholt Dybvik",
+    "address": "Sjøholtvegen 86, 6240 ØRSKOG",
+    "metadata": {
+      "legekontor": "Ørskog Legekontor",
+      "tlf": "70 16 59 80",
+      "antallPlasser": 500
+    }
+  },
+  {
+    "title": "Maryna Dziubanenko",
+    "address": "Skoganvegen 52, 6690 Aure",
+    "metadata": {
+      "legekontor": "Aure Legekontor",
+      "tlf": "71 64 75 70",
+      "antallPlasser": 750
+    }
+  },
+  {
+    "title": "Alice Viktoria Egset",
+    "address": "Sjøgt.1, 6065 Ulsteinvik",
+    "metadata": {
+      "legekontor": "Ulstein Legesenter AS",
+      "tlf": "70 01 89 89",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Jessica Herje Eik",
+    "address": "Skarpetegvegen 4, 6012 ÅLESUND",
+    "metadata": {
+      "legekontor": "Blindheim Legesenter",
+      "tlf": "70 15 24 40",
+      "antallPlasser": 1500
+    }
+  },
+  {
+    "title": "Knut-Egil Eik",
+    "address": "Rådhuset, 6260 SKODJE",
+    "metadata": {
+      "legekontor": "Skodje Helsesenter",
+      "tlf": "70 24 40 60",
+      "ledigePlasser": 25,
+      "antallPlasser": 1200,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Øystein Eikeland",
+    "address": "Storgata 14, 6413 Molde",
+    "metadata": {
+      "legekontor": "Legesenteret i Molde AS",
+      "tlf": "71 20 29 50",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Araceli Einang",
+    "address": "Kanalveien 18, 6010 ÅLESUND",
+    "metadata": {
+      "legekontor": "Vika Legesenter",
+      "tlf": "70 17 45 60",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Ragnhild Ekre",
+    "address": "Vollan 8a, 6300 ÅNDALSNES",
+    "metadata": {
+      "legekontor": "Rauma Legesenter",
+      "tlf": "71 16 67 00",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Ane-Birgitte Eliassen",
+    "address": "Auregata 19, 6230 SYKKYLVEN",
+    "metadata": {
+      "legekontor": "Sykkylven legesenter",
+      "tlf": "70 25 50 50",
+      "antallPlasser": 910
+    }
+  },
+  {
+    "title": "Line Merethe Ellingsen",
+    "address": "Averøyveien 34, 6530 AVERØY",
+    "metadata": {
+      "legekontor": "Averøy Legesenter",
+      "tlf": "71 51 36 50",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Stine Kvalheim Ellingsen",
+    "address": "Veøygata 1, 6413 Molde",
+    "metadata": {
+      "legekontor": "Kirkebakken Legesenter",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Stian Endresen",
+    "address": "Sjøgt.1, 6065 Ulsteinvik",
+    "metadata": {
+      "legekontor": "Ulstein Legesenter AS",
+      "tlf": "70 01 89 89",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Aram Hassan Fares",
+    "address": "Sundgata 12, 6003 ÅLESUND",
+    "metadata": {
+      "legekontor": "Sundgata Helsesenter",
+      "tlf": "21 04 78 50",
+      "antallPlasser": 1050
+    }
+  },
+  {
+    "title": "Anne Fasting",
+    "address": "Averøyveien 34, 6530 AVERØY",
+    "metadata": {
+      "legekontor": "Averøy Legesenter",
+      "tlf": "71 51 36 50",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Rosalinde Feuerer-Nietzold",
+    "address": "Averøyveien 34, 6530 AVERØY",
+    "metadata": {
+      "legekontor": "Averøy Legesenter",
+      "tlf": "71 51 36 50",
+      "antallPlasser": 500
+    }
+  },
+  {
+    "title": "Lene Fjordside",
+    "address": "Sjøholtvegen 86, 6240 ØRSKOG",
+    "metadata": {
+      "legekontor": "Ørskog Legekontor",
+      "tlf": "70 16 59 80",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Håvard Flatval",
+    "address": "Konsul Knudtzons gate 8, 6508 Kristiansund N",
+    "metadata": {
+      "legekontor": "Sentrum legesenter Kristiansund",
+      "tlf": "71 58 75 40",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Anne Marte Bye Flem",
+    "address": "Borgund Legekontor Borgundveien 390, 6015 ÅLESUND",
+    "metadata": {
+      "legekontor": "Borgund Legekontor",
+      "tlf": "70 15 52 88",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Ole Magnus Flormælen",
+    "address": "Storgata 14, 6413 Molde",
+    "metadata": {
+      "legekontor": "Legesenteret i Molde AS",
+      "tlf": "71 20 29 50",
+      "antallPlasser": 950
+    }
+  },
+  {
+    "title": "Birgitte Fløystad",
+    "address": "Blindheimshaugen 9, 6012 ÅLESUND",
+    "metadata": {
+      "legekontor": "Jomarka Legesenter DA",
+      "tlf": "71 40 28 28",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Kirsti Framhus",
+    "address": "Skarpetegvegen 4, 6012 ÅLESUND",
+    "metadata": {
+      "legekontor": "Blindheim Legesenter",
+      "tlf": "70 15 24 40",
+      "antallPlasser": 1350
+    }
+  },
+  {
+    "title": "Jan Magne Frislid",
+    "address": "Eggesbøvegen 11, 6092 Fosnavåg",
+    "metadata": {
+      "legekontor": "Herøy Legesenter Møre og Romsdal",
+      "tlf": "70 08 14 60",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Anastasia Galashevskaya",
+    "address": "Averøyveien 34, 6530 AVERØY",
+    "metadata": {
+      "legekontor": "Averøy Legesenter",
+      "tlf": "71 51 36 50",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Bjørn Gauseth",
+    "address": "Sentervegen 125, 6440 ELNESVÅGEN",
+    "metadata": {
+      "legekontor": "Hustadvika legetjenester",
+      "tlf": "71 26 82 00",
+      "ledigePlasser": 6,
+      "antallPlasser": 950,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Ingeborg Grimsmo",
+    "address": "Kaptein Dreyersvei 13, 6456 SKÅLA",
+    "metadata": {
+      "legekontor": "Skåla Legekontor",
+      "tlf": "71 11 39 50",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Harald Grimstad",
+    "address": "Bårdshaugvegen 1, 6650 SURNADAL",
+    "metadata": {
+      "legekontor": "Surnadal Legesenter",
+      "tlf": "71 65 78 00",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Svein Anders Grimstad",
+    "address": "Ragnvald Blakstadsgt. 22, 6600 Sunndalsøra",
+    "metadata": {
+      "legekontor": "Sunndal Medisinske Senter DA",
+      "tlf": "71 68 90 00",
+      "ledigePlasser": 9,
+      "antallPlasser": 1400,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Sølve Grimstad",
+    "address": "Averøyveien 34, 6530 AVERØY",
+    "metadata": {
+      "legekontor": "Averøy Legesenter",
+      "tlf": "71 51 36 50",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Elisabeth Veseth Grüner",
+    "address": "Kaptein Dreyersvei 13, 6456 SKÅLA",
+    "metadata": {
+      "legekontor": "Skåla Legekontor",
+      "tlf": "71 11 39 50",
+      "antallPlasser": 500
+    }
+  },
+  {
+    "title": "Line Nordeide Grønli",
+    "address": "Dalevegen 28 A, 6153 ØRSTA",
+    "metadata": {
+      "legekontor": "Ørsta Helsesenter",
+      "tlf": "70 04 80 50",
+      "antallPlasser": 650
+    }
+  },
+  {
+    "title": "Johann Gudjonsson",
+    "address": "Østsideveien 126, 6570 Smøla",
+    "metadata": {
+      "legekontor": "Smøla Helsesenter",
+      "tlf": "71 54 46 60",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Dagny Kielland Gulla",
+    "address": "Nordmørsveien 54, 6517 KRISTIANSUND N",
+    "metadata": {
+      "legekontor": "Nordlandet legesenter",
+      "tlf": "71 58 08 90",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Ida Foyn Gundersen",
+    "address": "Aukraringen 17, 6480 AUKRA",
+    "metadata": {
+      "legekontor": "Aukra Kommune Helse",
+      "ledigePlasser": 15,
+      "antallPlasser": 700,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Jørgen Halgunset",
+    "address": "Kanalveien 18, 6010 ÅLESUND",
+    "metadata": {
+      "legekontor": "Vika Legesenter",
+      "tlf": "70 17 45 60",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Andreas Nybrott Hals",
+    "address": "Nordmørsveien 54, 6517 KRISTIANSUND N",
+    "metadata": {
+      "legekontor": "Nordlandet legesenter",
+      "tlf": "71 58 08 90",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Linn Margrete Stokkan Hamnøy",
+    "address": "Blindheimshaugen 9, 6012 ÅLESUND",
+    "metadata": {
+      "legekontor": "Jomarka Legesenter DA",
+      "tlf": "71 40 28 28",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Lars Fredrik Hasselgård",
+    "address": "Verftsgata 10, 6416 Molde",
+    "metadata": {
+      "legekontor": "Legekontoret Fem Faste AS",
+      "tlf": "71 20 32 00",
+      "antallPlasser": 1050
+    }
+  },
+  {
+    "title": "Siril Haug",
+    "address": "Julsundvegen 2, 6412 MOLDE",
+    "metadata": {
+      "legekontor": "Legekontoret Molde brygge",
+      "tlf": "71 24 94 60",
+      "antallPlasser": 835
+    }
+  },
+  {
+    "title": "Andreas Skuseth Heggdal",
+    "address": "Rådhuset, 6260 SKODJE",
+    "metadata": {
+      "legekontor": "Skodje Helsesenter",
+      "tlf": "70 24 40 60",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Urda Heggedal",
+    "address": "Dalevegen 28 A, 6153 ØRSTA",
+    "metadata": {
+      "legekontor": "Ørsta Helsesenter",
+      "tlf": "70 04 80 50",
+      "antallPlasser": 650
+    }
+  },
+  {
+    "title": "Jørn Hetzger",
+    "address": "Notenesgata 6, 6002 ÅLESUND",
+    "metadata": {
+      "legekontor": "Kremmergården Legesenter",
+      "tlf": "70 16 48 00",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Trine Hjelen",
+    "address": "Skoganvegen 52, 6690 Aure",
+    "metadata": {
+      "legekontor": "Aure Legekontor",
+      "tlf": "71 64 75 70",
+      "ledigePlasser": 62,
+      "antallPlasser": 750,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Tonje Dahl Hjelkrem",
+    "address": "Bårdshaugvegen 1, 6650 SURNADAL",
+    "metadata": {
+      "legekontor": "Surnadal Legesenter",
+      "tlf": "71 65 78 00",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Anders Edin Hoel",
+    "address": "Nordmørsveien 54, 6517 KRISTIANSUND N",
+    "metadata": {
+      "legekontor": "Nordlandet legesenter",
+      "tlf": "71 58 08 90",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Hiron Holen",
+    "address": "Stadsnesveien 9B, 6030 LANGEVÅG",
+    "metadata": {
+      "legekontor": "Kommunelegekontoret i Sula",
+      "tlf": "70 19 91 60",
+      "ledigePlasser": 113,
+      "antallPlasser": 700,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Sigrun Anie Seem Holmen",
+    "address": "Gjemnes legesenter, 6631 Batnfjordsøra",
+    "metadata": {
+      "legekontor": "Gjemnes legesenter",
+      "tlf": "71 29 11 80",
+      "ledigePlasser": 135,
+      "antallPlasser": 900,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Ingvill Merete Kolshus Hopland",
+    "address": "Sjøgt.1, 6065 Ulsteinvik",
+    "metadata": {
+      "legekontor": "Ulstein Legesenter AS",
+      "tlf": "70 01 89 89",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Eva Zsuzsanna Hoseth",
+    "address": "Astrupsgate 9, 6509 KRISTIANSUND N",
+    "metadata": {
+      "legekontor": "Bryggen Medisinske Senter",
+      "tlf": "71 56 60 60",
+      "antallPlasser": 600
+    }
+  },
+  {
+    "title": "Bjørnar Hovlid",
+    "address": "Sjøgt.1, 6065 Ulsteinvik",
+    "metadata": {
+      "legekontor": "Ulstein Legesenter AS",
+      "tlf": "70 01 89 89",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Andreas Hunger",
+    "address": "Kjøpmannsgata 16, 6060 Hareid",
+    "metadata": {
+      "legekontor": "Hareid Legesenter AS",
+      "tlf": "70 30 70 70",
+      "antallPlasser": 450
+    }
+  },
+  {
+    "title": "Cilla Lyng Hyldig",
+    "address": "Vollan 8a, 6300 ÅNDALSNES",
+    "metadata": {
+      "legekontor": "Rauma Legesenter",
+      "tlf": "71 16 67 00",
+      "ledigePlasser": 32,
+      "antallPlasser": 800,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Pål Thomas Kjeldahl Høstmælingen",
+    "address": "Mekveien 13A, 6411 MOLDE",
+    "metadata": {
+      "legekontor": "Kvam Legesenter",
+      "tlf": "71 20 38 50",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Aina Haaland",
+    "address": "Trolldalssletta 2, 6264 TENNFJORD",
+    "metadata": {
+      "legekontor": "Vatne Legekontor",
+      "tlf": "909 91 205",
+      "antallPlasser": 730
+    }
+  },
+  {
+    "title": "Ingrid Håskjold",
+    "address": "Jonasvegen 49, 6290 HARAMSØY",
+    "metadata": {
+      "legekontor": "Haramsøy Legekontor",
+      "tlf": "481 00 190",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Erik Hasselø Ingeberg",
+    "address": "Gjemnes legesenter, 6631 Batnfjordsøra",
+    "metadata": {
+      "legekontor": "Gjemnes legesenter",
+      "tlf": "71 29 11 80",
+      "ledigePlasser": 100,
+      "antallPlasser": 900,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Bent Ingebrigtsen",
+    "address": "Postboks 24, 6761 HORNINDAL",
+    "metadata": {
+      "legekontor": "Hornindal Legekontor",
+      "tlf": "57 87 98 70",
+      "antallPlasser": 650
+    }
+  },
+  {
+    "title": "Jens Harold Rodriguez Inguito",
+    "address": "Stormyra 6, 6100 VOLDA",
+    "metadata": {
+      "legekontor": "Volda Legesenter",
+      "tlf": "70 05 89 00",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Sander Innselset-Smidtsrød",
+    "address": "Dalevegen 28 A, 6153 ØRSTA",
+    "metadata": {
+      "legekontor": "Ørsta Helsesenter",
+      "tlf": "70 04 80 50",
+      "antallPlasser": 820
+    }
+  },
+  {
+    "title": "Mohamed Ali Ismail",
+    "address": "Trolldalssletta 2, 6264 TENNFJORD",
+    "metadata": {
+      "legekontor": "Vatne Legekontor",
+      "tlf": "909 91 205",
+      "ledigePlasser": 4,
+      "antallPlasser": 750,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Liva Izaka-Egle",
+    "address": "Sentervegen 125, 6440 ELNESVÅGEN",
+    "metadata": {
+      "legekontor": "Hustadvika legetjenester",
+      "tlf": "71 26 82 00",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Håvard Jendem",
+    "address": "Julsundvegen 2, 6412 MOLDE",
+    "metadata": {
+      "legekontor": "Legekontoret Molde brygge",
+      "tlf": "71 24 94 60",
+      "antallPlasser": 1400
+    }
+  },
+  {
+    "title": "Lena Edvardsen Jerstad",
+    "address": "Bukthaugvegen 2, 6475 Midsund",
+    "metadata": {
+      "legekontor": "Midsund legekontor",
+      "tlf": "71 27 05 50",
+      "ledigePlasser": 86,
+      "antallPlasser": 500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Mari Jørstad",
+    "address": "Veøygata 1, 6413 Molde",
+    "metadata": {
+      "legekontor": "Kirkebakken Legesenter",
+      "antallPlasser": 625
+    }
+  },
+  {
+    "title": "André Karlsson",
+    "address": "Sundgata 12, 6003 ÅLESUND",
+    "metadata": {
+      "legekontor": "Medicalis legesenter",
+      "tlf": "70 10 00 22",
+      "antallPlasser": 1400
+    }
+  },
+  {
+    "title": "Per-Erik Kemlén",
+    "address": "Bukthaugvegen 2, 6475 Midsund",
+    "metadata": {
+      "legekontor": "Midsund legekontor",
+      "tlf": "71 27 05 50",
+      "ledigePlasser": 28,
+      "antallPlasser": 400,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Hamid Keshavarz",
+    "address": "Rådhusvegen 3, 6143 Fiskå",
+    "metadata": {
+      "legekontor": "Vanylven Legesenter",
+      "tlf": "70 03 01 00",
+      "ledigePlasser": 178,
+      "antallPlasser": 800,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Osama Khalid",
+    "address": "Rådhusvegen 3, 6143 Fiskå",
+    "metadata": {
+      "legekontor": "Vanylven Legesenter",
+      "tlf": "70 03 01 00",
+      "ledigePlasser": 106,
+      "antallPlasser": 800,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Astrid Kiperberg",
+    "address": "Stormyra 6, 6100 VOLDA",
+    "metadata": {
+      "legekontor": "Volda Legesenter",
+      "tlf": "70 05 89 00",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Jørn Tunheim Kippersund",
+    "address": "Eggesbøvegen 11, 6092 Fosnavåg",
+    "metadata": {
+      "legekontor": "Herøy Legesenter Møre og Romsdal",
+      "tlf": "70 08 14 60",
+      "antallPlasser": 600
+    }
+  },
+  {
+    "title": "Randi Klinge",
+    "address": "Vollan 8a, 6300 ÅNDALSNES",
+    "metadata": {
+      "legekontor": "Rauma Legesenter",
+      "tlf": "71 16 67 00",
+      "antallPlasser": 950
+    }
+  },
+  {
+    "title": "Sindre Johan Klokk",
+    "address": "Skarpetegvegen 4, 6012 ÅLESUND",
+    "metadata": {
+      "legekontor": "Blindheim Legesenter",
+      "tlf": "70 15 24 40",
+      "antallPlasser": 1700
+    }
+  },
+  {
+    "title": "Maria Kristine Koppen",
+    "address": "Øyna 13, 6200 Stranda",
+    "metadata": {
+      "legekontor": "Stranda Legekontor",
+      "tlf": "70 26 81 20",
+      "antallPlasser": 480
+    }
+  },
+  {
+    "title": "Olav Norvald Kopperstad",
+    "address": "Stadsnesveien 9B, 6030 LANGEVÅG",
+    "metadata": {
+      "legekontor": "Kommunelegekontoret i Sula",
+      "tlf": "70 19 91 60",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Ida Beate Kvalsvik",
+    "address": "Eggesbøvegen 11, 6092 Fosnavåg",
+    "metadata": {
+      "legekontor": "Herøy Legesenter Møre og Romsdal",
+      "tlf": "70 08 14 60",
+      "antallPlasser": 640
+    }
+  },
+  {
+    "title": "Per Olav Hoem Kvalvåg",
+    "address": "Konsult Knudzonsgt. 8, 6508 KRISTIANSUND N",
+    "metadata": {
+      "legekontor": "Vågen Legesenter AS",
+      "tlf": "71 57 08 90",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Pernille Constance Larsson Kvernaas",
+    "address": "Vollan 8a, 6300 ÅNDALSNES",
+    "metadata": {
+      "legekontor": "Rauma Legesenter",
+      "tlf": "71 16 67 00",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Helge André Langnes",
+    "address": "Stadsnesveien 9B, 6030 LANGEVÅG",
+    "metadata": {
+      "legekontor": "Kommunelegekontoret i Sula",
+      "tlf": "70 19 91 60",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Silje Elisabeth Langnes",
+    "address": "Stadsnesveien 9B, 6030 LANGEVÅG",
+    "metadata": {
+      "legekontor": "Kommunelegekontoret i Sula",
+      "tlf": "70 19 91 60",
+      "antallPlasser": 400
+    }
+  },
+  {
+    "title": "Linda Marlene Langøy",
+    "address": "Rådhuset, 6260 SKODJE",
+    "metadata": {
+      "legekontor": "Skodje Helsesenter",
+      "tlf": "70 24 40 60",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Bo Martin Johannes Larsson",
+    "address": "Postboks 24, 6761 HORNINDAL",
+    "metadata": {
+      "legekontor": "Hornindal Legekontor",
+      "tlf": "57 87 98 70",
+      "ledigePlasser": 107,
+      "antallPlasser": 600,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Rosandra Åshild Morales Leirgulen",
+    "address": "Øyna 13, 6200 Stranda",
+    "metadata": {
+      "legekontor": "Stranda Legekontor",
+      "tlf": "70 26 81 20",
+      "ledigePlasser": 15,
+      "antallPlasser": 600,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Eirik Huse Leren",
+    "address": "Konsul Knudtzons gate 8, 6508 Kristiansund N",
+    "metadata": {
+      "legekontor": "Sentrum legesenter Kristiansund",
+      "tlf": "71 58 75 40",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Kjetil Selliseth Lereng",
+    "address": "Notenesgata 6, 6002 ÅLESUND",
+    "metadata": {
+      "legekontor": "Kremmergården Legesenter",
+      "tlf": "70 16 48 00",
+      "antallPlasser": 1058
+    }
+  },
+  {
+    "title": "Ellen Charlott Lerkerød",
+    "address": "Dalevegen 28 A, 6153 ØRSTA",
+    "metadata": {
+      "legekontor": "Ørsta Helsesenter",
+      "tlf": "70 04 80 50",
+      "antallPlasser": 650
+    }
+  },
+  {
+    "title": "Kristian Midtsæther Lian",
+    "address": "Konsul Knudtzons gate 8, 6508 Kristiansund N",
+    "metadata": {
+      "legekontor": "Sentrum legesenter Kristiansund",
+      "tlf": "71 58 75 40",
+      "antallPlasser": 906
+    }
+  },
+  {
+    "title": "Ola Midtsæther Lian",
+    "address": "Astrupsgate 9, 6509 KRISTIANSUND N",
+    "metadata": {
+      "legekontor": "Bryggen Medisinske Senter",
+      "tlf": "71 56 60 60",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Ole Lianes",
+    "address": "Stadsnesveien 9B, 6030 LANGEVÅG",
+    "metadata": {
+      "legekontor": "Kommunelegekontoret i Sula",
+      "tlf": "70 19 91 60",
+      "ledigePlasser": 6,
+      "antallPlasser": 1000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Andre Liepelt",
+    "address": "Eidsvågvegen 30, 6460 Eidsvåg",
+    "metadata": {
+      "legekontor": "Nesset Legekontor",
+      "tlf": "71 23 12 00",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Benedikte Liepelt",
+    "address": "Kaptein Dreyersvei 13, 6456 SKÅLA",
+    "metadata": {
+      "legekontor": "Skåla Legekontor",
+      "tlf": "71 11 39 50",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Cecilie Lillebø",
+    "address": "Eggesbøvegen 11, 6092 Fosnavåg",
+    "metadata": {
+      "legekontor": "Herøy Legesenter Møre og Romsdal",
+      "tlf": "70 08 14 60",
+      "antallPlasser": 640
+    }
+  },
+  {
+    "title": "Andreas Lunde",
+    "address": "Sjøgt.1, 6065 Ulsteinvik",
+    "metadata": {
+      "legekontor": "Ulstein Legesenter AS",
+      "tlf": "70 01 89 89",
+      "antallPlasser": 925
+    }
+  },
+  {
+    "title": "Kamilla Henny Lunheim",
+    "address": "Ytterland 1, 6050 VALDERØYA",
+    "metadata": {
+      "legekontor": "Giske kommunale legesenter",
+      "tlf": "70 18 85 00",
+      "antallPlasser": 950
+    }
+  },
+  {
+    "title": "Aron Josua Mikael Edin Markskog",
+    "address": "Stadsnesveien 9B, 6030 LANGEVÅG",
+    "metadata": {
+      "legekontor": "Kommunelegekontoret i Sula",
+      "tlf": "70 19 91 60",
+      "antallPlasser": 925
+    }
+  },
+  {
+    "title": "Ingvild Hoggen Meland",
+    "address": "Dalevegen 28 A, 6153 ØRSTA",
+    "metadata": {
+      "legekontor": "Ørsta Helsesenter",
+      "tlf": "70 04 80 50",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Heidel Marlen Melby",
+    "address": "Sentervegen 125, 6440 ELNESVÅGEN",
+    "metadata": {
+      "legekontor": "Hustadvika legetjenester",
+      "tlf": "71 26 82 00",
+      "antallPlasser": 600
+    }
+  },
+  {
+    "title": "Martha Conradi Melsom",
+    "address": "Auregata 19, 6230 SYKKYLVEN",
+    "metadata": {
+      "legekontor": "Sykkylven legesenter",
+      "tlf": "70 25 50 50",
+      "antallPlasser": 725
+    }
+  },
+  {
+    "title": "Peder Henrik Melteig",
+    "address": "Vestmoa 6, 6018 ÅLESUND",
+    "metadata": {
+      "legekontor": "Moa Legekontor",
+      "tlf": "70 17 20 40",
+      "antallPlasser": 750
+    }
+  },
+  {
+    "title": "Karsten Nesset Melø",
+    "address": "Sjøgt.1, 6065 Ulsteinvik",
+    "metadata": {
+      "legekontor": "Ulstein Legesenter AS",
+      "tlf": "70 01 89 89",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Olav Mestad",
+    "address": "Rådhuset, 6260 SKODJE",
+    "metadata": {
+      "legekontor": "Skodje Helsesenter",
+      "tlf": "70 24 40 60",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Ellen Mollan",
+    "address": "Mongstugt. 5, 6600 Sunndalsøra",
+    "metadata": {
+      "legekontor": "Sunndal Legesenter",
+      "tlf": "71 69 40 20",
+      "antallPlasser": 840
+    }
+  },
+  {
+    "title": "Rolf Monge",
+    "address": "Astrupsgate 9, 6509 KRISTIANSUND N",
+    "metadata": {
+      "legekontor": "Bryggen Medisinske Senter",
+      "tlf": "71 56 60 60",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Jaira Calumpang Morales",
+    "address": "Aukraringen 17, 6480 AUKRA",
+    "metadata": {
+      "legekontor": "Aukra Kommune Helse",
+      "antallPlasser": 50
+    }
+  },
+  {
+    "title": "Arne Morterud",
+    "address": "Ytterland 1, 6050 VALDERØYA",
+    "metadata": {
+      "legekontor": "Giske kommunale legesenter",
+      "tlf": "70 18 85 00",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Geir Winther Mykjåland",
+    "address": "Vollan 8a, 6300 ÅNDALSNES",
+    "metadata": {
+      "legekontor": "Rauma Legesenter",
+      "tlf": "71 16 67 00",
+      "ledigePlasser": 103,
+      "antallPlasser": 800,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Olav-Andre Dagestad Myklebust",
+    "address": "Stormyra 6, 6100 VOLDA",
+    "metadata": {
+      "legekontor": "Volda Legesenter",
+      "tlf": "70 05 89 00",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Torill Myklebust",
+    "address": "Myrvåg, 6080 GURSKØY",
+    "metadata": {
+      "legekontor": "Myrvåg Legesenter",
+      "tlf": "70 08 03 00",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Ole Henrik Myrdal",
+    "address": "Bårdshaugvegen 1, 6650 SURNADAL",
+    "metadata": {
+      "legekontor": "Surnadal Legesenter",
+      "tlf": "71 65 78 00",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Andreas Ellingsæter Mürer",
+    "address": "Prestegardsveien 5, 6084 Larsnes",
+    "metadata": {
+      "legekontor": "Sande legekontor",
+      "tlf": "70 02 67 50",
+      "ledigePlasser": 189,
+      "antallPlasser": 900,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Sofie Møller-Christensen",
+    "address": "Ytterland 1, 6050 VALDERØYA",
+    "metadata": {
+      "legekontor": "Giske kommunale legesenter",
+      "tlf": "70 18 85 00",
+      "ledigePlasser": 13,
+      "antallPlasser": 960,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Sofie Møller-Christensen",
+    "address": "Sundgata 12, 6003 ÅLESUND",
+    "metadata": {
+      "legekontor": "Sundgata Helsesenter",
+      "tlf": "21 04 78 50",
+      "antallPlasser": 1050
+    }
+  },
+  {
+    "title": "Jan Erik Månum",
+    "address": "Sentervegen 125, 6440 ELNESVÅGEN",
+    "metadata": {
+      "legekontor": "Hustadvika legetjenester",
+      "tlf": "71 26 82 00",
+      "antallPlasser": 1650
+    }
+  },
+  {
+    "title": "David Alexandre Mård",
+    "address": "Averøyveien 34, 6530 AVERØY",
+    "metadata": {
+      "legekontor": "Averøy Legesenter",
+      "tlf": "71 51 36 50",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Mattias Naranjo",
+    "address": "Bukthaugvegen 2, 6475 Midsund",
+    "metadata": {
+      "legekontor": "Midsund legekontor",
+      "tlf": "71 27 05 50",
+      "antallPlasser": 430
+    }
+  },
+  {
+    "title": "Victoria Guzenko Natvik",
+    "address": "Langelandsveien 17, 6010 ÅLESUND",
+    "metadata": {
+      "legekontor": "Daaeskogen Legesenter",
+      "tlf": "70 16 41 50",
+      "antallPlasser": 750
+    }
+  },
+  {
+    "title": "Unni Natås",
+    "address": "Dalevegen 28 A, 6153 ØRSTA",
+    "metadata": {
+      "legekontor": "Ørsta Helsesenter",
+      "tlf": "70 04 80 50",
+      "antallPlasser": 750
+    }
+  },
+  {
+    "title": "Mudde Navaratnam",
+    "address": "Julsundvegen 2, 6412 MOLDE",
+    "metadata": {
+      "legekontor": "Legekontoret Molde brygge",
+      "tlf": "71 24 94 60",
+      "antallPlasser": 1375
+    }
+  },
+  {
+    "title": "Ingvild Klokseth Nerbø",
+    "address": "Aukraringen 17, 6480 AUKRA",
+    "metadata": {
+      "legekontor": "Aukra Kommune Helse",
+      "ledigePlasser": 8,
+      "antallPlasser": 700,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Cathrine Ness",
+    "address": "Auregata 19, 6230 SYKKYLVEN",
+    "metadata": {
+      "legekontor": "Sykkylven legesenter",
+      "tlf": "70 25 50 50",
+      "antallPlasser": 825
+    }
+  },
+  {
+    "title": "Marit Grøtt Nilsen",
+    "address": "Brugata 6, 6390 Vestnes",
+    "metadata": {
+      "legekontor": "Vestnes Kommune Legesenteret",
+      "tlf": "71 18 41 00",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Joar Olof Nivfors",
+    "address": "Vollan 8a, 6300 ÅNDALSNES",
+    "metadata": {
+      "legekontor": "Rauma Legesenter",
+      "tlf": "71 16 67 00",
+      "ledigePlasser": 38,
+      "antallPlasser": 800,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Signe Stranden Nordby",
+    "address": "Julsundvegen 2, 6412 MOLDE",
+    "metadata": {
+      "legekontor": "Legekontoret Molde brygge",
+      "tlf": "71 24 94 60",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Sven Jakob Nordstrand",
+    "address": "Vestmoa 6, 6018 ÅLESUND",
+    "metadata": {
+      "legekontor": "Moa Legekontor",
+      "tlf": "70 17 20 40",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Magnus Lied Norstrand",
+    "address": "Notenesgata 6, 6002 ÅLESUND",
+    "metadata": {
+      "legekontor": "Kremmergården Legesenter",
+      "tlf": "70 16 48 00",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Svein Johan Nygaard",
+    "address": "Storgata 14, 6413 Molde",
+    "metadata": {
+      "legekontor": "Legesenteret i Molde AS",
+      "tlf": "71 20 29 50",
+      "antallPlasser": 1050
+    }
+  },
+  {
+    "title": "Tor Seiersted Ofstad",
+    "address": "Skarpetegvegen 4, 6012 ÅLESUND",
+    "metadata": {
+      "legekontor": "Blindheim Legesenter",
+      "tlf": "70 15 24 40",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Charlotte Louise Olafsen",
+    "address": "Brugata 6, 6390 Vestnes",
+    "metadata": {
+      "legekontor": "Vestnes Kommune Legesenteret",
+      "tlf": "71 18 41 00",
+      "antallPlasser": 830
+    }
+  },
+  {
+    "title": "Åsmund Oksavik Oltedal",
+    "address": "Ytterland 1, 6050 VALDERØYA",
+    "metadata": {
+      "legekontor": "Giske kommunale legesenter",
+      "tlf": "70 18 85 00",
+      "antallPlasser": 625
+    }
+  },
+  {
+    "title": "Margrethe Oma",
+    "address": "Stormyra 6, 6100 VOLDA",
+    "metadata": {
+      "legekontor": "Volda Legesenter",
+      "tlf": "70 05 89 00",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Cecilie Lillejord Oppedal",
+    "address": "Rådhusvegen 3, 6143 Fiskå",
+    "metadata": {
+      "legekontor": "Vanylven Legesenter",
+      "tlf": "70 03 01 00",
+      "antallPlasser": 680
+    }
+  },
+  {
+    "title": "Arnfinn Kenneth Osdal",
+    "address": "Kanalveien 18, 6010 ÅLESUND",
+    "metadata": {
+      "legekontor": "Vika Legesenter",
+      "tlf": "70 17 45 60",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Marie Osen",
+    "address": "Skoganvegen 52, 6690 Aure",
+    "metadata": {
+      "legekontor": "Aure Legekontor",
+      "tlf": "71 64 75 70",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Henrik Otlo-Stanger",
+    "address": "Auregata 19, 6230 SYKKYLVEN",
+    "metadata": {
+      "legekontor": "Sykkylven legesenter",
+      "tlf": "70 25 50 50",
+      "antallPlasser": 750
+    }
+  },
+  {
+    "title": "Nataliya Vorotnyak Overå",
+    "address": "Kjøpmannsgata 16, 6060 Hareid",
+    "metadata": {
+      "legekontor": "Hareid Legesenter AS",
+      "tlf": "70 30 70 70",
+      "antallPlasser": 600
+    }
+  },
+  {
+    "title": "Hassan Parandeh",
+    "address": "Kjøpmannsgata 16, 6060 Hareid",
+    "metadata": {
+      "legekontor": "Hareid Legesenter AS",
+      "tlf": "70 30 70 70",
+      "antallPlasser": 600
+    }
+  },
+  {
+    "title": "Alexa Plesch",
+    "address": "Sentervegen 125, 6440 ELNESVÅGEN",
+    "metadata": {
+      "legekontor": "Hustadvika legetjenester",
+      "tlf": "71 26 82 00",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Lars-Petter Radich",
+    "address": "Ytterland 1, 6050 VALDERØYA",
+    "metadata": {
+      "legekontor": "Giske kommunale legesenter",
+      "tlf": "70 18 85 00",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Andrea Karoline Ravnå Raen",
+    "address": "Sentervegen 125, 6440 ELNESVÅGEN",
+    "metadata": {
+      "legekontor": "Hustadvika legetjenester",
+      "tlf": "71 26 82 00",
+      "antallPlasser": 630
+    }
+  },
+  {
+    "title": "Pragass Brucker Rajavel",
+    "address": "Sentervegen 125, 6440 ELNESVÅGEN",
+    "metadata": {
+      "legekontor": "Hustadvika legetjenester",
+      "tlf": "71 26 82 00",
+      "ledigePlasser": 58,
+      "antallPlasser": 1056,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Cornelius Bakkemyr Rakvåg",
+    "address": "Notenesgata 6, 6002 ÅLESUND",
+    "metadata": {
+      "legekontor": "Kremmergården Legesenter",
+      "tlf": "70 16 48 00",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Thomas Rakvåg",
+    "address": "Aukraringen 17, 6480 AUKRA",
+    "metadata": {
+      "legekontor": "Aukra Kommune Helse",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Håvard Ramsli",
+    "address": "Myrvåg, 6080 GURSKØY",
+    "metadata": {
+      "legekontor": "Myrvåg Legesenter",
+      "tlf": "70 08 03 00",
+      "antallPlasser": 500
+    }
+  },
+  {
+    "title": "Shavithra Ravinthrakumar",
+    "address": "Strandgata 40, 6270 BRATTVÅG",
+    "metadata": {
+      "legekontor": "Brattvåg legekontor",
+      "tlf": "468 07 830",
+      "antallPlasser": 650
+    }
+  },
+  {
+    "title": "Emil Nerbø Reiten",
+    "address": "Sentervegen 125, 6440 ELNESVÅGEN",
+    "metadata": {
+      "legekontor": "Hustadvika legetjenester",
+      "tlf": "71 26 82 00",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Ingeborg Olga Salen Relling",
+    "address": "Notenesgata 6, 6002 ÅLESUND",
+    "metadata": {
+      "legekontor": "Kremmergården Legesenter",
+      "tlf": "70 16 48 00",
+      "antallPlasser": 1250
+    }
+  },
+  {
+    "title": "Jan Magne Remøy",
+    "address": "Myklebustvegen 69A, 6092 FOSNAVÅG",
+    "metadata": {
+      "legekontor": "Fosnavåg helsehus",
+      "tlf": "70 08 55 00",
+      "antallPlasser": 1350
+    }
+  },
+  {
+    "title": "Nils Magne Rimstad",
+    "address": "Helsehuset, 6520 FREI",
+    "metadata": {
+      "legekontor": "Frei Legesenter",
+      "tlf": "71 68 33 60",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Oda Synnøve Myklebust Riste",
+    "address": "Postboks 24, 6761 HORNINDAL",
+    "metadata": {
+      "legekontor": "Hornindal Legekontor",
+      "tlf": "57 87 98 70",
+      "antallPlasser": 675
+    }
+  },
+  {
+    "title": "Sara Roald",
+    "address": "Vestmoa 6, 6018 ÅLESUND",
+    "metadata": {
+      "legekontor": "Moa Legekontor",
+      "tlf": "70 17 20 40",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Jan Egil Romestrand",
+    "address": "Dalevegen 28 A, 6153 ØRSTA",
+    "metadata": {
+      "legekontor": "Ørsta Helsesenter",
+      "tlf": "70 04 80 50",
+      "antallPlasser": 530
+    }
+  },
+  {
+    "title": "Sondre Molnes Rypdal",
+    "address": "Ytterland 1, 6050 VALDERØYA",
+    "metadata": {
+      "legekontor": "Giske kommunale legesenter",
+      "tlf": "70 18 85 00",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Liv Inger Ryste",
+    "address": "Notenesgata 6, 6002 ÅLESUND",
+    "metadata": {
+      "legekontor": "Kremmergården Legesenter",
+      "tlf": "70 16 48 00",
+      "antallPlasser": 1250
+    }
+  },
+  {
+    "title": "Eirik Solbakken Rødset",
+    "address": "Notenesgata 6, 6002 ÅLESUND",
+    "metadata": {
+      "legekontor": "Kremmergården Legesenter",
+      "tlf": "70 16 48 00",
+      "antallPlasser": 1240
+    }
+  },
+  {
+    "title": "Marianne Eriksen Røe",
+    "address": "Brugata 6, 6390 Vestnes",
+    "metadata": {
+      "legekontor": "Vestnes Kommune Legesenteret",
+      "tlf": "71 18 41 00",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Bjørn Rønneberg",
+    "address": "Strandgata 40, 6270 BRATTVÅG",
+    "metadata": {
+      "legekontor": "Brattvåg legekontor",
+      "tlf": "468 07 830",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Liv Rønneberg",
+    "address": "Keiser Wilhelms gate 24-26, 6003 ÅLESUND",
+    "metadata": {
+      "legekontor": "Kipervika Legesenter AS",
+      "tlf": "70 10 46 50",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Synne Rørstad",
+    "address": "Sjøholtvegen 86, 6240 ØRSKOG",
+    "metadata": {
+      "legekontor": "Ørskog Legekontor",
+      "tlf": "70 16 59 80",
+      "ledigePlasser": 2,
+      "antallPlasser": 800,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Hilde Røsvik",
+    "address": "Trolldalssletta 2, 6264 TENNFJORD",
+    "metadata": {
+      "legekontor": "Vatne Legekontor",
+      "tlf": "909 91 205",
+      "antallPlasser": 625
+    }
+  },
+  {
+    "title": "Elin Leknes Saint-Sollieux",
+    "address": "Auregata 19, 6230 SYKKYLVEN",
+    "metadata": {
+      "legekontor": "Sykkylven legesenter",
+      "tlf": "70 25 50 50",
+      "antallPlasser": 675
+    }
+  },
+  {
+    "title": "Kristoffer Sandnes",
+    "address": "Keiser Wilhelms gate 24-26, 6003 ÅLESUND",
+    "metadata": {
+      "legekontor": "Kipervika Legesenter AS",
+      "tlf": "70 10 46 50",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Øyvind Grøtta Sandnes",
+    "address": "Auregata 19, 6230 SYKKYLVEN",
+    "metadata": {
+      "legekontor": "Sykkylven legesenter",
+      "tlf": "70 25 50 50",
+      "antallPlasser": 775
+    }
+  },
+  {
+    "title": "Askill Iversen Sandvik",
+    "address": "Konsult Knudzonsgt. 8, 6508 KRISTIANSUND N",
+    "metadata": {
+      "legekontor": "Vågen Legesenter AS",
+      "tlf": "71 57 08 90",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Eigil Ødegård Sandvik",
+    "address": "Konsult Knudzonsgt. 8, 6508 KRISTIANSUND N",
+    "metadata": {
+      "legekontor": "Vågen Legesenter AS",
+      "tlf": "71 57 08 90",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Sabine Karla Sass",
+    "address": "Mongstugt. 5, 6600 Sunndalsøra",
+    "metadata": {
+      "legekontor": "Sunndal Legesenter",
+      "tlf": "71 69 40 20",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Stefan Sass",
+    "address": "Mongstugt. 5, 6600 Sunndalsøra",
+    "metadata": {
+      "legekontor": "Sunndal Legesenter",
+      "tlf": "71 69 40 20",
+      "antallPlasser": 1150
+    }
+  },
+  {
+    "title": "Silja Osdal Saure",
+    "address": "Stormyra 6, 6100 VOLDA",
+    "metadata": {
+      "legekontor": "Volda Legesenter",
+      "tlf": "70 05 89 00",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Juliana Ferro Schuh",
+    "address": "Notenesgata 6, 6002 ÅLESUND",
+    "metadata": {
+      "legekontor": "Kremmergården Legesenter",
+      "tlf": "70 16 48 00",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Gjermund Lervåg Seim",
+    "address": "Ytterland 1, 6050 VALDERØYA",
+    "metadata": {
+      "legekontor": "Giske kommunale legesenter",
+      "tlf": "70 18 85 00",
+      "antallPlasser": 860
+    }
+  },
+  {
+    "title": "Inge André Settemsdal",
+    "address": "Øyna 13, 6200 Stranda",
+    "metadata": {
+      "legekontor": "Stranda Legekontor",
+      "tlf": "70 26 81 20",
+      "antallPlasser": 750
+    }
+  },
+  {
+    "title": "Maihanpoor Siddiqi",
+    "address": "Sentervegen 125, 6440 ELNESVÅGEN",
+    "metadata": {
+      "legekontor": "Hustadvika legetjenester",
+      "tlf": "71 26 82 00",
+      "ledigePlasser": 73,
+      "antallPlasser": 1400,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Tor Grunde Simonsen",
+    "address": "Stormyra 6, 6100 VOLDA",
+    "metadata": {
+      "legekontor": "Volda Legesenter",
+      "tlf": "70 05 89 00",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Sivasharmilan Sivanesan",
+    "address": "Verftsgata 10, 6416 Molde",
+    "metadata": {
+      "legekontor": "Legekontoret Fem Faste AS",
+      "tlf": "71 20 32 00",
+      "antallPlasser": 100
+    }
+  },
+  {
+    "title": "Oksana Valerijevna Sjadjuk",
+    "address": "Keiser Wilhelms gate 24-26, 6003 ÅLESUND",
+    "metadata": {
+      "legekontor": "Kipervika Legesenter AS",
+      "tlf": "70 10 46 50",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Amshala Skanthees",
+    "address": "Brugata 6, 6390 Vestnes",
+    "metadata": {
+      "legekontor": "Vestnes Kommune Legesenteret",
+      "tlf": "71 18 41 00",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Styrk Settemsdal Skar",
+    "address": "Kanalveien 18, 6010 ÅLESUND",
+    "metadata": {
+      "legekontor": "Vika Legesenter",
+      "tlf": "70 17 45 60",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Rolf Andreas Skeide",
+    "address": "Konsul Knudtzons gate 8, 6508 Kristiansund N",
+    "metadata": {
+      "legekontor": "Sentrum legesenter Kristiansund",
+      "tlf": "71 58 75 40",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Lisa Skiphamn",
+    "address": "Skoganvegen 52, 6690 Aure",
+    "metadata": {
+      "legekontor": "Aure Legekontor",
+      "tlf": "71 64 75 70",
+      "ledigePlasser": 50,
+      "antallPlasser": 750,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Endre Osen Skjølberg",
+    "address": "Verftsgata 10, 6416 Molde",
+    "metadata": {
+      "legekontor": "Legekontoret Fem Faste AS",
+      "tlf": "71 20 32 00",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Rune Skoglund",
+    "address": "Nordmørsveien 54, 6517 KRISTIANSUND N",
+    "metadata": {
+      "legekontor": "Nordlandet legesenter",
+      "tlf": "71 58 08 90",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Tarjei Skotheimsvik",
+    "address": "Julsundvegen 2, 6412 MOLDE",
+    "metadata": {
+      "legekontor": "Legekontoret Molde brygge",
+      "tlf": "71 24 94 60",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Else Skram",
+    "address": "Helsehuset, 6520 FREI",
+    "metadata": {
+      "legekontor": "Frei Legesenter",
+      "tlf": "71 68 33 60",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Magnus Jenset Skrede",
+    "address": "Eidsvågvegen 30, 6460 Eidsvåg",
+    "metadata": {
+      "legekontor": "Nesset Legekontor",
+      "tlf": "71 23 12 00",
+      "antallPlasser": 895
+    }
+  },
+  {
+    "title": "Martin Skrove",
+    "address": "Julsundvegen 2, 6412 MOLDE",
+    "metadata": {
+      "legekontor": "Legekontoret Molde brygge",
+      "tlf": "71 24 94 60",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Sivert Skuggevik",
+    "address": "Bårdshaugvegen 1, 6650 SURNADAL",
+    "metadata": {
+      "legekontor": "Surnadal Legesenter",
+      "tlf": "71 65 78 00",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Marianne Sofie Skuseth",
+    "address": "Grandegata 54, 6210 VALLDAL",
+    "metadata": {
+      "legekontor": "Fjord legekontor",
+      "tlf": "418 67 850",
+      "antallPlasser": 560
+    }
+  },
+  {
+    "title": "Håvard Johannes Refsnæs Skytterholm",
+    "address": "Stadsnesveien 9B, 6030 LANGEVÅG",
+    "metadata": {
+      "legekontor": "Kommunelegekontoret i Sula",
+      "tlf": "70 19 91 60",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Trine Skårland",
+    "address": "Julsundvegen 2, 6412 MOLDE",
+    "metadata": {
+      "legekontor": "Legekontoret Molde brygge",
+      "tlf": "71 24 94 60",
+      "antallPlasser": 250
+    }
+  },
+  {
+    "title": "Elling Paulsen Skårn",
+    "address": "Verftsgata 10, 6416 Molde",
+    "metadata": {
+      "legekontor": "Legekontoret Fem Faste AS",
+      "tlf": "71 20 32 00",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Asta Slettevoll",
+    "address": "Prestegardsveien 5, 6084 Larsnes",
+    "metadata": {
+      "legekontor": "Sande legekontor",
+      "tlf": "70 02 67 50",
+      "ledigePlasser": 36,
+      "antallPlasser": 900,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Anne-Line Sommerdalen",
+    "address": "Ytterland 1, 6050 VALDERØYA",
+    "metadata": {
+      "legekontor": "Giske kommunale legesenter",
+      "tlf": "70 18 85 00",
+      "antallPlasser": 500
+    }
+  },
+  {
+    "title": "Jørgen Sortland",
+    "address": "Dalevegen 28 A, 6153 ØRSTA",
+    "metadata": {
+      "legekontor": "Ørsta Helsesenter",
+      "tlf": "70 04 80 50",
+      "antallPlasser": 650
+    }
+  },
+  {
+    "title": "Andreas Iversønn Stadheim",
+    "address": "Øyna 13, 6200 Stranda",
+    "metadata": {
+      "legekontor": "Stranda Legekontor",
+      "tlf": "70 26 81 20",
+      "ledigePlasser": 7,
+      "antallPlasser": 600,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Kristian-Sigve Hovden Standal",
+    "address": "Vestmoa 6, 6018 ÅLESUND",
+    "metadata": {
+      "legekontor": "Moa Legekontor",
+      "tlf": "70 17 20 40",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Tove Standal",
+    "address": "Stordalsvegen 550, 6250 STORDAL",
+    "metadata": {
+      "legekontor": "Fjord legekontor",
+      "tlf": "418 67 850",
+      "antallPlasser": 559
+    }
+  },
+  {
+    "title": "Schirin Stavik",
+    "address": "Strandgata 40, 6270 BRATTVÅG",
+    "metadata": {
+      "legekontor": "Brattvåg legekontor",
+      "tlf": "468 07 830",
+      "antallPlasser": 635
+    }
+  },
+  {
+    "title": "Øyvind Samdal Steinskog",
+    "address": "Bukthaugvegen 2, 6475 Midsund",
+    "metadata": {
+      "legekontor": "Midsund legekontor",
+      "tlf": "71 27 05 50",
+      "antallPlasser": 430
+    }
+  },
+  {
+    "title": "Nataliya Stensen",
+    "address": "Konsult Knudzonsgt. 8, 6508 KRISTIANSUND N",
+    "metadata": {
+      "legekontor": "Vågen Legesenter AS",
+      "tlf": "71 57 08 90",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Ane Marta Lindseth Stige",
+    "address": "Sentervegen 125, 6440 ELNESVÅGEN",
+    "metadata": {
+      "legekontor": "Hustadvika legetjenester",
+      "tlf": "71 26 82 00",
+      "antallPlasser": 650
+    }
+  },
+  {
+    "title": "Michael Langballe Storebø",
+    "address": "Blindheimshaugen 9, 6012 ÅLESUND",
+    "metadata": {
+      "legekontor": "Jomarka Legesenter DA",
+      "tlf": "71 40 28 28",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Eirik Storholt",
+    "address": "Storgata 14, 6413 Molde",
+    "metadata": {
+      "legekontor": "Legesenteret i Molde AS",
+      "tlf": "71 20 29 50",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Per Arild Strand",
+    "address": "Kongens plass 3, 6509 KRISTIANSUND N",
+    "metadata": {
+      "legekontor": "Kongens Plass Medisinske senter",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Harald Sundby",
+    "address": "Bukthaugvegen 2, 6475 Midsund",
+    "metadata": {
+      "legekontor": "Midsund legekontor",
+      "tlf": "71 27 05 50",
+      "ledigePlasser": 26,
+      "antallPlasser": 410,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Tilde Camilla Svela",
+    "address": "Mekveien 13A, 6411 MOLDE",
+    "metadata": {
+      "legekontor": "Kvam Legesenter",
+      "tlf": "71 20 38 50",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Reidun Sveaas",
+    "address": "Averøyveien 34, 6530 AVERØY",
+    "metadata": {
+      "legekontor": "Averøy Legesenter",
+      "tlf": "71 51 36 50",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Kenneth Swan",
+    "address": "Auregata 19, 6230 SYKKYLVEN",
+    "metadata": {
+      "legekontor": "Sykkylven legesenter",
+      "tlf": "70 25 50 50",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Malene Hovdenak Sylte",
+    "address": "Sentervegen 125, 6440 ELNESVÅGEN",
+    "metadata": {
+      "legekontor": "Hustadvika legetjenester",
+      "tlf": "71 26 82 00",
+      "antallPlasser": 710
+    }
+  },
+  {
+    "title": "Sigve Martin Røsvik Synnes",
+    "address": "Kjøpmannsgata 16, 6060 Hareid",
+    "metadata": {
+      "legekontor": "Hareid Legesenter AS",
+      "tlf": "70 30 70 70",
+      "antallPlasser": 725
+    }
+  },
+  {
+    "title": "Eivind Garnes Sæter",
+    "address": "Sjøgt.1, 6065 Ulsteinvik",
+    "metadata": {
+      "legekontor": "Ulstein Legesenter AS",
+      "tlf": "70 01 89 89",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Bianka Kathryn Sætre",
+    "address": "Mekveien 13A, 6411 MOLDE",
+    "metadata": {
+      "legekontor": "Kvam Legesenter",
+      "tlf": "71 20 38 50",
+      "antallPlasser": 920
+    }
+  },
+  {
+    "title": "Sindre Ervik Sætre",
+    "address": "Mekveien 13A, 6411 MOLDE",
+    "metadata": {
+      "legekontor": "Kvam Legesenter",
+      "tlf": "71 20 38 50",
+      "ledigePlasser": 11,
+      "antallPlasser": 1000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Ellen Kirkeland Sættem",
+    "address": "Storgata 14, 6413 Molde",
+    "metadata": {
+      "legekontor": "Legesenteret i Molde AS",
+      "tlf": "71 20 29 50",
+      "antallPlasser": 920
+    }
+  },
+  {
+    "title": "Kimmi Thi Ta",
+    "address": "Langelandsveien 17, 6010 ÅLESUND",
+    "metadata": {
+      "legekontor": "Daaeskogen Legesenter",
+      "tlf": "70 16 41 50",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Ole Peter Taknæs",
+    "address": "Konsul Knudtzons gate 8, 6508 Kristiansund N",
+    "metadata": {
+      "legekontor": "Sentrum legesenter Kristiansund",
+      "tlf": "71 58 75 40",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Tor Arne Tande",
+    "address": "Storgata 14, 6413 Molde",
+    "metadata": {
+      "legekontor": "Legesenteret i Molde AS",
+      "tlf": "71 20 29 50",
+      "antallPlasser": 1050
+    }
+  },
+  {
+    "title": "Thor Olav Bjørhovde Temtemoen",
+    "address": "Sundgata 12, 6003 ÅLESUND",
+    "metadata": {
+      "legekontor": "Medicalis legesenter",
+      "tlf": "70 10 00 22",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Amanda Klara Georgiadis Tenfjord",
+    "address": "Strandgata 40, 6270 BRATTVÅG",
+    "metadata": {
+      "legekontor": "Brattvåg legekontor",
+      "tlf": "468 07 830",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Anna Gribbestad Tjelle",
+    "address": "Veøygata 1, 6413 Molde",
+    "metadata": {
+      "legekontor": "Kirkebakken Legesenter",
+      "antallPlasser": 660
+    }
+  },
+  {
+    "title": "Ingebjørg Alice Toftesund",
+    "address": "Sjøgt.1, 6065 Ulsteinvik",
+    "metadata": {
+      "legekontor": "Ulstein Legesenter AS",
+      "tlf": "70 01 89 89",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Bjørg Marie Toven",
+    "address": "Gjemnes legesenter, 6631 Batnfjordsøra",
+    "metadata": {
+      "legekontor": "Gjemnes legesenter",
+      "tlf": "71 29 11 80",
+      "ledigePlasser": 8,
+      "antallPlasser": 800,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Gry Ingrid Tøndel",
+    "address": "Vollan 8a, 6300 ÅNDALSNES",
+    "metadata": {
+      "legekontor": "Rauma Legesenter",
+      "tlf": "71 16 67 00",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Shafi Ullah",
+    "address": "Langelandsveien 17, 6010 ÅLESUND",
+    "metadata": {
+      "legekontor": "Daaeskogen Legesenter",
+      "tlf": "70 16 41 50",
+      "ledigePlasser": 305,
+      "antallPlasser": 850,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Torhild Camilla Uthaug",
+    "address": "Konsult Knudzonsgt. 8, 6508 KRISTIANSUND N",
+    "metadata": {
+      "legekontor": "Vågen Legesenter AS",
+      "tlf": "71 57 08 90",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Irina Vadset",
+    "address": "Brugata 6, 6390 Vestnes",
+    "metadata": {
+      "legekontor": "Vestnes Kommune Legesenteret",
+      "tlf": "71 18 41 00",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Marianne Bjørnland Vadset",
+    "address": "Trolldalssletta 2, 6264 TENNFJORD",
+    "metadata": {
+      "legekontor": "Vatne Legekontor",
+      "tlf": "909 91 205",
+      "antallPlasser": 650
+    }
+  },
+  {
+    "title": "Christoffer Vadseth",
+    "address": "Strandgata 40, 6270 BRATTVÅG",
+    "metadata": {
+      "legekontor": "Brattvåg legekontor",
+      "tlf": "468 07 830",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Trine Valaker",
+    "address": "Kanalveien 18, 6010 ÅLESUND",
+    "metadata": {
+      "legekontor": "Vika Legesenter",
+      "tlf": "70 17 45 60",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Mette-Marit Sevaldsen Varmedal",
+    "address": "Brugata 6, 6390 Vestnes",
+    "metadata": {
+      "legekontor": "Vestnes Kommune Legesenteret",
+      "tlf": "71 18 41 00",
+      "antallPlasser": 880
+    }
+  },
+  {
+    "title": "Trond Vegard Vatne",
+    "address": "Myrvåg, 6080 GURSKØY",
+    "metadata": {
+      "legekontor": "Myrvåg Legesenter",
+      "tlf": "70 08 03 00",
+      "ledigePlasser": 36,
+      "antallPlasser": 750,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Torstein Vattøy",
+    "address": "Prestegardsveien 5, 6084 Larsnes",
+    "metadata": {
+      "legekontor": "Sande legekontor",
+      "tlf": "70 02 67 50",
+      "ledigePlasser": 4,
+      "antallPlasser": 700,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Kari-Elise Frøystad Veddegjærde",
+    "address": "Ytterland 1, 6050 VALDERØYA",
+    "metadata": {
+      "legekontor": "Giske kommunale legesenter",
+      "tlf": "70 18 85 00",
+      "antallPlasser": 614
+    }
+  },
+  {
+    "title": "Egil Vidar Veddeng",
+    "address": "Ragnvald Blakstadsgt. 22, 6600 Sunndalsøra",
+    "metadata": {
+      "legekontor": "Sunndal Medisinske Senter DA",
+      "tlf": "71 68 90 00",
+      "ledigePlasser": 12,
+      "antallPlasser": 1340,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Martin Johansen Velsvik",
+    "address": "Vestmoa 6, 6018 ÅLESUND",
+    "metadata": {
+      "legekontor": "Moa Legekontor",
+      "tlf": "70 17 20 40",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Cecilie Lund Vestergaard",
+    "address": "Dalevegen 28 A, 6153 ØRSTA",
+    "metadata": {
+      "legekontor": "Ørsta Helsesenter",
+      "tlf": "70 04 80 50",
+      "antallPlasser": 750
+    }
+  },
+  {
+    "title": "Guro Vik",
+    "address": "Verftsgata 10, 6416 Molde",
+    "metadata": {
+      "legekontor": "Legekontoret Fem Faste AS",
+      "tlf": "71 20 32 00",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Malene Huglen Vinsnesbakk",
+    "address": "Grandegata 54, 6210 VALLDAL",
+    "metadata": {
+      "legekontor": "Fjord legekontor",
+      "tlf": "418 67 850",
+      "antallPlasser": 554
+    }
+  },
+  {
+    "title": "Christian Vold",
+    "address": "Helsehuset, 6520 FREI",
+    "metadata": {
+      "legekontor": "Frei Legesenter",
+      "tlf": "71 68 33 60",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Andriy Vorotnyak",
+    "address": "Aukraringen 17, 6480 AUKRA",
+    "metadata": {
+      "legekontor": "Aukra Kommune Helse",
+      "antallPlasser": 50
+    }
+  },
+  {
+    "title": "Anne Birgitte Vågsholm",
+    "address": "Notenesgata 6, 6002 ÅLESUND",
+    "metadata": {
+      "legekontor": "Kremmergården Legesenter",
+      "tlf": "70 16 48 00",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Sven Walter",
+    "address": "Austrevegen 15, 6296 HARØY",
+    "metadata": {
+      "legekontor": "Sandøy kommunelegekontor",
+      "tlf": "70 16 57 70",
+      "antallPlasser": 1111
+    }
+  },
+  {
+    "title": "Emmanuel Cohen Waluge",
+    "address": "Eggesbøvegen 11, 6092 Fosnavåg",
+    "metadata": {
+      "legekontor": "Herøy Legesenter Møre og Romsdal",
+      "tlf": "70 08 14 60",
+      "ledigePlasser": 113,
+      "antallPlasser": 800,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Kristian Wennevold",
+    "address": "Ytterland 1, 6050 VALDERØYA",
+    "metadata": {
+      "legekontor": "Giske kommunale legesenter",
+      "tlf": "70 18 85 00",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Svein Reidar Wiig",
+    "address": "Sundgata 12, 6003 ÅLESUND",
+    "metadata": {
+      "legekontor": "Medicalis legesenter",
+      "tlf": "70 10 00 22",
+      "ledigePlasser": 352,
+      "antallPlasser": 1400,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "John Duaas Wilhelmsen",
+    "address": "Keiser Wilhelms gate 24-26, 6003 ÅLESUND",
+    "metadata": {
+      "legekontor": "Kipervika Legesenter AS",
+      "tlf": "70 10 46 50",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Ulrikke Nytun Wilhelmsen",
+    "address": "Auregata 19, 6230 SYKKYLVEN",
+    "metadata": {
+      "legekontor": "Sykkylven legesenter",
+      "tlf": "70 25 50 50",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Oda Wullum Williams",
+    "address": "Nordmørsveien 54, 6517 KRISTIANSUND N",
+    "metadata": {
+      "legekontor": "Nordlandet legesenter",
+      "tlf": "71 58 08 90",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Dawid Maciej Zamojcin",
+    "address": "Sundgata 12, 6003 ÅLESUND",
+    "metadata": {
+      "legekontor": "Medicalis legesenter",
+      "tlf": "70 10 00 22",
+      "ledigePlasser": 366,
+      "antallPlasser": 1800,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Tomas Zaal",
+    "address": "Vollan 8a, 6300 ÅNDALSNES",
+    "metadata": {
+      "legekontor": "Rauma Legesenter",
+      "tlf": "71 16 67 00",
+      "ledigePlasser": 6,
+      "antallPlasser": 800,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Bente Øhrn",
+    "address": "Helsehuset, 6520 FREI",
+    "metadata": {
+      "legekontor": "Frei Legesenter",
+      "tlf": "71 68 33 60",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Birgitte Hareide Øvrelid",
+    "address": "Sjøgt.1, 6065 Ulsteinvik",
+    "metadata": {
+      "legekontor": "Ulstein Legesenter AS",
+      "tlf": "70 01 89 89",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Hege Axe Øvsteng",
+    "address": "Dalevegen 28 A, 6153 ØRSTA",
+    "metadata": {
+      "legekontor": "Ørsta Helsesenter",
+      "tlf": "70 04 80 50",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Kjell-Bjarte Aarsund",
+    "address": "Sentervegen 125, 6440 ELNESVÅGEN",
+    "metadata": {
+      "legekontor": "Hustadvika legetjenester",
+      "tlf": "71 26 82 00",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Michael Aasen",
+    "address": "Langelandsveien 17, 6010 ÅLESUND",
+    "metadata": {
+      "legekontor": "Daaeskogen Legesenter",
+      "tlf": "70 16 41 50",
+      "ledigePlasser": 101,
+      "antallPlasser": 1400,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Øystein Mjelde Aasen",
+    "address": "Stadsnesveien 9B, 6030 LANGEVÅG",
+    "metadata": {
+      "legekontor": "Kommunelegekontoret i Sula",
+      "tlf": "70 19 91 60",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Ronnie Even Slagnes Aasestrand",
+    "address": "Stadsnesveien 9B, 6030 LANGEVÅG",
+    "metadata": {
+      "legekontor": "Kommunelegekontoret i Sula",
+      "tlf": "70 19 91 60",
+      "antallPlasser": 1000
+    }
+  }
+]

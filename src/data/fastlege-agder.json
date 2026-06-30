@@ -1,0 +1,3425 @@
+[
+  {
+    "title": "Konstantin Abalakin",
+    "address": "Alleen 16, 4580 LYNGDAL",
+    "metadata": {
+      "legekontor": "Lyngdal Legesenter",
+      "tlf": "38 34 04 40",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Belgis Abdullahzadah",
+    "address": "Skarvøyveien 55, 4517 MANDAL",
+    "metadata": {
+      "legekontor": "Øvrebyen Legesenter",
+      "tlf": "38 60 65 00",
+      "ledigePlasser": 14,
+      "antallPlasser": 800,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Ashraf Zohair Mostafa Abu Serria",
+    "address": "Vestre Strandgate 32, 4612 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Vestre legesenter",
+      "tlf": "38 10 49 49",
+      "ledigePlasser": 437,
+      "antallPlasser": 1000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Jørn Otto Ahlqvist",
+    "address": "Noroddveien 2, 4816 KOLBJØRNSVIK",
+    "metadata": {
+      "legekontor": "Hisøy Legesenter",
+      "tlf": "37 05 88 80",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Silje Haavind Akeren",
+    "address": "Brokelandsheia 52, 4993 SUNDEBRU",
+    "metadata": {
+      "legekontor": "Gjerstad Legekontor",
+      "tlf": "37 11 91 90",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Tormod Akeren",
+    "address": "Brokelandsheia 52, 4993 SUNDEBRU",
+    "metadata": {
+      "legekontor": "Gjerstad Legekontor",
+      "tlf": "37 11 91 90",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Kristine Albert",
+    "address": "Storgata 2, 4790 LILLESAND",
+    "metadata": {
+      "legekontor": "Lillesand Kommune - Agderklinikken",
+      "tlf": "37 27 22 00",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Wasim Shoaib Ali",
+    "address": "Dronningens gate 15, 4610",
+    "metadata": {
+      "legekontor": "Sandens Medisinske Senter",
+      "tlf": "38 00 66 90",
+      "antallPlasser": 1350
+    }
+  },
+  {
+    "title": "Christine Trondsdatter Alme",
+    "address": "Lauvåsen Hovedvei 1, 4656 HAMRESANDEN",
+    "metadata": {
+      "legekontor": "Randesund Legesenter",
+      "tlf": "38 14 83 50",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "David Andersen",
+    "address": "Rådhusveien 12, 4523 LINDESNES",
+    "metadata": {
+      "legekontor": "Vigeland Legesenter",
+      "tlf": "38 25 54 50",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Lars Marius Andersen",
+    "address": "Rådhusveien 7, 4640 Søgne",
+    "metadata": {
+      "legekontor": "Søgne Legesenter",
+      "tlf": "38 05 39 40",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Magnus Kåre Skjeggedal Andersen",
+    "address": "Kystveien 244, 4841 ARENDAL",
+    "metadata": {
+      "legekontor": "Kystveien Legesenter AS",
+      "tlf": "37 03 05 22",
+      "antallPlasser": 1350
+    }
+  },
+  {
+    "title": "Magnus Bakke Archer",
+    "address": "Havnegaten 1, 4836 ARENDAL",
+    "metadata": {
+      "legekontor": "Legegruppen Arendal",
+      "tlf": "37 00 34 00",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Christine Arentz",
+    "address": "Elvegaten 14, 4400 Flekkefjord",
+    "metadata": {
+      "legekontor": "Flekkefjord legesenter",
+      "tlf": "38 32 82 50",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Kamilla Bolseth Ask",
+    "address": "Rådhusveien 12, 4523 LINDESNES",
+    "metadata": {
+      "legekontor": "Vigeland Legesenter",
+      "tlf": "38 25 54 50",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Nicolay Høie Aslaksen",
+    "address": "Bark Silas' vei 7, 4876 GRIMSTAD",
+    "metadata": {
+      "legekontor": "Grimstad Legesenter",
+      "tlf": "37 25 81 00",
+      "antallPlasser": 550
+    }
+  },
+  {
+    "title": "Hans Petter Schmidt Asser",
+    "address": "Feviktoppen 1, 4870 FEVIK",
+    "metadata": {
+      "legekontor": "Fevik Legesenter",
+      "tlf": "37 25 79 00",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Damir Avdovic",
+    "address": "Vestre Strandgate 32, 4612 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Vestre legesenter",
+      "tlf": "38 10 49 49",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "May-Linn Helland Bakke",
+    "address": "Østre Strandagate 76 A, 4608 Kristiansand S",
+    "metadata": {
+      "legekontor": "Bystranda legesenter",
+      "tlf": "38 70 86 50",
+      "antallPlasser": 930
+    }
+  },
+  {
+    "title": "Marius Bakken",
+    "address": "Vardåsveien 69, 4637 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Søm Legesenter",
+      "tlf": "38 12 88 44",
+      "antallPlasser": 1270
+    }
+  },
+  {
+    "title": "Mette Bechsen",
+    "address": "Barbrosgate 13B, 4550 Farsund",
+    "metadata": {
+      "legekontor": "Kommunalt legesenter Farsund",
+      "tlf": "38 38 97 00",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Mads Mosgren Bekkedal",
+    "address": "Noroddveien 2, 4816 KOLBJØRNSVIK",
+    "metadata": {
+      "legekontor": "Hisøy Legesenter",
+      "tlf": "37 05 88 80",
+      "ledigePlasser": 260,
+      "antallPlasser": 700,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Camilla Berg-Utby",
+    "address": "Stadionveien 21, 4632 Kristiansand S",
+    "metadata": {
+      "legekontor": "Sør Arena Legesenter DA",
+      "tlf": "38 12 30 20",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Kim Håvard Bertheussen",
+    "address": "Kirsten Flagstads vei 1, 4621 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Ditt Legesenter",
+      "tlf": "38 00 05 50",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Bjørn Birkevold",
+    "address": "Universitetsveien 3B, 4630 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Gimle Legesenter AS",
+      "tlf": "38 12 52 50",
+      "antallPlasser": 1350
+    }
+  },
+  {
+    "title": "Inger Helene Bjurstrøm",
+    "address": "Brogata 9, 4400 Flekkefjord",
+    "metadata": {
+      "legekontor": "Lundsen Legesenter",
+      "tlf": "38 32 05 20",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Nadin Bjørhei",
+    "address": "Elgveien 5, 4818 FÆRVIK",
+    "metadata": {
+      "legekontor": "Tromøy legesenter",
+      "tlf": "37 05 83 50",
+      "antallPlasser": 860
+    }
+  },
+  {
+    "title": "Glenn Henry Björk",
+    "address": "Storgaten 33, 4876 Grimstad",
+    "metadata": {
+      "legekontor": "Kulturhuset Legesenter",
+      "tlf": "37 25 28 28",
+      "ledigePlasser": 84,
+      "antallPlasser": 1600,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Maria Johanna Christina Blikman",
+    "address": "Kystveien 690, 4851 Arendal",
+    "metadata": {
+      "legekontor": "Moland legesenter",
+      "tlf": "37 03 46 66",
+      "antallPlasser": 660
+    }
+  },
+  {
+    "title": "Silvia Loraine Bollati De Bernal",
+    "address": "Frolandsveien 6, 4847 ARENDAL",
+    "metadata": {
+      "legekontor": "Bjønneslegene AS",
+      "tlf": "37 00 34 50",
+      "ledigePlasser": 83,
+      "antallPlasser": 800,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Gabor Pal Borgulya",
+    "address": "Alleen 16, 4580 LYNGDAL",
+    "metadata": {
+      "legekontor": "Lyngdal Legesenter",
+      "tlf": "38 34 04 40",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Silke Eileen Boroske",
+    "address": "Gata 10, 4865 ÅMLI",
+    "metadata": {
+      "legekontor": "Åmli Legekontor",
+      "tlf": "37 18 51 00",
+      "antallPlasser": 400
+    }
+  },
+  {
+    "title": "Anders Øgrey Brandsdal",
+    "address": "Lumberveien 49, 4621 Kristiansand S",
+    "metadata": {
+      "legekontor": "Trekanten legesenter",
+      "tlf": "38 01 85 10",
+      "ledigePlasser": 29,
+      "antallPlasser": 1250,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Lisa Helene Øgrey Brandsdal",
+    "address": "Lumberveien 49, 4621 Kristiansand S",
+    "metadata": {
+      "legekontor": "Trekanten legesenter",
+      "tlf": "38 01 85 10",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Monica Øgrey Brandsdal",
+    "address": "Kirsten Flagstads vei 1, 4621 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Ditt Legesenter",
+      "tlf": "38 00 05 50",
+      "ledigePlasser": 3,
+      "antallPlasser": 1180,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Ida Celine Bredin",
+    "address": "Klinkenberg 2, 4838 ARENDAL",
+    "metadata": {
+      "legekontor": "Klinkenberg Legesenter",
+      "tlf": "37 00 98 98",
+      "ledigePlasser": 72,
+      "antallPlasser": 350,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Hilde Brekke",
+    "address": "Storgata 1C, 4790 LILLESAND",
+    "metadata": {
+      "legekontor": "Lillesand Kommune - Blindleia Legesenter",
+      "tlf": "37 26 91 30",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Jørgen Øvreås Brochmann",
+    "address": "Furuvegen 1, 4820 FROLAND",
+    "metadata": {
+      "legekontor": "Froland Kommunale Legekontor",
+      "tlf": "37 23 55 84",
+      "antallPlasser": 880
+    }
+  },
+  {
+    "title": "Hilde Vaiva Tonstad Brogaard",
+    "address": "Rådhusveien 7, 4640 Søgne",
+    "metadata": {
+      "legekontor": "Søgne Legesenter",
+      "tlf": "38 05 39 40",
+      "antallPlasser": 950
+    }
+  },
+  {
+    "title": "Erlend Eielsen Braadland",
+    "address": "Hollendergt 3, 4514 Mandal",
+    "metadata": {
+      "legekontor": "Sjøsanden legesenter DA",
+      "tlf": "38 27 22 50",
+      "antallPlasser": 880
+    }
+  },
+  {
+    "title": "Lise Cathrine Gram Bråtlund",
+    "address": "Skarvøyveien 55, 4517 MANDAL",
+    "metadata": {
+      "legekontor": "Øvrebyen Legesenter",
+      "tlf": "38 60 65 00",
+      "antallPlasser": 650
+    }
+  },
+  {
+    "title": "Sebastian Bø",
+    "address": "Kirkeveien 4, 4631 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Lund Legesenter",
+      "tlf": "38 09 50 00",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Christer Bøhler",
+    "address": "Frolandsveien 6, 4847 ARENDAL",
+    "metadata": {
+      "legekontor": "Bjønneslegene AS",
+      "tlf": "37 00 34 50",
+      "ledigePlasser": 57,
+      "antallPlasser": 750,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Jørgen Nicolay Hægg Christiansen",
+    "address": "Dronningens gate 15, 4610",
+    "metadata": {
+      "legekontor": "Sandens Medisinske Senter",
+      "tlf": "38 00 66 90",
+      "ledigePlasser": 98,
+      "antallPlasser": 1350,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Carina Dahl",
+    "address": "Noroddveien 2, 4816 KOLBJØRNSVIK",
+    "metadata": {
+      "legekontor": "Hisøy Legesenter",
+      "tlf": "37 05 88 80",
+      "ledigePlasser": 82,
+      "antallPlasser": 750,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Per Kjetil Dalane",
+    "address": "Sentrumsveien 41, 4700 VENNESLA",
+    "metadata": {
+      "legekontor": "Vennesla legekontor",
+      "tlf": "38 15 01 50",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Kåre Gjermund Dale",
+    "address": "Frigstadveien 20, 4724 IVELAND",
+    "metadata": {
+      "legekontor": "Iveland legekontor",
+      "tlf": "37 96 12 30",
+      "ledigePlasser": 14,
+      "antallPlasser": 800,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Tor Jørgen Danielsen",
+    "address": "Storgata 1C, 4790 LILLESAND",
+    "metadata": {
+      "legekontor": "Lillesand Kommune - Blindleia Legesenter",
+      "tlf": "37 26 91 30",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Zaneta Danielsen",
+    "address": "Sentrumsveien 41, 4700 VENNESLA",
+    "metadata": {
+      "legekontor": "Vennesla legekontor",
+      "tlf": "38 15 01 50",
+      "antallPlasser": 650
+    }
+  },
+  {
+    "title": "Kjetil Tørå Dokka",
+    "address": "Kystveien 244, 4841 ARENDAL",
+    "metadata": {
+      "legekontor": "Kystveien Legesenter AS",
+      "tlf": "37 03 05 22",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Annika Tähti Jensen Dunseth",
+    "address": "Skarvøyveien 55, 4517 MANDAL",
+    "metadata": {
+      "legekontor": "Øvrebyen Legesenter",
+      "tlf": "38 60 65 00",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Gunn Hege Durhuus",
+    "address": "Østre Strandagate 76 A, 4608 Kristiansand S",
+    "metadata": {
+      "legekontor": "Bystranda legesenter",
+      "tlf": "38 70 86 50",
+      "antallPlasser": 1050
+    }
+  },
+  {
+    "title": "Bjørn Erik Egeland",
+    "address": "Sentrumsveien 41, 4700 VENNESLA",
+    "metadata": {
+      "legekontor": "Vennesla legekontor",
+      "tlf": "38 15 01 50",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Nina Rasmussen Eikenes",
+    "address": "Søsterdalen 16, 4900 TVEDESTRAND",
+    "metadata": {
+      "legekontor": "Tvedestrand kommune allmenn legetjeneste",
+      "tlf": "37 19 67 77",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Arnstein Eltervaag",
+    "address": "Henrik Wergelands gate 4, 4612 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Sentrum Legesenter Kristiansand AS",
+      "tlf": "38 07 90 00",
+      "ledigePlasser": 139,
+      "antallPlasser": 1500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Andreas Engedal",
+    "address": "Halseveien 5, 4517 MANDAL",
+    "metadata": {
+      "legekontor": "Halse Legesenter AS",
+      "tlf": "38 27 38 80",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Ingunn Engedal",
+    "address": "Songdalsvn.53, 4645 Nodeland",
+    "metadata": {
+      "legekontor": "Songdalen legesenter",
+      "tlf": "38 18 51 20",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Åshild Espeland",
+    "address": "Vestre Strandgate 32, 4612 Kristiansand",
+    "metadata": {
+      "legekontor": "Kvadraturen legesenter",
+      "tlf": "38 12 88 80",
+      "ledigePlasser": 62,
+      "antallPlasser": 1300,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Marthe Haugland Evensen",
+    "address": "Frolandsveien 6, 4847 ARENDAL",
+    "metadata": {
+      "legekontor": "Bjønneslegene AS",
+      "tlf": "37 00 34 50",
+      "antallPlasser": 600
+    }
+  },
+  {
+    "title": "Mark Stephan Fagan",
+    "address": "Elgveien 5, 4818 FÆRVIK",
+    "metadata": {
+      "legekontor": "Tromøy legesenter",
+      "tlf": "37 05 83 50",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Linda Farstad",
+    "address": "Setesdalsveien 277, 4618 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Torridal Legekontor",
+      "tlf": "38 00 40 40",
+      "ledigePlasser": 128,
+      "antallPlasser": 1000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Gonzalo Andreas Fiane",
+    "address": "Vestre Strandgate 32, 4612 Kristiansand",
+    "metadata": {
+      "legekontor": "Kvadraturen legesenter",
+      "tlf": "38 12 88 80",
+      "ledigePlasser": 32,
+      "antallPlasser": 1000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Heidi Lidal Fidjeland",
+    "address": "Rådhusveien 7, 4640 Søgne",
+    "metadata": {
+      "legekontor": "Søgne Legesenter",
+      "tlf": "38 05 39 40",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Stian Flo",
+    "address": "Bark Silas' vei 7, 4876 GRIMSTAD",
+    "metadata": {
+      "legekontor": "Grimstad Legesenter",
+      "tlf": "37 25 81 00",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Tonje Helle Flo",
+    "address": "Grøm Næringspark 19, 4887 GRIMSTAD",
+    "metadata": {
+      "legekontor": "Grøm legesenter",
+      "tlf": "37 09 08 00",
+      "antallPlasser": 400
+    }
+  },
+  {
+    "title": "Oda Elisabeth Fossdal",
+    "address": "Arendalsveien 32, 4878 GRIMSTAD",
+    "metadata": {
+      "legekontor": "Brannstasjonen Legesenter",
+      "tlf": "37 25 60 00",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Tone Dalen Frorud",
+    "address": "Hovlandsveien 9, 4985 Vegårshei, 4985 VEGÅRSHEI",
+    "metadata": {
+      "legekontor": "Vegårshei Kommune Legekontoret",
+      "tlf": "37 17 02 45",
+      "antallPlasser": 350
+    }
+  },
+  {
+    "title": "Bjørnar Furnes",
+    "address": "Kirsten Flagstads vei 1, 4621 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Ditt Legesenter",
+      "tlf": "38 00 05 50",
+      "ledigePlasser": 155,
+      "antallPlasser": 1200,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Veronika Gajdosikova",
+    "address": "Alleen 16, 4580 LYNGDAL",
+    "metadata": {
+      "legekontor": "Lyngdal Legesenter",
+      "tlf": "38 34 04 40",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Jens Gaukstad",
+    "address": "barstølveien 34, 4636 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Sørlandsparken legesenter",
+      "tlf": "38 04 88 88",
+      "antallPlasser": 1400
+    }
+  },
+  {
+    "title": "Lyudmila Gibson",
+    "address": "Kystveien 154, 4842 Arendal",
+    "metadata": {
+      "legekontor": "Havblikklegene",
+      "tlf": "37 09 77 00",
+      "ledigePlasser": 21,
+      "antallPlasser": 1200,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Eivor Bogstrand Gjessing",
+    "address": "Noroddveien 2, 4816 KOLBJØRNSVIK",
+    "metadata": {
+      "legekontor": "Hisøy Legesenter",
+      "tlf": "37 05 88 80",
+      "ledigePlasser": 63,
+      "antallPlasser": 750,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Hilde Kristin Dovland Gladhaug",
+    "address": "Festningsgata 4A, 4608 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Tresse Legesenter",
+      "tlf": "38 60 06 00",
+      "antallPlasser": 1500
+    }
+  },
+  {
+    "title": "Andrea Sangvik Grandal",
+    "address": "Arendalsveien 32, 4878 GRIMSTAD",
+    "metadata": {
+      "legekontor": "Brannstasjonen Legesenter",
+      "tlf": "37 25 60 00",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Martin Grandalen",
+    "address": "Rykeneveien 113, 4824 Bjorbekk",
+    "metadata": {
+      "legekontor": "Bjorbekk Legesenter",
+      "tlf": "37 09 52 00",
+      "antallPlasser": 750
+    }
+  },
+  {
+    "title": "Christian Grødem",
+    "address": "Vestre Strandgate 32, 4612 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Vestre legesenter",
+      "tlf": "38 10 49 49",
+      "antallPlasser": 1350
+    }
+  },
+  {
+    "title": "Hildur Gudmundsdottir",
+    "address": "Frolandsveien 6, 4847 ARENDAL",
+    "metadata": {
+      "legekontor": "Bjønneslegene AS",
+      "tlf": "37 00 34 50",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Ketel Johan Gundersen",
+    "address": "Hæstadveien 16, 4770 HØVÅG",
+    "metadata": {
+      "legekontor": "Høvåg legekontor",
+      "tlf": "38 99 40 60",
+      "antallPlasser": 1070
+    }
+  },
+  {
+    "title": "Natalia Gundersen",
+    "address": "Noroddveien 2, 4816 KOLBJØRNSVIK",
+    "metadata": {
+      "legekontor": "Hisøy Legesenter",
+      "tlf": "37 05 88 80",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Julia Sannæs Guren",
+    "address": "Havnegaten 1, 4836 ARENDAL",
+    "metadata": {
+      "legekontor": "Legegruppen Arendal",
+      "tlf": "37 00 34 00",
+      "ledigePlasser": 27,
+      "antallPlasser": 650,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Marcus Gürgen",
+    "address": "Farmonen 9, 4480 Kvinesdal",
+    "metadata": {
+      "legekontor": "Kvinesdal Legesenter",
+      "tlf": "38 35 70 80",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Stig Gøthesen",
+    "address": "Elvegaten 14, 4400 Flekkefjord",
+    "metadata": {
+      "legekontor": "Flekkefjord legesenter",
+      "tlf": "38 32 82 50",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Cornelia Gåskjenn",
+    "address": "Feviktoppen 1, 4870 FEVIK",
+    "metadata": {
+      "legekontor": "Fevik Legesenter",
+      "tlf": "37 25 79 00",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Torgeir Hagestad",
+    "address": "Nordre Heddeland 22, 4534 MARNARDAL",
+    "metadata": {
+      "legekontor": "Marnardal Legesenter",
+      "tlf": "38 28 82 20",
+      "antallPlasser": 820
+    }
+  },
+  {
+    "title": "Eskil Hagtvedt",
+    "address": "Arendalsveien 32, 4878 GRIMSTAD",
+    "metadata": {
+      "legekontor": "Brannstasjonen Legesenter",
+      "tlf": "37 25 60 00",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Jasmin Haj Younes",
+    "address": "Songdalsvn.53, 4645 Nodeland",
+    "metadata": {
+      "legekontor": "Songdalen legesenter",
+      "tlf": "38 18 51 20",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Ivana Golubovic Halleland",
+    "address": "Klinkenberg 2, 4838 ARENDAL",
+    "metadata": {
+      "legekontor": "Klinkenberg Legesenter",
+      "tlf": "37 00 98 98",
+      "ledigePlasser": 140,
+      "antallPlasser": 350,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Jakob Halvorsen",
+    "address": "Krags gate 48B, 4950 RISØR",
+    "metadata": {
+      "legekontor": "Risør Legesenter",
+      "tlf": "37 40 03 50",
+      "antallPlasser": 645
+    }
+  },
+  {
+    "title": "Rolf Hamran",
+    "address": "Bark Silas' vei 7, 4876 GRIMSTAD",
+    "metadata": {
+      "legekontor": "Grimstad Legesenter",
+      "tlf": "37 25 81 00",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Jonas Løvbrekke Handeland",
+    "address": "Vesterveien 44, 4839 Arendal",
+    "metadata": {
+      "legekontor": "Maxis legesenter as",
+      "tlf": "37 01 28 00",
+      "ledigePlasser": 16,
+      "antallPlasser": 750,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Cerine Corin Hansen",
+    "address": "Kystveien 690, 4851 Arendal",
+    "metadata": {
+      "legekontor": "Moland legesenter",
+      "tlf": "37 03 46 66",
+      "antallPlasser": 750
+    }
+  },
+  {
+    "title": "Randi Hansen",
+    "address": "Barbrosgate 13B, 4550 Farsund",
+    "metadata": {
+      "legekontor": "Kommunalt legesenter Farsund",
+      "tlf": "38 38 97 00",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Charlotte Haslerud",
+    "address": "Henrik Wergelands gate 4, 4612 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Sentrum Legesenter Kristiansand AS",
+      "tlf": "38 07 90 00",
+      "ledigePlasser": 476,
+      "antallPlasser": 1700,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Sondre Berntsen Haugen",
+    "address": "Kystveien 154, 4842 Arendal",
+    "metadata": {
+      "legekontor": "Havblikklegene",
+      "tlf": "37 09 77 00",
+      "ledigePlasser": 9,
+      "antallPlasser": 1400,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Siri Haugetveit",
+    "address": "Sarvsvegen 31, 4754 BYKLE",
+    "metadata": {
+      "legekontor": "Bykle legekontor",
+      "tlf": "37 93 86 70",
+      "ledigePlasser": 65,
+      "antallPlasser": 600,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Kari Haugland",
+    "address": "Festningsgata 4A, 4608 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Tresse Legesenter",
+      "tlf": "38 60 06 00",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Erlend Andreas Haugstad",
+    "address": "Vestre Strandgate 32, 4612 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Vestre legesenter",
+      "tlf": "38 10 49 49",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Barbro Anette Hauland",
+    "address": "Frolandsveien 6, 4847 ARENDAL",
+    "metadata": {
+      "legekontor": "Bjønneslegene AS",
+      "tlf": "37 00 34 50",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Yilian Hay Delgado",
+    "address": "Halseveien 5, 4517 MANDAL",
+    "metadata": {
+      "legekontor": "Halse Legesenter AS",
+      "tlf": "38 27 38 80",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Cecilie Midttun Heddeland",
+    "address": "Halseveien 5, 4517 MANDAL",
+    "metadata": {
+      "legekontor": "Halse Legesenter AS",
+      "tlf": "38 27 38 80",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Anne Taraldsen Heldal",
+    "address": "Sentrumsveien 41, 4700 VENNESLA",
+    "metadata": {
+      "legekontor": "Vennesla legekontor",
+      "tlf": "38 15 01 50",
+      "ledigePlasser": 10,
+      "antallPlasser": 850,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Arvid Helle",
+    "address": "Ljosheimvegen 5, 4735 EVJE",
+    "metadata": {
+      "legekontor": "Evje og Bygland legesenter",
+      "tlf": "37 40 79 00",
+      "ledigePlasser": 11,
+      "antallPlasser": 900,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Ingeborg Hellerdal",
+    "address": "Furuvegen 1, 4820 FROLAND",
+    "metadata": {
+      "legekontor": "Froland Kommunale Legekontor",
+      "tlf": "37 23 55 84",
+      "antallPlasser": 650
+    }
+  },
+  {
+    "title": "May Tone Hemnes",
+    "address": "Strøget, 4760 Birkeland",
+    "metadata": {
+      "legekontor": "Birkenes kommune legetjeneste",
+      "tlf": "37 27 89 80",
+      "ledigePlasser": 59,
+      "antallPlasser": 650,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Marius Steen Henrichsen",
+    "address": "Dronningens gate 15, 4610",
+    "metadata": {
+      "legekontor": "Sandens Medisinske Senter",
+      "tlf": "38 00 66 90",
+      "ledigePlasser": 63,
+      "antallPlasser": 1350,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Mari Elisabeth Hervold",
+    "address": "Storgata 1C, 4790 LILLESAND",
+    "metadata": {
+      "legekontor": "Lillesand Kommune - Blindleia Legesenter",
+      "tlf": "37 26 91 30",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Veslemøy Cathrine Hippe",
+    "address": "Noroddveien 2, 4816 KOLBJØRNSVIK",
+    "metadata": {
+      "legekontor": "Hisøy Legesenter",
+      "tlf": "37 05 88 80",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Rune Bjoraa Hodne",
+    "address": "Songdalsvn.53, 4645 Nodeland",
+    "metadata": {
+      "legekontor": "Songdalen legesenter",
+      "tlf": "38 18 51 20",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Christine Omestad Hodnemyr",
+    "address": "Sentrumsveien 41, 4700 VENNESLA",
+    "metadata": {
+      "legekontor": "Vennesla legekontor",
+      "tlf": "38 15 01 50",
+      "ledigePlasser": 10,
+      "antallPlasser": 600,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Linda Stray Hoel",
+    "address": "Festningsgata 4A, 4608 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Tresse Legesenter",
+      "tlf": "38 60 06 00",
+      "ledigePlasser": 126,
+      "antallPlasser": 1400,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Rein Holanger",
+    "address": "Rykeneveien 113, 4824 Bjorbekk",
+    "metadata": {
+      "legekontor": "Bjorbekk Legesenter",
+      "tlf": "37 09 52 00",
+      "antallPlasser": 950
+    }
+  },
+  {
+    "title": "Sigurd Vålandsmyr Holen",
+    "address": "Furuvegen 1, 4820 FROLAND",
+    "metadata": {
+      "legekontor": "Froland Kommunale Legekontor",
+      "tlf": "37 23 55 84",
+      "ledigePlasser": 7,
+      "antallPlasser": 700,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Anne Beate Hedtun Holme",
+    "address": "Rådhusveien 7, 4640 Søgne",
+    "metadata": {
+      "legekontor": "Søgne Legesenter",
+      "tlf": "38 05 39 40",
+      "antallPlasser": 1075
+    }
+  },
+  {
+    "title": "Silvia Gomez Holst",
+    "address": "Vardåsveien 69, 4637 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Søm Legesenter",
+      "tlf": "38 12 88 44",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Erlend Holt",
+    "address": "Furuvegen 1, 4820 FROLAND",
+    "metadata": {
+      "legekontor": "Froland Kommunale Legekontor",
+      "tlf": "37 23 55 84",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Håkon Homme",
+    "address": "Ljosheimvegen 5, 4735 EVJE",
+    "metadata": {
+      "legekontor": "Evje og Bygland legesenter",
+      "tlf": "37 40 79 00",
+      "ledigePlasser": 4,
+      "antallPlasser": 600,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Merethe Homme",
+    "address": "Skonnertveien 12, 4624 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Andøya Legesenter",
+      "tlf": "38 00 23 50",
+      "antallPlasser": 820
+    }
+  },
+  {
+    "title": "Grethe Marie Hornnes",
+    "address": "Nordre Heddeland 22, 4534 MARNARDAL",
+    "metadata": {
+      "legekontor": "Marnardal Legesenter",
+      "tlf": "38 28 82 20",
+      "antallPlasser": 950
+    }
+  },
+  {
+    "title": "Åsulv Horverak",
+    "address": "Ljosheimvegen 5, 4735 EVJE",
+    "metadata": {
+      "legekontor": "Evje og Bygland legesenter",
+      "tlf": "37 40 79 00",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Asbjørn Hovda",
+    "address": "Skonnertveien 12, 4624 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Andøya Legesenter",
+      "tlf": "38 00 23 50",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Christine Hovde-Drangsholt",
+    "address": "Skonnertveien 12, 4624 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Andøya Legesenter",
+      "tlf": "38 00 23 50",
+      "antallPlasser": 830
+    }
+  },
+  {
+    "title": "Harald Hovde-Drangsholt",
+    "address": "Skonnertveien 12, 4624 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Andøya Legesenter",
+      "tlf": "38 00 23 50",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Helene Hovden",
+    "address": "Sarvsvegen 31, 4754 BYKLE",
+    "metadata": {
+      "legekontor": "Bykle legekontor",
+      "tlf": "37 93 86 70",
+      "ledigePlasser": 113,
+      "antallPlasser": 600,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Camilla Hunderi",
+    "address": "Rådhusveien 7, 4640 Søgne",
+    "metadata": {
+      "legekontor": "Søgne Legesenter",
+      "tlf": "38 05 39 40",
+      "antallPlasser": 1150
+    }
+  },
+  {
+    "title": "Trygve Hunemo",
+    "address": "Storgata 1C, 4790 LILLESAND",
+    "metadata": {
+      "legekontor": "Lillesand Kommune - Blindleia Legesenter",
+      "tlf": "37 26 91 30",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Eivind Arnt Husøy",
+    "address": "Kvåsheiveien 1, 4525 KONSMO",
+    "metadata": {
+      "legekontor": "Konsmo legesenter",
+      "tlf": "38 28 15 00",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Thanh Thanh Huynh",
+    "address": "Storgaten 33, 4876 Grimstad",
+    "metadata": {
+      "legekontor": "Kulturhuset Legesenter",
+      "tlf": "37 25 28 28",
+      "ledigePlasser": 53,
+      "antallPlasser": 900,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Christian Adam Hygen",
+    "address": "Storgata 2, 4790 LILLESAND",
+    "metadata": {
+      "legekontor": "Lillesand Kommune - Agderklinikken",
+      "tlf": "37 27 22 00",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Christoffer Hæstad",
+    "address": "Kirkeveien 4, 4631 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Lund Legesenter",
+      "tlf": "38 09 50 00",
+      "ledigePlasser": 5,
+      "antallPlasser": 1300,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Sari Hillevi Høgfeldt",
+    "address": "barstølveien 34, 4636 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Sørlandsparken legesenter",
+      "tlf": "38 04 88 88",
+      "ledigePlasser": 34,
+      "antallPlasser": 1400,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Per Inge Høyland",
+    "address": "Alleen 16, 4580 LYNGDAL",
+    "metadata": {
+      "legekontor": "Lyngdal Legesenter",
+      "tlf": "38 34 04 40",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Fredrik Andreassen Håkedal",
+    "address": "Rådhusveien 7, 4640 Søgne",
+    "metadata": {
+      "legekontor": "Søgne Legesenter",
+      "tlf": "38 05 39 40",
+      "ledigePlasser": 9,
+      "antallPlasser": 850,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Silje Håland",
+    "address": "Østre Strandagate 76 A, 4608 Kristiansand S",
+    "metadata": {
+      "legekontor": "Bystranda legesenter",
+      "tlf": "38 70 86 50",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Thor-Erling Haaland",
+    "address": "barstølveien 34, 4636 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Sørlandsparken legesenter",
+      "tlf": "38 04 88 88",
+      "antallPlasser": 1400
+    }
+  },
+  {
+    "title": "Ben Idris",
+    "address": "Rådhusveien 7, 4640 Søgne",
+    "metadata": {
+      "legekontor": "Søgne Legesenter",
+      "tlf": "38 05 39 40",
+      "ledigePlasser": 9,
+      "antallPlasser": 900,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Sunniva Aanesland Iglebæk",
+    "address": "Rådhusveien 7, 4640 Søgne",
+    "metadata": {
+      "legekontor": "Søgne Legesenter",
+      "tlf": "38 05 39 40",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Albertine Mwendele Mbangu Ilondo",
+    "address": "Storgaten 33, 4876 Grimstad",
+    "metadata": {
+      "legekontor": "Kulturhuset Legesenter",
+      "tlf": "37 25 28 28",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Mathias Log Indbjo",
+    "address": "Gata 10, 4865 ÅMLI",
+    "metadata": {
+      "legekontor": "Åmli Legekontor",
+      "tlf": "37 18 51 00",
+      "antallPlasser": 750
+    }
+  },
+  {
+    "title": "Benedicte Ingebrethsen Isefjær",
+    "address": "Sentrumsveien 41, 4700 VENNESLA",
+    "metadata": {
+      "legekontor": "Vennesla legekontor",
+      "tlf": "38 15 01 50",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Steffen Normand Jensen",
+    "address": "Lauvåsen Hovedvei 1, 4656 HAMRESANDEN",
+    "metadata": {
+      "legekontor": "Randesund Legesenter",
+      "tlf": "38 14 83 50",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Preben Bøe Johansen",
+    "address": "Festningsgata 4A, 4608 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Tresse Legesenter",
+      "tlf": "38 60 06 00",
+      "antallPlasser": 1250
+    }
+  },
+  {
+    "title": "Torje Rogne Johanssen",
+    "address": "Universitetsveien 3B, 4630 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Gimle Legesenter AS",
+      "tlf": "38 12 52 50",
+      "ledigePlasser": 5,
+      "antallPlasser": 1200,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Harald Benjamin Johnsen",
+    "address": "Farmonen 9, 4480 Kvinesdal",
+    "metadata": {
+      "legekontor": "Kvinesdal Legesenter",
+      "tlf": "38 35 70 80",
+      "antallPlasser": 1150
+    }
+  },
+  {
+    "title": "Ivan Jovovic",
+    "address": "Josdalsveien 4, 4440 TONSTAD",
+    "metadata": {
+      "legekontor": "Tonstad legekontor",
+      "tlf": "38 37 91 30",
+      "antallPlasser": 350
+    }
+  },
+  {
+    "title": "Vegard Woll Jørandli",
+    "address": "Vestre Strandgate 32, 4612 Kristiansand",
+    "metadata": {
+      "legekontor": "Kvadraturen legesenter",
+      "tlf": "38 12 88 80",
+      "ledigePlasser": 82,
+      "antallPlasser": 1000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Marita Cecilie Jørgensen",
+    "address": "Elgveien 5, 4818 FÆRVIK",
+    "metadata": {
+      "legekontor": "Tromøy legesenter",
+      "tlf": "37 05 83 50",
+      "ledigePlasser": 265,
+      "antallPlasser": 750,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Thomas Hartmann Jørgensen",
+    "address": "Sentrumsveien 41, 4700 VENNESLA",
+    "metadata": {
+      "legekontor": "Vennesla legekontor",
+      "tlf": "38 15 01 50",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Christine Kaldheim",
+    "address": "Setesdalsveien 277, 4618 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Torridal Legekontor",
+      "tlf": "38 00 40 40",
+      "ledigePlasser": 247,
+      "antallPlasser": 850,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Stein Karlsen",
+    "address": "Barbrosgate 13B, 4550 Farsund",
+    "metadata": {
+      "legekontor": "Kommunalt legesenter Farsund",
+      "tlf": "38 38 97 00",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Kristine Kvivik Kavli",
+    "address": "Stadionveien 21, 4632 Kristiansand S",
+    "metadata": {
+      "legekontor": "Sør Arena Legesenter DA",
+      "tlf": "38 12 30 20",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Kari Kiland",
+    "address": "Arendalsveien 32, 4878 GRIMSTAD",
+    "metadata": {
+      "legekontor": "Brannstasjonen Legesenter",
+      "tlf": "37 25 60 00",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Jon Even Kile",
+    "address": "Setesdalsveien 277, 4618 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Torridal Legekontor",
+      "tlf": "38 00 40 40",
+      "antallPlasser": 1050
+    }
+  },
+  {
+    "title": "Nina Kile",
+    "address": "Henrik Wergelands gate 4, 4612 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Sentrum Legesenter Kristiansand AS",
+      "tlf": "38 07 90 00",
+      "antallPlasser": 1700
+    }
+  },
+  {
+    "title": "Anders Kind",
+    "address": "Østre Strandagate 76 A, 4608 Kristiansand S",
+    "metadata": {
+      "legekontor": "Bystranda legesenter",
+      "tlf": "38 70 86 50",
+      "antallPlasser": 1020
+    }
+  },
+  {
+    "title": "Edgaras Kirvelaitis",
+    "address": "Halseveien 5, 4517 MANDAL",
+    "metadata": {
+      "legekontor": "Halse Legesenter AS",
+      "tlf": "38 27 38 80",
+      "antallPlasser": 575
+    }
+  },
+  {
+    "title": "Lars Kristian Kjellevold",
+    "address": "Havnegaten 1, 4836 ARENDAL",
+    "metadata": {
+      "legekontor": "Legegruppen Arendal",
+      "tlf": "37 00 34 00",
+      "ledigePlasser": 23,
+      "antallPlasser": 1200,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Lars Kjørholt",
+    "address": "Krags gate 48B, 4950 RISØR",
+    "metadata": {
+      "legekontor": "Risør Legesenter",
+      "tlf": "37 40 03 50",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Ole Petter Ramse Knudsen",
+    "address": "Universitetsveien 3B, 4630 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Gimle Legesenter AS",
+      "tlf": "38 12 52 50",
+      "antallPlasser": 1050
+    }
+  },
+  {
+    "title": "Amalie Kollstrand",
+    "address": "Brokelandsheia 52, 4993 SUNDEBRU",
+    "metadata": {
+      "legekontor": "Gjerstad Legekontor",
+      "tlf": "37 11 91 90",
+      "ledigePlasser": 9,
+      "antallPlasser": 700,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Atle Kristensen",
+    "address": "Songdalsvn.53, 4645 Nodeland",
+    "metadata": {
+      "legekontor": "Songdalen legesenter",
+      "tlf": "38 18 51 20",
+      "antallPlasser": 1050
+    }
+  },
+  {
+    "title": "Hanne Kristensen",
+    "address": "Rådhusveien 7, 4640 Søgne",
+    "metadata": {
+      "legekontor": "Søgne Legesenter",
+      "tlf": "38 05 39 40",
+      "ledigePlasser": 9,
+      "antallPlasser": 850,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Peter Kutschera",
+    "address": "Gardsvegen 68, 4540 ÅSERAL",
+    "metadata": {
+      "legekontor": "Åseral Legekontor",
+      "tlf": "38 28 59 00",
+      "ledigePlasser": 143,
+      "antallPlasser": 550,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Lars Christian Kvalbein-Olsen",
+    "address": "Frolandsveien 6, 4847 ARENDAL",
+    "metadata": {
+      "legekontor": "Bjønneslegene AS",
+      "tlf": "37 00 34 50",
+      "antallPlasser": 650
+    }
+  },
+  {
+    "title": "Ebba Margareta Kåss",
+    "address": "Kirkeveien 4, 4631 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Lund Legesenter",
+      "tlf": "38 09 50 00",
+      "ledigePlasser": 392,
+      "antallPlasser": 1250,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Rasmus Overgaard Ladefoged",
+    "address": "Stadionveien 21, 4632 Kristiansand S",
+    "metadata": {
+      "legekontor": "Sør Arena Legesenter DA",
+      "tlf": "38 12 30 20",
+      "antallPlasser": 1430
+    }
+  },
+  {
+    "title": "Sjoerd Tjelland Laméris",
+    "address": "Festningsgata 4A, 4608 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Tresse Legesenter",
+      "tlf": "38 60 06 00",
+      "ledigePlasser": 112,
+      "antallPlasser": 1150,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Liv Margareth Klingenberg Larsen",
+    "address": "Kystveien 154, 4842 Arendal",
+    "metadata": {
+      "legekontor": "Havblikklegene",
+      "tlf": "37 09 77 00",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Svein Lorents Larsen",
+    "address": "Vesterveien 778, 4823 NEDENES",
+    "metadata": {
+      "legekontor": "Nedeneslegene AS",
+      "tlf": "61 40 18 10",
+      "ledigePlasser": 794,
+      "antallPlasser": 1000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Thomas Iber Larsen",
+    "address": "Havnegaten 1, 4836 ARENDAL",
+    "metadata": {
+      "legekontor": "Legegruppen Arendal",
+      "tlf": "37 00 34 00",
+      "ledigePlasser": 904,
+      "antallPlasser": 1000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Gunn-Renate Larseng",
+    "address": "Frolandsveien 6, 4847 ARENDAL",
+    "metadata": {
+      "legekontor": "Bjønneslegene AS",
+      "tlf": "37 00 34 50",
+      "ledigePlasser": 55,
+      "antallPlasser": 800,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Olav Lauvdal",
+    "address": "Vesterveien 778, 4823 NEDENES",
+    "metadata": {
+      "legekontor": "Nedeneslegene AS",
+      "tlf": "61 40 18 10",
+      "ledigePlasser": 12,
+      "antallPlasser": 1100,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Guro Leland",
+    "address": "Strøget, 4760 Birkeland",
+    "metadata": {
+      "legekontor": "Birkenes kommune legetjeneste",
+      "tlf": "37 27 89 80",
+      "antallPlasser": 750
+    }
+  },
+  {
+    "title": "Katharina Liavaag",
+    "address": "Furuvegen 1, 4820 FROLAND",
+    "metadata": {
+      "legekontor": "Froland Kommunale Legekontor",
+      "tlf": "37 23 55 84",
+      "ledigePlasser": 1,
+      "antallPlasser": 825,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Gro Dale Lie",
+    "address": "Strøget, 4760 Birkeland",
+    "metadata": {
+      "legekontor": "Birkenes kommune legetjeneste",
+      "tlf": "37 27 89 80",
+      "antallPlasser": 675
+    }
+  },
+  {
+    "title": "Vibecke Lunden Lie",
+    "address": "Lauvåsen Hovedvei 1, 4656 HAMRESANDEN",
+    "metadata": {
+      "legekontor": "Randesund Legesenter",
+      "tlf": "38 14 83 50",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Erik Christian Lindbach",
+    "address": "Vestre Strandgate 32, 4612 Kristiansand",
+    "metadata": {
+      "legekontor": "Kvadraturen legesenter",
+      "tlf": "38 12 88 80",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Julie Varnum De Linde",
+    "address": "Bark Silas' vei 7, 4876 GRIMSTAD",
+    "metadata": {
+      "legekontor": "Grimstad Legesenter",
+      "tlf": "37 25 81 00",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Stian Lindland",
+    "address": "Nordre Heddeland 22, 4534 MARNARDAL",
+    "metadata": {
+      "legekontor": "Marnardal Legesenter",
+      "tlf": "38 28 82 20",
+      "antallPlasser": 820
+    }
+  },
+  {
+    "title": "Trond Helge Lislevand",
+    "address": "Furuvegen 1, 4820 FROLAND",
+    "metadata": {
+      "legekontor": "Froland Kommunale Legekontor",
+      "tlf": "37 23 55 84",
+      "antallPlasser": 530
+    }
+  },
+  {
+    "title": "Frode Lohne",
+    "address": "Rådhusveien 7, 4640 Søgne",
+    "metadata": {
+      "legekontor": "Søgne Legesenter",
+      "tlf": "38 05 39 40",
+      "ledigePlasser": 5,
+      "antallPlasser": 820,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Elisabeth Solveig Vaugelade Berg Lohre",
+    "address": "Arendalsveien 32, 4878 GRIMSTAD",
+    "metadata": {
+      "legekontor": "Brannstasjonen Legesenter",
+      "tlf": "37 25 60 00",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Morten Lossius",
+    "address": "Setesdalsveien 277, 4618 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Torridal Legekontor",
+      "tlf": "38 00 40 40",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Ellen Lynghei",
+    "address": "Sentrumsveien 41, 4700 VENNESLA",
+    "metadata": {
+      "legekontor": "Vennesla legekontor",
+      "tlf": "38 15 01 50",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Martin Michelsen Lysaker",
+    "address": "Frolandsveien 6, 4847 ARENDAL",
+    "metadata": {
+      "legekontor": "Bjønneslegene AS",
+      "tlf": "37 00 34 50",
+      "ledigePlasser": 283,
+      "antallPlasser": 800,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Rune Aasbø Lystad",
+    "address": "Krags gate 48B, 4950 RISØR",
+    "metadata": {
+      "legekontor": "Risør Legesenter",
+      "tlf": "37 40 03 50",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Nora Gardsjord Lystrup",
+    "address": "Arendalsveien 32, 4878 GRIMSTAD",
+    "metadata": {
+      "legekontor": "Brannstasjonen Legesenter",
+      "tlf": "37 25 60 00",
+      "antallPlasser": 600
+    }
+  },
+  {
+    "title": "Christer Löfkrantz",
+    "address": "Vestre Strandgate 32, 4612 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Vestre legesenter",
+      "tlf": "38 10 49 49",
+      "ledigePlasser": 45,
+      "antallPlasser": 1000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Tormod Øye Lønnerød",
+    "address": "barstølveien 34, 4636 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Sørlandsparken legesenter",
+      "tlf": "38 04 88 88",
+      "ledigePlasser": 61,
+      "antallPlasser": 1400,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Anette Storaker Løvsland",
+    "address": "Universitetsveien 3B, 4630 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Gimle Legesenter AS",
+      "tlf": "38 12 52 50",
+      "antallPlasser": 820
+    }
+  },
+  {
+    "title": "Nikola Mahriková",
+    "address": "Egsveien 102, 4615 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Bølgane Legekontor",
+      "tlf": "38 05 29 70",
+      "ledigePlasser": 762,
+      "antallPlasser": 850,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Johannes Maubach",
+    "address": "Barbros gate 7A, 4550 FARSUND",
+    "metadata": {
+      "legekontor": "Farsund legesenter",
+      "tlf": "38 38 30 11",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Anette Mellem",
+    "address": "Rådhusveien 7, 4640 Søgne",
+    "metadata": {
+      "legekontor": "Søgne Legesenter",
+      "tlf": "38 05 39 40",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Kristian Melvik-Styles",
+    "address": "Kirsten Flagstads vei 1, 4621 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Ditt Legesenter",
+      "tlf": "38 00 05 50",
+      "ledigePlasser": 961,
+      "antallPlasser": 1100,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Jan Niklas Mentzen",
+    "address": "Klinkenberg 2, 4838 ARENDAL",
+    "metadata": {
+      "legekontor": "Klinkenberg Legesenter",
+      "tlf": "37 00 98 98",
+      "ledigePlasser": 337,
+      "antallPlasser": 350,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Inger Moi",
+    "address": "Rådhusveien 7, 4640 Søgne",
+    "metadata": {
+      "legekontor": "Søgne Legesenter",
+      "tlf": "38 05 39 40",
+      "ledigePlasser": 106,
+      "antallPlasser": 850,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Siri Moland",
+    "address": "Hovlandsveien 9, 4985 Vegårshei, 4985 VEGÅRSHEI",
+    "metadata": {
+      "legekontor": "Vegårshei Kommune Legekontoret",
+      "tlf": "37 17 02 45",
+      "ledigePlasser": 73,
+      "antallPlasser": 800,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Gunnar Mollestad",
+    "address": "Sentrumsveien 41, 4700 VENNESLA",
+    "metadata": {
+      "legekontor": "Vennesla legekontor",
+      "tlf": "38 15 01 50",
+      "ledigePlasser": 2,
+      "antallPlasser": 850,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Cecilie Mortensen",
+    "address": "Kystveien 244, 4841 ARENDAL",
+    "metadata": {
+      "legekontor": "Kystveien Legesenter AS",
+      "tlf": "37 03 05 22",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Hallvard Mosdøl",
+    "address": "Sarvsvegen 31, 4754 BYKLE",
+    "metadata": {
+      "legekontor": "Bykle legekontor",
+      "tlf": "37 93 86 70",
+      "antallPlasser": 570
+    }
+  },
+  {
+    "title": "Petter Rustila Moseid",
+    "address": "Barbros gate 7A, 4550 FARSUND",
+    "metadata": {
+      "legekontor": "Farsund legesenter",
+      "tlf": "38 38 30 11",
+      "antallPlasser": 630
+    }
+  },
+  {
+    "title": "Birgit Wigeland Moy",
+    "address": "Kystveien 244, 4841 ARENDAL",
+    "metadata": {
+      "legekontor": "Kystveien Legesenter AS",
+      "tlf": "37 03 05 22",
+      "antallPlasser": 1160
+    }
+  },
+  {
+    "title": "Jonas Lüthje Munthe",
+    "address": "Dronningensgate 4, 4610",
+    "metadata": {
+      "legekontor": "Dronningensgate Legesenter",
+      "tlf": "38 07 91 40",
+      "ledigePlasser": 6,
+      "antallPlasser": 1300,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Siri Mygland",
+    "address": "Farmonen 9, 4480 Kvinesdal",
+    "metadata": {
+      "legekontor": "Kvinesdal Legesenter",
+      "tlf": "38 35 70 80",
+      "antallPlasser": 950
+    }
+  },
+  {
+    "title": "Axel Mühlan",
+    "address": "Brogata 9, 4400 Flekkefjord",
+    "metadata": {
+      "legekontor": "Lundsen Legesenter",
+      "tlf": "38 32 05 20",
+      "ledigePlasser": 51,
+      "antallPlasser": 1000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Mikael Møller",
+    "address": "Sentrumsveien 41, 4700 VENNESLA",
+    "metadata": {
+      "legekontor": "Vennesla legekontor",
+      "tlf": "38 15 01 50",
+      "ledigePlasser": 23,
+      "antallPlasser": 850,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Ole Einar Møster",
+    "address": "Havnegaten 1, 4836 ARENDAL",
+    "metadata": {
+      "legekontor": "Legegruppen Arendal",
+      "tlf": "37 00 34 00",
+      "ledigePlasser": 24,
+      "antallPlasser": 1200,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Adeel Nawaz",
+    "address": "Josdalsveien 4, 4440 TONSTAD",
+    "metadata": {
+      "legekontor": "Tonstad legekontor",
+      "tlf": "38 37 91 30",
+      "ledigePlasser": 6,
+      "antallPlasser": 350,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Maryna Nedenes",
+    "address": "Storgaten 33, 4876 Grimstad",
+    "metadata": {
+      "legekontor": "Kulturhuset Legesenter",
+      "tlf": "37 25 28 28",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Anne Birgit Netland",
+    "address": "Strøget, 4760 Birkeland",
+    "metadata": {
+      "legekontor": "Birkenes kommune legetjeneste",
+      "tlf": "37 27 89 80",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Tsam Nguyen",
+    "address": "Dronningens gate 15, 4610",
+    "metadata": {
+      "legekontor": "Sandens Medisinske Senter",
+      "tlf": "38 00 66 90",
+      "ledigePlasser": 85,
+      "antallPlasser": 1000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Dorthe Normann Nielsen",
+    "address": "Josdalsveien 4, 4440 TONSTAD",
+    "metadata": {
+      "legekontor": "Tonstad legekontor",
+      "tlf": "38 37 91 30",
+      "antallPlasser": 350
+    }
+  },
+  {
+    "title": "Tuija Helena Niiranen",
+    "address": "Krags gate 48B, 4950 RISØR",
+    "metadata": {
+      "legekontor": "Risør Legesenter",
+      "tlf": "37 40 03 50",
+      "antallPlasser": 992
+    }
+  },
+  {
+    "title": "Henriette Marie Nordahl",
+    "address": "Dronningens gate 15, 4610",
+    "metadata": {
+      "legekontor": "Sandens Medisinske Senter",
+      "tlf": "38 00 66 90",
+      "ledigePlasser": 73,
+      "antallPlasser": 1000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Dag Johannes Nordhaug",
+    "address": "Noroddveien 2, 4816 KOLBJØRNSVIK",
+    "metadata": {
+      "legekontor": "Hisøy Legesenter",
+      "tlf": "37 05 88 80",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Ivar Nordmand-Solfjell",
+    "address": "Furuvegen 1, 4820 FROLAND",
+    "metadata": {
+      "legekontor": "Froland Kommunale Legekontor",
+      "tlf": "37 23 55 84",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Stian Paasche Nordstrand",
+    "address": "Vesterveien 44, 4839 Arendal",
+    "metadata": {
+      "legekontor": "Maxis legesenter as",
+      "tlf": "37 01 28 00",
+      "ledigePlasser": 113,
+      "antallPlasser": 750,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Tom Nordstrøm",
+    "address": "Ola Garsonsvei 6, 4596 Eiken",
+    "metadata": {
+      "legekontor": "Eiken Legekontor",
+      "tlf": "38 34 91 90",
+      "antallPlasser": 750
+    }
+  },
+  {
+    "title": "Hanna Nuland",
+    "address": "Elvegaten 14, 4400 Flekkefjord",
+    "metadata": {
+      "legekontor": "Flekkefjord legesenter",
+      "tlf": "38 32 82 50",
+      "antallPlasser": 750
+    }
+  },
+  {
+    "title": "Lars Petter Nygaard",
+    "address": "Skonnertveien 12, 4624 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Andøya Legesenter",
+      "tlf": "38 00 23 50",
+      "ledigePlasser": 3,
+      "antallPlasser": 1000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Jørgen Quamme Nymark",
+    "address": "Klinkenberg 2, 4838 ARENDAL",
+    "metadata": {
+      "legekontor": "Klinkenberg Legesenter",
+      "tlf": "37 00 98 98",
+      "ledigePlasser": 181,
+      "antallPlasser": 350,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Alexander Nystedt",
+    "address": "Kystveien 154, 4842 Arendal",
+    "metadata": {
+      "legekontor": "Havblikklegene",
+      "tlf": "37 09 77 00",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Runar Nørsett",
+    "address": "Lauvåsen Hovedvei 1, 4656 HAMRESANDEN",
+    "metadata": {
+      "legekontor": "Randesund Legesenter",
+      "tlf": "38 14 83 50",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Trine Staak Olesen",
+    "address": "Brogata 9, 4400 Flekkefjord",
+    "metadata": {
+      "legekontor": "Lundsen Legesenter",
+      "tlf": "38 32 05 20",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Bodil Karin Aasvang Olsen",
+    "address": "Hovedgt. 42, 4900 TVEDESTRAND",
+    "metadata": {
+      "legekontor": "Tvedestrand Legesenter ANS",
+      "tlf": "37 19 66 00",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Marianne Omland",
+    "address": "Elvegaten 14, 4400 Flekkefjord",
+    "metadata": {
+      "legekontor": "Flekkefjord legesenter",
+      "tlf": "38 32 82 50",
+      "antallPlasser": 600
+    }
+  },
+  {
+    "title": "Håvard Orlien",
+    "address": "Vesterveien 44, 4839 Arendal",
+    "metadata": {
+      "legekontor": "Maxis legesenter as",
+      "tlf": "37 01 28 00",
+      "antallPlasser": 950
+    }
+  },
+  {
+    "title": "Kristian Øie Pedersen",
+    "address": "Rykeneveien 113, 4824 Bjorbekk",
+    "metadata": {
+      "legekontor": "Bjorbekk Legesenter",
+      "tlf": "37 09 52 00",
+      "antallPlasser": 950
+    }
+  },
+  {
+    "title": "Vivian Katrine Persen",
+    "address": "Søsterdalen 16, 4900 TVEDESTRAND",
+    "metadata": {
+      "legekontor": "Tvedestrand kommune allmenn legetjeneste",
+      "tlf": "37 19 67 77",
+      "antallPlasser": 717
+    }
+  },
+  {
+    "title": "Grethe Tveit Pettersen",
+    "address": "Gardsvegen 68, 4540 ÅSERAL",
+    "metadata": {
+      "legekontor": "Åseral Legekontor",
+      "tlf": "38 28 59 00",
+      "antallPlasser": 600
+    }
+  },
+  {
+    "title": "Henriette Budsberg Pettersen",
+    "address": "Ola Garsonsvei 6, 4596 Eiken",
+    "metadata": {
+      "legekontor": "Eiken Legekontor",
+      "tlf": "38 34 91 90",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Amalie Birkeland Praljak",
+    "address": "Frolandsveien 6, 4847 ARENDAL",
+    "metadata": {
+      "legekontor": "Bjønneslegene AS",
+      "tlf": "37 00 34 50",
+      "antallPlasser": 600
+    }
+  },
+  {
+    "title": "Steinar Prytz-Jensen",
+    "address": "Henrik Wergelands gate 4, 4612 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Sentrum Legesenter Kristiansand AS",
+      "tlf": "38 07 90 00",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Ehsan Rajabian",
+    "address": "Alleen 16, 4580 LYNGDAL",
+    "metadata": {
+      "legekontor": "Lyngdal Legesenter",
+      "tlf": "38 34 04 40",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Daniel Elias Ramstad",
+    "address": "Alleen 16, 4580 LYNGDAL",
+    "metadata": {
+      "legekontor": "Lyngdal Legesenter",
+      "tlf": "38 34 04 40",
+      "antallPlasser": 950
+    }
+  },
+  {
+    "title": "Jan Marcus Gulowsen Ramstad",
+    "address": "Alleen 16, 4580 LYNGDAL",
+    "metadata": {
+      "legekontor": "Lyngdal Legesenter",
+      "tlf": "38 34 04 40",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Bjørn Kenneth Rasmussen",
+    "address": "Brogata 9, 4400 Flekkefjord",
+    "metadata": {
+      "legekontor": "Lundsen Legesenter",
+      "tlf": "38 32 05 20",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Marianne Larssen Rea",
+    "address": "Bark Silas' vei 7, 4876 GRIMSTAD",
+    "metadata": {
+      "legekontor": "Grimstad Legesenter",
+      "tlf": "37 25 81 00",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Thomas Reiersen",
+    "address": "Hollendergt 3, 4514 Mandal",
+    "metadata": {
+      "legekontor": "Sjøsanden legesenter DA",
+      "tlf": "38 27 22 50",
+      "antallPlasser": 640
+    }
+  },
+  {
+    "title": "Sondre Sverd Rekdal",
+    "address": "Andøyveien 23, 4623 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Vågsbygd Torv Legesenter AS",
+      "tlf": "73 60 94 50",
+      "ledigePlasser": 439,
+      "antallPlasser": 1000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Finn Håkon Reknes",
+    "address": "Krags gate 48B, 4950 RISØR",
+    "metadata": {
+      "legekontor": "Risør Legesenter",
+      "tlf": "37 40 03 50",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Kristin Knutsen Renno",
+    "address": "Hollendergt 3, 4514 Mandal",
+    "metadata": {
+      "legekontor": "Sjøsanden legesenter DA",
+      "tlf": "38 27 22 50",
+      "antallPlasser": 1150
+    }
+  },
+  {
+    "title": "Ingrid Aamdal Retvedt",
+    "address": "Strøget, 4760 Birkeland",
+    "metadata": {
+      "legekontor": "Birkenes kommune legetjeneste",
+      "tlf": "37 27 89 80",
+      "ledigePlasser": 51,
+      "antallPlasser": 600,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Luiz Gustavo Revollo Saucedo",
+    "address": "Lumberveien 49, 4621 Kristiansand S",
+    "metadata": {
+      "legekontor": "Trekanten legesenter",
+      "tlf": "38 01 85 10",
+      "ledigePlasser": 15,
+      "antallPlasser": 1250,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Leif Erik Riddervold",
+    "address": "Songdalsvn.53, 4645 Nodeland",
+    "metadata": {
+      "legekontor": "Songdalen legesenter",
+      "tlf": "38 18 51 20",
+      "antallPlasser": 1050
+    }
+  },
+  {
+    "title": "Georg Rigadis",
+    "address": "Grøm Næringspark 19, 4887 GRIMSTAD",
+    "metadata": {
+      "legekontor": "Grøm legesenter",
+      "tlf": "37 09 08 00",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Dag Sigmund Ringen",
+    "address": "Rådhusveien 7, 4640 Søgne",
+    "metadata": {
+      "legekontor": "Søgne Legesenter",
+      "tlf": "38 05 39 40",
+      "ledigePlasser": 23,
+      "antallPlasser": 900,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Tone Risholt",
+    "address": "Vesterveien 778, 4823 NEDENES",
+    "metadata": {
+      "legekontor": "Nedeneslegene AS",
+      "tlf": "61 40 18 10",
+      "ledigePlasser": 60,
+      "antallPlasser": 1200,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Didrik Roberts",
+    "address": "Skarvøyveien 55, 4517 MANDAL",
+    "metadata": {
+      "legekontor": "Øvrebyen Legesenter",
+      "tlf": "38 60 65 00",
+      "antallPlasser": 725
+    }
+  },
+  {
+    "title": "Stein Vidar Romsvik",
+    "address": "Alleen 16, 4580 LYNGDAL",
+    "metadata": {
+      "legekontor": "Lyngdal Legesenter",
+      "tlf": "38 34 04 40",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Munmun Saha Roy",
+    "address": "Klinkenberg 2, 4838 ARENDAL",
+    "metadata": {
+      "legekontor": "Klinkenberg Legesenter",
+      "tlf": "37 00 98 98",
+      "ledigePlasser": 345,
+      "antallPlasser": 350,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Kristin Synøve Ruenes",
+    "address": "Sentrumsveien 41, 4700 VENNESLA",
+    "metadata": {
+      "legekontor": "Vennesla legekontor",
+      "tlf": "38 15 01 50",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Ole Ruenes",
+    "address": "Henrik Wergelands gate 4, 4612 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Sentrum Legesenter Kristiansand AS",
+      "tlf": "38 07 90 00",
+      "ledigePlasser": 378,
+      "antallPlasser": 1300,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Martin Andreas Runde",
+    "address": "Noroddveien 2, 4816 KOLBJØRNSVIK",
+    "metadata": {
+      "legekontor": "Hisøy Legesenter",
+      "tlf": "37 05 88 80",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Tom Mannermaa Rynning",
+    "address": "Sentrumsveien 41, 4700 VENNESLA",
+    "metadata": {
+      "legekontor": "Vennesla legekontor",
+      "tlf": "38 15 01 50",
+      "ledigePlasser": 39,
+      "antallPlasser": 850,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Ulrikke Røed-Fauske",
+    "address": "Østre Strandagate 76 A, 4608 Kristiansand S",
+    "metadata": {
+      "legekontor": "Bystranda legesenter",
+      "tlf": "38 70 86 50",
+      "antallPlasser": 970
+    }
+  },
+  {
+    "title": "Siri Vidnes Røiseland",
+    "address": "Rådhusveien 12, 4523 LINDESNES",
+    "metadata": {
+      "legekontor": "Vigeland Legesenter",
+      "tlf": "38 25 54 50",
+      "ledigePlasser": 11,
+      "antallPlasser": 850,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Jens Petter Rønning",
+    "address": "Festningsgata 4A, 4608 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Tresse Legesenter",
+      "tlf": "38 60 06 00",
+      "ledigePlasser": 15,
+      "antallPlasser": 1100,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Jan Arild Rørvik",
+    "address": "Rykeneveien 113, 4824 Bjorbekk",
+    "metadata": {
+      "legekontor": "Bjorbekk Legesenter",
+      "tlf": "37 09 52 00",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Tor Jakob Rørvik",
+    "address": "Kvåsheiveien 1, 4525 KONSMO",
+    "metadata": {
+      "legekontor": "Konsmo legesenter",
+      "tlf": "38 28 15 00",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Pedro Amhed Rodriguez Sait",
+    "address": "Vestre Strandgate 32, 4612 Kristiansand",
+    "metadata": {
+      "legekontor": "Kvadraturen legesenter",
+      "tlf": "38 12 88 80",
+      "antallPlasser": 500
+    }
+  },
+  {
+    "title": "Bernt Magdy Salib",
+    "address": "Østre Strandagate 76 A, 4608 Kristiansand S",
+    "metadata": {
+      "legekontor": "Bystranda legesenter",
+      "tlf": "38 70 86 50",
+      "antallPlasser": 950
+    }
+  },
+  {
+    "title": "Rigmor Elisabeth Salvesen",
+    "address": "Alleen 16, 4580 LYNGDAL",
+    "metadata": {
+      "legekontor": "Lyngdal Legesenter",
+      "tlf": "38 34 04 40",
+      "antallPlasser": 600
+    }
+  },
+  {
+    "title": "Notto Aleksander Sandnes",
+    "address": "barstølveien 34, 4636 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Sørlandsparken legesenter",
+      "tlf": "38 04 88 88",
+      "antallPlasser": 1150
+    }
+  },
+  {
+    "title": "Susanna Sebastianpillai",
+    "address": "Andøyveien 23, 4623 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Vågsbygd Torv Legesenter AS",
+      "tlf": "73 60 94 50",
+      "ledigePlasser": 521,
+      "antallPlasser": 840,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Linda Senumstad",
+    "address": "Stadionveien 21, 4632 Kristiansand S",
+    "metadata": {
+      "legekontor": "Sør Arena Legesenter DA",
+      "tlf": "38 12 30 20",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Benedicte Severinsen",
+    "address": "Sarvsvegen 31, 4754 BYKLE",
+    "metadata": {
+      "legekontor": "Bykle legekontor",
+      "tlf": "37 93 86 70",
+      "ledigePlasser": 80,
+      "antallPlasser": 250,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Marianne Sjustøl",
+    "address": "Lauvåsen Hovedvei 1, 4656 HAMRESANDEN",
+    "metadata": {
+      "legekontor": "Randesund Legesenter",
+      "tlf": "38 14 83 50",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Ronny Skille",
+    "address": "Grøm Næringspark 19, 4887 GRIMSTAD",
+    "metadata": {
+      "legekontor": "Grøm legesenter",
+      "tlf": "37 09 08 00",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Holgeir Skjeie",
+    "address": "Østre Strandagate 76 A, 4608 Kristiansand S",
+    "metadata": {
+      "legekontor": "Bystranda legesenter",
+      "tlf": "38 70 86 50",
+      "ledigePlasser": 67,
+      "antallPlasser": 1245,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Helge Skorpen",
+    "address": "Vardåsveien 69, 4637 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Søm Legesenter",
+      "tlf": "38 12 88 44",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Maren Skorpen",
+    "address": "Festningsgata 4A, 4608 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Tresse Legesenter",
+      "tlf": "38 60 06 00",
+      "ledigePlasser": 200,
+      "antallPlasser": 840,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Bente Skram",
+    "address": "Bark Silas' vei 7, 4876 GRIMSTAD",
+    "metadata": {
+      "legekontor": "Grimstad Legesenter",
+      "tlf": "37 25 81 00",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Hannah Brøyn Skuggevik",
+    "address": "Grøm Næringspark 19, 4887 GRIMSTAD",
+    "metadata": {
+      "legekontor": "Grøm legesenter",
+      "tlf": "37 09 08 00",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Jostein Skuthe",
+    "address": "Stadionveien 21, 4632 Kristiansand S",
+    "metadata": {
+      "legekontor": "Sør Arena Legesenter DA",
+      "tlf": "38 12 30 20",
+      "ledigePlasser": 5,
+      "antallPlasser": 1250,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Anne Margrethe Nødtvedt Sletten",
+    "address": "Krags gate 48B, 4950 RISØR",
+    "metadata": {
+      "legekontor": "Risør Legesenter",
+      "tlf": "37 40 03 50",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Georg Arild Smedsaas",
+    "address": "Hovedgt. 42, 4900 TVEDESTRAND",
+    "metadata": {
+      "legekontor": "Tvedestrand Legesenter ANS",
+      "tlf": "37 19 66 00",
+      "antallPlasser": 1400
+    }
+  },
+  {
+    "title": "Kirsten Sola",
+    "address": "Universitetsveien 3B, 4630 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Gimle Legesenter AS",
+      "tlf": "38 12 52 50",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Carl Aslak Solberg",
+    "address": "Elgveien 5, 4818 FÆRVIK",
+    "metadata": {
+      "legekontor": "Tromøy legesenter",
+      "tlf": "37 05 83 50",
+      "ledigePlasser": 59,
+      "antallPlasser": 1000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Nicolai Solborg",
+    "address": "Kirsten Flagstads vei 1, 4621 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Ditt Legesenter",
+      "tlf": "38 00 05 50",
+      "ledigePlasser": 52,
+      "antallPlasser": 1300,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Sindre Ask Soldal",
+    "address": "Sentrumsveien 41, 4700 VENNESLA",
+    "metadata": {
+      "legekontor": "Vennesla legekontor",
+      "tlf": "38 15 01 50",
+      "antallPlasser": 950
+    }
+  },
+  {
+    "title": "Karin Solli",
+    "address": "Ljosheimvegen 5, 4735 EVJE",
+    "metadata": {
+      "legekontor": "Evje og Bygland legesenter",
+      "tlf": "37 40 79 00",
+      "ledigePlasser": 70,
+      "antallPlasser": 800,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Knut Spikkeland",
+    "address": "Elvegaten 14, 4400 Flekkefjord",
+    "metadata": {
+      "legekontor": "Flekkefjord legesenter",
+      "tlf": "38 32 82 50",
+      "antallPlasser": 1500
+    }
+  },
+  {
+    "title": "Geir Lindquist Sporaland",
+    "address": "Havnegaten 1, 4836 ARENDAL",
+    "metadata": {
+      "legekontor": "Legegruppen Arendal",
+      "tlf": "37 00 34 00",
+      "ledigePlasser": 27,
+      "antallPlasser": 1289,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Christina Stausland",
+    "address": "Hollendergt 3, 4514 Mandal",
+    "metadata": {
+      "legekontor": "Sjøsanden legesenter DA",
+      "tlf": "38 27 22 50",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Erling Steinsvåg",
+    "address": "Hollendergt 3, 4514 Mandal",
+    "metadata": {
+      "legekontor": "Sjøsanden legesenter DA",
+      "tlf": "38 27 22 50",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Elisabeth Bruflodt Stenhagen",
+    "address": "Frolandsveien 6, 4847 ARENDAL",
+    "metadata": {
+      "legekontor": "Bjønneslegene AS",
+      "tlf": "37 00 34 50",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Miriam Stensrød",
+    "address": "Lumberveien 49, 4621 Kristiansand S",
+    "metadata": {
+      "legekontor": "Trekanten legesenter",
+      "tlf": "38 01 85 10",
+      "ledigePlasser": 56,
+      "antallPlasser": 1200,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Gunnhild Stephansen",
+    "address": "Vardåsveien 69, 4637 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Søm Legesenter",
+      "tlf": "38 12 88 44",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Dirk Stoppenbrink",
+    "address": "Halseveien 5, 4517 MANDAL",
+    "metadata": {
+      "legekontor": "Halse Legesenter AS",
+      "tlf": "38 27 38 80",
+      "ledigePlasser": 72,
+      "antallPlasser": 900,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Ida Berg Storaker",
+    "address": "Universitetsveien 3B, 4630 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Gimle Legesenter AS",
+      "tlf": "38 12 52 50",
+      "antallPlasser": 830
+    }
+  },
+  {
+    "title": "Lars Sunde Strand",
+    "address": "Vardåsveien 69, 4637 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Søm Legesenter",
+      "tlf": "38 12 88 44",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Ole Edvard Strand",
+    "address": "Henrik Wergelands gate 4, 4612 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Sentrum Legesenter Kristiansand AS",
+      "tlf": "38 07 90 00",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Martin Boye Strøm",
+    "address": "Storgata 1C, 4790 LILLESAND",
+    "metadata": {
+      "legekontor": "Lillesand Kommune - Blindleia Legesenter",
+      "tlf": "37 26 91 30",
+      "antallPlasser": 600
+    }
+  },
+  {
+    "title": "Hilde Stokkeland Stubseid",
+    "address": "Ljosheimvegen 5, 4735 EVJE",
+    "metadata": {
+      "legekontor": "Evje og Bygland legesenter",
+      "tlf": "37 40 79 00",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Ida Henriette Kiledal Stålesen",
+    "address": "Alleen 16, 4580 LYNGDAL",
+    "metadata": {
+      "legekontor": "Lyngdal Legesenter",
+      "tlf": "38 34 04 40",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Emma Remine Reisvaag Sunde",
+    "address": "Barbros gate 7A, 4550 FARSUND",
+    "metadata": {
+      "legekontor": "Farsund legesenter",
+      "tlf": "38 38 30 11",
+      "antallPlasser": 825
+    }
+  },
+  {
+    "title": "Marte Jomaas Svendsen",
+    "address": "Havnegaten 1, 4836 ARENDAL",
+    "metadata": {
+      "legekontor": "Legegruppen Arendal",
+      "tlf": "37 00 34 00",
+      "ledigePlasser": 12,
+      "antallPlasser": 1200,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Heidi Syvertsen",
+    "address": "Rådhusveien 12, 4523 LINDESNES",
+    "metadata": {
+      "legekontor": "Vigeland Legesenter",
+      "tlf": "38 25 54 50",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Liv Inger Fosli Sødal",
+    "address": "Bark Silas' vei 7, 4876 GRIMSTAD",
+    "metadata": {
+      "legekontor": "Grimstad Legesenter",
+      "tlf": "37 25 81 00",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Anne Sissel Sørensen",
+    "address": "Vestre Strandgate 32, 4612 Kristiansand",
+    "metadata": {
+      "legekontor": "Kvadraturen legesenter",
+      "tlf": "38 12 88 80",
+      "ledigePlasser": 13,
+      "antallPlasser": 1430,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Alexandra Allegra Arezou Taylor",
+    "address": "Brokelandsheia 52, 4993 SUNDEBRU",
+    "metadata": {
+      "legekontor": "Gjerstad Legekontor",
+      "tlf": "37 11 91 90",
+      "ledigePlasser": 3,
+      "antallPlasser": 300,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Øystein Buerøgård Therkelsen",
+    "address": "Farmonen 9, 4480 Kvinesdal",
+    "metadata": {
+      "legekontor": "Kvinesdal Legesenter",
+      "tlf": "38 35 70 80",
+      "antallPlasser": 950
+    }
+  },
+  {
+    "title": "Martin Kirkhus Thieu",
+    "address": "Strøget, 4760 Birkeland",
+    "metadata": {
+      "legekontor": "Birkenes kommune legetjeneste",
+      "tlf": "37 27 89 80",
+      "ledigePlasser": 27,
+      "antallPlasser": 650,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Svein Øivind Thomassen",
+    "address": "Kirkeveien 4, 4631 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Lund Legesenter",
+      "tlf": "38 09 50 00",
+      "ledigePlasser": 37,
+      "antallPlasser": 1400,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Lars Thorheim",
+    "address": "Søsterdalen 16, 4900 TVEDESTRAND",
+    "metadata": {
+      "legekontor": "Tvedestrand kommune allmenn legetjeneste",
+      "tlf": "37 19 67 77",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Ida Karin Tingstveit",
+    "address": "Kystveien 690, 4851 Arendal",
+    "metadata": {
+      "legekontor": "Moland legesenter",
+      "tlf": "37 03 46 66",
+      "ledigePlasser": 157,
+      "antallPlasser": 650,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Dag Torgeir Tollaksen",
+    "address": "Farmonen 9, 4480 Kvinesdal",
+    "metadata": {
+      "legekontor": "Kvinesdal Legesenter",
+      "tlf": "38 35 70 80",
+      "antallPlasser": 950
+    }
+  },
+  {
+    "title": "Hilde Tollaksen",
+    "address": "Farmonen 9, 4480 Kvinesdal",
+    "metadata": {
+      "legekontor": "Kvinesdal Legesenter",
+      "tlf": "38 35 70 80",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Ingrid Vik Tollefsrud",
+    "address": "Kirkeveien 4, 4631 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Lund Legesenter",
+      "tlf": "38 09 50 00",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Jenny Victoria Tran-Gjøvik",
+    "address": "Barbros gate 7A, 4550 FARSUND",
+    "metadata": {
+      "legekontor": "Farsund legesenter",
+      "tlf": "38 38 30 11",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Monica Transeth",
+    "address": "barstølveien 34, 4636 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Sørlandsparken legesenter",
+      "tlf": "38 04 88 88",
+      "antallPlasser": 1400
+    }
+  },
+  {
+    "title": "Iris Tuancersang",
+    "address": "Hovlandsveien 9, 4985 Vegårshei, 4985 VEGÅRSHEI",
+    "metadata": {
+      "legekontor": "Vegårshei Kommune Legekontoret",
+      "tlf": "37 17 02 45",
+      "antallPlasser": 450
+    }
+  },
+  {
+    "title": "Knut Tuv",
+    "address": "Storgaten 33, 4876 Grimstad",
+    "metadata": {
+      "legekontor": "Kulturhuset Legesenter",
+      "tlf": "37 25 28 28",
+      "antallPlasser": 1400
+    }
+  },
+  {
+    "title": "Åse Elise Landsverk Tveit",
+    "address": "Strøget, 4760 Birkeland",
+    "metadata": {
+      "legekontor": "Birkenes kommune legetjeneste",
+      "tlf": "37 27 89 80",
+      "ledigePlasser": 86,
+      "antallPlasser": 650,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Ingeborg Laukvik Tønnesland",
+    "address": "Sentrumsveien 41, 4700 VENNESLA",
+    "metadata": {
+      "legekontor": "Vennesla legekontor",
+      "tlf": "38 15 01 50",
+      "antallPlasser": 750
+    }
+  },
+  {
+    "title": "Mats Andreas Tønnessen",
+    "address": "Rådhusveien 12, 4523 LINDESNES",
+    "metadata": {
+      "legekontor": "Vigeland Legesenter",
+      "tlf": "38 25 54 50",
+      "antallPlasser": 950
+    }
+  },
+  {
+    "title": "Karina Vatne Udø",
+    "address": "Sentrumsveien 41, 4700 VENNESLA",
+    "metadata": {
+      "legekontor": "Vennesla legekontor",
+      "tlf": "38 15 01 50",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Ingvild Ulland",
+    "address": "Vardåsveien 69, 4637 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Søm Legesenter",
+      "tlf": "38 12 88 44",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Kenneth Undhjem",
+    "address": "Lumberveien 49, 4621 Kristiansand S",
+    "metadata": {
+      "legekontor": "Trekanten legesenter",
+      "tlf": "38 01 85 10",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Else Matilde Vangstad",
+    "address": "Gata 10, 4865 ÅMLI",
+    "metadata": {
+      "legekontor": "Åmli Legekontor",
+      "tlf": "37 18 51 00",
+      "antallPlasser": 200
+    }
+  },
+  {
+    "title": "Liv Inger Varsi",
+    "address": "Frigstadveien 20, 4724 IVELAND",
+    "metadata": {
+      "legekontor": "Iveland legekontor",
+      "tlf": "37 96 12 30",
+      "antallPlasser": 200
+    }
+  },
+  {
+    "title": "Liv Inger Varsi",
+    "address": "Ljosheimvegen 5, 4735 EVJE",
+    "metadata": {
+      "legekontor": "Evje og Bygland legesenter",
+      "tlf": "37 40 79 00",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Martin Ve-Tufteland",
+    "address": "Dronningensgate 4, 4610",
+    "metadata": {
+      "legekontor": "Dronningensgate Legesenter",
+      "tlf": "38 07 91 40",
+      "ledigePlasser": 7,
+      "antallPlasser": 1650,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Sigbjørn Skogseid Veddeng",
+    "address": "Halseveien 5, 4517 MANDAL",
+    "metadata": {
+      "legekontor": "Halse Legesenter AS",
+      "tlf": "38 27 38 80",
+      "ledigePlasser": 24,
+      "antallPlasser": 750,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Johannes Vederhus",
+    "address": "Sentrumsveien 41, 4700 VENNESLA",
+    "metadata": {
+      "legekontor": "Vennesla legekontor",
+      "tlf": "38 15 01 50",
+      "ledigePlasser": 127,
+      "antallPlasser": 850,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Hanne Vidnes",
+    "address": "Noroddveien 2, 4816 KOLBJØRNSVIK",
+    "metadata": {
+      "legekontor": "Hisøy Legesenter",
+      "tlf": "37 05 88 80",
+      "ledigePlasser": 27,
+      "antallPlasser": 600,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Anne Margrete Hetland Vik",
+    "address": "Sentrumsveien 41, 4700 VENNESLA",
+    "metadata": {
+      "legekontor": "Vennesla legekontor",
+      "tlf": "38 15 01 50",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Markus Guldberg Vik",
+    "address": "Storgata 2, 4790 LILLESAND",
+    "metadata": {
+      "legekontor": "Lillesand Kommune - Agderklinikken",
+      "tlf": "37 27 22 00",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Paul Otto Anders Vindelev",
+    "address": "Josdalsveien 4, 4440 TONSTAD",
+    "metadata": {
+      "legekontor": "Tonstad legekontor",
+      "tlf": "38 37 91 30",
+      "ledigePlasser": 8,
+      "antallPlasser": 300,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Mari Mulen Virak",
+    "address": "Halseveien 5, 4517 MANDAL",
+    "metadata": {
+      "legekontor": "Halse Legesenter AS",
+      "tlf": "38 27 38 80",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Monika Praljak Voigt",
+    "address": "Frolandsveien 6, 4847 ARENDAL",
+    "metadata": {
+      "legekontor": "Bjønneslegene AS",
+      "tlf": "37 00 34 50",
+      "ledigePlasser": 59,
+      "antallPlasser": 900,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Per Olav Voje-Johansen",
+    "address": "Hovedgt. 42, 4900 TVEDESTRAND",
+    "metadata": {
+      "legekontor": "Tvedestrand Legesenter ANS",
+      "tlf": "37 19 66 00",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Jelena Vucinic Stanojevic",
+    "address": "Vesterveien 44, 4839 Arendal",
+    "metadata": {
+      "legekontor": "Maxis legesenter as",
+      "tlf": "37 01 28 00",
+      "antallPlasser": 1150
+    }
+  },
+  {
+    "title": "Torstein Værland",
+    "address": "Søsterdalen 16, 4900 TVEDESTRAND",
+    "metadata": {
+      "legekontor": "Tvedestrand kommune allmenn legetjeneste",
+      "tlf": "37 19 67 77",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Anette Walvick",
+    "address": "Hollendergt 3, 4514 Mandal",
+    "metadata": {
+      "legekontor": "Sjøsanden legesenter DA",
+      "tlf": "38 27 22 50",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Per Øuen Walvik",
+    "address": "Hollendergt 3, 4514 Mandal",
+    "metadata": {
+      "legekontor": "Sjøsanden legesenter DA",
+      "tlf": "38 27 22 50",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Trond Erik Wennevold",
+    "address": "Alleen 16, 4580 LYNGDAL",
+    "metadata": {
+      "legekontor": "Lyngdal Legesenter",
+      "tlf": "38 34 04 40",
+      "antallPlasser": 750
+    }
+  },
+  {
+    "title": "Erik Lønnmark Werner",
+    "address": "Kystveien 244, 4841 ARENDAL",
+    "metadata": {
+      "legekontor": "Kystveien Legesenter AS",
+      "tlf": "37 03 05 22",
+      "ledigePlasser": 140,
+      "antallPlasser": 1200,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Chris Strand Wilson",
+    "address": "Songdalsvn.53, 4645 Nodeland",
+    "metadata": {
+      "legekontor": "Songdalen legesenter",
+      "tlf": "38 18 51 20",
+      "ledigePlasser": 154,
+      "antallPlasser": 860,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Øistein Andre Wirak",
+    "address": "Dronningensgate 4, 4610",
+    "metadata": {
+      "legekontor": "Dronningensgate Legesenter",
+      "tlf": "38 07 91 40",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Jostein Klungsøyr Woje",
+    "address": "Lumberveien 49, 4621 Kristiansand S",
+    "metadata": {
+      "legekontor": "Trekanten legesenter",
+      "tlf": "38 01 85 10",
+      "antallPlasser": 820
+    }
+  },
+  {
+    "title": "Brita Merete Zinck",
+    "address": "Songdalsvn.53, 4645 Nodeland",
+    "metadata": {
+      "legekontor": "Songdalen legesenter",
+      "tlf": "38 18 51 20",
+      "antallPlasser": 1150
+    }
+  },
+  {
+    "title": "Hjalmar Matre Ødegaard",
+    "address": "Farmonen 9, 4480 Kvinesdal",
+    "metadata": {
+      "legekontor": "Kvinesdal Legesenter",
+      "tlf": "38 35 70 80",
+      "antallPlasser": 550
+    }
+  },
+  {
+    "title": "Tina Øi",
+    "address": "Elgveien 5, 4818 FÆRVIK",
+    "metadata": {
+      "legekontor": "Tromøy legesenter",
+      "tlf": "37 05 83 50",
+      "antallPlasser": 750
+    }
+  },
+  {
+    "title": "Hanne Marte Lien Øisang",
+    "address": "Storgata 1C, 4790 LILLESAND",
+    "metadata": {
+      "legekontor": "Lillesand Kommune - Blindleia Legesenter",
+      "tlf": "37 26 91 30",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Maren Østvold",
+    "address": "Sarvsvegen 31, 4754 BYKLE",
+    "metadata": {
+      "legekontor": "Bykle legekontor",
+      "tlf": "37 93 86 70",
+      "antallPlasser": 550
+    }
+  },
+  {
+    "title": "Marlene Nordvoll Ågren",
+    "address": "Storgata 1C, 4790 LILLESAND",
+    "metadata": {
+      "legekontor": "Lillesand Kommune - Blindleia Legesenter",
+      "tlf": "37 26 91 30",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Niklas Philip Ågren",
+    "address": "Storgata 2, 4790 LILLESAND",
+    "metadata": {
+      "legekontor": "Lillesand Kommune - Agderklinikken",
+      "tlf": "37 27 22 00",
+      "ledigePlasser": 4,
+      "antallPlasser": 1000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Sturla Aam-Quabeck",
+    "address": "Arendalsveien 32, 4878 GRIMSTAD",
+    "metadata": {
+      "legekontor": "Brannstasjonen Legesenter",
+      "tlf": "37 25 60 00",
+      "antallPlasser": 600
+    }
+  },
+  {
+    "title": "Knut Fredrik Aamdal",
+    "address": "Frigstadveien 20, 4724 IVELAND",
+    "metadata": {
+      "legekontor": "Iveland legekontor",
+      "tlf": "37 96 12 30",
+      "ledigePlasser": 105,
+      "antallPlasser": 300,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Knut Fredrik Aamdal",
+    "address": "Sentrumsveien 41, 4700 VENNESLA",
+    "metadata": {
+      "legekontor": "Vennesla legekontor",
+      "tlf": "38 15 01 50",
+      "ledigePlasser": 40,
+      "antallPlasser": 900,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Maria Magdalena Aanensen",
+    "address": "Halseveien 5, 4517 MANDAL",
+    "metadata": {
+      "legekontor": "Halse Legesenter AS",
+      "tlf": "38 27 38 80",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Ellen Johanne Aas",
+    "address": "Lauvåsen Hovedvei 1, 4656 HAMRESANDEN",
+    "metadata": {
+      "legekontor": "Randesund Legesenter",
+      "tlf": "38 14 83 50",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Espen Aas",
+    "address": "Furuvegen 1, 4820 FROLAND",
+    "metadata": {
+      "legekontor": "Froland Kommunale Legekontor",
+      "tlf": "37 23 55 84",
+      "antallPlasser": 500
+    }
+  },
+  {
+    "title": "Tom Andre Aas",
+    "address": "Andøyveien 23, 4623 KRISTIANSAND S",
+    "metadata": {
+      "legekontor": "Vågsbygd Torv Legesenter AS",
+      "tlf": "73 60 94 50",
+      "ledigePlasser": 258,
+      "antallPlasser": 1550,
+      "valgbar": true
+    }
+  }
+]

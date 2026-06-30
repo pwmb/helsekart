@@ -1,7 +1,21 @@
-import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet'
+import { useEffect } from 'react'
+import { MapContainer, TileLayer, Marker, Popup, useMap } from 'react-leaflet'
 import 'leaflet/dist/leaflet.css'
 import L from 'leaflet'
 import type { Category, GeocodedEntry } from '../types'
+
+function FitBounds({ entries }: { entries: GeocodedEntry[] }) {
+  const map = useMap()
+
+  useEffect(() => {
+    if (entries.length === 0) return
+    const bounds = L.latLngBounds(entries.map((e) => [e.lat, e.lng]))
+    map.fitBounds(bounds, { padding: [48, 48], maxZoom: 13 })
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [entries.map((e) => e.id).join(',')])
+
+  return null
+}
 
 interface MapViewProps {
   entries: GeocodedEntry[]
@@ -173,6 +187,7 @@ export default function MapView({ entries, categories, categoryColors, activeCat
         attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
       />
+      <FitBounds entries={visible} />
       {groups.map((group) => (
         <Marker
           key={`${group.lat},${group.lng}`}
