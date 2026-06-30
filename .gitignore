@@ -1,0 +1,5 @@
+node_modules
+dist
+
+# Do NOT ignore geocoded data — it needs to be in the repo
+# so the GitHub Actions cron can update it and Vercel can build from it

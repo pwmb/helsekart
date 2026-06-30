@@ -1,0 +1,304 @@
+.map-legend {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  z-index: 1000;
+  background: rgba(18, 22, 36, 0.92);
+  backdrop-filter: blur(6px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 10px;
+  color: #e0e0e0;
+  min-width: 220px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+  font-family: system-ui, sans-serif;
+  font-size: 0.85rem;
+  overflow: hidden;
+}
+
+.map-legend.collapsed {
+  min-width: unset;
+}
+
+/* ── header toggle ──────────────────────────────── */
+.legend-toggle {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  width: 100%;
+  padding: 0.6rem 0.8rem;
+  background: none;
+  border: none;
+  color: #e0e0e0;
+  cursor: pointer;
+  font-size: 0.85rem;
+  font-weight: 600;
+  border-radius: 0;
+  text-align: left;
+}
+
+.legend-toggle:hover {
+  background: rgba(255, 255, 255, 0.06);
+}
+
+.legend-toggle-icon {
+  font-size: 1rem;
+  opacity: 0.7;
+}
+
+.legend-toggle-label {
+  flex: 1;
+}
+
+.legend-chevron {
+  font-size: 0.7rem;
+  opacity: 0.5;
+}
+
+/* ── body ───────────────────────────────────────── */
+.legend-body {
+  border-top: 1px solid rgba(255, 255, 255, 0.06);
+  padding: 0.5rem 0;
+}
+
+/* ── category list ──────────────────────────────── */
+.legend-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.35rem 0.8rem;
+  transition: background 0.12s;
+}
+
+.legend-item:hover {
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.legend-item.inactive {
+  opacity: 0.4;
+}
+
+/* color swatch */
+.legend-swatch {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  flex-shrink: 0;
+  cursor: pointer;
+  border: 2px solid rgba(255, 255, 255, 0.2);
+  position: relative;
+  transition: transform 0.15s, border-color 0.15s;
+}
+
+.legend-swatch:hover {
+  transform: scale(1.25);
+  border-color: rgba(255, 255, 255, 0.6);
+}
+
+.legend-swatch input[type='color'] {
+  opacity: 0;
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+  border: none;
+  padding: 0;
+}
+
+.legend-name {
+  flex: 1;
+  cursor: pointer;
+  user-select: none;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.legend-count {
+  font-size: 0.75rem;
+  color: #666;
+  background: rgba(255, 255, 255, 0.06);
+  padding: 0.1rem 0.4rem;
+  border-radius: 8px;
+}
+
+.legend-eye {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 0.85rem;
+  padding: 0;
+  line-height: 1;
+  opacity: 0.5;
+  transition: opacity 0.15s;
+}
+
+.legend-eye.on {
+  opacity: 0.8;
+}
+
+.legend-eye:hover {
+  opacity: 1;
+}
+
+/* ── footer: geocode + failures ─────────────────── */
+.legend-footer {
+  padding: 0.5rem 0.8rem 0.6rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.06);
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.legend-geocode-btn {
+  width: 100%;
+  padding: 0.4rem;
+  background: rgba(15, 52, 96, 0.8);
+  color: #aac;
+  border: 1px solid rgba(255,255,255,0.1);
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.78rem;
+  transition: background 0.15s, color 0.15s;
+}
+
+.legend-geocode-btn:hover {
+  background: #0f3460;
+  color: #fff;
+}
+
+.legend-progress {
+  position: relative;
+  height: 22px;
+  background: rgba(255,255,255,0.05);
+  border-radius: 6px;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.legend-progress-bar {
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  background: #0f3460;
+  transition: width 0.3s ease;
+}
+
+.legend-progress span {
+  position: relative;
+  font-size: 0.72rem;
+  color: #aaa;
+}
+
+.legend-failed {
+  background: rgba(80, 20, 20, 0.4);
+  border: 1px solid rgba(200, 60, 60, 0.2);
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.legend-failed-header {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.35rem 0.6rem;
+}
+
+.legend-failed-count {
+  flex: 1;
+  font-size: 0.75rem;
+  color: #e07070;
+}
+
+.legend-failed-retry {
+  font-size: 0.7rem;
+  padding: 0.2rem 0.5rem;
+  background: rgba(200,60,60,0.3);
+  color: #e07070;
+  border: 1px solid rgba(200,60,60,0.3);
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.legend-failed-retry:hover {
+  background: rgba(200,60,60,0.5);
+  color: #fff;
+}
+
+.legend-failed-toggle {
+  background: none;
+  border: none;
+  color: #888;
+  cursor: pointer;
+  font-size: 0.65rem;
+  padding: 0.2rem;
+  line-height: 1;
+}
+
+.legend-failed-list {
+  list-style: none;
+  max-height: 160px;
+  overflow-y: auto;
+  border-top: 1px solid rgba(200,60,60,0.15);
+  padding: 0.3rem 0.6rem 0.4rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.legend-failed-list li {
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
+}
+
+.legend-failed-list li strong {
+  font-size: 0.73rem;
+  color: #e09090;
+}
+
+.legend-failed-list li span {
+  font-size: 0.68rem;
+  color: #777;
+}
+
+/* ── availability filter ────────────────────────── */
+.legend-filter {
+  display: flex;
+  gap: 0.3rem;
+  padding: 0.5rem 0.8rem 0.6rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.06);
+  margin-top: 0.3rem;
+}
+
+.legend-filter-btn {
+  flex: 1;
+  padding: 0.35rem 0.3rem;
+  background: rgba(255, 255, 255, 0.05);
+  color: #888;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.75rem;
+  transition: background 0.15s, color 0.15s;
+}
+
+.legend-filter-btn:hover {
+  background: rgba(255, 255, 255, 0.1);
+  color: #ccc;
+}
+
+.legend-filter-btn.active {
+  background: #0f3460;
+  color: #fff;
+  border-color: #1a5276;
+}

@@ -1,0 +1,856 @@
+{
+  "Gransdalen 29, 1054 Oslo": {
+    "lat": 59.946078,
+    "lng": 10.899708
+  },
+  "Erich Mogensøns vei 38, 0594 OSLO": {
+    "lat": 59.943242,
+    "lng": 10.835473
+  },
+  "Eckersbergs gate 30, 0260 OSLO": {
+    "lat": 59.923566,
+    "lng": 10.713083
+  },
+  "Ensjøveien 22, 0661 OSLO": {
+    "lat": 59.913333,
+    "lng": 10.790376
+  },
+  "Jerikoveien 5, 1067 OSLO": {
+    "lat": 59.93256,
+    "lng": 10.882183
+  },
+  "v/Atlas Medisinske Senter (Inngang Skippergata 35) Storgata 10B, 0155 OSLO": {
+    "lat": 59.9129084,
+    "lng": 10.7481879
+  },
+  "Årvollveien 23 E, 0590 OSLO": {
+    "lat": 59.945917,
+    "lng": 10.810937
+  },
+  "Ammerudveien 37, 0958 OSLO": {
+    "lat": 59.96066,
+    "lng": 10.872958
+  },
+  "Frederik Stangs gate 11-13, 0264 OSLO": {
+    "lat": 59.9150876,
+    "lng": 10.7080168
+  },
+  "Folkvangveien 26, 1086 OSLO": {
+    "lat": 59.943978,
+    "lng": 10.916971
+  },
+  "Bergensveien 4, 0958 OSLO": {
+    "lat": 59.960703,
+    "lng": 10.88129
+  },
+  "Brannfjellveien 52, 1181 Oslo": {
+    "lat": 59.895967,
+    "lng": 10.786778
+  },
+  "Cecilie Thoresens vei 17, 1153 OSLO": {
+    "lat": 59.874914,
+    "lng": 10.810462
+  },
+  "Håkon Tvetersvei 8, 0682 OSLO": {
+    "lat": 59.9033308,
+    "lng": 10.8334752
+  },
+  "Motzfeldts gate 1, 0187 OSLO": {
+    "lat": 59.913258,
+    "lng": 10.761969
+  },
+  "Trondheimsveien 99, 0565 OSLO": {
+    "lat": 59.924431,
+    "lng": 10.774642
+  },
+  "Gladengveien 3b, 0661 Oslo": {
+    "lat": 59.91467,
+    "lng": 10.7903
+  },
+  "Kakkelovnskroken 1, 0954 Oslo": {
+    "lat": 59.950777,
+    "lng": 10.855407
+  },
+  "Grünersgate 6-8, 0552 OSLO": {
+    "lat": 59.9225995,
+    "lng": 10.7595722
+  },
+  "Hoffsveien 92, 0377 OSLO": {
+    "lat": 59.936898,
+    "lng": 10.683487
+  },
+  "Tore Hals Mejdells vei 8, 0751 Oslo": {
+    "lat": 59.9464401,
+    "lng": 10.6435446
+  },
+  "Grønlandsleiret 23, 0190 Oslo": {
+    "lat": 59.912031,
+    "lng": 10.765429
+  },
+  "Lørenveien 38, 0585 OSLO": {
+    "lat": 59.931418,
+    "lng": 10.790689
+  },
+  "Vitaminveien 7-9 4 Etg, Storosenteret, 0485 OSLO": {
+    "lat": 59.9486933,
+    "lng": 10.7736259
+  },
+  "Tvetenveien 150, 0671 Oslo": {
+    "lat": 59.913836,
+    "lng": 10.841898
+  },
+  "Nedre Rommen 5, 0988 OSLO": {
+    "lat": 59.962455,
+    "lng": 10.906306
+  },
+  "Lovisenberggt. 7C, 0456 OSLO": {
+    "lat": 59.9320243,
+    "lng": 10.7461713
+  },
+  "Slemdalsveien 1, 0369 OSLO": {
+    "lat": 59.930408,
+    "lng": 10.715279
+  },
+  "Majorstukrysset legegruppe Bogstadveien 72, 0366 OSLO": {
+    "lat": 59.9283473,
+    "lng": 10.7182037
+  },
+  "Sørkedalsveien 90b, 0377 OSLO": {
+    "lat": 59.937228,
+    "lng": 10.683002
+  },
+  "Maridalsveien 300, 0872 OSLO": {
+    "lat": 59.953677,
+    "lng": 10.760444
+  },
+  "St.Olavs gate 3 C, 0165 OSLO": {
+    "lat": 59.918549,
+    "lng": 10.742304
+  },
+  "Mellombølgen 47, 1157 Oslo": {
+    "lat": 59.868572,
+    "lng": 10.81444
+  },
+  "Helga Vaneks vei 3B, 1281 OSLO": {
+    "lat": 59.848782,
+    "lng": 10.83141
+  },
+  "Asperudveien 61/67, 1255 Oslo": {
+    "lat": 59.8364973,
+    "lng": 10.796895
+  },
+  "Bertramjordet 25, 1251 Oslo": {
+    "lat": 59.825343,
+    "lng": 10.785544
+  },
+  "Mortensrudveien 185, 1283 OSLO": {
+    "lat": 59.848657,
+    "lng": 10.815926
+  },
+  "Østensjøveien 36, 0667 Oslo": {
+    "lat": 59.910786,
+    "lng": 10.813095
+  },
+  "Disenveien 31, 0587 OSLO": {
+    "lat": 59.941651,
+    "lng": 10.795734
+  },
+  "Trygve Lies plass 5, 1051 OSLO": {
+    "lat": 59.941082,
+    "lng": 10.897369
+  },
+  "Grensesvingen 2, 0663 OSLO": {
+    "lat": 59.913561,
+    "lng": 10.799365
+  },
+  "Erichmogensøns vei 38, 0594 OSLO": {
+    "lat": 59.9416303,
+    "lng": 10.8365634
+  },
+  "Ryenstubben 3, 0679 Oslo": {
+    "lat": 59.898,
+    "lng": 10.805202
+  },
+  "Maridalsveien 323, 0872 OSLO": {
+    "lat": 59.954692,
+    "lng": 10.761805
+  },
+  "Sven Bruns gate 3, 0166 OSLO": {
+    "lat": 59.919408,
+    "lng": 10.733138
+  },
+  "Kjelsåsveien 160, inngang B, 0491 Oslo": {
+    "lat": 59.9596083,
+    "lng": 10.7870484
+  },
+  "Plogveien 6, 0667 OSLO": {
+    "lat": 59.89729,
+    "lng": 10.81286
+  },
+  "Vækerøveien 205A, 0751 Oslo": {
+    "lat": 59.948086,
+    "lng": 10.643745
+  },
+  "Trondheimsveien 100, 0565 OSLO": {
+    "lat": 59.925032,
+    "lng": 10.774742
+  },
+  "Sandakerveien 59, 0477 Oslo": {
+    "lat": 59.938436,
+    "lng": 10.768478
+  },
+  "Vestlisvingen 188, 0969 OSLO": {
+    "lat": 59.972508,
+    "lng": 10.928368
+  },
+  "Haugerudsenteret 1, 0673 Oslo": {
+    "lat": 59.922677,
+    "lng": 10.856397
+  },
+  "Bentsebrugata 29A, 0469 OSLO": {
+    "lat": 59.939173,
+    "lng": 10.759693
+  },
+  "Hans Nielsen Haugesgate 37E, 0481 OSLO": {
+    "lat": 59.9397599,
+    "lng": 10.7763948
+  },
+  "Veitvetveien 8, 0596 Oslo": {
+    "lat": 59.943985,
+    "lng": 10.847813
+  },
+  "Sognsveien 75D, 0855 OSLO": {
+    "lat": 59.949945,
+    "lng": 10.734731
+  },
+  "Sørkedalsveien 150 A, 0754 Oslo": {
+    "lat": 59.941702,
+    "lng": 10.65483
+  },
+  "Oscars gate 12, 0352 Oslo": {
+    "lat": 59.922855,
+    "lng": 10.729738
+  },
+  "Vetlandsveien 99, 0685 OSLO": {
+    "lat": 59.894173,
+    "lng": 10.842007
+  },
+  "Sørkedalsveien 10 D, 0369 Oslo": {
+    "lat": 59.9312563,
+    "lng": 10.7094166
+  },
+  "HOLMENKOLLVEIEN 78B, 0784 OSLO": {
+    "lat": 59.954909,
+    "lng": 10.664845
+  },
+  "Akersgata 74, 0180 Oslo": {
+    "lat": 59.91782,
+    "lng": 10.744466
+  },
+  "Hovfaret 17a, 0275 OSLO": {
+    "lat": 59.9263289,
+    "lng": 10.6765587
+  },
+  "Grefsenveien 28, 0482 Oslo": {
+    "lat": 59.943472,
+    "lng": 10.774027
+  },
+  "Sofies gate 60, 0168 OSLO": {
+    "lat": 59.928074,
+    "lng": 10.733732
+  },
+  "Trondheimsveien 184, 0570 OSLO": {
+    "lat": 59.932478,
+    "lng": 10.778021
+  },
+  "Lovisenberggata 15b, 0456": {
+    "lat": 59.931844,
+    "lng": 10.746196
+  },
+  "Kirkevn. 64 B, 0364 OSLO": {
+    "lat": 59.92917,
+    "lng": 10.71481
+  },
+  "Bøkkerveien 4, 0579 OSLO": {
+    "lat": 59.92698,
+    "lng": 10.793998
+  },
+  "Bygdøy allé 23, 0262 OSLO": {
+    "lat": 59.916534,
+    "lng": 10.712357
+  },
+  "Lindeberg Næringsvei 10 A, 1067 Oslo": {
+    "lat": 59.9339495,
+    "lng": 10.8880735
+  },
+  "Geitmyrsveien 45B, 0455 Oslo": {
+    "lat": 59.930891,
+    "lng": 10.74414
+  },
+  "Lille Grensen 3, 0159 Oslo": {
+    "lat": 59.91387,
+    "lng": 10.741576
+  },
+  "Theodor Dahls vei 1, 0370 Oslo": {
+    "lat": 59.937323,
+    "lng": 10.702892
+  },
+  "Fredrik Stangsgt. 11-13, 0264 Oslo": {
+    "lat": 59.9167289,
+    "lng": 10.705822
+  },
+  "Ullern alle 28, 0381 OSLO": {
+    "lat": 59.927028,
+    "lng": 10.642526
+  },
+  "Kongsveien 104, 1177 OSLO": {
+    "lat": 59.8802414,
+    "lng": 10.7870018
+  },
+  "Sørkedalsveien 90A, 0376 OSLO": {
+    "lat": 59.937171,
+    "lng": 10.683268
+  },
+  "Lofsrudveien 6, 1281 OSLO": {
+    "lat": 59.848419,
+    "lng": 10.829195
+  },
+  "Problemveien 9 / Holbergsgate 21 / Nydalsveien 37, 0314 OSLO": {
+    "lat": 59.9133301,
+    "lng": 10.7389701
+  },
+  "Vinkelveien 7, 0870 OSLO": {
+    "lat": 59.946387,
+    "lng": 10.744168
+  },
+  "Tøyengata 2, 0190 OSLO": {
+    "lat": 59.912783,
+    "lng": 10.763911
+  },
+  "Hegdehaugsveien 31, 0352 Oslo": {
+    "lat": 59.922156,
+    "lng": 10.727234
+  },
+  "Silurveien 2, 0380 OSLO": {
+    "lat": 59.926786,
+    "lng": 10.650921
+  },
+  "Lørenveien 68, 3 etg, 0585 OSLO": {
+    "lat": 59.9322024,
+    "lng": 10.7920051
+  },
+  "Mortensrudveien 185, 1283 Oslo": {
+    "lat": 59.848657,
+    "lng": 10.815926
+  },
+  "Harbitzalléen 2 A, 0275 OSLO": {
+    "lat": 59.924215,
+    "lng": 10.675133
+  },
+  "Solhauggt 2, 0565 Oslo": {
+    "lat": 59.924409,
+    "lng": 10.772513
+  },
+  "Stallerudveien 97, 0693 Oslo": {
+    "lat": 59.8743763,
+    "lng": 10.8454169
+  },
+  "Vitaminveien 4, 4 etasje, 0485 Oslo": {
+    "lat": 59.9486933,
+    "lng": 10.7736259
+  },
+  "Slemdalsveien 72, 0373 Oslo": {
+    "lat": 59.942696,
+    "lng": 10.704422
+  },
+  "Sognsveien 75B, 0855 OSLO": {
+    "lat": 59.949096,
+    "lng": 10.732416
+  },
+  "Garver Ytterborgsv. 98D, 0977 OSLO": {
+    "lat": 59.952101,
+    "lng": 10.9146395
+  },
+  "Armauer Hansens gate 14B, 0455 OSLO": {
+    "lat": 59.934474,
+    "lng": 10.740186
+  },
+  "Sørkedalsveien 10 C, 0369 Oslo": {
+    "lat": 59.9312563,
+    "lng": 10.7094166
+  },
+  "Bryn Senter Østensjøveien 79, 0667": null,
+  "Trygve Liesplass 1, 1051 Oslo": {
+    "lat": 59.9413105,
+    "lng": 10.9024571
+  },
+  "Romsås senter 1, 0970 Oslo": {
+    "lat": 59.963161,
+    "lng": 10.892858
+  },
+  "Niels Henrik Abels vei 2C, 0851 OSLO": {
+    "lat": 59.940206,
+    "lng": 10.72844
+  },
+  "Drammensveien 130 B, 0277 OSLO": {
+    "lat": 59.9216867,
+    "lng": 10.6780725
+  },
+  "Kirkeveien 61, 0364 OSLO": {
+    "lat": 59.929427,
+    "lng": 10.7175
+  },
+  "Smedbergveien 5, 1187 Oslo": {
+    "lat": 59.884117,
+    "lng": 10.817879
+  },
+  "Rosenborggata 9, 0356 Oslo": {
+    "lat": 59.925985,
+    "lng": 10.725818
+  },
+  "Granbergstubben 196, 1275 OSLO": {
+    "lat": 59.826521,
+    "lng": 10.837663
+  },
+  "Frysjaveien 35, 0884 Oslo": {
+    "lat": 59.966384,
+    "lng": 10.773336
+  },
+  "Sognsveien 77A, 0855 OSLO": {
+    "lat": 59.950073,
+    "lng": 10.734207
+  },
+  "Haakon Tveters vei 88, 0686 OSLO": {
+    "lat": 59.894384,
+    "lng": 10.84071
+  },
+  "Haslevn. 38, 0571 Oslo": {
+    "lat": 59.929005,
+    "lng": 10.783605
+  },
+  "Sandakerveien 56G, 0477 OSLO": {
+    "lat": 59.938096,
+    "lng": 10.767402
+  },
+  "Kaj Munks vei 41, 0876 Oslo": {
+    "lat": 59.952646,
+    "lng": 10.75217
+  },
+  "Ensjøveien 18, 0661 OSLO": {
+    "lat": 59.913761,
+    "lng": 10.789326
+  },
+  "Erich Mogensøns vei 38, 0594 Oslo": {
+    "lat": 59.943242,
+    "lng": 10.835473
+  },
+  "Sandstuveien 60 A, 1184 Oslo": {
+    "lat": 59.887709,
+    "lng": 10.805529
+  },
+  "Ekebergveien 233, 1162 Oslo": {
+    "lat": 59.86141,
+    "lng": 10.799674
+  },
+  "Karoline Kristiansens vei 3, 0661 OSLO": {
+    "lat": 59.913926,
+    "lng": 10.797616
+  },
+  "Hoffsveien 15, 0275 OSLO": {
+    "lat": 59.9259,
+    "lng": 10.675415
+  },
+  "Postboks 103, 0518": null,
+  "Hoffsveien 48, 0377 OSLO": {
+    "lat": 59.933454,
+    "lng": 10.673934
+  },
+  "Brugata 14, 0186 Oslo": {
+    "lat": 59.913884,
+    "lng": 10.755403
+  },
+  "Thereses gate 35B, 0354 OSLO": {
+    "lat": 59.927444,
+    "lng": 10.731158
+  },
+  "c/o Ole Henning Midtoddveien 9C, 0494 OSLO": {
+    "lat": 59.9643329,
+    "lng": 10.7879913
+  },
+  "Hausmansgate 19, 0182 OSLO": {
+    "lat": 59.917494,
+    "lng": 10.7549273
+  },
+  "Kakkelovnskroken 3c, 0954 OSLO": {
+    "lat": 59.950931,
+    "lng": 10.857719
+  },
+  "Bergensgata 12B, 0468 OSLO": {
+    "lat": 59.941814,
+    "lng": 10.758864
+  },
+  "Utmarkveien 1, 0689 Oslo": {
+    "lat": 59.8832417,
+    "lng": 10.8456647
+  },
+  "Trondheimsveien 139B, 0570 OSLO": {
+    "lat": 59.929546,
+    "lng": 10.77833
+  },
+  "Holmenveien 5H, 0374 Oslo": {
+    "lat": 59.9430564,
+    "lng": 10.7010951
+  },
+  "Nordstrandveien 62, 1164 Oslo": {
+    "lat": 59.860566,
+    "lng": 10.810147
+  },
+  "Pilestredet 75D, 0354 Oslo": {
+    "lat": 59.927544,
+    "lng": 10.728316
+  },
+  "Ravnåsveien 1, 1254 OSLO": {
+    "lat": 59.837991,
+    "lng": 10.795965
+  },
+  "Lilleakerveien 14, 0283 Oslo": {
+    "lat": 59.916018,
+    "lng": 10.635408
+  },
+  "Sandakerveien 138, 0484 Oslo": {
+    "lat": 59.95187,
+    "lng": 10.767296
+  },
+  "Bogstadveien 51, 0366 OSLO": {
+    "lat": 59.928755,
+    "lng": 10.71607
+  },
+  "Trondheimsveien 2, Postboks 4778 Sofienberg, 0506 OSLO": {
+    "lat": 59.9205388,
+    "lng": 10.765193
+  },
+  "Sveaveien 71, 1263 Oslo": {
+    "lat": 59.837662,
+    "lng": 10.804906
+  },
+  "Stasjonsveien 4, 0776 Oslo": {
+    "lat": 59.950556,
+    "lng": 10.693266
+  },
+  "St. Halvards Plass 1, 0192": {
+    "lat": 59.906645,
+    "lng": 10.768199
+  },
+  "Grønlandsleiret 31, 0190 OSLO": {
+    "lat": 59.911299,
+    "lng": 10.76673
+  },
+  "Pilestredet 17, 0164 OSLO": {
+    "lat": 59.916566,
+    "lng": 10.740143
+  },
+  "Nedre Kalbakkvei 2A, 0950 OSLO": {
+    "lat": 59.95142,
+    "lng": 10.867137
+  },
+  "Pilestredet Park 11 A, 0176 OSLO": {
+    "lat": 59.922133,
+    "lng": 10.740882
+  },
+  "Hausmannsgt.8F, 0182 Oslo": {
+    "lat": 59.917494,
+    "lng": 10.7549273
+  },
+  "Skippergt 33 III, 0154 Oslo": {
+    "lat": 59.9113999,
+    "lng": 10.7475356
+  },
+  "Tvetenveien 217, 0675 OSLO": {
+    "lat": 59.927044,
+    "lng": 10.864568
+  },
+  "Ivar Knutsons Vei 58, 1161 OSLO": {
+    "lat": 59.870525,
+    "lng": 10.795165
+  },
+  "Brynsengveien 2, 0667 OSLO": {
+    "lat": 59.911026,
+    "lng": 10.813985
+  },
+  "Hegdehaugsveien 36A, 0352 OSLO": {
+    "lat": 59.923379,
+    "lng": 10.725564
+  },
+  "Asperudveien 67, 1255 Oslo": {
+    "lat": 59.835552,
+    "lng": 10.796314
+  },
+  "Smedgata 49, 0651 Oslo": {
+    "lat": 59.913906,
+    "lng": 10.771251
+  },
+  "Stasjonsveien 69, 0771 OSLO": {
+    "lat": 59.946702,
+    "lng": 10.654782
+  },
+  "Trondheimsveien 391, 0953 Oslo": {
+    "lat": 59.952359,
+    "lng": 10.867368
+  },
+  "MOTZFELDTS GT 10, 0187 OSLO": {
+    "lat": 59.914567,
+    "lng": 10.7633397
+  },
+  "Utmarkveien 2, 0689 OSLO": {
+    "lat": 59.883567,
+    "lng": 10.846257
+  },
+  "Skippergata 31, 0154 OSLO": {
+    "lat": 59.911969,
+    "lng": 10.748791
+  },
+  "Sognsv. 75B, 0855 Oslo": {
+    "lat": 59.8993601,
+    "lng": 10.8216945
+  },
+  "Åkebergveien 32A, 0650": {
+    "lat": 59.910236,
+    "lng": 10.774972
+  },
+  "Eckersbergsgate 30, 0260 OSLO": {
+    "lat": 59.9224139,
+    "lng": 10.7118213
+  },
+  "Holmlia Senter vei 12, 1255 Oslo": {
+    "lat": 59.83458,
+    "lng": 10.794718
+  },
+  "Fridtjof Nansens vei 17, 0369 Oslo": {
+    "lat": 59.931108,
+    "lng": 10.707083
+  },
+  "c/o Spaces, Nydalsveien 33, 0484 Oslo": {
+    "lat": 59.9484019,
+    "lng": 10.7673604
+  },
+  "Stovner Senter 3, 0985 Oslo": {
+    "lat": 59.962146,
+    "lng": 10.924524
+  },
+  "Rosenborggata 3, 0356 Oslo": {
+    "lat": 59.925678,
+    "lng": 10.724714
+  },
+  "C.J. Hambros plass 5, 0164 Oslo": {
+    "lat": 59.915407,
+    "lng": 10.740851
+  },
+  "Hegdehaugsveien 35 C, 0352 Oslo": {
+    "lat": 59.920723,
+    "lng": 10.7282606
+  },
+  "Ulvenveien 80 B, 0581 Oslo": {
+    "lat": 59.926176,
+    "lng": 10.811282
+  },
+  "Ekebergvn. 1a, 0192 Oslo": {
+    "lat": 59.903274,
+    "lng": 10.767752
+  },
+  "Oslo Hospital, Ekebergveien 1, 0192 Oslo": {
+    "lat": 59.903121,
+    "lng": 10.7677257
+  },
+  "Tullinsgate 2, 0166 Oslo": {
+    "lat": 59.9193428,
+    "lng": 10.7343851
+  },
+  "Nobels gate 16A, 0268 Oslo": {
+    "lat": 59.919073,
+    "lng": 10.699714
+  },
+  "Tennisveien 2g, 0777 Oslo": {
+    "lat": 59.951844,
+    "lng": 10.694686
+  },
+  "Rosenbergveien 15, 0963 Oslo": {
+    "lat": 59.960486,
+    "lng": 10.879239
+  },
+  "St. Olavs plass 3, 5. etasje, 0165 Oslo": {
+    "lat": 59.9188174,
+    "lng": 10.7414485
+  },
+  "Ekebergveien 1 A, 0192 Oslo": {
+    "lat": 59.903274,
+    "lng": 10.767752
+  },
+  "Institutt for Psykoterapi, Ekebergveien 1, 0192 Oslo": {
+    "lat": 59.9042976,
+    "lng": 10.7715089
+  },
+  "Rosenkrantz gt. 7, 0159 Oslo": {
+    "lat": 59.91466,
+    "lng": 10.73956
+  },
+  "Vetlandsveien 101, 0685 Oslo": {
+    "lat": 59.89413,
+    "lng": 10.842276
+  },
+  "Maridalsveien 323, 0872 Oslo": {
+    "lat": 59.954692,
+    "lng": 10.761805
+  },
+  "Arbeidersamfunnets plass 1, 0181 Oslo": {
+    "lat": 59.915522,
+    "lng": 10.751804
+  },
+  "Bentsebrugata 29 A, 0469 Oslo": {
+    "lat": 59.939173,
+    "lng": 10.759693
+  },
+  "Ruseløkkveien 59, 0251 Oslo": {
+    "lat": 59.911431,
+    "lng": 10.723161
+  },
+  "Kirkevn. 64 B, 0369 Oslo": {
+    "lat": 59.92917,
+    "lng": 10.71481
+  },
+  "Pilestredet park 7., 0176 Oslo": {
+    "lat": 59.921144,
+    "lng": 10.738916
+  },
+  "Ekebergveien 1A, 0192 Oslo": {
+    "lat": 59.903274,
+    "lng": 10.767752
+  },
+  "Nydalsveien 33, 0484 Oslo": {
+    "lat": 59.949565,
+    "lng": 10.765789
+  },
+  "St. Olavs plass 3, 0165 Oslo": {
+    "lat": 59.917943,
+    "lng": 10.740609
+  },
+  "Rosenkrantz gate 7, 0359 Oslo": {
+    "lat": 59.91466,
+    "lng": 10.73956
+  },
+  "Vogtsgate 57A, 0477 Oslo": {
+    "lat": 59.9372448,
+    "lng": 10.7661288
+  },
+  "Linderud senter, Erich Mogenssøns vei 38. 5. etg, 0594 Oslo": {
+    "lat": 59.9416303,
+    "lng": 10.8365634
+  },
+  "Vetlandsveien 99, 0685 Oslo": {
+    "lat": 59.894173,
+    "lng": 10.842007
+  },
+  "Kirkeveien 64 A, 0364 Oslo": {
+    "lat": 59.929256,
+    "lng": 10.71547
+  },
+  "Fridtjof Nansens pl. 8, 0160 Oslo": {
+    "lat": 59.912402,
+    "lng": 10.735096
+  },
+  "Karakteranalystisk institutt, Maridalsveien 323, 0872 Oslo": {
+    "lat": 59.9490976,
+    "lng": 10.7608004
+  },
+  "Rosenkrantzgt 10 B, 0159 Oslo": {
+    "lat": 59.9137368,
+    "lng": 10.7420982
+  },
+  "Trondheimsveien 184, 0570 Oslo": {
+    "lat": 59.932478,
+    "lng": 10.778021
+  },
+  "Oppsal samfunnshus, Vetlandsveien 99-101, 0685 Oslo": {
+    "lat": 59.8963844,
+    "lng": 10.846773
+  },
+  "Haugerudsenteret 1, 5 etg, 0673 Oslo": {
+    "lat": 59.921742,
+    "lng": 10.8571965
+  },
+  "Ryensvingen 11, 0680 Oslo": {
+    "lat": 59.891924,
+    "lng": 10.805972
+  },
+  "Fridtjof  Nansens vei 17, 0369 Oslo": {
+    "lat": 59.931108,
+    "lng": 10.707083
+  },
+  "Nordahl Brunsgt. 22, 0165 Oslo": {
+    "lat": 59.91854,
+    "lng": 10.738243
+  },
+  "St. Olavsplass 3, 0165 Oslo": {
+    "lat": 59.9188174,
+    "lng": 10.7414485
+  },
+  "Vøyensvingen 6, 0458 Oslo": {
+    "lat": 59.930077,
+    "lng": 10.75238
+  },
+  "Tore Hals Meidells vei 8, 0751 Oslo": {
+    "lat": 59.9428376,
+    "lng": 10.640314
+  },
+  "Haugerudsenteret 1-7, 0673 Oslo": {
+    "lat": 59.9226111,
+    "lng": 10.8570537
+  },
+  "Rosenbergveien 15 B, 0963 Oslo": {
+    "lat": 59.9608798,
+    "lng": 10.8806964
+  },
+  "Rosenkrantzgate 7, 0159 Oslo": {
+    "lat": 59.9137368,
+    "lng": 10.7420982
+  },
+  "Oslo Hospital, Ekebergveien 1a, 0192 Oslo, 0192 Oslo": {
+    "lat": 59.9723975,
+    "lng": 10.7757292
+  },
+  "Psykologspesialist Even Rognan, Kirkeveien 64B, 0366 Oslo": {
+    "lat": 59.9283473,
+    "lng": 10.7182037
+  },
+  "Utmarkveien 2, 0689 Oslo": {
+    "lat": 59.883567,
+    "lng": 10.846257
+  },
+  "Gjerdrums vei 19, 0484 Oslo": {
+    "lat": 59.956532,
+    "lng": 10.764535
+  },
+  "Kabelgata 1B, 0580 Oslo": {
+    "lat": 59.9273613,
+    "lng": 10.8169029
+  },
+  "St. Olavs Plass 3, 0165 Oslo": {
+    "lat": 59.917943,
+    "lng": 10.740609
+  },
+  "Linderud senter, Erich Mogensøns vei 38, 0594 Oslo": {
+    "lat": 59.9416303,
+    "lng": 10.8365634
+  },
+  "Fritjof Nansens vei 17, 0369 Oslo": {
+    "lat": 59.9320439,
+    "lng": 10.707273
+  },
+  "Kirkevn. 64 B, 0364 Oslo": {
+    "lat": 59.92917,
+    "lng": 10.71481
+  },
+  "Oslo Hospital, Ekebergveien 1 A, 0192 Oslo": {
+    "lat": 59.903121,
+    "lng": 10.7677257
+  }
+}

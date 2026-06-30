@@ -1,0 +1,6036 @@
+[
+  {
+    "title": "Akif Abbas",
+    "address": "Gransdalen 29, 1054 Oslo",
+    "metadata": {
+      "legekontor": "Gransdalen Legesenter Drift AS",
+      "tlf": "22 90 26 26",
+      "ledigePlasser": 6,
+      "antallPlasser": 1350,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Atif Abbas",
+    "address": "Erich Mogensøns vei 38, 0594 OSLO",
+    "metadata": {
+      "legekontor": "Brobekk legekontor",
+      "tlf": "22 64 08 44",
+      "ledigePlasser": 126,
+      "antallPlasser": 1600,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Faiza Abbas",
+    "address": "Erich Mogensøns vei 38, 0594 OSLO",
+    "metadata": {
+      "legekontor": "Brobekk legekontor",
+      "tlf": "22 64 08 44",
+      "ledigePlasser": 34,
+      "antallPlasser": 1500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Mohammad Zaheer Abbas",
+    "address": "Eckersbergs gate 30, 0260 OSLO",
+    "metadata": {
+      "legekontor": "Vestkanttorget Legekontor AS",
+      "tlf": "901 28 728",
+      "ledigePlasser": 18,
+      "antallPlasser": 2000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Assim Abdullah",
+    "address": "Ensjøveien 22, 0661 OSLO",
+    "metadata": {
+      "legekontor": "Ensjø Legesenter",
+      "tlf": "23 03 50 10",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Hayder Abdullah",
+    "address": "Jerikoveien 5, 1067 OSLO",
+    "metadata": {
+      "legekontor": "Lindeberg Legesenter AS",
+      "tlf": "23 14 20 20",
+      "ledigePlasser": 369,
+      "antallPlasser": 1200,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Allan Adrian",
+    "address": "v/Atlas Medisinske Senter (Inngang Skippergata 35) Storgata 10B, 0155 OSLO",
+    "metadata": {
+      "legekontor": "Atlas Medisinske Senter",
+      "tlf": "22 47 30 10",
+      "ledigePlasser": 8,
+      "antallPlasser": 2000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Qasim Afzal",
+    "address": "Årvollveien 23 E, 0590 OSLO",
+    "metadata": {
+      "legekontor": "Bjerke Legesenter",
+      "tlf": "23 37 13 30",
+      "ledigePlasser": 2,
+      "antallPlasser": 1100,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Ali Maqsood Ahmad",
+    "address": "Ammerudveien 37, 0958 OSLO",
+    "metadata": {
+      "legekontor": "Grorud Legesenter",
+      "tlf": "22 82 10 60",
+      "ledigePlasser": 31,
+      "antallPlasser": 1450,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Saimah Ahmad",
+    "address": "Frederik Stangs gate 11-13, 0264 OSLO",
+    "metadata": {
+      "legekontor": "Frogner Helsesenter",
+      "tlf": "22 54 71 00",
+      "antallPlasser": 1600
+    }
+  },
+  {
+    "title": "Sheikh Asim Ahmad",
+    "address": "Folkvangveien 26, 1086 OSLO",
+    "metadata": {
+      "legekontor": "Høybråten Legekontor",
+      "tlf": "23 34 44 00",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Abdulkadir Mahamed Ahmed",
+    "address": "Bergensveien 4, 0958 OSLO",
+    "metadata": {
+      "legekontor": "Groruddalen Legekontor",
+      "tlf": "22 25 21 00",
+      "antallPlasser": 1390
+    }
+  },
+  {
+    "title": "Tina Charlotte Nordström Aker",
+    "address": "Brannfjellveien 52, 1181 Oslo",
+    "metadata": {
+      "legekontor": "Ekeberg Legekontor",
+      "tlf": "22 67 09 64",
+      "antallPlasser": 1500
+    }
+  },
+  {
+    "title": "Batoul Hatem Al Saidy",
+    "address": "Cecilie Thoresens vei 17, 1153 OSLO",
+    "metadata": {
+      "legekontor": "Symra Legesenter AS",
+      "tlf": "22 28 03 11",
+      "antallPlasser": 1150
+    }
+  },
+  {
+    "title": "Ashwak Talib Hussain Al-Hellali",
+    "address": "Håkon Tvetersvei 8, 0682 OSLO",
+    "metadata": {
+      "legekontor": "Skøyenåsenlegene AS",
+      "tlf": "22 75 72 70",
+      "ledigePlasser": 192,
+      "antallPlasser": 1750,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Ali Noaman Ali Al-Ibadi",
+    "address": "Jerikoveien 5, 1067 OSLO",
+    "metadata": {
+      "legekontor": "Lindeberg Legesenter AS",
+      "tlf": "23 14 20 20",
+      "ledigePlasser": 125,
+      "antallPlasser": 1200,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Mahmod Shaker Al-Sammer",
+    "address": "Motzfeldts gate 1, 0187 OSLO",
+    "metadata": {
+      "legekontor": "Grønland Helsesenteret  AS",
+      "tlf": "22 05 96 60",
+      "ledigePlasser": 13,
+      "antallPlasser": 2000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Sawsan Kadhim Abdulwahhab Al-Toma",
+    "address": "Trondheimsveien 99, 0565 OSLO",
+    "metadata": {
+      "legekontor": "Carl Berner Legene Al-Toma",
+      "tlf": "22 37 59 70",
+      "antallPlasser": 2000
+    }
+  },
+  {
+    "title": "Ehsna Bano Ali",
+    "address": "Gladengveien 3b, 0661 Oslo",
+    "metadata": {
+      "legekontor": "Ensjøbyen Medisinske Senter",
+      "tlf": "21 05 08 05",
+      "antallPlasser": 1500
+    }
+  },
+  {
+    "title": "Rashid Abdelkader Rashid Aljamal",
+    "address": "Kakkelovnskroken 1, 0954 Oslo",
+    "metadata": {
+      "legekontor": "Kalbakken Legegruppe",
+      "tlf": "22 25 34 72",
+      "ledigePlasser": 58,
+      "antallPlasser": 1400,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Marius Gaarder Almgren",
+    "address": "Grünersgate 6-8, 0552 OSLO",
+    "metadata": {
+      "legekontor": "Markveien Legesenter",
+      "tlf": "23 40 86 00",
+      "antallPlasser": 1350
+    }
+  },
+  {
+    "title": "Maher Alshammery",
+    "address": "Hoffsveien 92, 0377 OSLO",
+    "metadata": {
+      "legekontor": "Holmen Fastlegekontor",
+      "tlf": "22 14 70 41",
+      "ledigePlasser": 608,
+      "antallPlasser": 1300,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Waqas Akhtar Amin",
+    "address": "Gladengveien 3b, 0661 Oslo",
+    "metadata": {
+      "legekontor": "Ensjøbyen Medisinske Senter",
+      "tlf": "21 05 08 05",
+      "ledigePlasser": 9,
+      "antallPlasser": 1000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Marius Amundsen",
+    "address": "Tore Hals Mejdells vei 8, 0751 Oslo",
+    "metadata": {
+      "legekontor": "Vestre Aker Legesenter",
+      "tlf": "22 51 41 71",
+      "antallPlasser": 1900
+    }
+  },
+  {
+    "title": "Terese Ovidie Amundsen",
+    "address": "Grønlandsleiret 23, 0190 Oslo",
+    "metadata": {
+      "legekontor": "Legene i Grønlandsleiret",
+      "tlf": "23 00 29 00",
+      "antallPlasser": 1170
+    }
+  },
+  {
+    "title": "Yoseph Mahdere Ande",
+    "address": "Lørenveien 38, 0585 OSLO",
+    "metadata": {
+      "legekontor": "Lørenlegene AS",
+      "tlf": "969 24 222",
+      "antallPlasser": 1400
+    }
+  },
+  {
+    "title": "Dan Michael Nørager Andersen",
+    "address": "Vitaminveien 7-9 4 Etg, Storosenteret, 0485 OSLO",
+    "metadata": {
+      "legekontor": "Storoklinikken",
+      "tlf": "22 09 88 88",
+      "ledigePlasser": 278,
+      "antallPlasser": 2000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Torill Andersen",
+    "address": "Tvetenveien 150, 0671 Oslo",
+    "metadata": {
+      "legekontor": "Tveita Legesenter",
+      "tlf": "22 76 19 50",
+      "antallPlasser": 1500
+    }
+  },
+  {
+    "title": "Luisa Simba André",
+    "address": "Nedre Rommen 5, 0988 OSLO",
+    "metadata": {
+      "legekontor": "Stovner Legesenter AS",
+      "tlf": "23 34 41 40",
+      "ledigePlasser": 158,
+      "antallPlasser": 1200,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Rebecca Anjum",
+    "address": "Lovisenberggt. 7C, 0456 OSLO",
+    "metadata": {
+      "legekontor": "St. Hanshaugen legesenter",
+      "tlf": "23 47 22 20",
+      "antallPlasser": 950
+    }
+  },
+  {
+    "title": "Peder Anker",
+    "address": "Slemdalsveien 1, 0369 OSLO",
+    "metadata": {
+      "legekontor": "Medpoint AS",
+      "tlf": "23 19 50 00",
+      "ledigePlasser": 13,
+      "antallPlasser": 2300,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Laure-Elodie Michéle Anquetil",
+    "address": "Lovisenberggt. 7C, 0456 OSLO",
+    "metadata": {
+      "legekontor": "St. Hanshaugen legesenter",
+      "tlf": "23 47 22 20",
+      "antallPlasser": 950
+    }
+  },
+  {
+    "title": "Humera Anwar",
+    "address": "Majorstukrysset legegruppe Bogstadveien 72, 0366 OSLO",
+    "metadata": {
+      "legekontor": "Majorstukrysset legegruppe",
+      "tlf": "22 95 55 90",
+      "antallPlasser": 1450
+    }
+  },
+  {
+    "title": "Shaista Anwar",
+    "address": "Bergensveien 4, 0958 OSLO",
+    "metadata": {
+      "legekontor": "Groruddalen Legekontor",
+      "tlf": "22 25 21 00",
+      "ledigePlasser": 153,
+      "antallPlasser": 1300,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Mana Arentz-Aune",
+    "address": "Sørkedalsveien 90b, 0377 OSLO",
+    "metadata": {
+      "legekontor": "Smestad Legesenter",
+      "tlf": "23 25 44 44",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Marcus Bubandt Arentz-Aune",
+    "address": "Maridalsveien 300, 0872 OSLO",
+    "metadata": {
+      "legekontor": "Nydalen Legesenter DA",
+      "tlf": "22 15 70 00",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Hans Arnkværn",
+    "address": "St.Olavs gate 3 C, 0165 OSLO",
+    "metadata": {
+      "legekontor": "St. Olav Medisinske",
+      "tlf": "22 03 34 44",
+      "antallPlasser": 2000
+    }
+  },
+  {
+    "title": "Satish Arora",
+    "address": "Mellombølgen 47, 1157 Oslo",
+    "metadata": {
+      "legekontor": "Lambertseter Legesenter AS",
+      "tlf": "22 74 90 50",
+      "ledigePlasser": 59,
+      "antallPlasser": 1750,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Perapakaran Arulanandam",
+    "address": "Helga Vaneks vei 3B, 1281 OSLO",
+    "metadata": {
+      "legekontor": "Mortensrud Medisinske Senter",
+      "tlf": "21 63 16 16",
+      "antallPlasser": 2000
+    }
+  },
+  {
+    "title": "Marianne Asak-Rødal",
+    "address": "Asperudveien 61/67, 1255 Oslo",
+    "metadata": {
+      "legekontor": "Holmlia Legesenter",
+      "tlf": "22 75 20 60",
+      "antallPlasser": 1250
+    }
+  },
+  {
+    "title": "Daniel Seyoum Asfaw",
+    "address": "Bertramjordet 25, 1251 Oslo",
+    "metadata": {
+      "legekontor": "Bertramjordet medisinske senter AS",
+      "tlf": "22 75 29 70",
+      "ledigePlasser": 540,
+      "antallPlasser": 1600,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Khuram Aslam",
+    "address": "Mortensrudveien 185, 1283 OSLO",
+    "metadata": {
+      "legekontor": "Valkyrien Legesenter DA",
+      "tlf": "22 61 00 01",
+      "ledigePlasser": 72,
+      "antallPlasser": 1250,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Sohail Aslam",
+    "address": "Østensjøveien 36, 0667 Oslo",
+    "metadata": {
+      "legekontor": "Brynklinikken AS",
+      "tlf": "22 06 65 50",
+      "ledigePlasser": 315,
+      "antallPlasser": 1550,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Pierre Lund Assely",
+    "address": "Disenveien 31, 0587 OSLO",
+    "metadata": {
+      "legekontor": "Nedre Grefsen Legegruppe",
+      "tlf": "23 39 68 00",
+      "ledigePlasser": 10,
+      "antallPlasser": 1800,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Safiullah Atal",
+    "address": "Trygve Lies plass 5, 1051 OSLO",
+    "metadata": {
+      "legekontor": "Furuset Legesenter DA",
+      "tlf": "22 90 71 70",
+      "antallPlasser": 1050
+    }
+  },
+  {
+    "title": "Liv Ariane Augestad",
+    "address": "Slemdalsveien 1, 0369 OSLO",
+    "metadata": {
+      "legekontor": "Marienlyst Legesenter",
+      "tlf": "22 56 70 90",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Fuad Azbarga",
+    "address": "Grensesvingen 2, 0663 OSLO",
+    "metadata": {
+      "legekontor": "ABC Medisinske Senter",
+      "tlf": "24 09 04 20",
+      "ledigePlasser": 73,
+      "antallPlasser": 500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Arsum Aziz",
+    "address": "Erichmogensøns vei 38, 0594 OSLO",
+    "metadata": {
+      "legekontor": "Linderud Legesenter DA",
+      "tlf": "22 88 17 00",
+      "antallPlasser": 1600
+    }
+  },
+  {
+    "title": "Mobashir Aziz",
+    "address": "Ryenstubben 3, 0679 Oslo",
+    "metadata": {
+      "legekontor": "Ryenstubben legekontor",
+      "tlf": "23 12 51 51",
+      "ledigePlasser": 25,
+      "antallPlasser": 1400,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Linda Katrine Severinsen Backlund",
+    "address": "Maridalsveien 323, 0872 OSLO",
+    "metadata": {
+      "legekontor": "Sterk Helse og Trening Nydalen AS",
+      "ledigePlasser": 281,
+      "antallPlasser": 1450,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Shalala Badili",
+    "address": "Trygve Lies plass 5, 1051 OSLO",
+    "metadata": {
+      "legekontor": "Furuset Legesenter DA",
+      "tlf": "22 90 71 70",
+      "antallPlasser": 1150
+    }
+  },
+  {
+    "title": "Ravinder Singh Bains",
+    "address": "Sven Bruns gate 3, 0166 OSLO",
+    "metadata": {
+      "legekontor": "Holbergs Plads Legesenter",
+      "tlf": "23 29 29 70",
+      "ledigePlasser": 43,
+      "antallPlasser": 2200,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Ingar Baklien",
+    "address": "Kjelsåsveien 160, inngang B, 0491 Oslo",
+    "metadata": {
+      "legekontor": "Frysja legekontor",
+      "tlf": "22 02 62 10",
+      "ledigePlasser": 55,
+      "antallPlasser": 1100,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Mobashar Banaras",
+    "address": "Plogveien 6, 0667 OSLO",
+    "metadata": {
+      "legekontor": "Legegruppen Manglerud",
+      "tlf": "22 75 77 90",
+      "ledigePlasser": 205,
+      "antallPlasser": 1250,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Shahzad Zia Banaras",
+    "address": "Vækerøveien 205A, 0751 Oslo",
+    "metadata": {
+      "legekontor": "Røa Legekontor",
+      "tlf": "22 06 44 44",
+      "ledigePlasser": 55,
+      "antallPlasser": 2000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Hossein Banitalebi",
+    "address": "Trondheimsveien 100, 0565 OSLO",
+    "metadata": {
+      "legekontor": "Carl Berner Legekontor AS",
+      "tlf": "23 22 75 90",
+      "ledigePlasser": 5,
+      "antallPlasser": 1200,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "May Putrus Khadhouri Bannoni",
+    "address": "Sandakerveien 59, 0477 Oslo",
+    "metadata": {
+      "legekontor": "Sandaker Legekontor",
+      "tlf": "23 39 58 00",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Jovita Banse",
+    "address": "Vestlisvingen 188, 0969 OSLO",
+    "metadata": {
+      "legekontor": "Vestli Legesenter",
+      "tlf": "23 34 41 20",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Line Bar-Nathan",
+    "address": "Haugerudsenteret 1, 0673 Oslo",
+    "metadata": {
+      "legekontor": "Haugerud legesenter AS",
+      "tlf": "22 90 58 50",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Mari Ellen Haug Barsnes",
+    "address": "Bentsebrugata 29A, 0469 OSLO",
+    "metadata": {
+      "legekontor": "Bjølsen Legesenter",
+      "tlf": "21 45 60 70",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Natasa Bartolovic",
+    "address": "Gladengveien 3b, 0661 Oslo",
+    "metadata": {
+      "legekontor": "Ensjøbyen Medisinske Senter",
+      "tlf": "21 05 08 05",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Faiza Basharat",
+    "address": "Hans Nielsen Haugesgate 37E, 0481 OSLO",
+    "metadata": {
+      "legekontor": "Torshovdalen Legesenter AS",
+      "tlf": "22 09 76 00",
+      "ledigePlasser": 252,
+      "antallPlasser": 1600,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Nadia Bashir",
+    "address": "Trygve Lies plass 5, 1051 OSLO",
+    "metadata": {
+      "legekontor": "Furuset Legesenter DA",
+      "tlf": "22 90 71 70",
+      "ledigePlasser": 16,
+      "antallPlasser": 1400,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Nazia Batool",
+    "address": "Veitvetveien 8, 0596 Oslo",
+    "metadata": {
+      "legekontor": "Veitvetklinikken",
+      "tlf": "22 80 39 60",
+      "ledigePlasser": 51,
+      "antallPlasser": 1300,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Solveig Anette Engevik Bekkelund",
+    "address": "Sognsveien 75D, 0855 OSLO",
+    "metadata": {
+      "legekontor": "Stadion Medisinske Senter AS",
+      "tlf": "22 23 23 33",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "John Egeland Bøgh Bekkenes",
+    "address": "Sognsveien 75D, 0855 OSLO",
+    "metadata": {
+      "legekontor": "Stadion Medisinske Senter AS",
+      "tlf": "22 23 23 33",
+      "ledigePlasser": 284,
+      "antallPlasser": 1700,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Lena Belstad",
+    "address": "Sørkedalsveien 150 A, 0754 Oslo",
+    "metadata": {
+      "legekontor": "Husebyskogen Medisinske Senter",
+      "tlf": "22 92 30 00",
+      "antallPlasser": 1800
+    }
+  },
+  {
+    "title": "Anette Katharina Bender",
+    "address": "Oscars gate 12, 0352 Oslo",
+    "metadata": {
+      "legekontor": "Legene i Oscarsgate 12",
+      "tlf": "22 95 50 70",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Randi Birgitte Modalsli Berg",
+    "address": "St.Olavs gate 3 C, 0165 OSLO",
+    "metadata": {
+      "legekontor": "St. Olav Medisinske",
+      "tlf": "22 03 34 44",
+      "antallPlasser": 1250
+    }
+  },
+  {
+    "title": "Grim Otto Berg-Hansen",
+    "address": "Vetlandsveien 99, 0685 OSLO",
+    "metadata": {
+      "legekontor": "Østensjø Legesenter",
+      "tlf": "23 12 61 80",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Eir Marie Elsness Bergan",
+    "address": "Sørkedalsveien 10 D, 0369 Oslo",
+    "metadata": {
+      "legekontor": "Fastlegene Colosseum",
+      "tlf": "23 68 17 50",
+      "antallPlasser": 1500
+    }
+  },
+  {
+    "title": "Gerhard Gunnerus Bergh",
+    "address": "HOLMENKOLLVEIEN 78B, 0784 OSLO",
+    "metadata": {
+      "legekontor": "Kragskogen Legesenter DA",
+      "tlf": "23 22 29 50",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Helene Berglund",
+    "address": "Akersgata 74, 0180 Oslo",
+    "metadata": {
+      "legekontor": "Kurbadet Legesenter",
+      "tlf": "23 35 30 50",
+      "antallPlasser": 1280
+    }
+  },
+  {
+    "title": "Sten Carl-Johan Bergqvist",
+    "address": "Hovfaret 17a, 0275 OSLO",
+    "metadata": {
+      "legekontor": "Skøyen Helsesenter AS",
+      "tlf": "22 06 43 00",
+      "antallPlasser": 1450
+    }
+  },
+  {
+    "title": "Jostein Berntsen",
+    "address": "Sørkedalsveien 150 A, 0754 Oslo",
+    "metadata": {
+      "legekontor": "Husebyskogen Medisinske Senter",
+      "tlf": "22 92 30 00",
+      "antallPlasser": 2100
+    }
+  },
+  {
+    "title": "Dario Besirevic",
+    "address": "Grefsenveien 28, 0482 Oslo",
+    "metadata": {
+      "legekontor": "Bentsebro legesenter",
+      "tlf": "23 18 31 00",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Christian Wilhelm Biermann",
+    "address": "Sørkedalsveien 90b, 0377 OSLO",
+    "metadata": {
+      "legekontor": "Smestad Legesenter",
+      "tlf": "23 25 44 44",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Kristin Nordey Bjerke",
+    "address": "Slemdalsveien 1, 0369 OSLO",
+    "metadata": {
+      "legekontor": "Marienlyst Legesenter",
+      "tlf": "22 56 70 90",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Cathrine Sætre Bjordal",
+    "address": "Sofies gate 60, 0168 OSLO",
+    "metadata": {
+      "legekontor": "Bolteløkka Legesenter",
+      "tlf": "22 93 23 00",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Mari Kristin Bjørkman",
+    "address": "Trondheimsveien 184, 0570 OSLO",
+    "metadata": {
+      "legekontor": "Rosenhoff Legegruppe AS",
+      "tlf": "23 40 11 00",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Kari Ørbech Bjørkum",
+    "address": "Lovisenberggata 15b, 0456",
+    "metadata": {
+      "legekontor": "Lovisenberggata Fastlegesenter DA",
+      "tlf": "22 99 20 40",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Trine Bjørner",
+    "address": "Kirkevn. 64 B, 0364 OSLO",
+    "metadata": {
+      "legekontor": "Majorstuhuset legegruppe DA",
+      "tlf": "23 33 18 40",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Marit Hellandsjø Bjørnnes",
+    "address": "Lovisenberggata 15b, 0456",
+    "metadata": {
+      "legekontor": "Lovisenberggata Fastlegesenter DA",
+      "tlf": "22 99 20 40",
+      "antallPlasser": 1700
+    }
+  },
+  {
+    "title": "Folke Louis Blix",
+    "address": "Bøkkerveien 4, 0579 OSLO",
+    "metadata": {
+      "legekontor": "Frisk Legekontor",
+      "tlf": "21 45 63 63",
+      "ledigePlasser": 167,
+      "antallPlasser": 2500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Inger Christina Bergstrøm Bodahl",
+    "address": "Bygdøy allé 23, 0262 OSLO",
+    "metadata": {
+      "legekontor": "Centrum Fastlegegruppe AS",
+      "tlf": "22 41 41 20",
+      "antallPlasser": 1400
+    }
+  },
+  {
+    "title": "Anne Marthe Boldingh",
+    "address": "Årvollveien 23 E, 0590 OSLO",
+    "metadata": {
+      "legekontor": "Bjerke Legesenter",
+      "tlf": "23 37 13 30",
+      "antallPlasser": 1250
+    }
+  },
+  {
+    "title": "Iuliia Borshch",
+    "address": "Lindeberg Næringsvei 10 A, 1067 Oslo",
+    "metadata": {
+      "legekontor": "Ellingsrudlegene AS",
+      "tlf": "22 90 54 60",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Audun Olav Bertelsen Brandal",
+    "address": "Geitmyrsveien 45B, 0455 Oslo",
+    "metadata": {
+      "legekontor": "Lovisenberg legesenter",
+      "tlf": "22 80 90 00",
+      "antallPlasser": 1400
+    }
+  },
+  {
+    "title": "Eleonora Brodwall",
+    "address": "Lille Grensen 3, 0159 Oslo",
+    "metadata": {
+      "legekontor": "Lille Grensen Legesenter",
+      "tlf": "23 10 40 20",
+      "ledigePlasser": 3,
+      "antallPlasser": 1400,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Berit Brustad",
+    "address": "Theodor Dahls vei 1, 0370 Oslo",
+    "metadata": {
+      "legekontor": "Borgen Legesenter",
+      "tlf": "22 96 09 60",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Lene Braastad",
+    "address": "Fredrik Stangsgt. 11-13, 0264 Oslo",
+    "metadata": {
+      "legekontor": "Din Lege AS",
+      "tlf": "22 54 05 00",
+      "antallPlasser": 1025
+    }
+  },
+  {
+    "title": "Anders Ragnvald Bugge",
+    "address": "Ullern alle 28, 0381 OSLO",
+    "metadata": {
+      "legekontor": "Bjørnsletta Legesenter",
+      "tlf": "22 51 06 60",
+      "ledigePlasser": 19,
+      "antallPlasser": 1530,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Diana-Nicoleta Bursan",
+    "address": "Kongsveien 104, 1177 OSLO",
+    "metadata": {
+      "legekontor": "Best Helse Allmennleger",
+      "tlf": "987 02 359",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Krzysztof Burski",
+    "address": "Sørkedalsveien 90A, 0376 OSLO",
+    "metadata": {
+      "legekontor": "Løren legesenter",
+      "tlf": "21 04 01 50",
+      "ledigePlasser": 1183,
+      "antallPlasser": 2500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Kamran Ashraf Butt",
+    "address": "Lofsrudveien 6, 1281 OSLO",
+    "metadata": {
+      "legekontor": "Mortensrud Mediclinic AS",
+      "tlf": "23 19 19 00",
+      "ledigePlasser": 66,
+      "antallPlasser": 1300,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Anders Bye",
+    "address": "Vitaminveien 7-9 4 Etg, Storosenteret, 0485 OSLO",
+    "metadata": {
+      "legekontor": "Storoklinikken",
+      "tlf": "22 09 88 88",
+      "ledigePlasser": 338,
+      "antallPlasser": 2000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Brynjar Saunes Bye",
+    "address": "Problemveien 9 / Holbergsgate 21 / Nydalsveien 37, 0314 OSLO",
+    "metadata": {
+      "legekontor": "SiO Helse",
+      "tlf": "22 85 33 00",
+      "ledigePlasser": 3,
+      "antallPlasser": 1150,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Idun Ottersen Bærug",
+    "address": "Vinkelveien 7, 0870 OSLO",
+    "metadata": {
+      "legekontor": "Berg Legekontor DA",
+      "tlf": "22 58 19 85",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Einar Alexander Bøhmer",
+    "address": "Sørkedalsveien 150 A, 0754 Oslo",
+    "metadata": {
+      "legekontor": "Husebyskogen Medisinske Senter",
+      "tlf": "22 92 30 00",
+      "ledigePlasser": 722,
+      "antallPlasser": 1500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Mai-Ly Nguyen Bøksle",
+    "address": "Tøyengata 2, 0190 OSLO",
+    "metadata": {
+      "legekontor": "Grønland Basar Legesenter",
+      "tlf": "23 15 86 50",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Synnøve Iren Haddal Carey",
+    "address": "Vetlandsveien 99, 0685 OSLO",
+    "metadata": {
+      "legekontor": "Østensjø Legesenter",
+      "tlf": "23 12 61 80",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Paloma Casado De Amezua Fernandez-Amigo",
+    "address": "Hegdehaugsveien 31, 0352 Oslo",
+    "metadata": {
+      "legekontor": "Hegdehaugen Legesenter AS",
+      "tlf": "22 95 50 10",
+      "antallPlasser": 1500
+    }
+  },
+  {
+    "title": "Marcel Chabané",
+    "address": "Trygve Lies plass 5, 1051 OSLO",
+    "metadata": {
+      "legekontor": "Furuset Legesenter DA",
+      "tlf": "22 90 71 70",
+      "antallPlasser": 1500
+    }
+  },
+  {
+    "title": "Sarah Elizabeth Chacko-George",
+    "address": "Silurveien 2, 0380 OSLO",
+    "metadata": {
+      "legekontor": "Legevakt Vest AS",
+      "tlf": "23 25 11 11",
+      "ledigePlasser": 250,
+      "antallPlasser": 1000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Monica Chahal-Kummen",
+    "address": "Lørenveien 68, 3 etg, 0585 OSLO",
+    "metadata": {
+      "legekontor": "Medical City, avd. Sinsenklinikken",
+      "tlf": "23 37 47 57",
+      "antallPlasser": 1220
+    }
+  },
+  {
+    "title": "Luqman Tasadduq Chaudhari",
+    "address": "Grefsenveien 28, 0482 Oslo",
+    "metadata": {
+      "legekontor": "Bentsebro legesenter",
+      "tlf": "23 18 31 00",
+      "ledigePlasser": 54,
+      "antallPlasser": 1400,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Amir Tauqir Chaudhary",
+    "address": "Trondheimsveien 100, 0565 OSLO",
+    "metadata": {
+      "legekontor": "Carl Berner Legekontor AS",
+      "tlf": "23 22 75 90",
+      "ledigePlasser": 187,
+      "antallPlasser": 500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Atif Ikram Chaudhry",
+    "address": "Kakkelovnskroken 1, 0954 Oslo",
+    "metadata": {
+      "legekontor": "Kalbakken Legegruppe",
+      "tlf": "22 25 34 72",
+      "antallPlasser": 1600
+    }
+  },
+  {
+    "title": "Gauhar Ayub Chaudhry",
+    "address": "Lørenveien 38, 0585 OSLO",
+    "metadata": {
+      "legekontor": "Lørenlegene AS",
+      "tlf": "969 24 222",
+      "antallPlasser": 1500
+    }
+  },
+  {
+    "title": "Gohar Majid Chaudhry",
+    "address": "Mortensrudveien 185, 1283 Oslo",
+    "metadata": {
+      "legekontor": "Kantarellen Legesenter",
+      "tlf": "22 76 33 60",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Claus Uhrenholt Christensen",
+    "address": "Trondheimsveien 184, 0570 OSLO",
+    "metadata": {
+      "legekontor": "Rosenhoff Legegruppe AS",
+      "tlf": "23 40 11 00",
+      "antallPlasser": 1500
+    }
+  },
+  {
+    "title": "Jon Christensen",
+    "address": "Harbitzalléen 2 A, 0275 OSLO",
+    "metadata": {
+      "legekontor": "Harbitzalléen Legesenter A/S",
+      "tlf": "22 51 58 58",
+      "ledigePlasser": 4,
+      "antallPlasser": 1300,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Monika Joanna Ciesla-Strauss",
+    "address": "Kakkelovnskroken 1, 0954 Oslo",
+    "metadata": {
+      "legekontor": "Kalbakken Legegruppe",
+      "tlf": "22 25 34 72",
+      "antallPlasser": 1250
+    }
+  },
+  {
+    "title": "Mette Clausen",
+    "address": "Haugerudsenteret 1, 0673 Oslo",
+    "metadata": {
+      "legekontor": "Haugerud legesenter AS",
+      "tlf": "22 90 58 50",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Stener Clausen",
+    "address": "Solhauggt 2, 0565 Oslo",
+    "metadata": {
+      "legekontor": "Rodeløkka Legesenter Fastlegegruppe",
+      "tlf": "24 13 13 00",
+      "ledigePlasser": 172,
+      "antallPlasser": 2000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Louise Camilla Collett",
+    "address": "Stallerudveien 97, 0693 Oslo",
+    "metadata": {
+      "legekontor": "Bogerud Legesenter",
+      "tlf": "21 06 31 50",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Frid Corwin",
+    "address": "Grønlandsleiret 23, 0190 Oslo",
+    "metadata": {
+      "legekontor": "Legene i Grønlandsleiret",
+      "tlf": "23 00 29 00",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Morten Klouman De La Cruz",
+    "address": "Lovisenberggata 15b, 0456",
+    "metadata": {
+      "legekontor": "Lovisenberggata Fastlegesenter DA",
+      "tlf": "22 99 20 40",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Holger Dahl",
+    "address": "Bygdøy allé 23, 0262 OSLO",
+    "metadata": {
+      "legekontor": "Centrum Fastlegegruppe AS",
+      "tlf": "22 41 41 20",
+      "ledigePlasser": 6,
+      "antallPlasser": 1400,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Ylva Ørstavik Dahl",
+    "address": "Vitaminveien 4, 4 etasje, 0485 Oslo",
+    "metadata": {
+      "legekontor": "Sagene lokalmedisinske senter",
+      "tlf": "23 39 18 10",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Elise Dale",
+    "address": "Slemdalsveien 72, 0373 Oslo",
+    "metadata": {
+      "legekontor": "Vinderen Legekontor DA",
+      "tlf": "22 70 39 50",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Troels Lindberg Danø",
+    "address": "Sognsveien 75B, 0855 OSLO",
+    "metadata": {
+      "legekontor": "Ullevål Stadion Legesenter",
+      "tlf": "23 00 86 70",
+      "antallPlasser": 1650
+    }
+  },
+  {
+    "title": "Jacob Darru",
+    "address": "Garver Ytterborgsv. 98D, 0977 OSLO",
+    "metadata": {
+      "legekontor": "Haugenstua Legesenter DA",
+      "tlf": "23 34 41 00",
+      "ledigePlasser": 296,
+      "antallPlasser": 1200,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Somaye Darvishi",
+    "address": "Armauer Hansens gate 14B, 0455 OSLO",
+    "metadata": {
+      "legekontor": "Lindernklinikken AS",
+      "tlf": "400 22 867",
+      "ledigePlasser": 63,
+      "antallPlasser": 1800,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Kinga Valeria Davotine Dr Kerekes",
+    "address": "Tvetenveien 150, 0671 Oslo",
+    "metadata": {
+      "legekontor": "Tveita Legesenter",
+      "tlf": "22 76 19 50",
+      "antallPlasser": 1500
+    }
+  },
+  {
+    "title": "Julian Ruben N Denil",
+    "address": "Akersgata 74, 0180 Oslo",
+    "metadata": {
+      "legekontor": "Kurbadet Legesenter",
+      "tlf": "23 35 30 50",
+      "antallPlasser": 1150
+    }
+  },
+  {
+    "title": "Ella Kristina Bibby Detlie",
+    "address": "HOLMENKOLLVEIEN 78B, 0784 OSLO",
+    "metadata": {
+      "legekontor": "Kragskogen Legesenter DA",
+      "tlf": "23 22 29 50",
+      "antallPlasser": 1500
+    }
+  },
+  {
+    "title": "Aleksander Halvorsen Diesen",
+    "address": "Sørkedalsveien 10 C, 0369 Oslo",
+    "metadata": {
+      "legekontor": "Colosseumklinikken Allmennseksjonen",
+      "tlf": "23 19 60 40",
+      "ledigePlasser": 333,
+      "antallPlasser": 2000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Doan Hop Dinh",
+    "address": "Bryn Senter Østensjøveien 79, 0667",
+    "metadata": {
+      "legekontor": "Bryn Senter Legekontor DA",
+      "tlf": "21 09 56 00",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Tam Thanh Doan Dinh",
+    "address": "Vestlisvingen 188, 0969 OSLO",
+    "metadata": {
+      "legekontor": "Vestli Legesenter",
+      "tlf": "23 34 41 20",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Knut Dissen",
+    "address": "Folkvangveien 26, 1086 OSLO",
+    "metadata": {
+      "legekontor": "Høybråten Legekontor",
+      "tlf": "23 34 44 00",
+      "antallPlasser": 1320
+    }
+  },
+  {
+    "title": "Danijela Dmitrovic",
+    "address": "Garver Ytterborgsv. 98D, 0977 OSLO",
+    "metadata": {
+      "legekontor": "Haugenstua Legesenter DA",
+      "tlf": "23 34 41 00",
+      "antallPlasser": 1250
+    }
+  },
+  {
+    "title": "Nam Hai Do",
+    "address": "Sandakerveien 59, 0477 Oslo",
+    "metadata": {
+      "legekontor": "Sandaker Legekontor",
+      "tlf": "23 39 58 00",
+      "ledigePlasser": 109,
+      "antallPlasser": 1100,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Huy Do-Vu",
+    "address": "Trygve Liesplass 1, 1051 Oslo",
+    "metadata": {
+      "legekontor": "Trygg Helse Legesenter DA",
+      "tlf": "23 14 39 90",
+      "antallPlasser": 1350
+    }
+  },
+  {
+    "title": "Cuu Van Duong",
+    "address": "Romsås senter 1, 0970 Oslo",
+    "metadata": {
+      "legekontor": "Romsås Legesenter",
+      "tlf": "21 61 96 00",
+      "ledigePlasser": 157,
+      "antallPlasser": 1100,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Kine Fredrikke Dyremyhr",
+    "address": "Solhauggt 2, 0565 Oslo",
+    "metadata": {
+      "legekontor": "Rodeløkka Legesenter Fastlegegruppe",
+      "tlf": "24 13 13 00",
+      "antallPlasser": 1400
+    }
+  },
+  {
+    "title": "Anne Louise Dæhlin",
+    "address": "Bertramjordet 25, 1251 Oslo",
+    "metadata": {
+      "legekontor": "Bertramjordet medisinske senter AS",
+      "tlf": "22 75 29 70",
+      "ledigePlasser": 4,
+      "antallPlasser": 500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Trond Daae-Johansen",
+    "address": "Lille Grensen 3, 0159 Oslo",
+    "metadata": {
+      "legekontor": "Lille Grensen Legesenter",
+      "tlf": "23 10 40 20",
+      "ledigePlasser": 14,
+      "antallPlasser": 2500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Peter Edison",
+    "address": "Bygdøy allé 23, 0262 OSLO",
+    "metadata": {
+      "legekontor": "Centrum Fastlegegruppe AS",
+      "tlf": "22 41 41 20",
+      "antallPlasser": 1400
+    }
+  },
+  {
+    "title": "Anne Lill Eide",
+    "address": "Sørkedalsveien 10 D, 0369 Oslo",
+    "metadata": {
+      "legekontor": "Fastlegene Colosseum",
+      "tlf": "23 68 17 50",
+      "antallPlasser": 1500
+    }
+  },
+  {
+    "title": "Sveinung Eide",
+    "address": "Bygdøy allé 23, 0262 OSLO",
+    "metadata": {
+      "legekontor": "Centrum Fastlegegruppe AS",
+      "tlf": "22 41 41 20",
+      "antallPlasser": 1400
+    }
+  },
+  {
+    "title": "Torunn Bjerve Eide",
+    "address": "Kirkevn. 64 B, 0364 OSLO",
+    "metadata": {
+      "legekontor": "Majorstuhuset legegruppe DA",
+      "tlf": "23 33 18 40",
+      "antallPlasser": 1070
+    }
+  },
+  {
+    "title": "Kari Lise Jacobsen Eidjar",
+    "address": "Silurveien 2, 0380 OSLO",
+    "metadata": {
+      "legekontor": "Legevakt Vest AS",
+      "tlf": "23 25 11 11",
+      "ledigePlasser": 205,
+      "antallPlasser": 1900,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Omar Shafqat Eikrem",
+    "address": "Niels Henrik Abels vei 2C, 0851 OSLO",
+    "metadata": {
+      "legekontor": "Ullevål Hageby Legesenter",
+      "ledigePlasser": 209,
+      "antallPlasser": 1450,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Frode Elsness",
+    "address": "Sørkedalsveien 10 D, 0369 Oslo",
+    "metadata": {
+      "legekontor": "Fastlegene Colosseum",
+      "tlf": "23 68 17 50",
+      "antallPlasser": 1500
+    }
+  },
+  {
+    "title": "Saleh Ahmed Eltigani",
+    "address": "Problemveien 9 / Holbergsgate 21 / Nydalsveien 37, 0314 OSLO",
+    "metadata": {
+      "legekontor": "SiO Helse",
+      "tlf": "22 85 33 00",
+      "ledigePlasser": 211,
+      "antallPlasser": 1035,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Tiril Børsting Karterud Elvestad",
+    "address": "Tore Hals Mejdells vei 8, 0751 Oslo",
+    "metadata": {
+      "legekontor": "Vestre Aker Legesenter",
+      "tlf": "22 51 41 71",
+      "antallPlasser": 1500
+    }
+  },
+  {
+    "title": "Arne Enge",
+    "address": "Oscars gate 12, 0352 Oslo",
+    "metadata": {
+      "legekontor": "Legene i Oscarsgate 12",
+      "tlf": "22 95 50 70",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Ingrid Eliassen Eriksen",
+    "address": "Drammensveien 130 B, 0277 OSLO",
+    "metadata": {
+      "legekontor": "Magnat Fastlegesenter AS",
+      "tlf": "22 60 62 00",
+      "antallPlasser": 1050
+    }
+  },
+  {
+    "title": "Thushani Eswaran",
+    "address": "Nedre Rommen 5, 0988 OSLO",
+    "metadata": {
+      "legekontor": "Stovner Legesenter AS",
+      "tlf": "23 34 41 40",
+      "ledigePlasser": 63,
+      "antallPlasser": 1200,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Cecilie Riiser Evje",
+    "address": "Cecilie Thoresens vei 17, 1153 OSLO",
+    "metadata": {
+      "legekontor": "Symra Legesenter AS",
+      "tlf": "22 28 03 11",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Henrik Bjørdal Evjen",
+    "address": "Kirkeveien 61, 0364 OSLO",
+    "metadata": {
+      "legekontor": "Majorstuen Legesenter",
+      "tlf": "22 69 96 88",
+      "antallPlasser": 1350
+    }
+  },
+  {
+    "title": "Ellen Anita Fagerberg",
+    "address": "Smedbergveien 5, 1187 Oslo",
+    "metadata": {
+      "legekontor": "Abildsø Legekontor",
+      "tlf": "23 38 37 70",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Arne Olav Sjøtun Fagermoen",
+    "address": "Vitaminveien 4, 4 etasje, 0485 Oslo",
+    "metadata": {
+      "legekontor": "Sagene lokalmedisinske senter",
+      "tlf": "23 39 18 10",
+      "antallPlasser": 415
+    }
+  },
+  {
+    "title": "Swaira Fahad",
+    "address": "Mellombølgen 47, 1157 Oslo",
+    "metadata": {
+      "legekontor": "Lambertseter Legesenter AS",
+      "tlf": "22 74 90 50",
+      "antallPlasser": 1600
+    }
+  },
+  {
+    "title": "Sadia Farooqi",
+    "address": "Nedre Rommen 5, 0988 OSLO",
+    "metadata": {
+      "legekontor": "Stovner Legesenter AS",
+      "tlf": "23 34 41 40",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Anders Ruud Fartum",
+    "address": "Rosenborggata 9, 0356 Oslo",
+    "metadata": {
+      "legekontor": "Fagerborglegene DA",
+      "tlf": "23 33 25 60",
+      "antallPlasser": 1400
+    }
+  },
+  {
+    "title": "Alireza Fathymehr",
+    "address": "Hovfaret 17a, 0275 OSLO",
+    "metadata": {
+      "legekontor": "Skøyen Helsesenter AS",
+      "tlf": "22 06 43 00",
+      "ledigePlasser": 8,
+      "antallPlasser": 1500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Vilde Catherine Feen",
+    "address": "Nedre Rommen 5, 0988 OSLO",
+    "metadata": {
+      "legekontor": "Stovner Legesenter AS",
+      "tlf": "23 34 41 40",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Amilton Moreira Fernandes",
+    "address": "Bøkkerveien 4, 0579 OSLO",
+    "metadata": {
+      "legekontor": "Frisk Legekontor",
+      "tlf": "21 45 63 63",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Sumith Fernando",
+    "address": "Granbergstubben 196, 1275 OSLO",
+    "metadata": {
+      "legekontor": "Bjørndal Legesenter AS",
+      "tlf": "22 75 34 80",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Arne Fetveit",
+    "address": "Frysjaveien 35, 0884 Oslo",
+    "metadata": {
+      "legekontor": "Kjelsås Legesenter",
+      "tlf": "22 09 20 00",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Helle Lee Elena Beck Figenschow",
+    "address": "Vitaminveien 4, 4 etasje, 0485 Oslo",
+    "metadata": {
+      "legekontor": "Sagene lokalmedisinske senter",
+      "tlf": "23 39 18 10",
+      "antallPlasser": 225
+    }
+  },
+  {
+    "title": "Espen Finsand",
+    "address": "Mellombølgen 47, 1157 Oslo",
+    "metadata": {
+      "legekontor": "Lambertseter Legesenter AS",
+      "tlf": "22 74 90 50",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Audun Finstad",
+    "address": "Sognsveien 77A, 0855 OSLO",
+    "metadata": {
+      "legekontor": "Ringen Livsstil og Legesenter AS",
+      "tlf": "22 22 42 42",
+      "ledigePlasser": 49,
+      "antallPlasser": 700,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Malin Teie Finstad",
+    "address": "Kjelsåsveien 160, inngang B, 0491 Oslo",
+    "metadata": {
+      "legekontor": "Frysja legekontor",
+      "tlf": "22 02 62 10",
+      "antallPlasser": 1250
+    }
+  },
+  {
+    "title": "Øystein Seth Fiskå",
+    "address": "Haakon Tveters vei 88, 0686 OSLO",
+    "metadata": {
+      "legekontor": "Østmarka legekontor AS",
+      "tlf": "22 26 61 40",
+      "antallPlasser": 1600
+    }
+  },
+  {
+    "title": "Andreas Fismen",
+    "address": "Fredrik Stangsgt. 11-13, 0264 Oslo",
+    "metadata": {
+      "legekontor": "Din Lege AS",
+      "tlf": "22 54 05 00",
+      "ledigePlasser": 9,
+      "antallPlasser": 2100,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Åsne Flatland",
+    "address": "Sofies gate 60, 0168 OSLO",
+    "metadata": {
+      "legekontor": "Bolteløkka Legesenter",
+      "tlf": "22 93 23 00",
+      "antallPlasser": 1050
+    }
+  },
+  {
+    "title": "Hanne-Mercedes Florø-Larsen",
+    "address": "Sognsveien 75B, 0855 OSLO",
+    "metadata": {
+      "legekontor": "Ullevål Stadion Legesenter",
+      "tlf": "23 00 86 70",
+      "antallPlasser": 500
+    }
+  },
+  {
+    "title": "Bjørn Olav Flaaten",
+    "address": "Haslevn. 38, 0571 Oslo",
+    "metadata": {
+      "legekontor": "Legene på Sinsen",
+      "tlf": "23 22 73 00",
+      "antallPlasser": 1500
+    }
+  },
+  {
+    "title": "Ragne Ingrid Foslien",
+    "address": "Bøkkerveien 4, 0579 OSLO",
+    "metadata": {
+      "legekontor": "Frisk Legekontor",
+      "tlf": "21 45 63 63",
+      "ledigePlasser": 9,
+      "antallPlasser": 1600,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Christina Stangeland Fredheim",
+    "address": "Haugerudsenteret 1, 0673 Oslo",
+    "metadata": {
+      "legekontor": "Haugerud legesenter AS",
+      "tlf": "22 90 58 50",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Jannicke Bjørklund Fredriksen",
+    "address": "Tore Hals Mejdells vei 8, 0751 Oslo",
+    "metadata": {
+      "legekontor": "Vestre Aker Legesenter",
+      "tlf": "22 51 41 71",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Nora Friis",
+    "address": "Problemveien 9 / Holbergsgate 21 / Nydalsveien 37, 0314 OSLO",
+    "metadata": {
+      "legekontor": "SiO Helse",
+      "tlf": "22 85 33 00",
+      "ledigePlasser": 9,
+      "antallPlasser": 1035,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Rolf Christofer Raddum Frog",
+    "address": "Slemdalsveien 72, 0373 Oslo",
+    "metadata": {
+      "legekontor": "Vinderen Legekontor DA",
+      "tlf": "22 70 39 50",
+      "antallPlasser": 1550
+    }
+  },
+  {
+    "title": "Sigbjørn Møystad Fønnebø",
+    "address": "Haakon Tveters vei 88, 0686 OSLO",
+    "metadata": {
+      "legekontor": "Østmarka legekontor AS",
+      "tlf": "22 26 61 40",
+      "antallPlasser": 1400
+    }
+  },
+  {
+    "title": "Anders Faaberg",
+    "address": "Lille Grensen 3, 0159 Oslo",
+    "metadata": {
+      "legekontor": "Lille Grensen Legesenter",
+      "tlf": "23 10 40 20",
+      "ledigePlasser": 39,
+      "antallPlasser": 2000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Kristian Ludvig Garvang",
+    "address": "Cecilie Thoresens vei 17, 1153 OSLO",
+    "metadata": {
+      "legekontor": "Symra Legesenter AS",
+      "tlf": "22 28 03 11",
+      "antallPlasser": 1150
+    }
+  },
+  {
+    "title": "Christine Helene Catherine Bjørge Getz De Bethencourt",
+    "address": "Slemdalsveien 1, 0369 OSLO",
+    "metadata": {
+      "legekontor": "Marienlyst Legesenter",
+      "tlf": "22 56 70 90",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Tone Cathrine Giercksky",
+    "address": "Sandakerveien 56G, 0477 OSLO",
+    "metadata": {
+      "legekontor": "Lilleborg Legekontor AS",
+      "antallPlasser": 1400
+    }
+  },
+  {
+    "title": "Zaman Ur Rehman Gilani",
+    "address": "Granbergstubben 196, 1275 OSLO",
+    "metadata": {
+      "legekontor": "Bjørndal Legesenter AS",
+      "tlf": "22 75 34 80",
+      "ledigePlasser": 435,
+      "antallPlasser": 1500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Helle Gjedebo",
+    "address": "Vetlandsveien 99, 0685 OSLO",
+    "metadata": {
+      "legekontor": "Østensjø Legesenter",
+      "tlf": "23 12 61 80",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Maren Gjerdåker",
+    "address": "Grønlandsleiret 23, 0190 Oslo",
+    "metadata": {
+      "legekontor": "Legene i Grønlandsleiret",
+      "tlf": "23 00 29 00",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Hakon Gjessing",
+    "address": "Kaj Munks vei 41, 0876 Oslo",
+    "metadata": {
+      "legekontor": "Tåsenklinikken",
+      "tlf": "23 00 59 40",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Mette Gjessing",
+    "address": "Ryenstubben 3, 0679 Oslo",
+    "metadata": {
+      "legekontor": "Ryenstubben legekontor",
+      "tlf": "23 12 51 51",
+      "antallPlasser": 1400
+    }
+  },
+  {
+    "title": "Kristin Haugen Gladsø",
+    "address": "Smedbergveien 5, 1187 Oslo",
+    "metadata": {
+      "legekontor": "Abildsø Legekontor",
+      "tlf": "23 38 37 70",
+      "antallPlasser": 1050
+    }
+  },
+  {
+    "title": "Suzana Gojkovic",
+    "address": "Ensjøveien 18, 0661 OSLO",
+    "metadata": {
+      "legekontor": "Vålerenga-Ensjø Helsesenter AS",
+      "tlf": "22 68 20 55",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Kerosha Meelhuijsen Gonaseelan",
+    "address": "Niels Henrik Abels vei 2C, 0851 OSLO",
+    "metadata": {
+      "legekontor": "Ullevål Hageby Legesenter",
+      "ledigePlasser": 98,
+      "antallPlasser": 1000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Maria Gorlova",
+    "address": "Trygve Liesplass 1, 1051 Oslo",
+    "metadata": {
+      "legekontor": "Trygg Helse Legesenter DA",
+      "tlf": "23 14 39 90",
+      "antallPlasser": 1400
+    }
+  },
+  {
+    "title": "Susanne Gotteberg",
+    "address": "Grünersgate 6-8, 0552 OSLO",
+    "metadata": {
+      "legekontor": "Markveien Legesenter",
+      "tlf": "23 40 86 00",
+      "antallPlasser": 1400
+    }
+  },
+  {
+    "title": "Ronny Granå",
+    "address": "Solhauggt 2, 0565 Oslo",
+    "metadata": {
+      "legekontor": "Rodeløkka Legesenter Fastlegegruppe",
+      "tlf": "24 13 13 00",
+      "antallPlasser": 1600
+    }
+  },
+  {
+    "title": "Tove Gridset",
+    "address": "Frysjaveien 35, 0884 Oslo",
+    "metadata": {
+      "legekontor": "Kjelsås Legesenter",
+      "tlf": "22 09 20 00",
+      "antallPlasser": 1150
+    }
+  },
+  {
+    "title": "Sara Ingegerd Eriksson Grodås",
+    "address": "Problemveien 9 / Holbergsgate 21 / Nydalsveien 37, 0314 OSLO",
+    "metadata": {
+      "legekontor": "SiO Helse",
+      "tlf": "22 85 33 00",
+      "ledigePlasser": 8,
+      "antallPlasser": 1150,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Christian Grorud",
+    "address": "Erich Mogensøns vei 38, 0594 Oslo",
+    "metadata": {
+      "legekontor": "Linde Legegruppe AS",
+      "tlf": "22 72 70 60",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Anette Nordeide Grytten",
+    "address": "Niels Henrik Abels vei 2C, 0851 OSLO",
+    "metadata": {
+      "legekontor": "Ullevål Hageby Legesenter",
+      "ledigePlasser": 18,
+      "antallPlasser": 1200,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Kamilla Grytten",
+    "address": "Solhauggt 2, 0565 Oslo",
+    "metadata": {
+      "legekontor": "Rodeløkka Legesenter Fastlegegruppe",
+      "tlf": "24 13 13 00",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Ingvild Marie Grøndalen",
+    "address": "Bryn Senter Østensjøveien 79, 0667",
+    "metadata": {
+      "legekontor": "Bryn Senter Legekontor DA",
+      "tlf": "21 09 56 00",
+      "antallPlasser": 1160
+    }
+  },
+  {
+    "title": "Linda Elise Øvrum Grønvold",
+    "address": "Frysjaveien 35, 0884 Oslo",
+    "metadata": {
+      "legekontor": "Kjelsås Legesenter",
+      "tlf": "22 09 20 00",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Terje Grøttum",
+    "address": "Frederik Stangs gate 11-13, 0264 OSLO",
+    "metadata": {
+      "legekontor": "Frogner Helsesenter",
+      "tlf": "22 54 71 00",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Knut Arne Gråbø",
+    "address": "Harbitzalléen 2 A, 0275 OSLO",
+    "metadata": {
+      "legekontor": "Harbitzalléen Legesenter A/S",
+      "tlf": "22 51 58 58",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Henrik Strand Gulbrandsen",
+    "address": "Sandstuveien 60 A, 1184 Oslo",
+    "metadata": {
+      "legekontor": "Brattlikollen Legesenter",
+      "tlf": "23 38 32 50",
+      "ledigePlasser": 4,
+      "antallPlasser": 1450,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Ingjerd Guldal",
+    "address": "Frysjaveien 35, 0884 Oslo",
+    "metadata": {
+      "legekontor": "Kjelsås Legesenter",
+      "tlf": "22 09 20 00",
+      "ledigePlasser": 98,
+      "antallPlasser": 1100,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Lars Kristian Gullestad",
+    "address": "Sørkedalsveien 10 C, 0369 Oslo",
+    "metadata": {
+      "legekontor": "Colosseumklinikken Allmennseksjonen",
+      "tlf": "23 19 60 40",
+      "ledigePlasser": 31,
+      "antallPlasser": 2500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Stig Olav Løset Gundersen",
+    "address": "Sven Bruns gate 3, 0166 OSLO",
+    "metadata": {
+      "legekontor": "Holbergs Plads Legesenter",
+      "tlf": "23 29 29 70",
+      "antallPlasser": 1450
+    }
+  },
+  {
+    "title": "Irfan Hadri",
+    "address": "Vinkelveien 7, 0870 OSLO",
+    "metadata": {
+      "legekontor": "Berg Legekontor DA",
+      "tlf": "22 58 19 85",
+      "ledigePlasser": 54,
+      "antallPlasser": 1350,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Torstein Hafsahl",
+    "address": "Frysjaveien 35, 0884 Oslo",
+    "metadata": {
+      "legekontor": "Kjelsås Legesenter",
+      "tlf": "22 09 20 00",
+      "ledigePlasser": 2,
+      "antallPlasser": 1150,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Syed Zulifqar Haider",
+    "address": "Romsås senter 1, 0970 Oslo",
+    "metadata": {
+      "legekontor": "Romsås Legesenter",
+      "tlf": "21 61 96 00",
+      "antallPlasser": 1400
+    }
+  },
+  {
+    "title": "Silje Halvorsen",
+    "address": "Ekebergveien 233, 1162 Oslo",
+    "metadata": {
+      "legekontor": "Sæter legegruppe",
+      "tlf": "23 13 40 50",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Katongola Hamba",
+    "address": "Garver Ytterborgsv. 98D, 0977 OSLO",
+    "metadata": {
+      "legekontor": "Haugenstua Legesenter DA",
+      "tlf": "23 34 41 00",
+      "antallPlasser": 1350
+    }
+  },
+  {
+    "title": "Diako Hamedi",
+    "address": "Ullern alle 28, 0381 OSLO",
+    "metadata": {
+      "legekontor": "Bjørnsletta Legesenter",
+      "tlf": "22 51 06 60",
+      "ledigePlasser": 358,
+      "antallPlasser": 1700,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Siv Selvik Hamre",
+    "address": "Karoline Kristiansens vei 3, 0661 OSLO",
+    "metadata": {
+      "legekontor": "Fyrstikktorget Legekontor",
+      "tlf": "23 24 43 30",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Maytham Salem Hamud Hamud",
+    "address": "Østensjøveien 36, 0667 Oslo",
+    "metadata": {
+      "legekontor": "Brynklinikken AS",
+      "tlf": "22 06 65 50",
+      "ledigePlasser": 135,
+      "antallPlasser": 1100,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Imama Hamza",
+    "address": "Ammerudveien 37, 0958 OSLO",
+    "metadata": {
+      "legekontor": "Grorud Legesenter",
+      "tlf": "22 82 10 60",
+      "ledigePlasser": 31,
+      "antallPlasser": 1050,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Johan Hana",
+    "address": "Sandstuveien 60 A, 1184 Oslo",
+    "metadata": {
+      "legekontor": "Brattlikollen Legesenter",
+      "tlf": "23 38 32 50",
+      "ledigePlasser": 78,
+      "antallPlasser": 500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Gunhild Hanssen",
+    "address": "Vitaminveien 7-9 4 Etg, Storosenteret, 0485 OSLO",
+    "metadata": {
+      "legekontor": "Storoklinikken",
+      "tlf": "22 09 88 88",
+      "ledigePlasser": 143,
+      "antallPlasser": 2000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Signe-Lise Hansson",
+    "address": "Garver Ytterborgsv. 98D, 0977 OSLO",
+    "metadata": {
+      "legekontor": "Haugenstua Legesenter DA",
+      "tlf": "23 34 41 00",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Bjørn Harbo",
+    "address": "Hoffsveien 15, 0275 OSLO",
+    "metadata": {
+      "legekontor": "Hoffsveien Legesenter",
+      "tlf": "23 25 49 90",
+      "ledigePlasser": 73,
+      "antallPlasser": 1200,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Guro Hattestad",
+    "address": "Frederik Stangs gate 11-13, 0264 OSLO",
+    "metadata": {
+      "legekontor": "Frogner Helsesenter",
+      "tlf": "22 54 71 00",
+      "antallPlasser": 1600
+    }
+  },
+  {
+    "title": "Stein Vidar Haudemann-Andersen",
+    "address": "Grefsenveien 28, 0482 Oslo",
+    "metadata": {
+      "legekontor": "Bentsebro legesenter",
+      "tlf": "23 18 31 00",
+      "ledigePlasser": 145,
+      "antallPlasser": 2000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Kari-Anne Haug",
+    "address": "Stallerudveien 97, 0693 Oslo",
+    "metadata": {
+      "legekontor": "Bogerud Legesenter",
+      "tlf": "21 06 31 50",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Tonje Helene Haugen",
+    "address": "Postboks 103, 0518",
+    "metadata": {
+      "legekontor": "Veitvet Legesenter",
+      "tlf": "22 80 41 80",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Erik Sole Haugsbø",
+    "address": "Hoffsveien 48, 0377 OSLO",
+    "metadata": {
+      "legekontor": "Ullern Legesenter",
+      "tlf": "22 51 11 00",
+      "antallPlasser": 1250
+    }
+  },
+  {
+    "title": "Ingrid Elise Amlie Hegertun",
+    "address": "Maridalsveien 300, 0872 OSLO",
+    "metadata": {
+      "legekontor": "Nydalen Legesenter DA",
+      "tlf": "22 15 70 00",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Eivind Heggedal",
+    "address": "Brugata 14, 0186 Oslo",
+    "metadata": {
+      "legekontor": "Lilletorget Legekontor",
+      "tlf": "22 17 81 00",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Tor Christian Hegna",
+    "address": "Kaj Munks vei 41, 0876 Oslo",
+    "metadata": {
+      "legekontor": "Tåsenklinikken",
+      "tlf": "23 00 59 40",
+      "ledigePlasser": 37,
+      "antallPlasser": 1400,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Daniel Jeng Hegnar",
+    "address": "Haugerudsenteret 1, 0673 Oslo",
+    "metadata": {
+      "legekontor": "Haugerud legesenter AS",
+      "tlf": "22 90 58 50",
+      "antallPlasser": 1250
+    }
+  },
+  {
+    "title": "Arnulf Heimdal",
+    "address": "Frysjaveien 35, 0884 Oslo",
+    "metadata": {
+      "legekontor": "Kjelsås Legesenter",
+      "tlf": "22 09 20 00",
+      "ledigePlasser": 5,
+      "antallPlasser": 1150,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Lars Hektoen",
+    "address": "Hoffsveien 48, 0377 OSLO",
+    "metadata": {
+      "legekontor": "Ullern Legesenter",
+      "tlf": "22 51 11 00",
+      "ledigePlasser": 29,
+      "antallPlasser": 1350,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Steinar Helberg",
+    "address": "Thereses gate 35B, 0354 OSLO",
+    "metadata": {
+      "legekontor": "Stensparken Medisinske Senter",
+      "tlf": "23 33 35 80",
+      "ledigePlasser": 677,
+      "antallPlasser": 2000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Ole Henning",
+    "address": "c/o Ole Henning Midtoddveien 9C, 0494 OSLO",
+    "metadata": {
+      "legekontor": "Kjelsåsmyra Legesenter AS",
+      "tlf": "934 72 050",
+      "ledigePlasser": 259,
+      "antallPlasser": 800,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Kathleen Susan Henriksen",
+    "address": "Problemveien 9 / Holbergsgate 21 / Nydalsveien 37, 0314 OSLO",
+    "metadata": {
+      "legekontor": "SiO Helse",
+      "tlf": "22 85 33 00",
+      "ledigePlasser": 206,
+      "antallPlasser": 1150,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Lydia Iren Waage Henriksen",
+    "address": "Maridalsveien 300, 0872 OSLO",
+    "metadata": {
+      "legekontor": "Nydalen Legesenter DA",
+      "tlf": "22 15 70 00",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Tuva Kolstad Hertzberg",
+    "address": "Vetlandsveien 99, 0685 OSLO",
+    "metadata": {
+      "legekontor": "Østensjø Legesenter",
+      "tlf": "23 12 61 80",
+      "antallPlasser": 580
+    }
+  },
+  {
+    "title": "Sjur Olav Hesla",
+    "address": "Solhauggt 2, 0565 Oslo",
+    "metadata": {
+      "legekontor": "Rodeløkka Legesenter Fastlegegruppe",
+      "tlf": "24 13 13 00",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Olaf Hesle",
+    "address": "Bygdøy allé 23, 0262 OSLO",
+    "metadata": {
+      "legekontor": "Centrum Fastlegegruppe AS",
+      "tlf": "22 41 41 20",
+      "ledigePlasser": 4,
+      "antallPlasser": 600,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Sara Hexspoor",
+    "address": "Hausmansgate 19, 0182 OSLO",
+    "metadata": {
+      "legekontor": "Grünerløkka Legesenter AS",
+      "tlf": "22 37 00 39",
+      "ledigePlasser": 13,
+      "antallPlasser": 2500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Marianne Hjortdahl",
+    "address": "Sørkedalsveien 90b, 0377 OSLO",
+    "metadata": {
+      "legekontor": "Smestad Legesenter",
+      "tlf": "23 25 44 44",
+      "antallPlasser": 1250
+    }
+  },
+  {
+    "title": "Martin Nguyen Cong Hoang",
+    "address": "Karoline Kristiansens vei 3, 0661 OSLO",
+    "metadata": {
+      "legekontor": "Fyrstikktorget Legekontor",
+      "tlf": "23 24 43 30",
+      "ledigePlasser": 303,
+      "antallPlasser": 2000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Christian Sigvald Hodnesdal",
+    "address": "Haakon Tveters vei 88, 0686 OSLO",
+    "metadata": {
+      "legekontor": "Østmarka legekontor AS",
+      "tlf": "22 26 61 40",
+      "ledigePlasser": 568,
+      "antallPlasser": 1000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Steven Hoel",
+    "address": "Maridalsveien 300, 0872 OSLO",
+    "metadata": {
+      "legekontor": "Nydalen Legesenter DA",
+      "tlf": "22 15 70 00",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Sigrid Wergeland Holtermann Holmen",
+    "address": "Tøyengata 2, 0190 OSLO",
+    "metadata": {
+      "legekontor": "Grønland Basar Legesenter",
+      "tlf": "23 15 86 50",
+      "antallPlasser": 1500
+    }
+  },
+  {
+    "title": "Aslak Holtestaul",
+    "address": "Lille Grensen 3, 0159 Oslo",
+    "metadata": {
+      "legekontor": "Lille Grensen Legesenter",
+      "tlf": "23 10 40 20",
+      "ledigePlasser": 46,
+      "antallPlasser": 1400,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Ragnar Holthe",
+    "address": "Brugata 14, 0186 Oslo",
+    "metadata": {
+      "legekontor": "Lilletorget Legekontor",
+      "tlf": "22 17 81 00",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Jan Arne Holtz",
+    "address": "Brannfjellveien 52, 1181 Oslo",
+    "metadata": {
+      "legekontor": "Ekeberg Legekontor",
+      "tlf": "22 67 09 64",
+      "ledigePlasser": 12,
+      "antallPlasser": 1500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Azitah Hosseini",
+    "address": "Gransdalen 29, 1054 Oslo",
+    "metadata": {
+      "legekontor": "Gransdalen Legesenter Drift AS",
+      "tlf": "22 90 26 26",
+      "ledigePlasser": 138,
+      "antallPlasser": 1100,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Hanna Hosseini",
+    "address": "Østensjøveien 36, 0667 Oslo",
+    "metadata": {
+      "legekontor": "Brynklinikken AS",
+      "tlf": "22 06 65 50",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Amna Hussain",
+    "address": "Kakkelovnskroken 3c, 0954 OSLO",
+    "metadata": {
+      "legekontor": "Rødtvedt Legesenter AS",
+      "tlf": "22 82 10 20",
+      "antallPlasser": 1050
+    }
+  },
+  {
+    "title": "Nusrat Hussain",
+    "address": "Bergensgata 12B, 0468 OSLO",
+    "metadata": {
+      "legekontor": "Sagene Allmennklinikk",
+      "tlf": "22 02 61 00",
+      "ledigePlasser": 72,
+      "antallPlasser": 1400,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Therese Thu Huynh",
+    "address": "Vestlisvingen 188, 0969 OSLO",
+    "metadata": {
+      "legekontor": "Vestli Legesenter",
+      "tlf": "23 34 41 20",
+      "ledigePlasser": 59,
+      "antallPlasser": 1300,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Ida Hveem",
+    "address": "Fredrik Stangsgt. 11-13, 0264 Oslo",
+    "metadata": {
+      "legekontor": "Din Lege AS",
+      "tlf": "22 54 05 00",
+      "antallPlasser": 2000
+    }
+  },
+  {
+    "title": "Anne Gurine Egeland Høie",
+    "address": "Problemveien 9 / Holbergsgate 21 / Nydalsveien 37, 0314 OSLO",
+    "metadata": {
+      "legekontor": "SiO Helse",
+      "tlf": "22 85 33 00",
+      "ledigePlasser": 14,
+      "antallPlasser": 1035,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Simen Høklie",
+    "address": "Niels Henrik Abels vei 2C, 0851 OSLO",
+    "metadata": {
+      "legekontor": "Ullevål Hageby Legesenter",
+      "ledigePlasser": 83,
+      "antallPlasser": 900,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Knut Magnus Haaland",
+    "address": "Erich Mogensøns vei 38, 0594 Oslo",
+    "metadata": {
+      "legekontor": "Linde Legegruppe AS",
+      "tlf": "22 72 70 60",
+      "ledigePlasser": 28,
+      "antallPlasser": 1050,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Sadia Ibrahim",
+    "address": "Ryenstubben 3, 0679 Oslo",
+    "metadata": {
+      "legekontor": "Ryen Legekontor AS",
+      "tlf": "23 03 78 80",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Maida Ilic",
+    "address": "Mellombølgen 47, 1157 Oslo",
+    "metadata": {
+      "legekontor": "Lambertseter Legesenter AS",
+      "tlf": "22 74 90 50",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Andrey Ilichev",
+    "address": "Utmarkveien 1, 0689 Oslo",
+    "metadata": {
+      "legekontor": "Bøler Legesenter AS",
+      "tlf": "22 75 71 00",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Fesal Ilyas",
+    "address": "Utmarkveien 1, 0689 Oslo",
+    "metadata": {
+      "legekontor": "Bøler Legesenter AS",
+      "tlf": "22 75 71 00",
+      "ledigePlasser": 721,
+      "antallPlasser": 1000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Babar Iqbal",
+    "address": "Bryn Senter Østensjøveien 79, 0667",
+    "metadata": {
+      "legekontor": "Bryn Senter Legekontor DA",
+      "tlf": "21 09 56 00",
+      "ledigePlasser": 395,
+      "antallPlasser": 1400,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Raja Khuram Iqbal",
+    "address": "Trondheimsveien 139B, 0570 OSLO",
+    "metadata": {
+      "legekontor": "Sinsen Legesenter AS",
+      "tlf": "23 12 18 80",
+      "ledigePlasser": 58,
+      "antallPlasser": 2300,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Raja Waseem Iqbal",
+    "address": "Trondheimsveien 139B, 0570 OSLO",
+    "metadata": {
+      "legekontor": "Sinsen Legesenter AS",
+      "tlf": "23 12 18 80",
+      "ledigePlasser": 188,
+      "antallPlasser": 500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Amir Roland Iranmanesh",
+    "address": "Drammensveien 130 B, 0277 OSLO",
+    "metadata": {
+      "legekontor": "Magnat Fastlegesenter AS",
+      "tlf": "22 60 62 00",
+      "ledigePlasser": 203,
+      "antallPlasser": 1150,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Parviz Nieuwenburg Izadi",
+    "address": "Vitaminveien 7-9 4 Etg, Storosenteret, 0485 OSLO",
+    "metadata": {
+      "legekontor": "Storoklinikken",
+      "tlf": "22 09 88 88",
+      "ledigePlasser": 154,
+      "antallPlasser": 2000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Nayab Jabbar",
+    "address": "Problemveien 9 / Holbergsgate 21 / Nydalsveien 37, 0314 OSLO",
+    "metadata": {
+      "legekontor": "SiO Helse",
+      "tlf": "22 85 33 00",
+      "ledigePlasser": 56,
+      "antallPlasser": 1150,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Britt Uhrenholdt Jacobsen",
+    "address": "Holmenveien 5H, 0374 Oslo",
+    "metadata": {
+      "legekontor": "Ris Legesenter",
+      "tlf": "23 22 21 50",
+      "antallPlasser": 1700
+    }
+  },
+  {
+    "title": "Frede Wælgaard Jacobsen",
+    "address": "Holmenveien 5H, 0374 Oslo",
+    "metadata": {
+      "legekontor": "Ris Legesenter",
+      "tlf": "23 22 21 50",
+      "antallPlasser": 1500
+    }
+  },
+  {
+    "title": "Staffan Reidar Jacobsen",
+    "address": "Lørenveien 38, 0585 OSLO",
+    "metadata": {
+      "legekontor": "Lørenlegene AS",
+      "tlf": "969 24 222",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Farshid Jahangosha",
+    "address": "Mortensrudveien 185, 1283 Oslo",
+    "metadata": {
+      "legekontor": "Kantarellen Legesenter",
+      "tlf": "22 76 33 60",
+      "ledigePlasser": 24,
+      "antallPlasser": 1650,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Maja Husa Jakobsen",
+    "address": "Haslevn. 38, 0571 Oslo",
+    "metadata": {
+      "legekontor": "Legene på Sinsen",
+      "tlf": "23 22 73 00",
+      "ledigePlasser": 6,
+      "antallPlasser": 680,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Kamer Jameel",
+    "address": "Ammerudveien 37, 0958 OSLO",
+    "metadata": {
+      "legekontor": "Grorud Legesenter",
+      "tlf": "22 82 10 60",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Robin Jareg",
+    "address": "Harbitzalléen 2 A, 0275 OSLO",
+    "metadata": {
+      "legekontor": "Harbitzalléen Legesenter A/S",
+      "tlf": "22 51 58 58",
+      "antallPlasser": 1500
+    }
+  },
+  {
+    "title": "Shahid Javaid",
+    "address": "Gladengveien 3b, 0661 Oslo",
+    "metadata": {
+      "legekontor": "Ensjøbyen Medisinske Senter",
+      "tlf": "21 05 08 05",
+      "ledigePlasser": 77,
+      "antallPlasser": 1800,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Kine Jessen",
+    "address": "Kongsveien 104, 1177 OSLO",
+    "metadata": {
+      "legekontor": "Best Helse Allmennleger",
+      "tlf": "987 02 359",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Thugica Jeyabalan",
+    "address": "Maridalsveien 323, 0872 OSLO",
+    "metadata": {
+      "legekontor": "Sterk Helse og Trening Nydalen AS",
+      "ledigePlasser": 92,
+      "antallPlasser": 500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Harald Gunnar Jodalen",
+    "address": "Nordstrandveien 62, 1164 Oslo",
+    "metadata": {
+      "legekontor": "Nordstrand Legesenter AS",
+      "tlf": "22 28 56 15",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Frode Grønn Johannesen",
+    "address": "Vetlandsveien 99, 0685 OSLO",
+    "metadata": {
+      "legekontor": "Østensjø Legesenter",
+      "tlf": "23 12 61 80",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Stig Rune Wesenberg Johannessen",
+    "address": "Pilestredet 75D, 0354 Oslo",
+    "metadata": {
+      "legekontor": "Norabakken Lege og Kiropraktorklinikk",
+      "tlf": "22 20 90 33",
+      "ledigePlasser": 2,
+      "antallPlasser": 1500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Terje Johansen",
+    "address": "Sandakerveien 56G, 0477 OSLO",
+    "metadata": {
+      "legekontor": "Lilleborg Legekontor AS",
+      "antallPlasser": 1450
+    }
+  },
+  {
+    "title": "Trine Sun Johansson",
+    "address": "Ravnåsveien 1, 1254 OSLO",
+    "metadata": {
+      "legekontor": "Oslo Syd Lokalmedisinske Senter",
+      "tlf": "21 53 35 50",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Christian Fredrik Heberg Johnsen",
+    "address": "Lilleakerveien 14, 0283 Oslo",
+    "metadata": {
+      "legekontor": "CC Vest legesenter",
+      "tlf": "22 50 05 80",
+      "ledigePlasser": 83,
+      "antallPlasser": 1950,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Magnus Espolin Johnson",
+    "address": "Sandakerveien 138, 0484 Oslo",
+    "metadata": {
+      "legekontor": "Øvre Nydalen Legesenter AS",
+      "tlf": "22 02 03 30",
+      "ledigePlasser": 14,
+      "antallPlasser": 1250,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Navdeep Kaur Jørdre",
+    "address": "Vetlandsveien 99, 0685 OSLO",
+    "metadata": {
+      "legekontor": "Østensjø Legesenter",
+      "tlf": "23 12 61 80",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Tone Jørgensen",
+    "address": "Kongsveien 104, 1177 OSLO",
+    "metadata": {
+      "legekontor": "Best Helse Allmennleger",
+      "tlf": "987 02 359",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Shivendra Nath Kakar",
+    "address": "Jerikoveien 5, 1067 OSLO",
+    "metadata": {
+      "legekontor": "Lindeberg Legesenter AS",
+      "tlf": "23 14 20 20",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Siamak Kalbasi",
+    "address": "Bogstadveien 51, 0366 OSLO",
+    "metadata": {
+      "legekontor": "Majorstuen Spesialist -og Fastlegekontor AS",
+      "tlf": "22 36 85 00",
+      "ledigePlasser": 145,
+      "antallPlasser": 2180,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Eivind Kamøy",
+    "address": "Frederik Stangs gate 11-13, 0264 OSLO",
+    "metadata": {
+      "legekontor": "Frogner Helsesenter",
+      "tlf": "22 54 71 00",
+      "antallPlasser": 1650
+    }
+  },
+  {
+    "title": "Sadia Sultana Kapur",
+    "address": "Trondheimsveien 2, Postboks 4778 Sofienberg, 0506 OSLO",
+    "metadata": {
+      "legekontor": "Schouslegene DA",
+      "tlf": "23 15 61 00",
+      "antallPlasser": 1500
+    }
+  },
+  {
+    "title": "Anne Signe Øren Karlsen",
+    "address": "Grünersgate 6-8, 0552 OSLO",
+    "metadata": {
+      "legekontor": "Markveien Legesenter",
+      "tlf": "23 40 86 00",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Svein Erik Karlseng",
+    "address": "Bentsebrugata 29A, 0469 OSLO",
+    "metadata": {
+      "legekontor": "Bjølsen Legesenter",
+      "tlf": "21 45 60 70",
+      "ledigePlasser": 183,
+      "antallPlasser": 2050,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Olav Karstad",
+    "address": "Lørenveien 68, 3 etg, 0585 OSLO",
+    "metadata": {
+      "legekontor": "Medical City, avd. Sinsenklinikken",
+      "tlf": "23 37 47 57",
+      "ledigePlasser": 295,
+      "antallPlasser": 1600,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Jagroop Kaur",
+    "address": "Kaj Munks vei 41, 0876 Oslo",
+    "metadata": {
+      "legekontor": "Tåsenklinikken",
+      "tlf": "23 00 59 40",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Jasjit Kaur",
+    "address": "Kongsveien 104, 1177 OSLO",
+    "metadata": {
+      "legekontor": "Best Helse Allmennleger",
+      "tlf": "987 02 359",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Navneet Kaur",
+    "address": "Karoline Kristiansens vei 3, 0661 OSLO",
+    "metadata": {
+      "legekontor": "Fyrstikktorget Legekontor",
+      "tlf": "23 24 43 30",
+      "ledigePlasser": 18,
+      "antallPlasser": 1800,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Sophia Kaushal",
+    "address": "Sveaveien 71, 1263 Oslo",
+    "metadata": {
+      "legekontor": "Prinsdal Legesenter",
+      "tlf": "22 62 29 29",
+      "antallPlasser": 1500
+    }
+  },
+  {
+    "title": "Sophia Kaushal",
+    "address": "Stasjonsveien 4, 0776 Oslo",
+    "metadata": {
+      "legekontor": "Slemdal Legesenter",
+      "tlf": "23 22 21 00",
+      "antallPlasser": 1700
+    }
+  },
+  {
+    "title": "Tasmia Anwar Khalid",
+    "address": "Ensjøveien 22, 0661 OSLO",
+    "metadata": {
+      "legekontor": "Ensjø Legesenter",
+      "tlf": "23 03 50 10",
+      "antallPlasser": 1350
+    }
+  },
+  {
+    "title": "Nargis Masood Khan",
+    "address": "Trygve Lies plass 5, 1051 OSLO",
+    "metadata": {
+      "legekontor": "Furuset Legesenter DA",
+      "tlf": "22 90 71 70",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Sohaib Khalil Khan",
+    "address": "Trondheimsveien 184, 0570 OSLO",
+    "metadata": {
+      "legekontor": "Rosenhoff Legegruppe AS",
+      "tlf": "23 40 11 00",
+      "ledigePlasser": 10,
+      "antallPlasser": 1600,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Faryal Khawar",
+    "address": "St. Halvards Plass 1, 0192",
+    "metadata": {
+      "legekontor": "Gamlebyen Legesenter",
+      "tlf": "23 23 49 50",
+      "antallPlasser": 1400
+    }
+  },
+  {
+    "title": "Khalid Khawar",
+    "address": "St. Halvards Plass 1, 0192",
+    "metadata": {
+      "legekontor": "Gamlebyen Legesenter",
+      "tlf": "23 23 49 50",
+      "ledigePlasser": 75,
+      "antallPlasser": 2200,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Kiran Khawar",
+    "address": "Lørenveien 38, 0585 OSLO",
+    "metadata": {
+      "legekontor": "Lørenlegene AS",
+      "tlf": "969 24 222",
+      "antallPlasser": 1400
+    }
+  },
+  {
+    "title": "Hossein Khorshidi",
+    "address": "Grønlandsleiret 31, 0190 OSLO",
+    "metadata": {
+      "legekontor": "Vital Legesenter AS",
+      "tlf": "400 04 782",
+      "ledigePlasser": 16,
+      "antallPlasser": 1750,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Mona Kidra",
+    "address": "Østensjøveien 36, 0667 Oslo",
+    "metadata": {
+      "legekontor": "Brynklinikken AS",
+      "tlf": "22 06 65 50",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Kirsten Strømme Kierulf-Vieira",
+    "address": "Rosenborggata 9, 0356 Oslo",
+    "metadata": {
+      "legekontor": "Fagerborglegene DA",
+      "tlf": "23 33 25 60",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Marthe Kilde-Arctander",
+    "address": "Sandstuveien 60 A, 1184 Oslo",
+    "metadata": {
+      "legekontor": "Brattlikollen Legesenter",
+      "tlf": "23 38 32 50",
+      "antallPlasser": 1080
+    }
+  },
+  {
+    "title": "Therese Kilvær-Halvorsen",
+    "address": "Lilleakerveien 14, 0283 Oslo",
+    "metadata": {
+      "legekontor": "CC Vest legesenter",
+      "tlf": "22 50 05 80",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Ole Bendik Kjellstad",
+    "address": "Geitmyrsveien 45B, 0455 Oslo",
+    "metadata": {
+      "legekontor": "Lovisenberg legesenter",
+      "tlf": "22 80 90 00",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Aida Kevelj Klafstad",
+    "address": "Problemveien 9 / Holbergsgate 21 / Nydalsveien 37, 0314 OSLO",
+    "metadata": {
+      "legekontor": "SiO Helse",
+      "tlf": "22 85 33 00",
+      "ledigePlasser": 17,
+      "antallPlasser": 1150,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Sigrid Klepaker",
+    "address": "Haslevn. 38, 0571 Oslo",
+    "metadata": {
+      "legekontor": "Legene på Sinsen",
+      "tlf": "23 22 73 00",
+      "ledigePlasser": 4,
+      "antallPlasser": 1400,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Dag Otto Kleppe",
+    "address": "Ensjøveien 18, 0661 OSLO",
+    "metadata": {
+      "legekontor": "Vålerenga-Ensjø Helsesenter AS",
+      "tlf": "22 68 20 55",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Eline Tannum Kloster",
+    "address": "Mellombølgen 47, 1157 Oslo",
+    "metadata": {
+      "legekontor": "Lambertseter Legesenter AS",
+      "tlf": "22 74 90 50",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Leoni Abrahamsen Kohn",
+    "address": "Kjelsåsveien 160, inngang B, 0491 Oslo",
+    "metadata": {
+      "legekontor": "Frysja legekontor",
+      "tlf": "22 02 62 10",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Mathias Øie Kolden",
+    "address": "Grønlandsleiret 23, 0190 Oslo",
+    "metadata": {
+      "legekontor": "Legene i Grønlandsleiret",
+      "tlf": "23 00 29 00",
+      "antallPlasser": 1050
+    }
+  },
+  {
+    "title": "Kristian Kolmannskog",
+    "address": "Ryenstubben 3, 0679 Oslo",
+    "metadata": {
+      "legekontor": "Ryen Legekontor AS",
+      "tlf": "23 03 78 80",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Kine Waaler Kolstad",
+    "address": "Sognsveien 75D, 0855 OSLO",
+    "metadata": {
+      "legekontor": "Stadion Medisinske Senter AS",
+      "tlf": "22 23 23 33",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Sesilie Zohra Ghafifi Kongshaug",
+    "address": "Solhauggt 2, 0565 Oslo",
+    "metadata": {
+      "legekontor": "Rodeløkka Legesenter Fastlegegruppe",
+      "tlf": "24 13 13 00",
+      "ledigePlasser": 73,
+      "antallPlasser": 1900,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Anette Maria Kopperud",
+    "address": "Problemveien 9 / Holbergsgate 21 / Nydalsveien 37, 0314 OSLO",
+    "metadata": {
+      "legekontor": "SiO Helse",
+      "tlf": "22 85 33 00",
+      "ledigePlasser": 243,
+      "antallPlasser": 1150,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Håkon Arild Kordahl",
+    "address": "Pilestredet 17, 0164 OSLO",
+    "metadata": {
+      "legekontor": "Dr Kordahl",
+      "tlf": "22 98 05 00",
+      "ledigePlasser": 650,
+      "antallPlasser": 1700,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Emila Kosaric-Kadragic",
+    "address": "Nedre Kalbakkvei 2A, 0950 OSLO",
+    "metadata": {
+      "legekontor": "Medisinsk Senter Kalbakken",
+      "tlf": "22 22 46 78",
+      "ledigePlasser": 145,
+      "antallPlasser": 2000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Velaug Aakre Kristoffersen",
+    "address": "Pilestredet Park 11 A, 0176 OSLO",
+    "metadata": {
+      "legekontor": "Legene på St.Hanshaugen AS",
+      "tlf": "23 19 60 80",
+      "antallPlasser": 1500
+    }
+  },
+  {
+    "title": "Adam Kubak",
+    "address": "Erichmogensøns vei 38, 0594 OSLO",
+    "metadata": {
+      "legekontor": "Linderud Legesenter DA",
+      "tlf": "22 88 17 00",
+      "ledigePlasser": 249,
+      "antallPlasser": 1800,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Cecilie Meyer Kværnø",
+    "address": "Pilestredet 75D, 0354 Oslo",
+    "metadata": {
+      "legekontor": "Norabakken Lege og Kiropraktorklinikk",
+      "tlf": "22 20 90 33",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Ola Kaarby",
+    "address": "Lilleakerveien 14, 0283 Oslo",
+    "metadata": {
+      "legekontor": "CC Vest legesenter",
+      "tlf": "22 50 05 80",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Dragan Labudovic",
+    "address": "Sveaveien 71, 1263 Oslo",
+    "metadata": {
+      "legekontor": "Prinsdal Legesenter",
+      "tlf": "22 62 29 29",
+      "antallPlasser": 1500
+    }
+  },
+  {
+    "title": "Sissel Bergflødt Lahna",
+    "address": "Vitaminveien 7-9 4 Etg, Storosenteret, 0485 OSLO",
+    "metadata": {
+      "legekontor": "Storoklinikken",
+      "tlf": "22 09 88 88",
+      "ledigePlasser": 95,
+      "antallPlasser": 2000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Niels Erik Landmark",
+    "address": "Fredrik Stangsgt. 11-13, 0264 Oslo",
+    "metadata": {
+      "legekontor": "Din Lege AS",
+      "tlf": "22 54 05 00",
+      "ledigePlasser": 7,
+      "antallPlasser": 1700,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Thor Helge Langsholdt",
+    "address": "Hausmannsgt.8F, 0182 Oslo",
+    "metadata": {
+      "legekontor": "Thor-Helge Langsholdt Legekontor",
+      "tlf": "22 11 52 30",
+      "ledigePlasser": 16,
+      "antallPlasser": 1950,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Christer Torgilstveit Larsen",
+    "address": "Slemdalsveien 1, 0369 OSLO",
+    "metadata": {
+      "legekontor": "Medpoint AS",
+      "tlf": "23 19 50 00",
+      "ledigePlasser": 106,
+      "antallPlasser": 2300,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Kristin Lan Ngoc Thi Le",
+    "address": "Lindeberg Næringsvei 10 A, 1067 Oslo",
+    "metadata": {
+      "legekontor": "Ellingsrudlegene AS",
+      "tlf": "22 90 54 60",
+      "ledigePlasser": 21,
+      "antallPlasser": 1000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Jon Tore Leithaug",
+    "address": "Haugerudsenteret 1, 0673 Oslo",
+    "metadata": {
+      "legekontor": "Haugerud legesenter AS",
+      "tlf": "22 90 58 50",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Tore Lenngren",
+    "address": "Kaj Munks vei 41, 0876 Oslo",
+    "metadata": {
+      "legekontor": "Tåsenklinikken",
+      "tlf": "23 00 59 40",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Hanne Margrete Lien",
+    "address": "Bøkkerveien 4, 0579 OSLO",
+    "metadata": {
+      "legekontor": "Frisk Legekontor",
+      "tlf": "21 45 63 63",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Henrik Lind",
+    "address": "Slemdalsveien 1, 0369 OSLO",
+    "metadata": {
+      "legekontor": "Medpoint AS",
+      "tlf": "23 19 50 00",
+      "ledigePlasser": 218,
+      "antallPlasser": 2200,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Trude Linja",
+    "address": "Bygdøy allé 23, 0262 OSLO",
+    "metadata": {
+      "legekontor": "Centrum Fastlegegruppe AS",
+      "tlf": "22 41 41 20",
+      "antallPlasser": 1400
+    }
+  },
+  {
+    "title": "Hans Theo Lisken",
+    "address": "Romsås senter 1, 0970 Oslo",
+    "metadata": {
+      "legekontor": "Romsås Legesenter",
+      "tlf": "21 61 96 00",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Samara Ahmad Lohan",
+    "address": "Årvollveien 23 E, 0590 OSLO",
+    "metadata": {
+      "legekontor": "Bjerke Legesenter",
+      "tlf": "23 37 13 30",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Shahid Ahmad Lohan",
+    "address": "Årvollveien 23 E, 0590 OSLO",
+    "metadata": {
+      "legekontor": "Bjerke Legesenter",
+      "tlf": "23 37 13 30",
+      "ledigePlasser": 142,
+      "antallPlasser": 1400,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Luna Cecilie Lu",
+    "address": "Gladengveien 3b, 0661 Oslo",
+    "metadata": {
+      "legekontor": "Ensjøbyen Medisinske Senter",
+      "tlf": "21 05 08 05",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Anne Karin Lysen",
+    "address": "Harbitzalléen 2 A, 0275 OSLO",
+    "metadata": {
+      "legekontor": "Harbitzalléen Legesenter A/S",
+      "tlf": "22 51 58 58",
+      "antallPlasser": 1250
+    }
+  },
+  {
+    "title": "Andreas Løfors",
+    "address": "Smedbergveien 5, 1187 Oslo",
+    "metadata": {
+      "legekontor": "Abildsø Legekontor",
+      "tlf": "23 38 37 70",
+      "ledigePlasser": 26,
+      "antallPlasser": 1500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Mons Kristian Løvfald",
+    "address": "Årvollveien 23 E, 0590 OSLO",
+    "metadata": {
+      "legekontor": "Bjerke Legesenter",
+      "tlf": "23 37 13 30",
+      "antallPlasser": 1050
+    }
+  },
+  {
+    "title": "Harald Eik Løvland",
+    "address": "Plogveien 6, 0667 OSLO",
+    "metadata": {
+      "legekontor": "Legegruppen Manglerud",
+      "tlf": "22 75 77 90",
+      "ledigePlasser": 5,
+      "antallPlasser": 1900,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Amir Yosef Madadi",
+    "address": "Ensjøveien 18, 0661 OSLO",
+    "metadata": {
+      "legekontor": "Vålerenga-Ensjø Helsesenter AS",
+      "tlf": "22 68 20 55",
+      "ledigePlasser": 217,
+      "antallPlasser": 1300,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Kathrine Madsen",
+    "address": "Ammerudveien 37, 0958 OSLO",
+    "metadata": {
+      "legekontor": "Grorud Legesenter",
+      "tlf": "22 82 10 60",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Juned Mahmood",
+    "address": "Grensesvingen 2, 0663 OSLO",
+    "metadata": {
+      "legekontor": "ABC Medisinske Senter",
+      "tlf": "24 09 04 20",
+      "ledigePlasser": 196,
+      "antallPlasser": 1350,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Hafiz Muhammad Mahmood-Ul-Hassan",
+    "address": "Ekebergveien 233, 1162 Oslo",
+    "metadata": {
+      "legekontor": "Sæter legegruppe",
+      "tlf": "23 13 40 50",
+      "ledigePlasser": 168,
+      "antallPlasser": 1500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Abeer Muner Mahmoud",
+    "address": "Motzfeldts gate 1, 0187 OSLO",
+    "metadata": {
+      "legekontor": "Grønland Helsesenteret  AS",
+      "tlf": "22 05 96 60",
+      "ledigePlasser": 259,
+      "antallPlasser": 2000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Adnan Majeed",
+    "address": "Lofsrudveien 6, 1281 OSLO",
+    "metadata": {
+      "legekontor": "Mortensrud Mediclinic AS",
+      "tlf": "23 19 19 00",
+      "ledigePlasser": 117,
+      "antallPlasser": 1300,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Tariq Majid",
+    "address": "Mortensrudveien 185, 1283 OSLO",
+    "metadata": {
+      "legekontor": "Valkyrien Legesenter DA",
+      "tlf": "22 61 00 01",
+      "ledigePlasser": 242,
+      "antallPlasser": 1300,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Madzida Maksumic-Maric",
+    "address": "Majorstukrysset legegruppe Bogstadveien 72, 0366 OSLO",
+    "metadata": {
+      "legekontor": "Majorstukrysset legegruppe",
+      "tlf": "22 95 55 90",
+      "antallPlasser": 1350
+    }
+  },
+  {
+    "title": "Arezou Malekshahian",
+    "address": "Sandakerveien 138, 0484 Oslo",
+    "metadata": {
+      "legekontor": "Øvre Nydalen Legesenter AS",
+      "tlf": "22 02 03 30",
+      "ledigePlasser": 241,
+      "antallPlasser": 1300,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Norin Malik",
+    "address": "Bergensveien 4, 0958 OSLO",
+    "metadata": {
+      "legekontor": "Groruddalen Legekontor",
+      "tlf": "22 25 21 00",
+      "ledigePlasser": 221,
+      "antallPlasser": 1000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Yasir Manzoor",
+    "address": "Trondheimsveien 184, 0570 OSLO",
+    "metadata": {
+      "legekontor": "Oslo Mediq AS",
+      "tlf": "21 39 07 11",
+      "ledigePlasser": 44,
+      "antallPlasser": 1950,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Slavoljub Markovic",
+    "address": "Romsås senter 1, 0970 Oslo",
+    "metadata": {
+      "legekontor": "Romsås Legesenter",
+      "tlf": "21 61 96 00",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Elyas Masoudi",
+    "address": "Skippergt 33 III, 0154 Oslo",
+    "metadata": {
+      "legekontor": "Christiania Medisinske Senter AS",
+      "tlf": "22 44 08 00",
+      "ledigePlasser": 458,
+      "antallPlasser": 1500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Daniel Christopher Mc Fadden",
+    "address": "Ullern alle 28, 0381 OSLO",
+    "metadata": {
+      "legekontor": "Bjørnsletta Legesenter",
+      "tlf": "22 51 06 60",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Samuel John Mcmanus",
+    "address": "Majorstukrysset legegruppe Bogstadveien 72, 0366 OSLO",
+    "metadata": {
+      "legekontor": "Majorstukrysset legegruppe",
+      "tlf": "22 95 55 90",
+      "ledigePlasser": 118,
+      "antallPlasser": 1500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Maria Hollund Mehlum",
+    "address": "Pilestredet 75D, 0354 Oslo",
+    "metadata": {
+      "legekontor": "Norabakken Lege og Kiropraktorklinikk",
+      "tlf": "22 20 90 33",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Christine Rønneberg Mehren",
+    "address": "Rosenborggata 9, 0356 Oslo",
+    "metadata": {
+      "legekontor": "Fagerborglegene DA",
+      "tlf": "23 33 25 60",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Tahira Gilani Mehrnawaz",
+    "address": "Brugata 14, 0186 Oslo",
+    "metadata": {
+      "legekontor": "Lilletorget Legekontor",
+      "tlf": "22 17 81 00",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Sheranti Michelle Bernadette De Mel",
+    "address": "Pilestredet Park 11 A, 0176 OSLO",
+    "metadata": {
+      "legekontor": "Legene på St.Hanshaugen AS",
+      "tlf": "23 19 60 80",
+      "antallPlasser": 1500
+    }
+  },
+  {
+    "title": "Kine Meum",
+    "address": "Ryenstubben 3, 0679 Oslo",
+    "metadata": {
+      "legekontor": "Ryen Legekontor AS",
+      "tlf": "23 03 78 80",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Marko Radosav Milanovic",
+    "address": "Motzfeldts gate 1, 0187 OSLO",
+    "metadata": {
+      "legekontor": "Grønland Helsesenteret  AS",
+      "tlf": "22 05 96 60",
+      "ledigePlasser": 215,
+      "antallPlasser": 1900,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Huma Mir",
+    "address": "Tvetenveien 217, 0675 OSLO",
+    "metadata": {
+      "legekontor": "Alna legesenter",
+      "tlf": "22 90 92 90",
+      "ledigePlasser": 55,
+      "antallPlasser": 1200,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Ljiljana Mirkovic",
+    "address": "St.Olavs gate 3 C, 0165 OSLO",
+    "metadata": {
+      "legekontor": "St. Olav Medisinske",
+      "tlf": "22 03 34 44",
+      "ledigePlasser": 179,
+      "antallPlasser": 800,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Ambrin Mirza",
+    "address": "Veitvetveien 8, 0596 Oslo",
+    "metadata": {
+      "legekontor": "Veitvetklinikken",
+      "tlf": "22 80 39 60",
+      "ledigePlasser": 59,
+      "antallPlasser": 1300,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Soudeh Mizan",
+    "address": "Grønlandsleiret 31, 0190 OSLO",
+    "metadata": {
+      "legekontor": "Vital Legesenter AS",
+      "tlf": "400 04 782",
+      "ledigePlasser": 218,
+      "antallPlasser": 1500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Annikken Moer",
+    "address": "Drammensveien 130 B, 0277 OSLO",
+    "metadata": {
+      "legekontor": "Magnat Fastlegesenter AS",
+      "tlf": "22 60 62 00",
+      "ledigePlasser": 40,
+      "antallPlasser": 1250,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Sangeetha Moganadas",
+    "address": "Kakkelovnskroken 3c, 0954 OSLO",
+    "metadata": {
+      "legekontor": "Rødtvedt Legesenter AS",
+      "tlf": "22 82 10 20",
+      "ledigePlasser": 90,
+      "antallPlasser": 1400,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Reza Amiry Moghadam",
+    "address": "Trygve Lies plass 5, 1051 OSLO",
+    "metadata": {
+      "legekontor": "Furuset Legesenter DA",
+      "tlf": "22 90 71 70",
+      "ledigePlasser": 7,
+      "antallPlasser": 1500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Catherine Molandsveen",
+    "address": "Vinkelveien 7, 0870 OSLO",
+    "metadata": {
+      "legekontor": "Berg Legekontor DA",
+      "tlf": "22 58 19 85",
+      "ledigePlasser": 20,
+      "antallPlasser": 1250,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Frode Morken",
+    "address": "Kaj Munks vei 41, 0876 Oslo",
+    "metadata": {
+      "legekontor": "Tåsenklinikken",
+      "tlf": "23 00 59 40",
+      "antallPlasser": 1700
+    }
+  },
+  {
+    "title": "Kjell Moss",
+    "address": "Trondheimsveien 184, 0570 OSLO",
+    "metadata": {
+      "legekontor": "Rosenhoff Legegruppe AS",
+      "tlf": "23 40 11 00",
+      "ledigePlasser": 10,
+      "antallPlasser": 1200,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Zahid Mukhtar",
+    "address": "Sandakerveien 59, 0477 Oslo",
+    "metadata": {
+      "legekontor": "Sandaker Legekontor",
+      "tlf": "23 39 58 00",
+      "ledigePlasser": 158,
+      "antallPlasser": 1000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Behaylu Yitbarek Muluneh",
+    "address": "Pilestredet Park 11 A, 0176 OSLO",
+    "metadata": {
+      "legekontor": "Legene på St.Hanshaugen AS",
+      "tlf": "23 19 60 80",
+      "antallPlasser": 1500
+    }
+  },
+  {
+    "title": "Mikkel Mundal",
+    "address": "Slemdalsveien 1, 0369 OSLO",
+    "metadata": {
+      "legekontor": "Marienlyst Legesenter",
+      "tlf": "22 56 70 90",
+      "ledigePlasser": 480,
+      "antallPlasser": 1500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Herman Wadel Munthe-Kaas",
+    "address": "Kaj Munks vei 41, 0876 Oslo",
+    "metadata": {
+      "legekontor": "Tåsenklinikken",
+      "tlf": "23 00 59 40",
+      "ledigePlasser": 51,
+      "antallPlasser": 1350,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Shah Murad",
+    "address": "Veitvetveien 8, 0596 Oslo",
+    "metadata": {
+      "legekontor": "Veitvetklinikken",
+      "tlf": "22 80 39 60",
+      "ledigePlasser": 108,
+      "antallPlasser": 1300,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Gudmund Noddeland Myhren",
+    "address": "Bentsebrugata 29A, 0469 OSLO",
+    "metadata": {
+      "legekontor": "Bjølsen Legesenter",
+      "tlf": "21 45 60 70",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Tonje Elin Høgdahl Mysen",
+    "address": "Sandakerveien 138, 0484 Oslo",
+    "metadata": {
+      "legekontor": "Øvre Nydalen Legesenter AS",
+      "tlf": "22 02 03 30",
+      "antallPlasser": 1150
+    }
+  },
+  {
+    "title": "Marianne Møllerop",
+    "address": "Kongsveien 104, 1177 OSLO",
+    "metadata": {
+      "legekontor": "Best Helse Allmennleger",
+      "tlf": "987 02 359",
+      "antallPlasser": 1950
+    }
+  },
+  {
+    "title": "Harald Edvard Mølmen",
+    "address": "Sognsveien 75D, 0855 OSLO",
+    "metadata": {
+      "legekontor": "Stadion Medisinske Senter AS",
+      "tlf": "22 23 23 33",
+      "ledigePlasser": 79,
+      "antallPlasser": 1400,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Sara Rana Nasreen",
+    "address": "Gransdalen 29, 1054 Oslo",
+    "metadata": {
+      "legekontor": "Gransdalen Legesenter Drift AS",
+      "tlf": "22 90 26 26",
+      "ledigePlasser": 206,
+      "antallPlasser": 1200,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Odd Arne Nesbakken",
+    "address": "Tvetenveien 150, 0671 Oslo",
+    "metadata": {
+      "legekontor": "Tveita Legesenter",
+      "tlf": "22 76 19 50",
+      "antallPlasser": 1500
+    }
+  },
+  {
+    "title": "Kyrre Flatø Nessa",
+    "address": "Sven Bruns gate 3, 0166 OSLO",
+    "metadata": {
+      "legekontor": "Holbergs Plads Legesenter",
+      "tlf": "23 29 29 70",
+      "ledigePlasser": 5,
+      "antallPlasser": 1800,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Hallstein Netland",
+    "address": "Nedre Rommen 5, 0988 OSLO",
+    "metadata": {
+      "legekontor": "Stovner Legesenter AS",
+      "tlf": "23 34 41 40",
+      "antallPlasser": 1250
+    }
+  },
+  {
+    "title": "Cao-Tri Nguyen",
+    "address": "Drammensveien 130 B, 0277 OSLO",
+    "metadata": {
+      "legekontor": "Magnat Fastlegesenter AS",
+      "tlf": "22 60 62 00",
+      "ledigePlasser": 145,
+      "antallPlasser": 1500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Mohammad Umer Niaz",
+    "address": "Vestlisvingen 188, 0969 OSLO",
+    "metadata": {
+      "legekontor": "Vestli Legesenter",
+      "tlf": "23 34 41 20",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Nuriyah Noori",
+    "address": "Jerikoveien 5, 1067 OSLO",
+    "metadata": {
+      "legekontor": "Lindeberg Legesenter AS",
+      "tlf": "23 14 20 20",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Abdul Nuru",
+    "address": "Ivar Knutsons Vei 58, 1161 OSLO",
+    "metadata": {
+      "legekontor": "Nordseter Legekontor AS",
+      "tlf": "23 16 83 90",
+      "ledigePlasser": 223,
+      "antallPlasser": 1300,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Sara Nuru",
+    "address": "Ivar Knutsons Vei 58, 1161 OSLO",
+    "metadata": {
+      "legekontor": "Nordseter Legekontor AS",
+      "tlf": "23 16 83 90",
+      "ledigePlasser": 20,
+      "antallPlasser": 1350,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Jess Pedersen Nymark",
+    "address": "Ekebergveien 233, 1162 Oslo",
+    "metadata": {
+      "legekontor": "Sæter legegruppe",
+      "tlf": "23 13 40 50",
+      "antallPlasser": 1450
+    }
+  },
+  {
+    "title": "Monica Nilsdatter Nyquist",
+    "address": "Brynsengveien 2, 0667 OSLO",
+    "metadata": {
+      "legekontor": "Brynsenglegene AS",
+      "tlf": "22 72 78 50",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Kjersti Nøkleby",
+    "address": "Vetlandsveien 99, 0685 OSLO",
+    "metadata": {
+      "legekontor": "Østensjø Legesenter",
+      "tlf": "23 12 61 80",
+      "antallPlasser": 570
+    }
+  },
+  {
+    "title": "Ingvild Ohm",
+    "address": "Kjelsåsveien 160, inngang B, 0491 Oslo",
+    "metadata": {
+      "legekontor": "Frysja legekontor",
+      "tlf": "22 02 62 10",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Gunnar Frode Olsen",
+    "address": "Mortensrudveien 185, 1283 Oslo",
+    "metadata": {
+      "legekontor": "Kantarellen Legesenter",
+      "tlf": "22 76 33 60",
+      "ledigePlasser": 75,
+      "antallPlasser": 950,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Godwin Chimezie Onuegbu",
+    "address": "Trygve Lies plass 5, 1051 OSLO",
+    "metadata": {
+      "legekontor": "Furuset Legesenter DA",
+      "tlf": "22 90 71 70",
+      "ledigePlasser": 193,
+      "antallPlasser": 1500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Linda Grønvold Opedal",
+    "address": "Kaj Munks vei 41, 0876 Oslo",
+    "metadata": {
+      "legekontor": "Tåsenklinikken",
+      "tlf": "23 00 59 40",
+      "ledigePlasser": 10,
+      "antallPlasser": 1000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Elisabeth Meyer Opsahl",
+    "address": "Pilestredet 75D, 0354 Oslo",
+    "metadata": {
+      "legekontor": "Norabakken Lege og Kiropraktorklinikk",
+      "tlf": "22 20 90 33",
+      "antallPlasser": 1400
+    }
+  },
+  {
+    "title": "Tobias Borgen Ore",
+    "address": "Hans Nielsen Haugesgate 37E, 0481 OSLO",
+    "metadata": {
+      "legekontor": "Torshovdalen Legesenter AS",
+      "tlf": "22 09 76 00",
+      "antallPlasser": 1600
+    }
+  },
+  {
+    "title": "Trond Helge Orlin",
+    "address": "St.Olavs gate 3 C, 0165 OSLO",
+    "metadata": {
+      "legekontor": "St. Olav Medisinske",
+      "tlf": "22 03 34 44",
+      "ledigePlasser": 130,
+      "antallPlasser": 2000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Mildre Orphee Suarez",
+    "address": "Håkon Tvetersvei 8, 0682 OSLO",
+    "metadata": {
+      "legekontor": "Skøyenåsenlegene AS",
+      "tlf": "22 75 72 70",
+      "ledigePlasser": 102,
+      "antallPlasser": 1500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Thea Caroline Ottersen",
+    "address": "Postboks 103, 0518",
+    "metadata": {
+      "legekontor": "Veitvet Legesenter",
+      "tlf": "22 80 41 80",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Jan Andreas Saxlund Pahle",
+    "address": "Sofies gate 60, 0168 OSLO",
+    "metadata": {
+      "legekontor": "Bolteløkka Legesenter",
+      "tlf": "22 93 23 00",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Hanna Pederstad",
+    "address": "Problemveien 9 / Holbergsgate 21 / Nydalsveien 37, 0314 OSLO",
+    "metadata": {
+      "legekontor": "SiO Helse",
+      "tlf": "22 85 33 00",
+      "ledigePlasser": 139,
+      "antallPlasser": 1150,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Kambiz Persley",
+    "address": "Hegdehaugsveien 36A, 0352 OSLO",
+    "metadata": {
+      "legekontor": "Oslo Helse",
+      "tlf": "481 78 957",
+      "ledigePlasser": 246,
+      "antallPlasser": 1150,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Anna Maria Persvold",
+    "address": "Asperudveien 67, 1255 Oslo",
+    "metadata": {
+      "legekontor": "Alpha legegruppe",
+      "tlf": "22 76 39 90",
+      "antallPlasser": 1500
+    }
+  },
+  {
+    "title": "Søren Sandager Petersen",
+    "address": "Geitmyrsveien 45B, 0455 Oslo",
+    "metadata": {
+      "legekontor": "Lovisenberg legesenter",
+      "tlf": "22 80 90 00",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Øystein Pettersen",
+    "address": "Grünersgate 6-8, 0552 OSLO",
+    "metadata": {
+      "legekontor": "Markveien Legesenter",
+      "tlf": "23 40 86 00",
+      "antallPlasser": 1350
+    }
+  },
+  {
+    "title": "Ingunn Ajer Petterson",
+    "address": "Smedbergveien 5, 1187 Oslo",
+    "metadata": {
+      "legekontor": "Abildsø Legekontor",
+      "tlf": "23 38 37 70",
+      "antallPlasser": 1075
+    }
+  },
+  {
+    "title": "Anna Phinga Pham",
+    "address": "Helga Vaneks vei 3B, 1281 OSLO",
+    "metadata": {
+      "legekontor": "Mortensrud Medisinske Senter",
+      "tlf": "21 63 16 16",
+      "antallPlasser": 1600
+    }
+  },
+  {
+    "title": "Quang Hien Pham",
+    "address": "Kakkelovnskroken 1, 0954 Oslo",
+    "metadata": {
+      "legekontor": "Kalbakken Legegruppe",
+      "tlf": "22 25 34 72",
+      "ledigePlasser": 83,
+      "antallPlasser": 1900,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Margarette De Jesus Pinto Dos Santos",
+    "address": "Brynsengveien 2, 0667 OSLO",
+    "metadata": {
+      "legekontor": "Brynsenglegene AS",
+      "tlf": "22 72 78 50",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Tapakron Plyton",
+    "address": "Asperudveien 61/67, 1255 Oslo",
+    "metadata": {
+      "legekontor": "Holmlia Legesenter",
+      "tlf": "22 75 20 60",
+      "ledigePlasser": 177,
+      "antallPlasser": 1350,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Kajandran Pulenthiran",
+    "address": "Nedre Rommen 5, 0988 OSLO",
+    "metadata": {
+      "legekontor": "Stovner Legesenter AS",
+      "tlf": "23 34 41 40",
+      "ledigePlasser": 458,
+      "antallPlasser": 1200,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Morten Pytte",
+    "address": "Bentsebrugata 29A, 0469 OSLO",
+    "metadata": {
+      "legekontor": "Bjølsen Legesenter",
+      "tlf": "21 45 60 70",
+      "ledigePlasser": 134,
+      "antallPlasser": 1500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Rehman Ul-Haq Qazi",
+    "address": "Haugerudsenteret 1, 0673 Oslo",
+    "metadata": {
+      "legekontor": "Haugerud legesenter AS",
+      "tlf": "22 90 58 50",
+      "antallPlasser": 1250
+    }
+  },
+  {
+    "title": "Mirjana Radevic",
+    "address": "Postboks 103, 0518",
+    "metadata": {
+      "legekontor": "Veitvet Legesenter",
+      "tlf": "22 80 41 80",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Milan Radisavljevic",
+    "address": "Hegdehaugsveien 31, 0352 Oslo",
+    "metadata": {
+      "legekontor": "Hegdehaugen Legesenter AS",
+      "tlf": "22 95 50 10",
+      "ledigePlasser": 1025,
+      "antallPlasser": 2000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Arrjun Ragavan",
+    "address": "Grefsenveien 28, 0482 Oslo",
+    "metadata": {
+      "legekontor": "Bentsebro legesenter",
+      "tlf": "23 18 31 00",
+      "antallPlasser": 1700
+    }
+  },
+  {
+    "title": "Mary Dayana Ragulan",
+    "address": "Plogveien 6, 0667 OSLO",
+    "metadata": {
+      "legekontor": "Legegruppen Manglerud",
+      "tlf": "22 75 77 90",
+      "antallPlasser": 1500
+    }
+  },
+  {
+    "title": "Aman Jassal Rai",
+    "address": "Haslevn. 38, 0571 Oslo",
+    "metadata": {
+      "legekontor": "Legene på Sinsen",
+      "tlf": "23 22 73 00",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Adeel Jamshed Rana",
+    "address": "Nedre Rommen 5, 0988 OSLO",
+    "metadata": {
+      "legekontor": "Stovner Legesenter AS",
+      "tlf": "23 34 41 40",
+      "antallPlasser": 1250
+    }
+  },
+  {
+    "title": "Gulshan Rana",
+    "address": "Nedre Rommen 5, 0988 OSLO",
+    "metadata": {
+      "legekontor": "Stovner Legesenter AS",
+      "tlf": "23 34 41 40",
+      "ledigePlasser": 122,
+      "antallPlasser": 1200,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Haroon-Ur Rashid",
+    "address": "Asperudveien 67, 1255 Oslo",
+    "metadata": {
+      "legekontor": "Alpha legegruppe",
+      "tlf": "22 76 39 90",
+      "ledigePlasser": 142,
+      "antallPlasser": 1300,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Kaveh Rashidi",
+    "address": "Geitmyrsveien 45B, 0455 Oslo",
+    "metadata": {
+      "legekontor": "Lovisenberg legesenter",
+      "tlf": "22 80 90 00",
+      "antallPlasser": 1400
+    }
+  },
+  {
+    "title": "Rattan Singh Rattan",
+    "address": "Nedre Rommen 5, 0988 OSLO",
+    "metadata": {
+      "legekontor": "Stovner Legesenter AS",
+      "tlf": "23 34 41 40",
+      "ledigePlasser": 232,
+      "antallPlasser": 1250,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Brynjar Reberg",
+    "address": "Kirkevn. 64 B, 0364 OSLO",
+    "metadata": {
+      "legekontor": "Majorstuhuset legegruppe DA",
+      "tlf": "23 33 18 40",
+      "ledigePlasser": 22,
+      "antallPlasser": 1950,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Midhat-Tur Rehman",
+    "address": "Hausmansgate 19, 0182 OSLO",
+    "metadata": {
+      "legekontor": "Grünerløkka Legesenter AS",
+      "tlf": "22 37 00 39",
+      "ledigePlasser": 2463,
+      "antallPlasser": 2500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Ingvild Silja Veiby Rekdal",
+    "address": "Haugerudsenteret 1, 0673 Oslo",
+    "metadata": {
+      "legekontor": "Haugerud legesenter AS",
+      "tlf": "22 90 58 50",
+      "antallPlasser": 975
+    }
+  },
+  {
+    "title": "Syeda Ayesha Riaz",
+    "address": "Plogveien 6, 0667 OSLO",
+    "metadata": {
+      "legekontor": "Legegruppen Manglerud",
+      "tlf": "22 75 77 90",
+      "ledigePlasser": 163,
+      "antallPlasser": 1250,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Carl Marcus Riiber",
+    "address": "Majorstukrysset legegruppe Bogstadveien 72, 0366 OSLO",
+    "metadata": {
+      "legekontor": "Majorstukrysset legegruppe",
+      "tlf": "22 95 55 90",
+      "ledigePlasser": 129,
+      "antallPlasser": 1450,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Jan Olav Frederic Rivelsrud",
+    "address": "Kongsveien 104, 1177 OSLO",
+    "metadata": {
+      "legekontor": "Best Helse Allmennleger",
+      "tlf": "987 02 359",
+      "ledigePlasser": 395,
+      "antallPlasser": 2000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Silje Annette Løseth Rivrud",
+    "address": "Drammensveien 130 B, 0277 OSLO",
+    "metadata": {
+      "legekontor": "Magnat Fastlegesenter AS",
+      "tlf": "22 60 62 00",
+      "ledigePlasser": 14,
+      "antallPlasser": 650,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Rebeca Raquel Del Rey Rodriquez",
+    "address": "Ensjøveien 22, 0661 OSLO",
+    "metadata": {
+      "legekontor": "Ensjø Legesenter",
+      "tlf": "23 03 50 10",
+      "ledigePlasser": 88,
+      "antallPlasser": 1200,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Jolanta Roessink",
+    "address": "Erichmogensøns vei 38, 0594 OSLO",
+    "metadata": {
+      "legekontor": "Linderud Legesenter DA",
+      "tlf": "22 88 17 00",
+      "antallPlasser": 1800
+    }
+  },
+  {
+    "title": "Silje Iranmanesh Roland",
+    "address": "Drammensveien 130 B, 0277 OSLO",
+    "metadata": {
+      "legekontor": "Magnat Fastlegesenter AS",
+      "tlf": "22 60 62 00",
+      "ledigePlasser": 96,
+      "antallPlasser": 1050,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Ingrid Rolfsjord",
+    "address": "Harbitzalléen 2 A, 0275 OSLO",
+    "metadata": {
+      "legekontor": "Harbitzalléen Legesenter A/S",
+      "tlf": "22 51 58 58",
+      "antallPlasser": 1400
+    }
+  },
+  {
+    "title": "Otto Sandsdalen Romfo",
+    "address": "Kaj Munks vei 41, 0876 Oslo",
+    "metadata": {
+      "legekontor": "Tåsenklinikken",
+      "tlf": "23 00 59 40",
+      "ledigePlasser": 50,
+      "antallPlasser": 1450,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Stine Haagensen Rosenkvist",
+    "address": "Stallerudveien 97, 0693 Oslo",
+    "metadata": {
+      "legekontor": "Bogerud Legesenter",
+      "tlf": "21 06 31 50",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Alexander Brana Rosic",
+    "address": "Sandakerveien 138, 0484 Oslo",
+    "metadata": {
+      "legekontor": "Øvre Nydalen Legesenter AS",
+      "tlf": "22 02 03 30",
+      "ledigePlasser": 44,
+      "antallPlasser": 1400,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Cathrine Rossland",
+    "address": "Haugerudsenteret 1, 0673 Oslo",
+    "metadata": {
+      "legekontor": "Haugerud legesenter AS",
+      "tlf": "22 90 58 50",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Camilla Rubach",
+    "address": "Erich Mogensøns vei 38, 0594 Oslo",
+    "metadata": {
+      "legekontor": "Linde Legegruppe AS",
+      "tlf": "22 72 70 60",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Elisabeth Helene Rud",
+    "address": "Disenveien 31, 0587 OSLO",
+    "metadata": {
+      "legekontor": "Nedre Grefsen Legegruppe",
+      "tlf": "23 39 68 00",
+      "ledigePlasser": 24,
+      "antallPlasser": 1400,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Linda Rui",
+    "address": "Hovfaret 17a, 0275 OSLO",
+    "metadata": {
+      "legekontor": "Skøyen Helsesenter AS",
+      "tlf": "22 06 43 00",
+      "antallPlasser": 1600
+    }
+  },
+  {
+    "title": "Anne Ruud",
+    "address": "Akersgata 74, 0180 Oslo",
+    "metadata": {
+      "legekontor": "Kurbadet Legesenter",
+      "tlf": "23 35 30 50",
+      "ledigePlasser": 3,
+      "antallPlasser": 1150,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Elisabeth Johanne Neumann Rødland",
+    "address": "Smedgata 49, 0651 Oslo",
+    "metadata": {
+      "legekontor": "Enerhaugen Legene AS",
+      "tlf": "21 95 30 60",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Brit Eli Raanaa",
+    "address": "Mortensrudveien 185, 1283 Oslo",
+    "metadata": {
+      "legekontor": "Kantarellen Legesenter",
+      "tlf": "22 76 33 60",
+      "antallPlasser": 1380
+    }
+  },
+  {
+    "title": "Giti Sabalani",
+    "address": "Romsås senter 1, 0970 Oslo",
+    "metadata": {
+      "legekontor": "Romsås Legesenter",
+      "tlf": "21 61 96 00",
+      "ledigePlasser": 173,
+      "antallPlasser": 1400,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Naila Saddique",
+    "address": "Sørkedalsveien 150 A, 0754 Oslo",
+    "metadata": {
+      "legekontor": "Husebyskogen Medisinske Senter",
+      "tlf": "22 92 30 00",
+      "ledigePlasser": 131,
+      "antallPlasser": 1500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Sana Saeed",
+    "address": "Grensesvingen 2, 0663 OSLO",
+    "metadata": {
+      "legekontor": "ABC Medisinske Senter",
+      "tlf": "24 09 04 20",
+      "ledigePlasser": 80,
+      "antallPlasser": 1100,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Haleh Saeedi",
+    "address": "Lørenveien 68, 3 etg, 0585 OSLO",
+    "metadata": {
+      "legekontor": "Medical City, avd. Sinsenklinikken",
+      "tlf": "23 37 47 57",
+      "ledigePlasser": 14,
+      "antallPlasser": 1200,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Hicham Safiani",
+    "address": "Stasjonsveien 69, 0771 OSLO",
+    "metadata": {
+      "legekontor": "Huseby Legesenter",
+      "tlf": "22 70 33 60",
+      "ledigePlasser": 253,
+      "antallPlasser": 1500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Nabil Tareq Saleem",
+    "address": "Utmarkveien 1, 0689 Oslo",
+    "metadata": {
+      "legekontor": "Bøler Legesenter AS",
+      "tlf": "22 75 71 00",
+      "ledigePlasser": 217,
+      "antallPlasser": 1400,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Waleed Ben Saleem",
+    "address": "Trondheimsveien 2, Postboks 4778 Sofienberg, 0506 OSLO",
+    "metadata": {
+      "legekontor": "Schouslegene DA",
+      "tlf": "23 15 61 00",
+      "ledigePlasser": 256,
+      "antallPlasser": 1500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Keiwan Salimi",
+    "address": "Cecilie Thoresens vei 17, 1153 OSLO",
+    "metadata": {
+      "legekontor": "Symra Legesenter AS",
+      "tlf": "22 28 03 11",
+      "ledigePlasser": 174,
+      "antallPlasser": 900,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Charlotte Amy Salter",
+    "address": "Sognsveien 77A, 0855 OSLO",
+    "metadata": {
+      "legekontor": "Ringen Livsstil og Legesenter AS",
+      "tlf": "22 22 42 42",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Ola Sand",
+    "address": "Kongsveien 104, 1177 OSLO",
+    "metadata": {
+      "legekontor": "Best Helse Allmennleger",
+      "tlf": "987 02 359",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Paal Sand",
+    "address": "Ekebergveien 233, 1162 Oslo",
+    "metadata": {
+      "legekontor": "Sæter legegruppe",
+      "tlf": "23 13 40 50",
+      "antallPlasser": 1400
+    }
+  },
+  {
+    "title": "Astrid Marie Sandberg",
+    "address": "Kongsveien 104, 1177 OSLO",
+    "metadata": {
+      "legekontor": "Best Helse Allmennleger",
+      "tlf": "987 02 359",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Ida Marie Skumlien Sandvand",
+    "address": "Ekebergveien 233, 1162 Oslo",
+    "metadata": {
+      "legekontor": "Sæter legegruppe",
+      "tlf": "23 13 40 50",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Anders Sandvei",
+    "address": "Problemveien 9 / Holbergsgate 21 / Nydalsveien 37, 0314 OSLO",
+    "metadata": {
+      "legekontor": "SiO Helse",
+      "tlf": "22 85 33 00",
+      "ledigePlasser": 20,
+      "antallPlasser": 460,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Aman Gosal Sangar",
+    "address": "Nordstrandveien 62, 1164 Oslo",
+    "metadata": {
+      "legekontor": "Nordstrand Legesenter AS",
+      "tlf": "22 28 56 15",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Ruchika Sarna",
+    "address": "Mellombølgen 47, 1157 Oslo",
+    "metadata": {
+      "legekontor": "Lambertseter Legesenter AS",
+      "tlf": "22 74 90 50",
+      "antallPlasser": 1500
+    }
+  },
+  {
+    "title": "Elise Marie Mathiesen Sars",
+    "address": "Sandakerveien 56G, 0477 OSLO",
+    "metadata": {
+      "legekontor": "Lilleborg Legekontor AS",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Rosa Elaha Sayed",
+    "address": "Trondheimsveien 391, 0953 Oslo",
+    "metadata": {
+      "legekontor": "Kalbakkenklinikken",
+      "tlf": "481 64 814",
+      "ledigePlasser": 324,
+      "antallPlasser": 1000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Paul Dautovic Schmidt",
+    "address": "Stallerudveien 97, 0693 Oslo",
+    "metadata": {
+      "legekontor": "Bogerud Legesenter",
+      "tlf": "21 06 31 50",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Siri Dautovic Schmidt",
+    "address": "Stallerudveien 97, 0693 Oslo",
+    "metadata": {
+      "legekontor": "Bogerud Legesenter",
+      "tlf": "21 06 31 50",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Linn Therese Schreiner",
+    "address": "Problemveien 9 / Holbergsgate 21 / Nydalsveien 37, 0314 OSLO",
+    "metadata": {
+      "legekontor": "SiO Helse",
+      "tlf": "22 85 33 00",
+      "ledigePlasser": 349,
+      "antallPlasser": 1150,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Junicel Siren Myhrvold Schønning",
+    "address": "Lovisenberggt. 7C, 0456 OSLO",
+    "metadata": {
+      "legekontor": "St. Hanshaugen legesenter",
+      "tlf": "23 47 22 20",
+      "antallPlasser": 950
+    }
+  },
+  {
+    "title": "Kathrine Holth Schaathun",
+    "address": "Lindeberg Næringsvei 10 A, 1067 Oslo",
+    "metadata": {
+      "legekontor": "Ellingsrudlegene AS",
+      "tlf": "22 90 54 60",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Else Camilla Angell Sekne",
+    "address": "Sandstuveien 60 A, 1184 Oslo",
+    "metadata": {
+      "legekontor": "Brattlikollen Legesenter",
+      "tlf": "23 38 32 50",
+      "antallPlasser": 1250
+    }
+  },
+  {
+    "title": "Kristin Sundsvold Selmer",
+    "address": "Grünersgate 6-8, 0552 OSLO",
+    "metadata": {
+      "legekontor": "Markveien Legesenter",
+      "tlf": "23 40 86 00",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Elena Igorevna Semenenko",
+    "address": "Romsås senter 1, 0970 Oslo",
+    "metadata": {
+      "legekontor": "Romsås Legesenter",
+      "tlf": "21 61 96 00",
+      "ledigePlasser": 4,
+      "antallPlasser": 800,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Hasib Hussain Shah",
+    "address": "Folkvangveien 26, 1086 OSLO",
+    "metadata": {
+      "legekontor": "Høybråten Legekontor",
+      "tlf": "23 34 44 00",
+      "antallPlasser": 1220
+    }
+  },
+  {
+    "title": "Mohammad Sharif",
+    "address": "MOTZFELDTS GT 10, 0187 OSLO",
+    "metadata": {
+      "legekontor": "Jordal Amfi Fastlegekontor",
+      "tlf": "22 08 08 90",
+      "ledigePlasser": 384,
+      "antallPlasser": 1800,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Sunder Sharma",
+    "address": "Utmarkveien 1, 0689 Oslo",
+    "metadata": {
+      "legekontor": "Bøler Legesenter AS",
+      "tlf": "22 75 71 00",
+      "ledigePlasser": 115,
+      "antallPlasser": 900,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Shahelia Sharmin",
+    "address": "Kakkelovnskroken 3c, 0954 OSLO",
+    "metadata": {
+      "legekontor": "Rødtvedt Legesenter AS",
+      "tlf": "22 82 10 20",
+      "ledigePlasser": 205,
+      "antallPlasser": 900,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Nadia Shaukat",
+    "address": "Trondheimsveien 2, Postboks 4778 Sofienberg, 0506 OSLO",
+    "metadata": {
+      "legekontor": "Schouslegene DA",
+      "tlf": "23 15 61 00",
+      "antallPlasser": 1500
+    }
+  },
+  {
+    "title": "Umer Ahmed Sheikh",
+    "address": "Pilestredet Park 11 A, 0176 OSLO",
+    "metadata": {
+      "legekontor": "Legene på St.Hanshaugen AS",
+      "tlf": "23 19 60 80",
+      "antallPlasser": 750
+    }
+  },
+  {
+    "title": "Farrukh Tasnem Sherani",
+    "address": "Trondheimsveien 100, 0565 OSLO",
+    "metadata": {
+      "legekontor": "Carl Berner Legekontor AS",
+      "tlf": "23 22 75 90",
+      "ledigePlasser": 101,
+      "antallPlasser": 2000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Chikomborero Linnea Benedicte Skjævesland Shumba",
+    "address": "Plogveien 6, 0667 OSLO",
+    "metadata": {
+      "legekontor": "Legegruppen Manglerud",
+      "tlf": "22 75 77 90",
+      "antallPlasser": 1400
+    }
+  },
+  {
+    "title": "Linda Siddiqi",
+    "address": "Pilestredet Park 11 A, 0176 OSLO",
+    "metadata": {
+      "legekontor": "Legene på St.Hanshaugen AS",
+      "tlf": "23 19 60 80",
+      "ledigePlasser": 11,
+      "antallPlasser": 700,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Fjola Dögg Hugberg Sigurdardottir",
+    "address": "Hovfaret 17a, 0275 OSLO",
+    "metadata": {
+      "legekontor": "Skøyen Helsesenter AS",
+      "tlf": "22 06 43 00",
+      "antallPlasser": 1400
+    }
+  },
+  {
+    "title": "Tarique Sikder",
+    "address": "Stasjonsveien 69, 0771 OSLO",
+    "metadata": {
+      "legekontor": "Huseby Legesenter",
+      "tlf": "22 70 33 60",
+      "ledigePlasser": 98,
+      "antallPlasser": 1650,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Erik Silgjerd",
+    "address": "Brynsengveien 2, 0667 OSLO",
+    "metadata": {
+      "legekontor": "Brynsenglegene AS",
+      "tlf": "22 72 78 50",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Mathilde Simonnes",
+    "address": "Theodor Dahls vei 1, 0370 Oslo",
+    "metadata": {
+      "legekontor": "Borgen Legesenter",
+      "tlf": "22 96 09 60",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Navneet Singh",
+    "address": "Asperudveien 67, 1255 Oslo",
+    "metadata": {
+      "legekontor": "Alpha legegruppe",
+      "tlf": "22 76 39 90",
+      "ledigePlasser": 27,
+      "antallPlasser": 1600,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Shruti Prabhu Singh",
+    "address": "Ensjøveien 22, 0661 OSLO",
+    "metadata": {
+      "legekontor": "Ensjø Legesenter",
+      "tlf": "23 03 50 10",
+      "antallPlasser": 1340
+    }
+  },
+  {
+    "title": "Henrik Siverts",
+    "address": "Grefsenveien 28, 0482 Oslo",
+    "metadata": {
+      "legekontor": "Bentsebro legesenter",
+      "tlf": "23 18 31 00",
+      "antallPlasser": 950
+    }
+  },
+  {
+    "title": "Øyvind Stople Sivertsen",
+    "address": "Bentsebrugata 29A, 0469 OSLO",
+    "metadata": {
+      "legekontor": "Bjølsen Legesenter",
+      "tlf": "21 45 60 70",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Kaisa Katariina Sivonen",
+    "address": "Frysjaveien 35, 0884 Oslo",
+    "metadata": {
+      "legekontor": "Kjelsås Legesenter",
+      "tlf": "22 09 20 00",
+      "antallPlasser": 800
+    }
+  },
+  {
+    "title": "Elin Skagestad",
+    "address": "Postboks 103, 0518",
+    "metadata": {
+      "legekontor": "Veitvet Legesenter",
+      "tlf": "22 80 41 80",
+      "ledigePlasser": 44,
+      "antallPlasser": 1400,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Jørgen Skavlan",
+    "address": "Fredrik Stangsgt. 11-13, 0264 Oslo",
+    "metadata": {
+      "legekontor": "Din Lege AS",
+      "tlf": "22 54 05 00",
+      "antallPlasser": 1400
+    }
+  },
+  {
+    "title": "Eli Ringstad Skeid",
+    "address": "Maridalsveien 300, 0872 OSLO",
+    "metadata": {
+      "legekontor": "Nydalen Legesenter DA",
+      "tlf": "22 15 70 00",
+      "ledigePlasser": 9,
+      "antallPlasser": 1250,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Kristina Sigrid Skøien",
+    "address": "Problemveien 9 / Holbergsgate 21 / Nydalsveien 37, 0314 OSLO",
+    "metadata": {
+      "legekontor": "SiO Helse",
+      "tlf": "22 85 33 00",
+      "ledigePlasser": 11,
+      "antallPlasser": 920,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Svein Slagsvold",
+    "address": "Stallerudveien 97, 0693 Oslo",
+    "metadata": {
+      "legekontor": "Bogerud Legesenter",
+      "tlf": "21 06 31 50",
+      "ledigePlasser": 62,
+      "antallPlasser": 1300,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Bård Slinde",
+    "address": "Kjelsåsveien 160, inngang B, 0491 Oslo",
+    "metadata": {
+      "legekontor": "Frysja legekontor",
+      "tlf": "22 02 62 10",
+      "ledigePlasser": 129,
+      "antallPlasser": 1800,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Geir Sneen",
+    "address": "Lille Grensen 3, 0159 Oslo",
+    "metadata": {
+      "legekontor": "Lille Grensen Legesenter",
+      "tlf": "23 10 40 20",
+      "ledigePlasser": 5,
+      "antallPlasser": 2000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Kristine Selmer Solbakken",
+    "address": "Sørkedalsveien 150 A, 0754 Oslo",
+    "metadata": {
+      "legekontor": "Husebyskogen Medisinske Senter",
+      "tlf": "22 92 30 00",
+      "antallPlasser": 1600
+    }
+  },
+  {
+    "title": "Hedda Solerød",
+    "address": "Utmarkveien 2, 0689 OSLO",
+    "metadata": {
+      "legekontor": "Utmarkveien Legekontor",
+      "tlf": "22 75 73 00",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Stein Anders Solgård",
+    "address": "Hans Nielsen Haugesgate 37E, 0481 OSLO",
+    "metadata": {
+      "legekontor": "Torshovdalen Legesenter AS",
+      "tlf": "22 09 76 00",
+      "antallPlasser": 1600
+    }
+  },
+  {
+    "title": "Gøril Guttormsen Sollie",
+    "address": "Vitaminveien 4, 4 etasje, 0485 Oslo",
+    "metadata": {
+      "legekontor": "Sagene lokalmedisinske senter",
+      "tlf": "23 39 18 10",
+      "antallPlasser": 635
+    }
+  },
+  {
+    "title": "Morten Sortebogen",
+    "address": "Thereses gate 35B, 0354 OSLO",
+    "metadata": {
+      "legekontor": "Stensparken Medisinske Senter",
+      "tlf": "23 33 35 80",
+      "ledigePlasser": 142,
+      "antallPlasser": 1600,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Rebekka Sperling",
+    "address": "Fredrik Stangsgt. 11-13, 0264 Oslo",
+    "metadata": {
+      "legekontor": "Din Lege AS",
+      "tlf": "22 54 05 00",
+      "antallPlasser": 1800
+    }
+  },
+  {
+    "title": "Britta Spies",
+    "address": "Pilestredet 75D, 0354 Oslo",
+    "metadata": {
+      "legekontor": "Norabakken Lege og Kiropraktorklinikk",
+      "tlf": "22 20 90 33",
+      "antallPlasser": 1500
+    }
+  },
+  {
+    "title": "Eva Marianne Sponnich",
+    "address": "Lindeberg Næringsvei 10 A, 1067 Oslo",
+    "metadata": {
+      "legekontor": "Ellingsrudlegene AS",
+      "tlf": "22 90 54 60",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Nirosha Srikumar",
+    "address": "Hans Nielsen Haugesgate 37E, 0481 OSLO",
+    "metadata": {
+      "legekontor": "Torshovdalen Legesenter AS",
+      "tlf": "22 09 76 00",
+      "antallPlasser": 1600
+    }
+  },
+  {
+    "title": "Georg Stang",
+    "address": "Fredrik Stangsgt. 11-13, 0264 Oslo",
+    "metadata": {
+      "legekontor": "Din Lege AS",
+      "tlf": "22 54 05 00",
+      "ledigePlasser": 63,
+      "antallPlasser": 1400,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Anna Stavdal",
+    "address": "Sofies gate 60, 0168 OSLO",
+    "metadata": {
+      "legekontor": "Bolteløkka Legesenter",
+      "tlf": "22 93 23 00",
+      "antallPlasser": 1350
+    }
+  },
+  {
+    "title": "Øyvind Steen-Nøringset",
+    "address": "Stasjonsveien 4, 0776 Oslo",
+    "metadata": {
+      "legekontor": "Slemdal Legesenter",
+      "tlf": "23 22 21 00",
+      "antallPlasser": 1650
+    }
+  },
+  {
+    "title": "Henrik Steenfeldt-Foss",
+    "address": "Sørkedalsveien 10 C, 0369 Oslo",
+    "metadata": {
+      "legekontor": "Colosseumklinikken Allmennseksjonen",
+      "tlf": "23 19 60 40",
+      "antallPlasser": 1350
+    }
+  },
+  {
+    "title": "Tora Margrethe Zimmer Stensvold",
+    "address": "Kongsveien 104, 1177 OSLO",
+    "metadata": {
+      "legekontor": "Best Helse Allmennleger",
+      "tlf": "987 02 359",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Svein Stiksrud",
+    "address": "Fredrik Stangsgt. 11-13, 0264 Oslo",
+    "metadata": {
+      "legekontor": "Din Lege AS",
+      "tlf": "22 54 05 00",
+      "ledigePlasser": 99,
+      "antallPlasser": 2500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Dragan Stjepanovic",
+    "address": "Gladengveien 3b, 0661 Oslo",
+    "metadata": {
+      "legekontor": "Ensjøbyen Medisinske Senter",
+      "tlf": "21 05 08 05",
+      "antallPlasser": 1800
+    }
+  },
+  {
+    "title": "Yngvild Dovland Stokke",
+    "address": "Skippergata 31, 0154 OSLO",
+    "metadata": {
+      "legekontor": "Arkaden legesenter",
+      "tlf": "23 35 90 00",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "André Storm-Larsen",
+    "address": "Sognsveien 75B, 0855 OSLO",
+    "metadata": {
+      "legekontor": "Ullevål Stadion Legesenter",
+      "tlf": "23 00 86 70",
+      "ledigePlasser": 288,
+      "antallPlasser": 2300,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Sirill Marie Birkheim Storvik",
+    "address": "Drammensveien 130 B, 0277 OSLO",
+    "metadata": {
+      "legekontor": "Magnat Fastlegesenter AS",
+      "tlf": "22 60 62 00",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Øyvind Bjerkreim Strand",
+    "address": "Sørkedalsveien 10 D, 0369 Oslo",
+    "metadata": {
+      "legekontor": "Fastlegene Colosseum",
+      "tlf": "23 68 17 50",
+      "antallPlasser": 1500
+    }
+  },
+  {
+    "title": "Kamilla Strandheim",
+    "address": "Lørenveien 68, 3 etg, 0585 OSLO",
+    "metadata": {
+      "legekontor": "Medical City, avd. Sinsenklinikken",
+      "tlf": "23 37 47 57",
+      "ledigePlasser": 9,
+      "antallPlasser": 1000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Line Marie Emilie Knutsvik Stranger",
+    "address": "Trondheimsveien 184, 0570 OSLO",
+    "metadata": {
+      "legekontor": "Rosenhoff Legegruppe AS",
+      "tlf": "23 40 11 00",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Finn Gunnar Strekerud",
+    "address": "St.Olavs gate 3 C, 0165 OSLO",
+    "metadata": {
+      "legekontor": "St. Olav Medisinske",
+      "tlf": "22 03 34 44",
+      "ledigePlasser": 83,
+      "antallPlasser": 1700,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Philip Strindberg",
+    "address": "Skippergata 31, 0154 OSLO",
+    "metadata": {
+      "legekontor": "Arkaden legesenter",
+      "tlf": "23 35 90 00",
+      "ledigePlasser": 386,
+      "antallPlasser": 1900,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Naresh Sugandiran",
+    "address": "Bøkkerveien 4, 0579 OSLO",
+    "metadata": {
+      "legekontor": "Frisk Legekontor",
+      "tlf": "21 45 63 63",
+      "ledigePlasser": 239,
+      "antallPlasser": 1500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Waqqas Mohammad Sultan",
+    "address": "Asperudveien 61/67, 1255 Oslo",
+    "metadata": {
+      "legekontor": "Holmlia Legesenter",
+      "tlf": "22 75 20 60",
+      "ledigePlasser": 92,
+      "antallPlasser": 1500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Aurora Øvretveit Sunde",
+    "address": "Frederik Stangs gate 11-13, 0264 OSLO",
+    "metadata": {
+      "legekontor": "Frogner Helsesenter",
+      "tlf": "22 54 71 00",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Johan Runar Bro Sundin",
+    "address": "Oscars gate 12, 0352 Oslo",
+    "metadata": {
+      "legekontor": "Legene i Oscarsgate 12",
+      "tlf": "22 95 50 70",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Sirin Thantaha Sundnes",
+    "address": "Vitaminveien 4, 4 etasje, 0485 Oslo",
+    "metadata": {
+      "legekontor": "Sagene lokalmedisinske senter",
+      "tlf": "23 39 18 10",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Anne Cathrine Sundseth",
+    "address": "Utmarkveien 2, 0689 OSLO",
+    "metadata": {
+      "legekontor": "Utmarkveien Legekontor",
+      "tlf": "22 75 73 00",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Fuk-Tai Poon Sundvor",
+    "address": "Skippergt 33 III, 0154 Oslo",
+    "metadata": {
+      "legekontor": "Christiania Medisinske Senter AS",
+      "tlf": "22 44 08 00",
+      "ledigePlasser": 153,
+      "antallPlasser": 2000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Mathias Nicolai Johannessen Svanevik",
+    "address": "Sørkedalsveien 10 C, 0369 Oslo",
+    "metadata": {
+      "legekontor": "Colosseumklinikken Allmennseksjonen",
+      "tlf": "23 19 60 40",
+      "ledigePlasser": 232,
+      "antallPlasser": 2200,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Anne Svarstad",
+    "address": "Smedgata 49, 0651 Oslo",
+    "metadata": {
+      "legekontor": "Enerhaugen Legene AS",
+      "tlf": "21 95 30 60",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Kjell-Olav Borén Svendsen",
+    "address": "Frederik Stangs gate 11-13, 0264 OSLO",
+    "metadata": {
+      "legekontor": "Frogner Helsesenter",
+      "tlf": "22 54 71 00",
+      "ledigePlasser": 267,
+      "antallPlasser": 1650,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Hanna Ingeborg Sandén Sydnes",
+    "address": "Sognsveien 77A, 0855 OSLO",
+    "metadata": {
+      "legekontor": "Ringen Livsstil og Legesenter AS",
+      "tlf": "22 22 42 42",
+      "ledigePlasser": 163,
+      "antallPlasser": 700,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Margit Sæle",
+    "address": "Holmenveien 5H, 0374 Oslo",
+    "metadata": {
+      "legekontor": "Ris Legesenter",
+      "tlf": "23 22 21 50",
+      "antallPlasser": 1150
+    }
+  },
+  {
+    "title": "Ivar Grøn Sælen",
+    "address": "Vitaminveien 4, 4 etasje, 0485 Oslo",
+    "metadata": {
+      "legekontor": "Sagene lokalmedisinske senter",
+      "tlf": "23 39 18 10",
+      "ledigePlasser": 8,
+      "antallPlasser": 825,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Kristin Froestad Sæther",
+    "address": "Ravnåsveien 1, 1254 OSLO",
+    "metadata": {
+      "legekontor": "Oslo Syd Lokalmedisinske Senter",
+      "tlf": "21 53 35 50",
+      "antallPlasser": 700
+    }
+  },
+  {
+    "title": "Håkon Sætre",
+    "address": "Sandakerveien 56G, 0477 OSLO",
+    "metadata": {
+      "legekontor": "Lilleborg Legekontor AS",
+      "ledigePlasser": 2,
+      "antallPlasser": 1200,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Jan Olav Sørdal",
+    "address": "Ullern alle 28, 0381 OSLO",
+    "metadata": {
+      "legekontor": "Bjørnsletta Legesenter",
+      "tlf": "22 51 06 60",
+      "ledigePlasser": 17,
+      "antallPlasser": 1600,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Iram Tassadiq",
+    "address": "Grensesvingen 2, 0663 OSLO",
+    "metadata": {
+      "legekontor": "ABC Medisinske Senter",
+      "tlf": "24 09 04 20",
+      "ledigePlasser": 242,
+      "antallPlasser": 1100,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Norbo Tenzin",
+    "address": "Disenveien 31, 0587 OSLO",
+    "metadata": {
+      "legekontor": "Nedre Grefsen Legegruppe",
+      "tlf": "23 39 68 00",
+      "antallPlasser": 1800
+    }
+  },
+  {
+    "title": "Podimahatmaya Tharma",
+    "address": "Jerikoveien 5, 1067 OSLO",
+    "metadata": {
+      "legekontor": "Lindeberg Legesenter AS",
+      "tlf": "23 14 20 20",
+      "ledigePlasser": 10,
+      "antallPlasser": 1200,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Nirmathan Tharmalingam",
+    "address": "Hoffsveien 15, 0275 OSLO",
+    "metadata": {
+      "legekontor": "Hoffsveien Legesenter",
+      "tlf": "23 25 49 90",
+      "ledigePlasser": 170,
+      "antallPlasser": 1300,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Fredrik Severin Thorn",
+    "address": "Nordstrandveien 62, 1164 Oslo",
+    "metadata": {
+      "legekontor": "Nordstrand Legesenter AS",
+      "tlf": "22 28 56 15",
+      "ledigePlasser": 86,
+      "antallPlasser": 1450,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Ingrid Heinesen Thorn",
+    "address": "Nordstrandveien 62, 1164 Oslo",
+    "metadata": {
+      "legekontor": "Nordstrand Legesenter AS",
+      "tlf": "22 28 56 15",
+      "antallPlasser": 1470
+    }
+  },
+  {
+    "title": "Per Medbøe Thorsby",
+    "address": "Grefsenveien 28, 0482 Oslo",
+    "metadata": {
+      "legekontor": "Bentsebro legesenter",
+      "tlf": "23 18 31 00",
+      "antallPlasser": 200
+    }
+  },
+  {
+    "title": "Ellen Sofie Thorsen",
+    "address": "Asperudveien 67, 1255 Oslo",
+    "metadata": {
+      "legekontor": "Alpha legegruppe",
+      "tlf": "22 76 39 90",
+      "antallPlasser": 1600
+    }
+  },
+  {
+    "title": "Carl Fredrik Tidemann",
+    "address": "Tore Hals Mejdells vei 8, 0751 Oslo",
+    "metadata": {
+      "legekontor": "Vestre Aker Legesenter",
+      "tlf": "22 51 41 71",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Tatyana Gancheva Todorova-Grigorova",
+    "address": "Sognsv. 75B, 0855 Oslo",
+    "metadata": {
+      "legekontor": "Avesta Medics Legesenter",
+      "tlf": "400 44 741",
+      "ledigePlasser": 83,
+      "antallPlasser": 1500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Vesna Tomasev",
+    "address": "Hoffsveien 48, 0377 OSLO",
+    "metadata": {
+      "legekontor": "Ullern Legesenter",
+      "tlf": "22 51 11 00",
+      "ledigePlasser": 17,
+      "antallPlasser": 1450,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Herulf Einar Bjerke Torset",
+    "address": "Problemveien 9 / Holbergsgate 21 / Nydalsveien 37, 0314 OSLO",
+    "metadata": {
+      "legekontor": "SiO Helse",
+      "tlf": "22 85 33 00",
+      "ledigePlasser": 457,
+      "antallPlasser": 1350,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Nils Tovsrud",
+    "address": "Drammensveien 130 B, 0277 OSLO",
+    "metadata": {
+      "legekontor": "Magnat Fastlegesenter AS",
+      "tlf": "22 60 62 00",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Anh Thi Tran",
+    "address": "Nedre Rommen 5, 0988 OSLO",
+    "metadata": {
+      "legekontor": "Stovner Legesenter AS",
+      "tlf": "23 34 41 40",
+      "ledigePlasser": 40,
+      "antallPlasser": 1210,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Hedda Tschudi-Madsen",
+    "address": "Hoffsveien 48, 0377 OSLO",
+    "metadata": {
+      "legekontor": "Ullern Legesenter",
+      "tlf": "22 51 11 00",
+      "ledigePlasser": 20,
+      "antallPlasser": 1200,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Said Tutunchian",
+    "address": "Harbitzalléen 2 A, 0275 OSLO",
+    "metadata": {
+      "legekontor": "Harbitzalléen Legesenter A/S",
+      "tlf": "22 51 58 58",
+      "antallPlasser": 1950
+    }
+  },
+  {
+    "title": "Gunnar Tveiten",
+    "address": "Kongsveien 104, 1177 OSLO",
+    "metadata": {
+      "legekontor": "Best Helse Allmennleger",
+      "tlf": "987 02 359",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Karin Nilsen Tysnes",
+    "address": "HOLMENKOLLVEIEN 78B, 0784 OSLO",
+    "metadata": {
+      "legekontor": "Kragskogen Legesenter DA",
+      "tlf": "23 22 29 50",
+      "antallPlasser": 1500
+    }
+  },
+  {
+    "title": "Gry Elin Tøfte-Furu",
+    "address": "Folkvangveien 26, 1086 OSLO",
+    "metadata": {
+      "legekontor": "Høybråten Legekontor",
+      "tlf": "23 34 44 00",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Thomas Tønseth",
+    "address": "Brynsengveien 2, 0667 OSLO",
+    "metadata": {
+      "legekontor": "Brynsenglegene AS",
+      "tlf": "22 72 78 50",
+      "antallPlasser": 1150
+    }
+  },
+  {
+    "title": "Camilla Udjus",
+    "address": "Cecilie Thoresens vei 17, 1153 OSLO",
+    "metadata": {
+      "legekontor": "Symra Legesenter AS",
+      "tlf": "22 28 03 11",
+      "antallPlasser": 1060
+    }
+  },
+  {
+    "title": "Ali Zia Ullah",
+    "address": "Ensjøveien 22, 0661 OSLO",
+    "metadata": {
+      "legekontor": "Ensjø Legesenter",
+      "tlf": "23 03 50 10",
+      "antallPlasser": 1700
+    }
+  },
+  {
+    "title": "Andrea Hembre Ulsund",
+    "address": "Cecilie Thoresens vei 17, 1153 OSLO",
+    "metadata": {
+      "legekontor": "Symra Legesenter AS",
+      "tlf": "22 28 03 11",
+      "antallPlasser": 1150
+    }
+  },
+  {
+    "title": "Hanne Moen Undlien",
+    "address": "Slemdalsveien 72, 0373 Oslo",
+    "metadata": {
+      "legekontor": "Vinderen Legekontor DA",
+      "tlf": "22 70 39 50",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Olga Valhovd",
+    "address": "Vestlisvingen 188, 0969 OSLO",
+    "metadata": {
+      "legekontor": "Vestli Legesenter",
+      "tlf": "23 34 41 20",
+      "antallPlasser": 1000
+    }
+  },
+  {
+    "title": "Tommy Alexander Valio",
+    "address": "Grünersgate 6-8, 0552 OSLO",
+    "metadata": {
+      "legekontor": "Markveien Legesenter",
+      "tlf": "23 40 86 00",
+      "antallPlasser": 1400
+    }
+  },
+  {
+    "title": "Jørgen Albertsen Vatten",
+    "address": "Brynsengveien 2, 0667 OSLO",
+    "metadata": {
+      "legekontor": "Brynsenglegene AS",
+      "tlf": "22 72 78 50",
+      "antallPlasser": 950
+    }
+  },
+  {
+    "title": "Pooja Verma",
+    "address": "Østensjøveien 36, 0667 Oslo",
+    "metadata": {
+      "legekontor": "Brynklinikken AS",
+      "tlf": "22 06 65 50",
+      "ledigePlasser": 56,
+      "antallPlasser": 1200,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Marianne Bergan Vestnes",
+    "address": "Hovfaret 17a, 0275 OSLO",
+    "metadata": {
+      "legekontor": "Skøyen Helsesenter AS",
+      "tlf": "22 06 43 00",
+      "ledigePlasser": 12,
+      "antallPlasser": 1650,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Yashi Vestøl",
+    "address": "Sandakerveien 138, 0484 Oslo",
+    "metadata": {
+      "legekontor": "Øvre Nydalen Legesenter AS",
+      "tlf": "22 02 03 30",
+      "ledigePlasser": 149,
+      "antallPlasser": 1000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Liv Risvold Vikan",
+    "address": "Vitaminveien 4, 4 etasje, 0485 Oslo",
+    "metadata": {
+      "legekontor": "Sagene lokalmedisinske senter",
+      "tlf": "23 39 18 10",
+      "antallPlasser": 635
+    }
+  },
+  {
+    "title": "Alexander Wahl",
+    "address": "Akersgata 74, 0180 Oslo",
+    "metadata": {
+      "legekontor": "Kurbadet Legesenter",
+      "tlf": "23 35 30 50",
+      "ledigePlasser": 76,
+      "antallPlasser": 1250,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Adnan Walayat",
+    "address": "Ryenstubben 3, 0679 Oslo",
+    "metadata": {
+      "legekontor": "Ryen Legekontor AS",
+      "tlf": "23 03 78 80",
+      "antallPlasser": 1100
+    }
+  },
+  {
+    "title": "Berit Walther",
+    "address": "Lovisenberggata 15b, 0456",
+    "metadata": {
+      "legekontor": "Lovisenberggata Fastlegesenter DA",
+      "tlf": "22 99 20 40",
+      "antallPlasser": 1400
+    }
+  },
+  {
+    "title": "Olav Rønningen Wangensteen",
+    "address": "Frederik Stangs gate 11-13, 0264 OSLO",
+    "metadata": {
+      "legekontor": "Frogner Helsesenter",
+      "tlf": "22 54 71 00",
+      "antallPlasser": 1650
+    }
+  },
+  {
+    "title": "Rebekka Johnsen Wangensteen",
+    "address": "Majorstukrysset legegruppe Bogstadveien 72, 0366 OSLO",
+    "metadata": {
+      "legekontor": "Majorstukrysset legegruppe",
+      "tlf": "22 95 55 90",
+      "antallPlasser": 1600
+    }
+  },
+  {
+    "title": "Bengt Anders Wedén",
+    "address": "Kirkeveien 61, 0364 OSLO",
+    "metadata": {
+      "legekontor": "Majorstuen Legesenter",
+      "tlf": "22 69 96 88",
+      "ledigePlasser": 183,
+      "antallPlasser": 1400,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Andreas Wedervang-Resell",
+    "address": "Grünersgate 6-8, 0552 OSLO",
+    "metadata": {
+      "legekontor": "Markveien Legesenter",
+      "tlf": "23 40 86 00",
+      "antallPlasser": 1550
+    }
+  },
+  {
+    "title": "Svein Erik Welle",
+    "address": "Erichmogensøns vei 38, 0594 OSLO",
+    "metadata": {
+      "legekontor": "Linderud Legesenter DA",
+      "tlf": "22 88 17 00",
+      "antallPlasser": 2500
+    }
+  },
+  {
+    "title": "Morten Westereng",
+    "address": "Granbergstubben 196, 1275 OSLO",
+    "metadata": {
+      "legekontor": "Bjørndal Legesenter AS",
+      "tlf": "22 75 34 80",
+      "ledigePlasser": 565,
+      "antallPlasser": 2000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Pernille Willersrud",
+    "address": "Haugerudsenteret 1, 0673 Oslo",
+    "metadata": {
+      "legekontor": "Haugerud legesenter AS",
+      "tlf": "22 90 58 50",
+      "antallPlasser": 960
+    }
+  },
+  {
+    "title": "Knut Winger",
+    "address": "Drammensveien 130 B, 0277 OSLO",
+    "metadata": {
+      "legekontor": "Magnat Fastlegesenter AS",
+      "tlf": "22 60 62 00",
+      "ledigePlasser": 80,
+      "antallPlasser": 950,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Kevin James Winkle",
+    "address": "Romsås senter 1, 0970 Oslo",
+    "metadata": {
+      "legekontor": "Romsås Legesenter",
+      "tlf": "21 61 96 00",
+      "antallPlasser": 850
+    }
+  },
+  {
+    "title": "Irene Brigitte Ilse Witt",
+    "address": "Stasjonsveien 69, 0771 OSLO",
+    "metadata": {
+      "legekontor": "Huseby Legesenter",
+      "tlf": "22 70 33 60",
+      "antallPlasser": 1500
+    }
+  },
+  {
+    "title": "Tehua Michael Xu",
+    "address": "Bergensgata 12B, 0468 OSLO",
+    "metadata": {
+      "legekontor": "Sagene Allmennklinikk",
+      "tlf": "22 02 61 00",
+      "ledigePlasser": 8,
+      "antallPlasser": 1125,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Alireza Yahyaei",
+    "address": "Grønlandsleiret 31, 0190 OSLO",
+    "metadata": {
+      "legekontor": "Vital Legesenter AS",
+      "tlf": "400 04 782",
+      "ledigePlasser": 670,
+      "antallPlasser": 1500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Camilla Nirosha Yogaseelan",
+    "address": "Nedre Rommen 5, 0988 OSLO",
+    "metadata": {
+      "legekontor": "Stovner Legesenter AS",
+      "tlf": "23 34 41 40",
+      "ledigePlasser": 51,
+      "antallPlasser": 1200,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Ole Andreas Ystgaard",
+    "address": "Garver Ytterborgsv. 98D, 0977 OSLO",
+    "metadata": {
+      "legekontor": "Haugenstua Legesenter DA",
+      "tlf": "23 34 41 00",
+      "ledigePlasser": 204,
+      "antallPlasser": 1300,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Erik Ytteborg",
+    "address": "Theodor Dahls vei 1, 0370 Oslo",
+    "metadata": {
+      "legekontor": "Borgen Legesenter",
+      "tlf": "22 96 09 60",
+      "ledigePlasser": 83,
+      "antallPlasser": 1300,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Hifza Zafar",
+    "address": "Bergensveien 4, 0958 OSLO",
+    "metadata": {
+      "legekontor": "Groruddalen Legekontor",
+      "tlf": "22 25 21 00",
+      "antallPlasser": 1110
+    }
+  },
+  {
+    "title": "Shamoun Zahid",
+    "address": "Tvetenveien 150, 0671 Oslo",
+    "metadata": {
+      "legekontor": "Tveita Legesenter",
+      "tlf": "22 76 19 50",
+      "antallPlasser": 1500
+    }
+  },
+  {
+    "title": "Syed Yawar Abbas Zaidi",
+    "address": "Åkebergveien 32A, 0650",
+    "metadata": {
+      "legekontor": "Tøyen legekontor",
+      "tlf": "22 19 35 23",
+      "ledigePlasser": 24,
+      "antallPlasser": 1800,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Shakera Shansab Zalmai",
+    "address": "Trygve Liesplass 1, 1051 Oslo",
+    "metadata": {
+      "legekontor": "Trygg Helse Legesenter DA",
+      "tlf": "23 14 39 90",
+      "ledigePlasser": 197,
+      "antallPlasser": 1300,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Ben Li Zhang",
+    "address": "Eckersbergsgate 30, 0260 OSLO",
+    "metadata": {
+      "legekontor": "Atrium legesenter",
+      "tlf": "22 44 56 00",
+      "ledigePlasser": 99,
+      "antallPlasser": 1800,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Elin Kjølsrød Ødemark",
+    "address": "Slemdalsveien 72, 0373 Oslo",
+    "metadata": {
+      "legekontor": "Vinderen Legekontor DA",
+      "tlf": "22 70 39 50",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Tord Andreas Wilhelm Steen Østberg",
+    "address": "Kirkevn. 64 B, 0364 OSLO",
+    "metadata": {
+      "legekontor": "Majorstuhuset legegruppe DA",
+      "tlf": "23 33 18 40",
+      "antallPlasser": 900
+    }
+  },
+  {
+    "title": "Anders Østrem",
+    "address": "Gransdalen 29, 1054 Oslo",
+    "metadata": {
+      "legekontor": "Gransdalen Legesenter Drift AS",
+      "tlf": "22 90 26 26",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Morten Øwre",
+    "address": "Fredrik Stangsgt. 11-13, 0264 Oslo",
+    "metadata": {
+      "legekontor": "Din Lege AS",
+      "tlf": "22 54 05 00",
+      "ledigePlasser": 10,
+      "antallPlasser": 1800,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Ole Henrik Øyum",
+    "address": "Hans Nielsen Haugesgate 37E, 0481 OSLO",
+    "metadata": {
+      "legekontor": "Torshovdalen Legesenter AS",
+      "tlf": "22 09 76 00",
+      "ledigePlasser": 5,
+      "antallPlasser": 1600,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Øyvind Aa",
+    "address": "HOLMENKOLLVEIEN 78B, 0784 OSLO",
+    "metadata": {
+      "legekontor": "Kragskogen Legesenter DA",
+      "tlf": "23 22 29 50",
+      "antallPlasser": 1500
+    }
+  },
+  {
+    "title": "Erik Aagaard",
+    "address": "Kongsveien 104, 1177 OSLO",
+    "metadata": {
+      "legekontor": "Best Helse Allmennleger",
+      "tlf": "987 02 359",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Ludmila Aagaard",
+    "address": "Vækerøveien 205A, 0751 Oslo",
+    "metadata": {
+      "legekontor": "Røa Legekontor",
+      "tlf": "22 06 44 44",
+      "ledigePlasser": 575,
+      "antallPlasser": 1500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Rune Aakvik",
+    "address": "Kongsveien 104, 1177 OSLO",
+    "metadata": {
+      "legekontor": "Best Helse Allmennleger",
+      "tlf": "987 02 359",
+      "antallPlasser": 1450
+    }
+  },
+  {
+    "title": "Anne Aalgaard",
+    "address": "Problemveien 9 / Holbergsgate 21 / Nydalsveien 37, 0314 OSLO",
+    "metadata": {
+      "legekontor": "SiO Helse",
+      "tlf": "22 85 33 00",
+      "ledigePlasser": 99,
+      "antallPlasser": 1150,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Haakon Bie Aalvik",
+    "address": "Bryn Senter Østensjøveien 79, 0667",
+    "metadata": {
+      "legekontor": "Bryn Senter Legekontor DA",
+      "tlf": "21 09 56 00",
+      "ledigePlasser": 72,
+      "antallPlasser": 1000,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Ragne Lise Aanestad",
+    "address": "Stallerudveien 97, 0693 Oslo",
+    "metadata": {
+      "legekontor": "Bogerud Legesenter",
+      "tlf": "21 06 31 50",
+      "antallPlasser": 1200
+    }
+  },
+  {
+    "title": "Ranja Cecilie Aarnes-Eidshaug",
+    "address": "Bygdøy allé 23, 0262 OSLO",
+    "metadata": {
+      "legekontor": "Centrum Fastlegegruppe AS",
+      "tlf": "22 41 41 20",
+      "antallPlasser": 1400
+    }
+  },
+  {
+    "title": "Dagfinn Sverre Aarskog",
+    "address": "Sørkedalsveien 10 C, 0369 Oslo",
+    "metadata": {
+      "legekontor": "Colosseumklinikken Allmennseksjonen",
+      "tlf": "23 19 60 40",
+      "ledigePlasser": 55,
+      "antallPlasser": 2500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Silje Elise Aas",
+    "address": "Brannfjellveien 52, 1181 Oslo",
+    "metadata": {
+      "legekontor": "Ekeberg Legekontor",
+      "tlf": "22 67 09 64",
+      "antallPlasser": 1500
+    }
+  },
+  {
+    "title": "Frøydis Blaker Aasbø",
+    "address": "Sandakerveien 138, 0484 Oslo",
+    "metadata": {
+      "legekontor": "Øvre Nydalen Legesenter AS",
+      "tlf": "22 02 03 30",
+      "ledigePlasser": 86,
+      "antallPlasser": 1700,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Marte Kristine Haakerud Aasen",
+    "address": "Trondheimsveien 184, 0570 OSLO",
+    "metadata": {
+      "legekontor": "Oslo Mediq AS",
+      "tlf": "21 39 07 11",
+      "ledigePlasser": 412,
+      "antallPlasser": 500,
+      "valgbar": true
+    }
+  },
+  {
+    "title": "Just Martin Aaserud",
+    "address": "Sørkedalsveien 90b, 0377 OSLO",
+    "metadata": {
+      "legekontor": "Smestad Legesenter",
+      "tlf": "23 25 44 44",
+      "antallPlasser": 1300
+    }
+  },
+  {
+    "title": "Siri Annie Åsli",
+    "address": "Hans Nielsen Haugesgate 37E, 0481 OSLO",
+    "metadata": {
+      "legekontor": "Torshovdalen Legesenter AS",
+      "tlf": "22 09 76 00",
+      "antallPlasser": 1600
+    }
+  }
+]

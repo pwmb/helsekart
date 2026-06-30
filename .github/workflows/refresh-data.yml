@@ -1,0 +1,53 @@
+name: Refresh fastlege data
+
+on:
+  schedule:
+    # 07:00, 13:00, 19:00 Oslo time (UTC+2 summer / UTC+1 winter)
+    - cron: '0 5,11,17 * * *'
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - run: npm ci
+
+      - name: Fetch latest fastlege data
+        run: node scripts/fetch-fastlege.mjs
+
+      - name: Check if data changed
+        id: diff
+        run: |
+          if git diff --quiet src/data/fastlege-oslo.json; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "No changes — skipping geocoding and deploy."
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            ADDED=$(git diff --unified=0 src/data/fastlege-oslo.json | grep '^+' | grep -c '"title"' || true)
+            REMOVED=$(git diff --unified=0 src/data/fastlege-oslo.json | grep '^-' | grep -c '"title"' || true)
+            echo "+${ADDED} added, -${REMOVED} removed"
+          fi
+
+      - name: Geocode new addresses
+        if: steps.diff.outputs.changed == 'true'
+        run: node scripts/geocode-data.mjs
+
+      - name: Commit and push
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add src/data/fastlege-oslo.json src/data-geocoded/
+          git commit -m "chore: refresh fastlege data $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
+        # Pushing to main will trigger the deploy workflow automatically
