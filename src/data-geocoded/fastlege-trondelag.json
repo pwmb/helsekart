@@ -354,7 +354,7 @@
     "metadata": {
       "legekontor": "Sjøsiden Legesenter",
       "tlf": "73 80 95 00",
-      "ledigePlasser": 21,
+      "ledigePlasser": 20,
       "antallPlasser": 1150,
       "valgbar": true
     },
@@ -542,7 +542,7 @@
     "metadata": {
       "legekontor": "Rennebu legekontor",
       "tlf": "908 80 140",
-      "ledigePlasser": 101,
+      "ledigePlasser": 98,
       "antallPlasser": 500,
       "valgbar": true
     },
@@ -682,7 +682,7 @@
     "metadata": {
       "legekontor": "Flatanger Legekontor",
       "tlf": "74 22 11 37",
-      "ledigePlasser": 330,
+      "ledigePlasser": 332,
       "antallPlasser": 1200,
       "valgbar": true
     },
@@ -1136,7 +1136,7 @@
     "metadata": {
       "legekontor": "Solsiden Legesenter AS",
       "tlf": "23 89 10 87",
-      "ledigePlasser": 158,
+      "ledigePlasser": 159,
       "antallPlasser": 800,
       "valgbar": true
     },
@@ -1328,7 +1328,7 @@
     "metadata": {
       "legekontor": "Nidaros Legekontor",
       "tlf": "73 52 56 20",
-      "ledigePlasser": 14,
+      "ledigePlasser": 15,
       "antallPlasser": 1350,
       "valgbar": true
     },
@@ -3180,7 +3180,7 @@
     "metadata": {
       "legekontor": "Charlottenlund Legesenter",
       "tlf": "73 84 81 80",
-      "ledigePlasser": 5,
+      "ledigePlasser": 4,
       "antallPlasser": 1150,
       "valgbar": true
     },
@@ -4072,7 +4072,7 @@
     "metadata": {
       "legekontor": "Rennebu legekontor",
       "tlf": "908 80 140",
-      "ledigePlasser": 150,
+      "ledigePlasser": 153,
       "antallPlasser": 800,
       "valgbar": true
     },
@@ -4199,7 +4199,7 @@
     "metadata": {
       "legekontor": "Namsen Legesenter",
       "tlf": "74 21 80 80",
-      "ledigePlasser": 31,
+      "ledigePlasser": 32,
       "antallPlasser": 1300,
       "valgbar": true
     },
@@ -4785,7 +4785,7 @@
     "metadata": {
       "legekontor": "Nidaros Legekontor",
       "tlf": "73 52 56 20",
-      "ledigePlasser": 12,
+      "ledigePlasser": 14,
       "antallPlasser": 1100,
       "valgbar": true
     },

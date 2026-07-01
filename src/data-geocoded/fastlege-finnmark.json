@@ -479,7 +479,7 @@
     "metadata": {
       "legekontor": "Vadsø Kommune Helseenheten Legekontor",
       "tlf": "78 94 25 00",
-      "ledigePlasser": 21,
+      "ledigePlasser": 22,
       "antallPlasser": 750,
       "valgbar": true
     },
@@ -571,7 +571,9 @@
     "metadata": {
       "legekontor": "Vadsø Kommune Helseenheten Legekontor",
       "tlf": "78 94 25 00",
-      "antallPlasser": 650
+      "ledigePlasser": 12,
+      "antallPlasser": 650,
+      "valgbar": true
     },
     "lat": 70.083202,
     "lng": 29.734643
@@ -794,7 +796,7 @@
     "metadata": {
       "legekontor": "Vadsø Kommune Helseenheten Legekontor",
       "tlf": "78 94 25 00",
-      "ledigePlasser": 3,
+      "ledigePlasser": 6,
       "antallPlasser": 650,
       "valgbar": true
     },
@@ -943,7 +945,7 @@
     "metadata": {
       "legekontor": "Vadsø Kommune Helseenheten Legekontor",
       "tlf": "78 94 25 00",
-      "ledigePlasser": 124,
+      "ledigePlasser": 123,
       "antallPlasser": 880,
       "valgbar": true
     },

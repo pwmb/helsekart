@@ -101,7 +101,7 @@
     "metadata": {
       "legekontor": "Amfi Medisinske Senter AS",
       "tlf": "69 10 97 77",
-      "ledigePlasser": 34,
+      "ledigePlasser": 35,
       "antallPlasser": 900,
       "valgbar": true
     },
@@ -664,7 +664,7 @@
     "metadata": {
       "legekontor": "Aremark legekontor",
       "tlf": "69 19 96 90",
-      "ledigePlasser": 18,
+      "ledigePlasser": 19,
       "antallPlasser": 600,
       "valgbar": true
     },
@@ -921,7 +921,7 @@
     "metadata": {
       "legekontor": "Stangeberget Legesenter",
       "tlf": "69 17 46 61",
-      "ledigePlasser": 17,
+      "ledigePlasser": 18,
       "antallPlasser": 750,
       "valgbar": true
     },
@@ -978,7 +978,7 @@
     "metadata": {
       "legekontor": "Nedre Glommen Legegruppe DA",
       "tlf": "69 36 63 30",
-      "ledigePlasser": 6,
+      "ledigePlasser": 4,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -991,7 +991,7 @@
     "metadata": {
       "legekontor": "Sellebakk Legekontor AS",
       "tlf": "69 36 17 97",
-      "ledigePlasser": 49,
+      "ledigePlasser": 48,
       "antallPlasser": 500,
       "valgbar": true
     },
@@ -1108,7 +1108,7 @@
     "metadata": {
       "legekontor": "Rakkestad Legesenter",
       "tlf": "69 22 80 00",
-      "ledigePlasser": 12,
+      "ledigePlasser": 13,
       "antallPlasser": 1080,
       "valgbar": true
     },
@@ -1643,7 +1643,7 @@
     "metadata": {
       "legekontor": "Legene På Brygga",
       "tlf": "69 21 19 10",
-      "ledigePlasser": 314,
+      "ledigePlasser": 316,
       "antallPlasser": 1230,
       "valgbar": true
     },
@@ -1798,7 +1798,7 @@
     "metadata": {
       "legekontor": "Borge Legesenter AS",
       "tlf": "69 35 20 50",
-      "ledigePlasser": 18,
+      "ledigePlasser": 17,
       "antallPlasser": 1400,
       "valgbar": true
     },
@@ -1855,7 +1855,7 @@
     "metadata": {
       "legekontor": "Vincent Medisinske Senter",
       "tlf": "69 95 55 44",
-      "ledigePlasser": 37,
+      "ledigePlasser": 38,
       "antallPlasser": 900,
       "valgbar": true
     },
@@ -2508,7 +2508,7 @@
     "metadata": {
       "legekontor": "Legesenter Nygaardsgata",
       "tlf": "69 31 18 35",
-      "ledigePlasser": 24,
+      "ledigePlasser": 23,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -2650,7 +2650,7 @@
     "metadata": {
       "legekontor": "Sydsiden Legesenter",
       "tlf": "69 21 14 50",
-      "ledigePlasser": 76,
+      "ledigePlasser": 74,
       "antallPlasser": 1100,
       "valgbar": true
     },
@@ -2698,7 +2698,7 @@
     "metadata": {
       "legekontor": "Bylegen Legesenter",
       "tlf": "69 30 02 20",
-      "ledigePlasser": 121,
+      "ledigePlasser": 120,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -2770,7 +2770,7 @@
     "metadata": {
       "legekontor": "Sellebakk Legekontor AS",
       "tlf": "69 36 17 97",
-      "ledigePlasser": 8,
+      "ledigePlasser": 9,
       "antallPlasser": 900,
       "valgbar": true
     },
@@ -2958,7 +2958,7 @@
     "metadata": {
       "legekontor": "Sentrum Legesenter",
       "tlf": "69 13 30 50",
-      "ledigePlasser": 106,
+      "ledigePlasser": 108,
       "antallPlasser": 1800,
       "valgbar": true
     },
@@ -2995,7 +2995,7 @@
     "metadata": {
       "legekontor": "Halden Medisinske Senter",
       "tlf": "69 19 09 70",
-      "ledigePlasser": 132,
+      "ledigePlasser": 133,
       "antallPlasser": 1200,
       "valgbar": true
     },
@@ -3334,7 +3334,7 @@
     "metadata": {
       "legekontor": "Askim Legesenter",
       "tlf": "69 81 96 00",
-      "ledigePlasser": 52,
+      "ledigePlasser": 51,
       "antallPlasser": 1100,
       "valgbar": true
     },
@@ -3555,7 +3555,7 @@
     "address": "Helsehuset Jens Wilhelmsens gate 1, 1671 KRÅKERØY",
     "metadata": {
       "legekontor": "Spesialistklinikken Kråkerøy AS",
-      "ledigePlasser": 144,
+      "ledigePlasser": 145,
       "antallPlasser": 500,
       "valgbar": true
     },

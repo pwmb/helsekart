@@ -31,7 +31,7 @@
     "metadata": {
       "legekontor": "Åsnes Legesenter",
       "tlf": "62 95 08 40",
-      "ledigePlasser": 134,
+      "ledigePlasser": 133,
       "antallPlasser": 900,
       "valgbar": true
     },
@@ -223,7 +223,7 @@
     "metadata": {
       "legekontor": "Grue Legesenter",
       "tlf": "62 94 22 12",
-      "ledigePlasser": 20,
+      "ledigePlasser": 21,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -319,7 +319,7 @@
     "metadata": {
       "legekontor": "Dovre kommunale legesenter",
       "tlf": "61 24 22 00",
-      "ledigePlasser": 694,
+      "ledigePlasser": 695,
       "antallPlasser": 1200,
       "valgbar": true
     },
@@ -560,7 +560,7 @@
     "metadata": {
       "legekontor": "Trysil Legesenter",
       "tlf": "62 45 78 50",
-      "ledigePlasser": 35,
+      "ledigePlasser": 36,
       "antallPlasser": 1350,
       "valgbar": true
     },
@@ -1022,9 +1022,7 @@
     "metadata": {
       "legekontor": "Fagernes legesenter",
       "tlf": "61 35 98 88",
-      "ledigePlasser": 1,
-      "antallPlasser": 800,
-      "valgbar": true
+      "antallPlasser": 800
     },
     "lat": 60.9866447,
     "lng": 9.242366
@@ -1862,7 +1860,7 @@
     "metadata": {
       "legekontor": "Moelv Legesenter",
       "tlf": "62 33 55 30",
-      "ledigePlasser": 191,
+      "ledigePlasser": 190,
       "antallPlasser": 800,
       "valgbar": true
     },
@@ -1888,7 +1886,7 @@
     "metadata": {
       "legekontor": "Våler Legesenter",
       "tlf": "62 42 41 70",
-      "ledigePlasser": 42,
+      "ledigePlasser": 45,
       "antallPlasser": 700,
       "valgbar": true
     },
@@ -1945,7 +1943,7 @@
     "metadata": {
       "legekontor": "Fagernes legesenter",
       "tlf": "61 35 98 88",
-      "ledigePlasser": 20,
+      "ledigePlasser": 21,
       "antallPlasser": 800,
       "valgbar": true
     },
@@ -2223,7 +2221,7 @@
     "metadata": {
       "legekontor": "Lillehammer Legesenter DA",
       "tlf": "61 05 45 00",
-      "ledigePlasser": 59,
+      "ledigePlasser": 60,
       "antallPlasser": 1650,
       "valgbar": true
     },
@@ -2236,7 +2234,7 @@
     "metadata": {
       "legekontor": "Nymosvingen Legesenter AS",
       "tlf": "61 59 60 00",
-      "ledigePlasser": 260,
+      "ledigePlasser": 261,
       "antallPlasser": 950,
       "valgbar": true
     },
@@ -2315,7 +2313,7 @@
     "metadata": {
       "legekontor": "Brumunddal Legesenter",
       "tlf": "62 33 03 00",
-      "ledigePlasser": 321,
+      "ledigePlasser": 320,
       "antallPlasser": 1500,
       "valgbar": true
     },
@@ -2547,7 +2545,7 @@
     "metadata": {
       "legekontor": "Innlandet Legesenter AS",
       "tlf": "62 55 54 00",
-      "ledigePlasser": 46,
+      "ledigePlasser": 47,
       "antallPlasser": 1700,
       "valgbar": true
     },
@@ -2722,7 +2720,7 @@
     "metadata": {
       "legekontor": "Landsbylegene Dokka",
       "tlf": "61 11 46 00",
-      "ledigePlasser": 7,
+      "ledigePlasser": 6,
       "antallPlasser": 800,
       "valgbar": true
     },
@@ -3081,7 +3079,7 @@
     "metadata": {
       "legekontor": "Labyrinten Legesenter",
       "tlf": "62 41 91 60",
-      "ledigePlasser": 55,
+      "ledigePlasser": 52,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -3434,7 +3432,7 @@
     "metadata": {
       "legekontor": "Brumunddal Legesenter",
       "tlf": "62 33 03 00",
-      "ledigePlasser": 204,
+      "ledigePlasser": 205,
       "antallPlasser": 1400,
       "valgbar": true
     },
@@ -4521,7 +4519,7 @@
     "metadata": {
       "legekontor": "Trysil Legesenter",
       "tlf": "62 45 78 50",
-      "ledigePlasser": 2,
+      "ledigePlasser": 1,
       "antallPlasser": 600,
       "valgbar": true
     },

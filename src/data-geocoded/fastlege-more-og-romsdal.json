@@ -337,7 +337,7 @@
     "metadata": {
       "legekontor": "Stranda Legekontor",
       "tlf": "70 26 81 20",
-      "ledigePlasser": 1,
+      "ledigePlasser": 2,
       "antallPlasser": 600,
       "valgbar": true
     },
@@ -1076,7 +1076,7 @@
     "metadata": {
       "legekontor": "Gjemnes legesenter",
       "tlf": "71 29 11 80",
-      "ledigePlasser": 134,
+      "ledigePlasser": 133,
       "antallPlasser": 900,
       "valgbar": true
     },
@@ -1260,7 +1260,7 @@
     "metadata": {
       "legekontor": "Midsund legekontor",
       "tlf": "71 27 05 50",
-      "ledigePlasser": 85,
+      "ledigePlasser": 84,
       "antallPlasser": 500,
       "valgbar": true
     },
@@ -1465,7 +1465,7 @@
     "metadata": {
       "legekontor": "Hornindal Legekontor",
       "tlf": "57 87 98 70",
-      "ledigePlasser": 108,
+      "ledigePlasser": 106,
       "antallPlasser": 600,
       "valgbar": true
     },
@@ -1780,7 +1780,7 @@
     "metadata": {
       "legekontor": "Sande legekontor",
       "tlf": "70 02 67 50",
-      "ledigePlasser": 189,
+      "ledigePlasser": 190,
       "antallPlasser": 900,
       "valgbar": true
     },
@@ -2818,7 +2818,7 @@
     "metadata": {
       "legekontor": "Midsund legekontor",
       "tlf": "71 27 05 50",
-      "ledigePlasser": 26,
+      "ledigePlasser": 27,
       "antallPlasser": 410,
       "valgbar": true
     },
@@ -3008,7 +3008,7 @@
     "metadata": {
       "legekontor": "Gjemnes legesenter",
       "tlf": "71 29 11 80",
-      "ledigePlasser": 9,
+      "ledigePlasser": 10,
       "antallPlasser": 800,
       "valgbar": true
     },
@@ -3388,7 +3388,7 @@
     "metadata": {
       "legekontor": "Daaeskogen Legesenter",
       "tlf": "70 16 41 50",
-      "ledigePlasser": 101,
+      "ledigePlasser": 98,
       "antallPlasser": 1400,
       "valgbar": true
     },

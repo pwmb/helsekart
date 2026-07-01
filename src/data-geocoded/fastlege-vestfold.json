@@ -16,7 +16,7 @@
     "metadata": {
       "legekontor": "Stridsklev Legekontor AS",
       "tlf": "35 51 39 00",
-      "ledigePlasser": 9,
+      "ledigePlasser": 7,
       "antallPlasser": 1300,
       "valgbar": true
     },
@@ -112,7 +112,7 @@
     "metadata": {
       "legekontor": "Kverndalen legesenter",
       "tlf": "35 50 30 40",
-      "ledigePlasser": 24,
+      "ledigePlasser": 22,
       "antallPlasser": 900,
       "valgbar": true
     },
@@ -635,7 +635,7 @@
     "metadata": {
       "legekontor": "Fyret legesenter",
       "tlf": "35 96 53 90",
-      "ledigePlasser": 335,
+      "ledigePlasser": 333,
       "antallPlasser": 500,
       "valgbar": true
     },
@@ -1387,9 +1387,7 @@
     "metadata": {
       "legekontor": "Drangedal legekontor",
       "tlf": "35 99 71 00",
-      "ledigePlasser": 1,
-      "antallPlasser": 800,
-      "valgbar": true
+      "antallPlasser": 800
     },
     "lat": 59.0984158,
     "lng": 9.0623445

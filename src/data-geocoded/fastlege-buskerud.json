@@ -362,7 +362,7 @@
     "metadata": {
       "legekontor": "Hotvet legesenter AS",
       "tlf": "31 02 13 00",
-      "ledigePlasser": 295,
+      "ledigePlasser": 293,
       "antallPlasser": 500,
       "valgbar": true
     },
@@ -1223,7 +1223,7 @@
     "metadata": {
       "legekontor": "Strømsø Legesenter",
       "tlf": "32 21 38 60",
-      "ledigePlasser": 10,
+      "ledigePlasser": 9,
       "antallPlasser": 1500,
       "valgbar": true
     },
@@ -1483,7 +1483,7 @@
     "metadata": {
       "legekontor": "Torget Helsesenter AS",
       "tlf": "32 83 32 83",
-      "ledigePlasser": 222,
+      "ledigePlasser": 223,
       "antallPlasser": 1700,
       "valgbar": true
     },
@@ -2267,7 +2267,7 @@
     "metadata": {
       "legekontor": "Svelvik Helsesenter AS",
       "tlf": "32 79 99 99",
-      "ledigePlasser": 221,
+      "ledigePlasser": 220,
       "antallPlasser": 1200,
       "valgbar": true
     },
@@ -2411,7 +2411,7 @@
     "metadata": {
       "legekontor": "Fredfoss Legesenter AS",
       "tlf": "32 75 75 50",
-      "ledigePlasser": 12,
+      "ledigePlasser": 11,
       "antallPlasser": 1300,
       "valgbar": true
     },

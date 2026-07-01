@@ -1180,9 +1180,7 @@
     "metadata": {
       "legekontor": "Balestrand helsesenter",
       "tlf": "57 65 13 00",
-      "ledigePlasser": 1,
-      "antallPlasser": 710,
-      "valgbar": true
+      "antallPlasser": 710
     },
     "lat": 61.2096194,
     "lng": 6.5360834
@@ -2626,7 +2624,7 @@
     "metadata": {
       "legekontor": "Jondal Legekontor",
       "tlf": "53 67 53 80",
-      "ledigePlasser": 20,
+      "ledigePlasser": 19,
       "antallPlasser": 750,
       "valgbar": true
     },
@@ -3094,7 +3092,7 @@
     "metadata": {
       "legekontor": "Øygarden Legekontor",
       "tlf": "56 38 21 10",
-      "ledigePlasser": 51,
+      "ledigePlasser": 52,
       "antallPlasser": 800,
       "valgbar": true
     },
@@ -4102,7 +4100,7 @@
     "metadata": {
       "legekontor": "Balestrand helsesenter",
       "tlf": "57 65 13 00",
-      "ledigePlasser": 96,
+      "ledigePlasser": 97,
       "antallPlasser": 650,
       "valgbar": true
     },
@@ -4269,7 +4267,9 @@
     "metadata": {
       "legekontor": "Sørås Legesenter",
       "tlf": "53 00 65 00",
-      "antallPlasser": 1150
+      "ledigePlasser": 2,
+      "antallPlasser": 1150,
+      "valgbar": true
     },
     "lat": 60.3026776,
     "lng": 5.3264993
@@ -5058,7 +5058,7 @@
     "metadata": {
       "legekontor": "Utne Legekontor",
       "tlf": "53 67 13 40",
-      "ledigePlasser": 30,
+      "ledigePlasser": 31,
       "antallPlasser": 600,
       "valgbar": true
     },
@@ -5767,7 +5767,7 @@
     "metadata": {
       "legekontor": "Svelgen Legekontor",
       "tlf": "57 79 64 00",
-      "ledigePlasser": 21,
+      "ledigePlasser": 22,
       "antallPlasser": 920,
       "valgbar": true
     },
@@ -5791,7 +5791,7 @@
     "metadata": {
       "legekontor": "Sørås Legesenter",
       "tlf": "53 00 65 00",
-      "ledigePlasser": 6,
+      "ledigePlasser": 7,
       "antallPlasser": 1450,
       "valgbar": true
     },

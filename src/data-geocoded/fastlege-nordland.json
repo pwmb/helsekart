@@ -5,7 +5,7 @@
     "metadata": {
       "legekontor": "Steigen legesenter",
       "tlf": "75 78 48 60",
-      "ledigePlasser": 19,
+      "ledigePlasser": 20,
       "antallPlasser": 700,
       "valgbar": true
     },
@@ -1443,7 +1443,7 @@
     "metadata": {
       "legekontor": "Havna Legesenter",
       "tlf": "75 55 40 00",
-      "ledigePlasser": 61,
+      "ledigePlasser": 60,
       "antallPlasser": 530,
       "valgbar": true
     },
@@ -1716,7 +1716,7 @@
     "metadata": {
       "legekontor": "Dr. Odinakas Clinic",
       "tlf": "75 52 26 90",
-      "ledigePlasser": 16,
+      "ledigePlasser": 17,
       "antallPlasser": 1300,
       "valgbar": true
     },
@@ -2698,7 +2698,7 @@
     "address": "Dr. Thodes gate 8, 8450 Stokmarknes",
     "metadata": {
       "legekontor": "Legetjenesten i Hadsel",
-      "ledigePlasser": 3,
+      "ledigePlasser": 2,
       "antallPlasser": 650,
       "valgbar": true
     },
@@ -3398,7 +3398,7 @@
     "metadata": {
       "legekontor": "Fredensborgklinikken",
       "tlf": "75 54 99 49",
-      "ledigePlasser": 91,
+      "ledigePlasser": 90,
       "antallPlasser": 600,
       "valgbar": true
     },

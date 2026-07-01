@@ -82,7 +82,7 @@
     "metadata": {
       "legekontor": "Frakkagjerd Legesenter",
       "tlf": "52 75 50 60",
-      "ledigePlasser": 72,
+      "ledigePlasser": 71,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -510,7 +510,7 @@
     "metadata": {
       "legekontor": "Sandnes Medisinske Senter",
       "tlf": "51 73 12 34",
-      "ledigePlasser": 30,
+      "ledigePlasser": 28,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -1026,7 +1026,7 @@
     "metadata": {
       "legekontor": "Vågsgata Legesenter AS",
       "tlf": "51 66 53 32",
-      "ledigePlasser": 204,
+      "ledigePlasser": 205,
       "antallPlasser": 1675,
       "valgbar": true
     },
@@ -1141,7 +1141,7 @@
     "metadata": {
       "legekontor": "Madlakrossen Legesenter",
       "tlf": "51 59 95 50",
-      "ledigePlasser": 8,
+      "ledigePlasser": 7,
       "antallPlasser": 1800,
       "valgbar": true
     },
@@ -1153,7 +1153,7 @@
     "address": "Vingvegen 1, 4050 SOLA",
     "metadata": {
       "legekontor": "Sola Medisinske Senter AS",
-      "ledigePlasser": 30,
+      "ledigePlasser": 29,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -1278,9 +1278,7 @@
     "metadata": {
       "legekontor": "Hjelmeland legekontor",
       "tlf": "51 75 71 00",
-      "ledigePlasser": 3,
-      "antallPlasser": 1100,
-      "valgbar": true
+      "antallPlasser": 1100
     },
     "lat": 59.2225429,
     "lng": 6.1455015
@@ -1427,7 +1425,7 @@
     "metadata": {
       "legekontor": "Finnøy Legekontor",
       "tlf": "51 71 42 00",
-      "ledigePlasser": 72,
+      "ledigePlasser": 71,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -1462,7 +1460,7 @@
     "metadata": {
       "legekontor": "Varhaug helsesenter, legekontoret",
       "tlf": "51 79 97 00",
-      "ledigePlasser": 4,
+      "ledigePlasser": 2,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -1749,7 +1747,7 @@
     "metadata": {
       "legekontor": "Ølen legekontor",
       "tlf": "53 65 55 00",
-      "ledigePlasser": 3,
+      "ledigePlasser": 2,
       "antallPlasser": 850,
       "valgbar": true
     },
@@ -2087,9 +2085,7 @@
     "metadata": {
       "legekontor": "Risavika Legekontor",
       "tlf": "51 69 00 30",
-      "ledigePlasser": 1,
-      "antallPlasser": 1850,
-      "valgbar": true
+      "antallPlasser": 1850
     },
     "lat": 58.9222838,
     "lng": 5.602701
@@ -2280,9 +2276,7 @@
     "metadata": {
       "legekontor": "Lervig legekontor",
       "tlf": "51 91 33 50",
-      "ledigePlasser": 1,
-      "antallPlasser": 850,
-      "valgbar": true
+      "antallPlasser": 850
     },
     "lat": 58.9667458,
     "lng": 5.7588696
@@ -2336,7 +2330,7 @@
     "metadata": {
       "legekontor": "Hå helsesenter, legekontoret",
       "tlf": "51 79 98 00",
-      "ledigePlasser": 64,
+      "ledigePlasser": 66,
       "antallPlasser": 800,
       "valgbar": true
     },
@@ -2441,7 +2435,7 @@
     "metadata": {
       "legekontor": "Madlaklinikken",
       "tlf": "51 93 88 90",
-      "ledigePlasser": 113,
+      "ledigePlasser": 114,
       "antallPlasser": 1500,
       "valgbar": true
     },
@@ -2454,7 +2448,7 @@
     "metadata": {
       "legekontor": "Tasta legesenter",
       "tlf": "51 54 52 50",
-      "ledigePlasser": 272,
+      "ledigePlasser": 271,
       "antallPlasser": 800,
       "valgbar": true
     },
@@ -2686,7 +2680,7 @@
     "metadata": {
       "legekontor": "Sandnes Medisinske Senter",
       "tlf": "51 73 12 34",
-      "ledigePlasser": 438,
+      "ledigePlasser": 437,
       "antallPlasser": 800,
       "valgbar": true
     },
@@ -2933,7 +2927,7 @@
     "metadata": {
       "legekontor": "Hinna Legesenter AS",
       "tlf": "51 88 51 50",
-      "ledigePlasser": 137,
+      "ledigePlasser": 138,
       "antallPlasser": 1500,
       "valgbar": true
     },
@@ -3104,7 +3098,7 @@
     "metadata": {
       "legekontor": "Paradis Legesenter",
       "tlf": "51 51 08 90",
-      "ledigePlasser": 7,
+      "ledigePlasser": 6,
       "antallPlasser": 1300,
       "valgbar": true
     },
@@ -3683,7 +3677,7 @@
     "metadata": {
       "legekontor": "Sandnes Medisinske Senter",
       "tlf": "51 73 12 34",
-      "ledigePlasser": 513,
+      "ledigePlasser": 512,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -4587,7 +4581,7 @@
     "metadata": {
       "legekontor": "Lervig legekontor",
       "tlf": "51 91 33 50",
-      "ledigePlasser": 24,
+      "ledigePlasser": 23,
       "antallPlasser": 850,
       "valgbar": true
     },
@@ -5214,7 +5208,7 @@
     "metadata": {
       "legekontor": "Madlaklinikken",
       "tlf": "51 93 88 90",
-      "ledigePlasser": 218,
+      "ledigePlasser": 219,
       "antallPlasser": 1500,
       "valgbar": true
     },
@@ -5306,7 +5300,7 @@
     "metadata": {
       "legekontor": "Legekontor Dr. Østhus",
       "tlf": "51 91 88 50",
-      "ledigePlasser": 40,
+      "ledigePlasser": 39,
       "antallPlasser": 1700,
       "valgbar": true
     },

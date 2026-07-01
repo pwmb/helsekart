@@ -619,7 +619,7 @@
     "metadata": {
       "legekontor": "Skjervøy legekontor",
       "tlf": "77 77 57 00",
-      "ledigePlasser": 110,
+      "ledigePlasser": 111,
       "antallPlasser": 750,
       "valgbar": true
     },
@@ -941,7 +941,7 @@
     "metadata": {
       "legekontor": "Kaia Legesenter",
       "tlf": "77 60 80 50",
-      "ledigePlasser": 5,
+      "ledigePlasser": 3,
       "antallPlasser": 720,
       "valgbar": true
     },
@@ -1475,7 +1475,7 @@
     "metadata": {
       "legekontor": "Kaia Legesenter",
       "tlf": "77 60 80 50",
-      "ledigePlasser": 46,
+      "ledigePlasser": 45,
       "antallPlasser": 1200,
       "valgbar": true
     },
@@ -1779,7 +1779,7 @@
     "metadata": {
       "legekontor": "Bardu Legekontor",
       "tlf": "77 18 55 00",
-      "ledigePlasser": 44,
+      "ledigePlasser": 43,
       "antallPlasser": 320,
       "valgbar": true
     },
@@ -1998,7 +1998,7 @@
     "metadata": {
       "legekontor": "Gratangen kommunelegekontor",
       "tlf": "77 02 18 50",
-      "ledigePlasser": 66,
+      "ledigePlasser": 65,
       "antallPlasser": 800,
       "valgbar": true
     },
@@ -2129,7 +2129,7 @@
     "metadata": {
       "legekontor": "Langnes Legesenter AS",
       "tlf": "77 67 98 88",
-      "ledigePlasser": 4,
+      "ledigePlasser": 3,
       "antallPlasser": 1100,
       "valgbar": true
     },
@@ -2330,7 +2330,7 @@
     "metadata": {
       "legekontor": "Skjervøy legekontor",
       "tlf": "77 77 57 00",
-      "ledigePlasser": 7,
+      "ledigePlasser": 6,
       "antallPlasser": 500,
       "valgbar": true
     },
@@ -2490,7 +2490,7 @@
     "metadata": {
       "legekontor": "Langnes Legesenter AS",
       "tlf": "77 67 98 88",
-      "ledigePlasser": 5,
+      "ledigePlasser": 4,
       "antallPlasser": 1200,
       "valgbar": true
     },
