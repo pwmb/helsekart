@@ -5,7 +5,7 @@
     "metadata": {
       "legekontor": "Vest Klinikk AS",
       "tlf": "67 56 64 19",
-      "ledigePlasser": 59,
+      "ledigePlasser": 60,
       "antallPlasser": 950,
       "valgbar": true
     },
@@ -90,7 +90,7 @@
     "metadata": {
       "legekontor": "Bleiker Legekontor",
       "tlf": "66 76 15 20",
-      "ledigePlasser": 85,
+      "ledigePlasser": 87,
       "antallPlasser": 1300,
       "valgbar": true
     },
@@ -201,7 +201,7 @@
     "metadata": {
       "legekontor": "Maura Legesenter AS",
       "tlf": "63 99 37 97",
-      "ledigePlasser": 28,
+      "ledigePlasser": 27,
       "antallPlasser": 1200,
       "valgbar": true
     },
@@ -361,7 +361,7 @@
     "metadata": {
       "legekontor": "Samfunnshusets Legekontor",
       "tlf": "61 31 58 00",
-      "ledigePlasser": 127,
+      "ledigePlasser": 126,
       "antallPlasser": 1100,
       "valgbar": true
     },
@@ -668,7 +668,7 @@
     "metadata": {
       "legekontor": "Bærum kommunale legesenter",
       "tlf": "67 50 87 50",
-      "ledigePlasser": 4,
+      "ledigePlasser": 1,
       "antallPlasser": 500,
       "valgbar": true
     },
@@ -1330,7 +1330,7 @@
     "metadata": {
       "legekontor": "Vilberg Legesenter DA",
       "tlf": "63 92 46 50",
-      "ledigePlasser": 30,
+      "ledigePlasser": 29,
       "antallPlasser": 1250,
       "valgbar": true
     },
@@ -1365,7 +1365,7 @@
     "metadata": {
       "legekontor": "Vøyenenga Legekontor",
       "tlf": "67 15 41 80",
-      "ledigePlasser": 118,
+      "ledigePlasser": 119,
       "antallPlasser": 1350,
       "valgbar": true
     },
@@ -1402,7 +1402,7 @@
     "metadata": {
       "legekontor": "Vollen Legekontor",
       "tlf": "66 76 51 80",
-      "ledigePlasser": 6,
+      "ledigePlasser": 7,
       "antallPlasser": 1350,
       "valgbar": true
     },
@@ -1415,7 +1415,7 @@
     "metadata": {
       "legekontor": "Aurskog Legekontor",
       "tlf": "63 85 49 30",
-      "ledigePlasser": 20,
+      "ledigePlasser": 18,
       "antallPlasser": 900,
       "valgbar": true
     },
@@ -1428,7 +1428,7 @@
     "metadata": {
       "legekontor": "Sentrumsklinikken",
       "tlf": "66 78 56 00",
-      "ledigePlasser": 7,
+      "ledigePlasser": 6,
       "antallPlasser": 1200,
       "valgbar": true
     },
@@ -1796,7 +1796,7 @@
     "metadata": {
       "legekontor": "Slemmestad Legesenter",
       "tlf": "31 29 29 80",
-      "ledigePlasser": 199,
+      "ledigePlasser": 204,
       "antallPlasser": 1500,
       "valgbar": true
     },
@@ -2225,7 +2225,7 @@
     "metadata": {
       "legekontor": "Maura Legesenter AS",
       "tlf": "63 99 37 97",
-      "ledigePlasser": 13,
+      "ledigePlasser": 14,
       "antallPlasser": 1500,
       "valgbar": true
     },
@@ -2403,7 +2403,7 @@
     "metadata": {
       "legekontor": "Bærumsklinikken AS",
       "tlf": "67 80 47 00",
-      "ledigePlasser": 366,
+      "ledigePlasser": 367,
       "antallPlasser": 1300,
       "valgbar": true
     },
@@ -2518,7 +2518,7 @@
     "address": "Solbråveien 23, 1383 ASKER",
     "metadata": {
       "legekontor": "Solbrå Medisinske Senter",
-      "ledigePlasser": 330,
+      "ledigePlasser": 331,
       "antallPlasser": 600,
       "valgbar": true
     },
@@ -2724,7 +2724,7 @@
     "metadata": {
       "legekontor": "Varden Legesenter",
       "tlf": "66 96 54 50",
-      "ledigePlasser": 4,
+      "ledigePlasser": 3,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -2927,7 +2927,7 @@
     "metadata": {
       "legekontor": "Vest Legesenter DA",
       "tlf": "67 80 50 40",
-      "ledigePlasser": 105,
+      "ledigePlasser": 106,
       "antallPlasser": 1450,
       "valgbar": true
     },
@@ -2951,7 +2951,7 @@
     "metadata": {
       "legekontor": "Vollen Legekontor",
       "tlf": "66 76 51 80",
-      "ledigePlasser": 107,
+      "ledigePlasser": 105,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -2964,7 +2964,7 @@
     "metadata": {
       "legekontor": "Legene på Bryggen",
       "tlf": "31 29 48 00",
-      "ledigePlasser": 816,
+      "ledigePlasser": 811,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -2988,7 +2988,7 @@
     "metadata": {
       "legekontor": "Heer Legekontor",
       "tlf": "64 93 60 06",
-      "ledigePlasser": 220,
+      "ledigePlasser": 222,
       "antallPlasser": 1600,
       "valgbar": true
     },
@@ -3001,7 +3001,7 @@
     "metadata": {
       "legekontor": "Aurskog Legekontor",
       "tlf": "63 85 49 30",
-      "ledigePlasser": 311,
+      "ledigePlasser": 313,
       "antallPlasser": 950,
       "valgbar": true
     },
@@ -3198,7 +3198,7 @@
     "metadata": {
       "legekontor": "Fornebulys Legekontor AS",
       "tlf": "67 53 10 01",
-      "ledigePlasser": 8,
+      "ledigePlasser": 9,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -3244,7 +3244,7 @@
     "metadata": {
       "legekontor": "Vestby Legesenter",
       "tlf": "64 95 27 33",
-      "ledigePlasser": 52,
+      "ledigePlasser": 53,
       "antallPlasser": 1500,
       "valgbar": true
     },
@@ -3349,7 +3349,7 @@
     "metadata": {
       "legekontor": "Jessheimlegene AS",
       "tlf": "63 94 21 10",
-      "ledigePlasser": 21,
+      "ledigePlasser": 22,
       "antallPlasser": 1600,
       "valgbar": true
     },
@@ -3449,7 +3449,7 @@
     "metadata": {
       "legekontor": "Vestbytorget legesenter",
       "tlf": "64 95 20 00",
-      "ledigePlasser": 89,
+      "ledigePlasser": 90,
       "antallPlasser": 850,
       "valgbar": true
     },
@@ -3754,7 +3754,7 @@
     "metadata": {
       "legekontor": "Løken Legekontor AS",
       "tlf": "63 85 48 90",
-      "ledigePlasser": 19,
+      "ledigePlasser": 20,
       "antallPlasser": 900,
       "valgbar": true
     },
@@ -3780,7 +3780,7 @@
     "metadata": {
       "legekontor": "Vollen Legekontor",
       "tlf": "66 76 51 80",
-      "ledigePlasser": 9,
+      "ledigePlasser": 8,
       "antallPlasser": 1100,
       "valgbar": true
     },
@@ -3895,7 +3895,7 @@
     "metadata": {
       "legekontor": "Heggedal legesenter",
       "tlf": "66 90 71 20",
-      "ledigePlasser": 4,
+      "ledigePlasser": 3,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -3945,7 +3945,7 @@
     "metadata": {
       "legekontor": "MediCo Legesenter",
       "tlf": "64 87 23 32",
-      "ledigePlasser": 5,
+      "ledigePlasser": 4,
       "antallPlasser": 2200,
       "valgbar": true
     },
@@ -3982,7 +3982,7 @@
     "metadata": {
       "legekontor": "Rasta Legesenter AS",
       "tlf": "67 92 34 00",
-      "ledigePlasser": 23,
+      "ledigePlasser": 22,
       "antallPlasser": 1200,
       "valgbar": true
     },
@@ -4084,7 +4084,7 @@
     "metadata": {
       "legekontor": "Medisinsk Senter Fornebu",
       "tlf": "67 59 06 36",
-      "ledigePlasser": 108,
+      "ledigePlasser": 109,
       "antallPlasser": 1550,
       "valgbar": true
     },
@@ -4130,7 +4130,7 @@
     "metadata": {
       "legekontor": "Vest Legesenter DA",
       "tlf": "67 80 50 40",
-      "ledigePlasser": 195,
+      "ledigePlasser": 196,
       "antallPlasser": 1400,
       "valgbar": true
     },
@@ -4268,7 +4268,7 @@
     "metadata": {
       "legekontor": "MediCo Legesenter",
       "tlf": "64 87 23 32",
-      "ledigePlasser": 132,
+      "ledigePlasser": 133,
       "antallPlasser": 2000,
       "valgbar": true
     },
@@ -4331,9 +4331,7 @@
     "metadata": {
       "legekontor": "Mariadasan's Legekontor",
       "tlf": "63 80 25 63",
-      "ledigePlasser": 3,
-      "antallPlasser": 500,
-      "valgbar": true
+      "antallPlasser": 500
     },
     "lat": 59.949993,
     "lng": 11.0135666
@@ -4573,7 +4571,7 @@
     "metadata": {
       "legekontor": "Brevik Legesenter",
       "tlf": "64 98 25 50",
-      "ledigePlasser": 29,
+      "ledigePlasser": 28,
       "antallPlasser": 700,
       "valgbar": true
     },
@@ -4636,7 +4634,7 @@
     "metadata": {
       "legekontor": "Lillestrøm Legesenter",
       "tlf": "64 84 69 60",
-      "ledigePlasser": 20,
+      "ledigePlasser": 21,
       "antallPlasser": 1250,
       "valgbar": true
     },
@@ -4784,7 +4782,7 @@
     "metadata": {
       "legekontor": "Ås Helseklinikk AS",
       "tlf": "64 97 70 00",
-      "ledigePlasser": 238,
+      "ledigePlasser": 239,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -4902,7 +4900,7 @@
     "metadata": {
       "legekontor": "Invivo Medisinske Senter AS",
       "tlf": "67 80 70 70",
-      "ledigePlasser": 38,
+      "ledigePlasser": 39,
       "antallPlasser": 1120,
       "valgbar": true
     },
@@ -5297,7 +5295,7 @@
     "metadata": {
       "legekontor": "Aklinikken Lørenskog",
       "tlf": "22 99 95 00",
-      "ledigePlasser": 838,
+      "ledigePlasser": 837,
       "antallPlasser": 1500,
       "valgbar": true
     },
@@ -5458,7 +5456,7 @@
     "address": "Solbråveien 23, 1383 ASKER",
     "metadata": {
       "legekontor": "Solbrå Medisinske Senter",
-      "ledigePlasser": 106,
+      "ledigePlasser": 108,
       "antallPlasser": 700,
       "valgbar": true
     },
@@ -5802,7 +5800,7 @@
     "metadata": {
       "legekontor": "Ås Legekontor Lege Angelica Scorpios",
       "tlf": "64 97 30 50",
-      "ledigePlasser": 20,
+      "ledigePlasser": 21,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -5920,7 +5918,7 @@
     "metadata": {
       "legekontor": "Maura Legesenter AS",
       "tlf": "63 99 37 97",
-      "ledigePlasser": 14,
+      "ledigePlasser": 15,
       "antallPlasser": 1200,
       "valgbar": true
     },
@@ -5946,7 +5944,7 @@
     "metadata": {
       "legekontor": "Lysakerfjorden Legesenter",
       "tlf": "67 11 59 00",
-      "ledigePlasser": 53,
+      "ledigePlasser": 52,
       "antallPlasser": 1100,
       "valgbar": true
     },
@@ -6029,7 +6027,7 @@
     "metadata": {
       "legekontor": "Bylegene",
       "tlf": "63 94 21 00",
-      "ledigePlasser": 154,
+      "ledigePlasser": 153,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -6528,7 +6526,7 @@
     "metadata": {
       "legekontor": "Slattum Legekontor Subra",
       "tlf": "67 07 72 32",
-      "ledigePlasser": 45,
+      "ledigePlasser": 44,
       "antallPlasser": 1400,
       "valgbar": true
     },
@@ -6725,7 +6723,7 @@
     "metadata": {
       "legekontor": "Fetsund Legekontor AS",
       "tlf": "63 88 70 80",
-      "ledigePlasser": 268,
+      "ledigePlasser": 269,
       "antallPlasser": 1400,
       "valgbar": true
     },
@@ -6870,7 +6868,7 @@
     "metadata": {
       "legekontor": "Fornebulys Legekontor AS",
       "tlf": "67 53 10 01",
-      "ledigePlasser": 36,
+      "ledigePlasser": 35,
       "antallPlasser": 1850,
       "valgbar": true
     },
@@ -7461,7 +7459,7 @@
     "metadata": {
       "legekontor": "Vormsund Medisinske Senter Da",
       "tlf": "63 90 21 37",
-      "ledigePlasser": 65,
+      "ledigePlasser": 62,
       "antallPlasser": 850,
       "valgbar": true
     },
@@ -7487,7 +7485,7 @@
     "metadata": {
       "legekontor": "Helset Legesenter A/S",
       "tlf": "67 80 22 00",
-      "ledigePlasser": 29,
+      "ledigePlasser": 30,
       "antallPlasser": 1070,
       "valgbar": true
     },
@@ -7500,7 +7498,7 @@
     "metadata": {
       "legekontor": "Tofte legesenter",
       "tlf": "32 79 22 20",
-      "ledigePlasser": 517,
+      "ledigePlasser": 516,
       "antallPlasser": 1300,
       "valgbar": true
     },
@@ -7593,7 +7591,7 @@
     "metadata": {
       "legekontor": "Vestveien legesenter DA",
       "tlf": "64 85 94 94",
-      "ledigePlasser": 4,
+      "ledigePlasser": 3,
       "antallPlasser": 800,
       "valgbar": true
     },

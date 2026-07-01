@@ -82,7 +82,7 @@
     "metadata": {
       "legekontor": "Frakkagjerd Legesenter",
       "tlf": "52 75 50 60",
-      "ledigePlasser": 73,
+      "ledigePlasser": 72,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -510,7 +510,7 @@
     "metadata": {
       "legekontor": "Sandnes Medisinske Senter",
       "tlf": "51 73 12 34",
-      "ledigePlasser": 31,
+      "ledigePlasser": 30,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -725,7 +725,7 @@
     "metadata": {
       "legekontor": "Hinna Legesenter AS",
       "tlf": "51 88 51 50",
-      "ledigePlasser": 227,
+      "ledigePlasser": 228,
       "antallPlasser": 1300,
       "valgbar": true
     },
@@ -1039,7 +1039,7 @@
     "metadata": {
       "legekontor": "Håbet Legesenter AS",
       "tlf": "51 60 18 50",
-      "ledigePlasser": 10,
+      "ledigePlasser": 11,
       "antallPlasser": 1300,
       "valgbar": true
     },
@@ -1141,7 +1141,7 @@
     "metadata": {
       "legekontor": "Madlakrossen Legesenter",
       "tlf": "51 59 95 50",
-      "ledigePlasser": 5,
+      "ledigePlasser": 8,
       "antallPlasser": 1800,
       "valgbar": true
     },
@@ -1199,7 +1199,7 @@
     "metadata": {
       "legekontor": "Sandnes klinikken",
       "tlf": "51 68 54 00",
-      "ledigePlasser": 11,
+      "ledigePlasser": 10,
       "antallPlasser": 1500,
       "valgbar": true
     },
@@ -1278,7 +1278,7 @@
     "metadata": {
       "legekontor": "Hjelmeland legekontor",
       "tlf": "51 75 71 00",
-      "ledigePlasser": 4,
+      "ledigePlasser": 3,
       "antallPlasser": 1100,
       "valgbar": true
     },
@@ -1313,7 +1313,7 @@
     "metadata": {
       "legekontor": "Klinikk Spero AS",
       "tlf": "404 84 073",
-      "ledigePlasser": 129,
+      "ledigePlasser": 128,
       "antallPlasser": 800,
       "valgbar": true
     },
@@ -1326,7 +1326,7 @@
     "metadata": {
       "legekontor": "Jæren Legesenter",
       "tlf": "51 20 44 00",
-      "ledigePlasser": 737,
+      "ledigePlasser": 735,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -1427,7 +1427,7 @@
     "metadata": {
       "legekontor": "Finnøy Legekontor",
       "tlf": "51 71 42 00",
-      "ledigePlasser": 71,
+      "ledigePlasser": 72,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -1567,7 +1567,7 @@
     "metadata": {
       "legekontor": "Dr. Knutsen legekontor",
       "tlf": "51 73 11 03",
-      "ledigePlasser": 51,
+      "ledigePlasser": 49,
       "antallPlasser": 1500,
       "valgbar": true
     },
@@ -2349,7 +2349,7 @@
     "metadata": {
       "legekontor": "Stavangerdoktoren",
       "tlf": "51 51 63 63",
-      "ledigePlasser": 15,
+      "ledigePlasser": 14,
       "antallPlasser": 1400,
       "valgbar": true
     },
@@ -2454,7 +2454,7 @@
     "metadata": {
       "legekontor": "Tasta legesenter",
       "tlf": "51 54 52 50",
-      "ledigePlasser": 273,
+      "ledigePlasser": 272,
       "antallPlasser": 800,
       "valgbar": true
     },
@@ -2933,7 +2933,7 @@
     "metadata": {
       "legekontor": "Hinna Legesenter AS",
       "tlf": "51 88 51 50",
-      "ledigePlasser": 134,
+      "ledigePlasser": 137,
       "antallPlasser": 1500,
       "valgbar": true
     },
@@ -2981,7 +2981,7 @@
     "metadata": {
       "legekontor": "Stavangerdoktoren",
       "tlf": "51 51 63 63",
-      "ledigePlasser": 6,
+      "ledigePlasser": 9,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -3731,7 +3731,7 @@
     "metadata": {
       "legekontor": "Norheim legesenter DA",
       "tlf": "52 81 40 60",
-      "ledigePlasser": 5,
+      "ledigePlasser": 4,
       "antallPlasser": 1200,
       "valgbar": true
     },
@@ -3890,7 +3890,7 @@
     "metadata": {
       "legekontor": "Øyane Legesenter",
       "tlf": "51 86 88 40",
-      "ledigePlasser": 36,
+      "ledigePlasser": 35,
       "antallPlasser": 925,
       "valgbar": true
     },
@@ -3914,7 +3914,7 @@
     "metadata": {
       "legekontor": "Lund Legesenter",
       "tlf": "51 40 47 60",
-      "ledigePlasser": 375,
+      "ledigePlasser": 374,
       "antallPlasser": 1200,
       "valgbar": true
     },
@@ -4164,7 +4164,7 @@
     "metadata": {
       "legekontor": "Stavanger City Legesenter",
       "tlf": "458 33 444",
-      "ledigePlasser": 12,
+      "ledigePlasser": 10,
       "antallPlasser": 1300,
       "valgbar": true
     },
@@ -5214,7 +5214,7 @@
     "metadata": {
       "legekontor": "Madlaklinikken",
       "tlf": "51 93 88 90",
-      "ledigePlasser": 217,
+      "ledigePlasser": 218,
       "antallPlasser": 1500,
       "valgbar": true
     },
@@ -5319,7 +5319,7 @@
     "metadata": {
       "legekontor": "St. Olav Legegruppe",
       "tlf": "51 52 90 60",
-      "ledigePlasser": 9,
+      "ledigePlasser": 8,
       "antallPlasser": 950,
       "valgbar": true
     },

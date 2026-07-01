@@ -349,7 +349,7 @@
     "metadata": {
       "legekontor": "Fredfoss Legesenter AS",
       "tlf": "32 75 75 50",
-      "ledigePlasser": 52,
+      "ledigePlasser": 49,
       "antallPlasser": 500,
       "valgbar": true
     },
@@ -362,7 +362,7 @@
     "metadata": {
       "legekontor": "Hotvet legesenter AS",
       "tlf": "31 02 13 00",
-      "ledigePlasser": 296,
+      "ledigePlasser": 295,
       "antallPlasser": 500,
       "valgbar": true
     },
@@ -1122,7 +1122,7 @@
     "metadata": {
       "legekontor": "Lierbyen Legesenter AS",
       "tlf": "32 85 85 85",
-      "ledigePlasser": 16,
+      "ledigePlasser": 20,
       "antallPlasser": 1600,
       "valgbar": true
     },
@@ -1446,7 +1446,7 @@
     "metadata": {
       "legekontor": "Drammen Legesenter DA",
       "tlf": "32 25 41 20",
-      "ledigePlasser": 44,
+      "ledigePlasser": 43,
       "antallPlasser": 1300,
       "valgbar": true
     },
@@ -1566,7 +1566,7 @@
     "metadata": {
       "legekontor": "Geithus Helsesenter",
       "tlf": "32 78 10 33",
-      "ledigePlasser": 16,
+      "ledigePlasser": 15,
       "antallPlasser": 800,
       "valgbar": true
     },
@@ -1739,9 +1739,7 @@
     "metadata": {
       "legekontor": "Fredholt Legesenter AS",
       "tlf": "31 41 00 00",
-      "ledigePlasser": 2,
-      "antallPlasser": 750,
-      "valgbar": true
+      "antallPlasser": 750
     },
     "lat": 59.7243135,
     "lng": 10.1501586
@@ -1864,7 +1862,7 @@
     "metadata": {
       "legekontor": "Nor Medic",
       "tlf": "940 02 044",
-      "ledigePlasser": 500,
+      "ledigePlasser": 499,
       "antallPlasser": 500,
       "valgbar": true
     },
@@ -1899,7 +1897,7 @@
     "metadata": {
       "legekontor": "Hotvet legesenter AS",
       "tlf": "31 02 13 00",
-      "ledigePlasser": 469,
+      "ledigePlasser": 470,
       "antallPlasser": 500,
       "valgbar": true
     },
@@ -2083,7 +2081,7 @@
     "metadata": {
       "legekontor": "Helsehuset Legekontor",
       "tlf": "32 23 68 00",
-      "ledigePlasser": 24,
+      "ledigePlasser": 23,
       "antallPlasser": 1700,
       "valgbar": true
     },
@@ -2155,7 +2153,7 @@
     "metadata": {
       "legekontor": "Torget Helsesenter AS",
       "tlf": "32 83 32 83",
-      "ledigePlasser": 124,
+      "ledigePlasser": 123,
       "antallPlasser": 1200,
       "valgbar": true
     },
@@ -2256,7 +2254,7 @@
     "metadata": {
       "legekontor": "Fjell Legesenter",
       "tlf": "32 20 80 90",
-      "ledigePlasser": 15,
+      "ledigePlasser": 14,
       "antallPlasser": 1100,
       "valgbar": true
     },
@@ -2282,7 +2280,7 @@
     "metadata": {
       "legekontor": "Bragernes Legesenter",
       "tlf": "32 21 35 10",
-      "ledigePlasser": 8,
+      "ledigePlasser": 9,
       "antallPlasser": 1050,
       "valgbar": true
     },
@@ -2295,7 +2293,7 @@
     "metadata": {
       "legekontor": "Konnerud Legesenter",
       "tlf": "32 88 81 00",
-      "ledigePlasser": 32,
+      "ledigePlasser": 34,
       "antallPlasser": 1550,
       "valgbar": true
     },
@@ -2601,7 +2599,7 @@
     "metadata": {
       "legekontor": "Nor Medic",
       "tlf": "940 02 044",
-      "ledigePlasser": 500,
+      "ledigePlasser": 499,
       "antallPlasser": 500,
       "valgbar": true
     },
@@ -2717,7 +2715,7 @@
     "metadata": {
       "legekontor": "Helsehuset Legekontor",
       "tlf": "32 23 68 00",
-      "ledigePlasser": 117,
+      "ledigePlasser": 118,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -2984,7 +2982,7 @@
     "metadata": {
       "legekontor": "Hol kommune Legetjenesten",
       "tlf": "32 09 22 50",
-      "ledigePlasser": 176,
+      "ledigePlasser": 175,
       "antallPlasser": 600,
       "valgbar": true
     },
@@ -3247,7 +3245,7 @@
     "metadata": {
       "legekontor": "Hol kommune Legetjenesten",
       "tlf": "32 09 22 50",
-      "ledigePlasser": 50,
+      "ledigePlasser": 51,
       "antallPlasser": 600,
       "valgbar": true
     },

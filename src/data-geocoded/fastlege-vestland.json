@@ -1560,7 +1560,7 @@
     "metadata": {
       "legekontor": "Os Allmennpraksis DA",
       "tlf": "56 57 01 20",
-      "ledigePlasser": 55,
+      "ledigePlasser": 52,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -5763,7 +5763,7 @@
   },
   {
     "title": "Kan Shanker",
-    "address": "Granden 3, 6723 SVELGEN",
+    "address": "Granden 12, 6723 SVELGEN",
     "metadata": {
       "legekontor": "Svelgen Legekontor",
       "tlf": "57 79 64 00",
@@ -5771,8 +5771,8 @@
       "antallPlasser": 920,
       "valgbar": true
     },
-    "lat": 61.768879,
-    "lng": 5.287677
+    "lat": 61.7684313,
+    "lng": 5.288729
   },
   {
     "title": "Satya Pal Sharma",
@@ -5791,7 +5791,7 @@
     "metadata": {
       "legekontor": "Sørås Legesenter",
       "tlf": "53 00 65 00",
-      "ledigePlasser": 7,
+      "ledigePlasser": 6,
       "antallPlasser": 1450,
       "valgbar": true
     },
@@ -6516,7 +6516,7 @@
   },
   {
     "title": "Giritharan Thangarajah",
-    "address": "Granden 3, 6723 SVELGEN",
+    "address": "Granden 12, 6723 SVELGEN",
     "metadata": {
       "legekontor": "Svelgen Legekontor",
       "tlf": "57 79 64 00",
@@ -6524,8 +6524,8 @@
       "antallPlasser": 850,
       "valgbar": true
     },
-    "lat": 61.768879,
-    "lng": 5.287677
+    "lat": 61.7684313,
+    "lng": 5.288729
   },
   {
     "title": "Maria Antoinette Claire Thierbach",

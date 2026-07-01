@@ -5,7 +5,7 @@
     "metadata": {
       "legekontor": "Elverum Helsesenter AS",
       "tlf": "62 41 61 66",
-      "ledigePlasser": 33,
+      "ledigePlasser": 29,
       "antallPlasser": 1050,
       "valgbar": true
     },
@@ -426,7 +426,7 @@
     "metadata": {
       "legekontor": "Moelv Legesenter",
       "tlf": "62 33 55 30",
-      "ledigePlasser": 1,
+      "ledigePlasser": 2,
       "antallPlasser": 1100,
       "valgbar": true
     },
@@ -836,7 +836,7 @@
     "metadata": {
       "legekontor": "Innlandet Legesenter AS",
       "tlf": "62 55 54 00",
-      "ledigePlasser": 120,
+      "ledigePlasser": 121,
       "antallPlasser": 1700,
       "valgbar": true
     },
@@ -939,7 +939,7 @@
     "metadata": {
       "legekontor": "Nymosvingen Legesenter AS",
       "tlf": "61 59 60 00",
-      "ledigePlasser": 371,
+      "ledigePlasser": 370,
       "antallPlasser": 950,
       "valgbar": true
     },
@@ -1046,7 +1046,7 @@
     "metadata": {
       "legekontor": "Tingnes Legesenter",
       "tlf": "62 34 73 50",
-      "ledigePlasser": 3,
+      "ledigePlasser": 2,
       "antallPlasser": 800,
       "valgbar": true
     },
@@ -1241,7 +1241,7 @@
     "metadata": {
       "legekontor": "Elverum Helsesenter AS",
       "tlf": "62 41 61 66",
-      "ledigePlasser": 10,
+      "ledigePlasser": 12,
       "antallPlasser": 875,
       "valgbar": true
     },
@@ -1794,7 +1794,7 @@
     "metadata": {
       "legekontor": "Slidre Legesenter",
       "tlf": "61 34 47 90",
-      "ledigePlasser": 46,
+      "ledigePlasser": 47,
       "antallPlasser": 400,
       "valgbar": true
     },
@@ -2061,7 +2061,7 @@
     "metadata": {
       "legekontor": "Elverum Kommunale Legesenter",
       "tlf": "62 41 01 40",
-      "ledigePlasser": 20,
+      "ledigePlasser": 19,
       "antallPlasser": 1100,
       "valgbar": true
     },
@@ -2199,7 +2199,7 @@
     "metadata": {
       "legekontor": "Capio Fastleger Gjøvik",
       "tlf": "61 17 42 50",
-      "ledigePlasser": 91,
+      "ledigePlasser": 90,
       "antallPlasser": 2200,
       "valgbar": true
     },
@@ -2236,7 +2236,7 @@
     "metadata": {
       "legekontor": "Nymosvingen Legesenter AS",
       "tlf": "61 59 60 00",
-      "ledigePlasser": 261,
+      "ledigePlasser": 260,
       "antallPlasser": 950,
       "valgbar": true
     },
@@ -2435,7 +2435,7 @@
     "metadata": {
       "legekontor": "Legekontoret i Øystre Slidre",
       "tlf": "61 35 29 00",
-      "ledigePlasser": 4,
+      "ledigePlasser": 5,
       "antallPlasser": 900,
       "valgbar": true
     },
@@ -2547,7 +2547,9 @@
     "metadata": {
       "legekontor": "Innlandet Legesenter AS",
       "tlf": "62 55 54 00",
-      "antallPlasser": 1650
+      "ledigePlasser": 46,
+      "antallPlasser": 1700,
+      "valgbar": true
     },
     "lat": 60.79375,
     "lng": 11.075919
@@ -2720,7 +2722,9 @@
     "metadata": {
       "legekontor": "Landsbylegene Dokka",
       "tlf": "61 11 46 00",
-      "antallPlasser": 800
+      "ledigePlasser": 7,
+      "antallPlasser": 800,
+      "valgbar": true
     },
     "lat": 60.8403414,
     "lng": 10.0651375
@@ -2948,7 +2952,7 @@
     "metadata": {
       "legekontor": "Bryggeriet Legesenter DA",
       "tlf": "61 22 19 10",
-      "ledigePlasser": 6,
+      "ledigePlasser": 3,
       "antallPlasser": 1300,
       "valgbar": true
     },
@@ -2994,7 +2998,7 @@
     "metadata": {
       "legekontor": "Øyer og Tretten Legekontor",
       "tlf": "61 26 82 00",
-      "ledigePlasser": 35,
+      "ledigePlasser": 34,
       "antallPlasser": 900,
       "valgbar": true
     },
@@ -3193,7 +3197,7 @@
     "metadata": {
       "legekontor": "Engerdal Helsesenter",
       "tlf": "62 45 86 00",
-      "ledigePlasser": 252,
+      "ledigePlasser": 250,
       "antallPlasser": 800,
       "valgbar": true
     },
@@ -3844,7 +3848,7 @@
     "metadata": {
       "legekontor": "Sagatunet legesenter",
       "tlf": "61 19 14 20",
-      "ledigePlasser": 75,
+      "ledigePlasser": 74,
       "antallPlasser": 900,
       "valgbar": true
     },
@@ -4460,7 +4464,7 @@
     "metadata": {
       "legekontor": "Legekontoret i Øystre Slidre",
       "tlf": "61 35 29 00",
-      "ledigePlasser": 6,
+      "ledigePlasser": 4,
       "antallPlasser": 900,
       "valgbar": true
     },
@@ -4517,7 +4521,7 @@
     "metadata": {
       "legekontor": "Trysil Legesenter",
       "tlf": "62 45 78 50",
-      "ledigePlasser": 5,
+      "ledigePlasser": 2,
       "antallPlasser": 600,
       "valgbar": true
     },
@@ -4732,7 +4736,7 @@
     "metadata": {
       "legekontor": "Stortorget Legesenter",
       "tlf": "62 53 82 00",
-      "ledigePlasser": 14,
+      "ledigePlasser": 15,
       "antallPlasser": 1200,
       "valgbar": true
     },

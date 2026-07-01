@@ -615,7 +615,7 @@
     "metadata": {
       "legekontor": "Skodje Helsesenter",
       "tlf": "70 24 40 60",
-      "ledigePlasser": 25,
+      "ledigePlasser": 24,
       "antallPlasser": 1200,
       "valgbar": true
     },
@@ -1133,7 +1133,7 @@
     "metadata": {
       "legekontor": "Rauma Legesenter",
       "tlf": "71 16 67 00",
-      "ledigePlasser": 22,
+      "ledigePlasser": 21,
       "antallPlasser": 800,
       "valgbar": true
     },
@@ -1179,7 +1179,7 @@
     "metadata": {
       "legekontor": "Gjemnes legesenter",
       "tlf": "71 29 11 80",
-      "ledigePlasser": 99,
+      "ledigePlasser": 98,
       "antallPlasser": 900,
       "valgbar": true
     },
@@ -1465,7 +1465,7 @@
     "metadata": {
       "legekontor": "Hornindal Legekontor",
       "tlf": "57 87 98 70",
-      "ledigePlasser": 106,
+      "ledigePlasser": 108,
       "antallPlasser": 600,
       "valgbar": true
     },
@@ -1734,7 +1734,7 @@
     "metadata": {
       "legekontor": "Rauma Legesenter",
       "tlf": "71 16 67 00",
-      "ledigePlasser": 113,
+      "ledigePlasser": 114,
       "antallPlasser": 800,
       "valgbar": true
     },
@@ -3032,7 +3032,7 @@
     "metadata": {
       "legekontor": "Daaeskogen Legesenter",
       "tlf": "70 16 41 50",
-      "ledigePlasser": 304,
+      "ledigePlasser": 302,
       "antallPlasser": 850,
       "valgbar": true
     },
@@ -3272,7 +3272,7 @@
     "metadata": {
       "legekontor": "Medicalis legesenter",
       "tlf": "70 10 00 22",
-      "ledigePlasser": 350,
+      "ledigePlasser": 353,
       "antallPlasser": 1400,
       "valgbar": true
     },
@@ -3318,7 +3318,7 @@
     "metadata": {
       "legekontor": "Medicalis legesenter",
       "tlf": "70 10 00 22",
-      "ledigePlasser": 361,
+      "ledigePlasser": 360,
       "antallPlasser": 1800,
       "valgbar": true
     },

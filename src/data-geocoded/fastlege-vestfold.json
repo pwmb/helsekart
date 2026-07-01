@@ -112,7 +112,7 @@
     "metadata": {
       "legekontor": "Kverndalen legesenter",
       "tlf": "35 50 30 40",
-      "ledigePlasser": 26,
+      "ledigePlasser": 24,
       "antallPlasser": 900,
       "valgbar": true
     },
@@ -457,7 +457,7 @@
     "metadata": {
       "legekontor": "Nome Legesenter",
       "tlf": "35 00 86 00",
-      "ledigePlasser": 32,
+      "ledigePlasser": 33,
       "antallPlasser": 1250,
       "valgbar": true
     },
@@ -635,7 +635,7 @@
     "metadata": {
       "legekontor": "Fyret legesenter",
       "tlf": "35 96 53 90",
-      "ledigePlasser": 336,
+      "ledigePlasser": 335,
       "antallPlasser": 500,
       "valgbar": true
     },
@@ -793,7 +793,7 @@
     "metadata": {
       "legekontor": "Kviteseid Legekontor",
       "tlf": "35 06 82 50",
-      "ledigePlasser": 490,
+      "ledigePlasser": 491,
       "antallPlasser": 900,
       "valgbar": true
     },
@@ -817,7 +817,7 @@
     "metadata": {
       "legekontor": "Heistad Legekontor AS",
       "tlf": "35 51 68 00",
-      "ledigePlasser": 141,
+      "ledigePlasser": 142,
       "antallPlasser": 850,
       "valgbar": true
     },
@@ -863,7 +863,7 @@
     "metadata": {
       "legekontor": "Nome Legesenter",
       "tlf": "35 00 86 00",
-      "ledigePlasser": 124,
+      "ledigePlasser": 123,
       "antallPlasser": 950,
       "valgbar": true
     },
@@ -1181,7 +1181,7 @@
     "metadata": {
       "legekontor": "Nome Legesenter",
       "tlf": "35 00 86 00",
-      "ledigePlasser": 228,
+      "ledigePlasser": 227,
       "antallPlasser": 1100,
       "valgbar": true
     },
@@ -1227,7 +1227,7 @@
     "metadata": {
       "legekontor": "Holbergsgate Legesenter",
       "tlf": "35 58 70 90",
-      "ledigePlasser": 41,
+      "ledigePlasser": 40,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -1509,7 +1509,7 @@
     "metadata": {
       "legekontor": "Heistad Legekontor AS",
       "tlf": "35 51 68 00",
-      "ledigePlasser": 30,
+      "ledigePlasser": 29,
       "antallPlasser": 1350,
       "valgbar": true
     },
@@ -1779,7 +1779,7 @@
     "metadata": {
       "legekontor": "Gamle Kragerøvei Legesenter",
       "tlf": "35 98 99 99",
-      "ledigePlasser": 9,
+      "ledigePlasser": 7,
       "antallPlasser": 800,
       "valgbar": true
     },
