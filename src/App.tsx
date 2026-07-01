@@ -1,10 +1,11 @@
 import { useState } from 'react'
 import MapView from './components/MapView'
 import MapLegend from './components/MapLegend'
-import { loadCategories, loadPreGeocoded, hasPreGeocodedData } from './dataLoader'
+import { loadCategories, loadPreGeocoded, hasPreGeocodedData, buildLegendGroups } from './dataLoader'
 import './App.css'
 
-const categories = loadCategories()
+const categories  = loadCategories()
+const legendGroups = buildLegendGroups(categories)
 const preGeocoded = hasPreGeocodedData() ? loadPreGeocoded() : []
 
 const COLORS_KEY = 'avtalespesialister_category_colors'
@@ -64,7 +65,7 @@ export default function App() {
           activeCategories={activeCategories}
         />
         <MapLegend
-          categories={categories}
+          groups={legendGroups}
           categoryColors={categoryColors}
           activeCategories={activeCategories}
           onToggleCategory={toggleCategory}

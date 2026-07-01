@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Kristo, Cybèle",
+    "address": "0667 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "471 41 767",
+      "tlf": "Oslo Revmatologipraksis, Brynsveien 5, Inngang A, 1 etg."
+    }
+  },
+  {
+    "title": "Poyan, Armin",
+    "address": "0369 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "23 19 60 40",
+      "tlf": "Colosseumklinikken Medisinske Senter AS, Sørkedalsveien 10 C"
+    }
+  },
+  {
+    "title": "Diamantopoulos, Andreas",
+    "address": "1336 Sandvika",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "465 40 676",
+      "tlf": "Sandvika Reumatologipraksis, Engervannsveien 25 A,"
+    }
+  },
+  {
+    "title": "Minet, Bente",
+    "address": "1337 Sandvika",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "465 40 676",
+      "tlf": "Sandvika Reumatologi Praksis, Egervannsveien 25 A"
+    }
+  },
+  {
+    "title": "Norli, Ellen Sauar",
+    "address": "1300 Sandvika, Postboks 63,1300 Sandvika",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "67 55 31 40",
+      "tlf": "Humana Helse AS Spesialistsenter, Elias Smithsvei 10, 3 etg"
+    }
+  },
+  {
+    "title": "Knudsrød, Ole Gard",
+    "address": "3117 Tønsberg, PB 1248,3105 Tønsberg",
+    "metadata": {
+      "region": "Vestfold",
+      "tilknytning": "971 10 797",
+      "tlf": "Trudvangveien 67"
+    }
+  },
+  {
+    "title": "Hetland, Helene",
+    "address": "4611 Kristiansand S",
+    "metadata": {
+      "region": "Agder",
+      "tilknytning": "38 10 71 50",
+      "tlf": "Revmatologene i Tollbodgata, Tollbodgata 4"
+    }
+  },
+  {
+    "title": "Noraas, Anne Lindtner",
+    "address": "4611 Kristiansand S",
+    "metadata": {
+      "region": "Agder",
+      "tilknytning": "38 10 71 50",
+      "tlf": "Revmatologene i Tollbodgata, Tollbodgata 4,"
+    }
+  }
+]

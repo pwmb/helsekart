@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Rustad, Nora",
+    "address": "Rosenkrantzgate 7, 0159 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "Nic Waals Institutt",
+      "tlf": "951 66 603"
+    }
+  },
+  {
+    "title": "Blom, Kristin",
+    "address": "Dampsagveien 4, 2000 Lillestrøm",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "BUP Nedre Romerike",
+      "tlf": "466 98 495"
+    }
+  },
+  {
+    "title": "Løkke, Per Are",
+    "address": "Ressurssenteret, Håkonkastet 5, 1453 Bjørnemyr",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "BUP Follo",
+      "tlf": "911 14 064"
+    }
+  },
+  {
+    "title": "Sundberg, Hilde",
+    "address": "Olavsgate 7, 3256 Larvik",
+    "metadata": {
+      "region": "Vestfold",
+      "tilknytning": "BUPA, Sykehuset i Vestfold HF",
+      "tlf": "+4790896406"
+    }
+  },
+  {
+    "title": "Johnsen, Ole Christian Vetle",
+    "address": "OH Holtasgate 21, 3678 Notodden",
+    "metadata": {
+      "region": "Telemark",
+      "tilknytning": "BUP Notodden",
+      "tlf": "473 32 824"
+    }
+  },
+  {
+    "title": "Kvalvik, Belinda Haugerud",
+    "address": "Sverresgt. 19, 3921 Porsgrunn",
+    "metadata": {
+      "region": "Telemark",
+      "tilknytning": "BUP Grenland Sør",
+      "tlf": "930 32 457"
+    }
+  }
+]

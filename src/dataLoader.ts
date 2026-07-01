@@ -1,79 +1,176 @@
-import type { Category, GeocodedEntry, PreGeocodedAddress, RawAddress } from './types'
+import type { Category, CategoryGroup, GeocodedEntry, PreGeocodedAddress, RawAddress } from './types'
 
-// Geographically themed — north=blue, west=green, south=teal, east=red/warm, capital=gold
-const CATEGORY_COLORS: Record<string, string> = {
-  // Arctic north — deep blues/indigo
-  'fastlege-finnmark':        '#1565c0',  // deep blue
-  'fastlege-troms':           '#5c6bc0',  // indigo-blue
-  'fastlege-nordland':        '#42a5f5',  // sky blue
+// ── colours ───────────────────────────────────────────────────────────────────
 
-  // Central
-  'fastlege-trondelag':       '#ef6c00',  // deep orange
-
-  // West coast — greens
-  'fastlege-more-og-romsdal': '#2e7d32',  // forest green
-  'fastlege-vestland':        '#66bb6a',  // medium green
-
-  // Inland
-  'fastlege-innlandet':       '#a1887f',  // warm brown
-
-  // East / Southeast — reds & warm
-  'fastlege-akershus':        '#e53935',  // red
-  'fastlege-ostfold':         '#e57373',  // light red (rose)
-  'fastlege-buskerud':        '#ff7043',  // deep orange-red
-  'fastlege-vestfold':        '#ff8a65',  // salmon
-  'fastlege-telemark':        '#ad1457',  // dark pink
-
-  // South & Southwest — teals
-  'fastlege-agder':           '#00838f',  // dark teal
-  'fastlege-rogaland':        '#26c6da',  // bright cyan-teal
-
-  // Capital — gold, clearly distinct
-  'fastlege-oslo':            '#f9a825',  // amber/gold
-
-  // Specialist category — purple, clearly different from all fastlege
-  'psykisk-helsevern-voksne': '#7b1fa2',  // deep purple
+// Fastleger: geographically themed
+const FASTLEGE_COLORS: Record<string, string> = {
+  'fastlege-finnmark':        '#1565c0',
+  'fastlege-troms':           '#5c6bc0',
+  'fastlege-nordland':        '#42a5f5',
+  'fastlege-trondelag':       '#ef6c00',
+  'fastlege-more-og-romsdal': '#2e7d32',
+  'fastlege-vestland':        '#66bb6a',
+  'fastlege-innlandet':       '#a1887f',
+  'fastlege-akershus':        '#e53935',
+  'fastlege-ostfold':         '#e57373',
+  'fastlege-buskerud':        '#ff7043',
+  'fastlege-vestfold':        '#ff8a65',
+  'fastlege-telemark':        '#ad1457',
+  'fastlege-agder':           '#00838f',
+  'fastlege-rogaland':        '#26c6da',
+  'fastlege-oslo':            '#f9a825',
 }
 
-// Fallback palette for any future files not in the map above
+// Avtalespesialister — Legespesialister: distinct medical colours
+const LEGE_COLORS: Record<string, string> = {
+  'avtalespesialister-kardiologi':                    '#e53935',
+  'avtalespesialister-oyesykdommer':                  '#1e88e5',
+  'avtalespesialister-ore-nese-halssykdommer':        '#fb8c00',
+  'avtalespesialister-fodselshjelp-og-kvinnesykdommer': '#f06292',
+  'avtalespesialister-hudsykdommer':                  '#8d6e63',
+  'avtalespesialister-barnesykdommer':                '#ffb300',
+  'avtalespesialister-nevrologi':                     '#5e35b1',
+  'avtalespesialister-ortopedi':                      '#78909c',
+  'avtalespesialister-lungemedisin':                  '#29b6f6',
+  'avtalespesialister-gastroenterologi':              '#558b2f',
+  'avtalespesialister-revmatologi':                   '#ab47bc',
+  'avtalespesialister-urologi':                       '#26a69a',
+  'avtalespesialister-endokrinologi':                 '#ffa726',
+  'avtalespesialister-indremedisin':                  '#ef9a9a',
+  'avtalespesialister-anestesiologi':                 '#b0bec5',
+  'avtalespesialister-fysikalsk-medisin':             '#a5d6a7',
+  'avtalespesialister-kirurgi':                       '#c62828',
+}
+
+// Psykiatere: purple family
+const PSYKIATER_COLORS: Record<string, string> = {
+  'avtalespesialister-psykisk-helsevern-voksne':      '#7b1fa2',
+  'avtalespesialister-psykisk-helsevern-barn-og-unge':'#ce93d8',
+}
+
+// Psykologer: teal
+const PSYKOLOG_COLORS: Record<string, string> = {
+  'avtalespesialister-nevropsykolog':                 '#00897b',
+}
+
+const CATEGORY_COLORS: Record<string, string> = {
+  ...FASTLEGE_COLORS,
+  ...LEGE_COLORS,
+  ...PSYKIATER_COLORS,
+  ...PSYKOLOG_COLORS,
+}
+
 const FALLBACK_PALETTE = [
   '#e74c3c', '#3498db', '#2ecc71', '#f39c12',
   '#9b59b6', '#1abc9c', '#e67e22', '#e91e63',
 ]
 
+// ── group definitions ─────────────────────────────────────────────────────────
+
+const LEGESPESIALISTER_IDS = new Set([
+  'avtalespesialister-anestesiologi',
+  'avtalespesialister-barnesykdommer',
+  'avtalespesialister-endokrinologi',
+  'avtalespesialister-fysikalsk-medisin',
+  'avtalespesialister-fodselshjelp-og-kvinnesykdommer',
+  'avtalespesialister-gastroenterologi',
+  'avtalespesialister-hudsykdommer',
+  'avtalespesialister-indremedisin',
+  'avtalespesialister-kardiologi',
+  'avtalespesialister-kirurgi',
+  'avtalespesialister-lungemedisin',
+  'avtalespesialister-nevrologi',
+  'avtalespesialister-ortopedi',
+  'avtalespesialister-revmatologi',
+  'avtalespesialister-urologi',
+  'avtalespesialister-ore-nese-halssykdommer',
+  'avtalespesialister-oyesykdommer',
+])
+
+const PSYKIATER_IDS = new Set([
+  'avtalespesialister-psykisk-helsevern-voksne',
+  'avtalespesialister-psykisk-helsevern-barn-og-unge',
+])
+
+const PSYKOLOG_IDS = new Set([
+  'avtalespesialister-nevropsykolog',
+])
+
+// ── loaders ───────────────────────────────────────────────────────────────────
+
+const rawModules      = import.meta.glob('./data/*.json',           { eager: true })
+const geocodedModules = import.meta.glob('./data-geocoded/*.json',  { eager: true })
+
+function makeCategory(filename: string, mod: unknown, index: number): Category {
+  return {
+    id: filename,
+    name: toDisplayName(filename),
+    color: CATEGORY_COLORS[filename] ?? FALLBACK_PALETTE[index % FALLBACK_PALETTE.length],
+    addresses: (mod as { default: RawAddress[] }).default,
+  }
+}
+
 function toDisplayName(filename: string): string {
   return filename
+    .replace(/^fastlege-/, '')
+    .replace(/^avtalespesialister-/, '')
     .replace(/-/g, ' ')
     .replace(/\b\w/g, (c) => c.toUpperCase())
 }
 
-const rawModules = import.meta.glob('./data/*.json', { eager: true })
-const geocodedModules = import.meta.glob('./data-geocoded/*.json', { eager: true })
-
 export function loadCategories(): Category[] {
   return Object.entries(rawModules).map(([path, mod], index) => {
     const filename = path.split('/').pop()!.replace('.json', '')
-    return {
-      id: filename,
-      name: toDisplayName(filename),
-      color: CATEGORY_COLORS[filename] ?? FALLBACK_PALETTE[index % FALLBACK_PALETTE.length],
-      addresses: (mod as { default: RawAddress[] }).default,
-    }
+    return makeCategory(filename, mod, index)
   })
 }
 
-/** Returns pre-geocoded entries from data-geocoded/, keyed by category id. */
+/** Returns the full 2-level legend tree: Fastleger + Avtalespesialister. */
+export function buildLegendGroups(categories: Category[]): CategoryGroup[] {
+  const byId = new Map(categories.map((c) => [c.id, c]))
+
+  const fastlegeCategories = categories
+    .filter((c) => c.id.startsWith('fastlege-'))
+    .sort((a, b) => a.name.localeCompare(b.name, 'no'))
+
+  const legeCategories = [...LEGESPESIALISTER_IDS]
+    .map((id) => byId.get(id))
+    .filter((c): c is Category => c !== undefined)
+    .sort((a, b) => a.name.localeCompare(b.name, 'no'))
+
+  const psykiaterCategories = [...PSYKIATER_IDS]
+    .map((id) => byId.get(id))
+    .filter((c): c is Category => c !== undefined)
+    .sort((a, b) => a.name.localeCompare(b.name, 'no'))
+
+  const psykologCategories = [...PSYKOLOG_IDS]
+    .map((id) => byId.get(id))
+    .filter((c): c is Category => c !== undefined)
+    .sort((a, b) => a.name.localeCompare(b.name, 'no'))
+
+  return [
+    {
+      id: 'fastleger',
+      label: 'Fastleger',
+      categories: fastlegeCategories,
+    },
+    {
+      id: 'avtalespesialister',
+      label: 'Avtalespesialister',
+      subgroups: [
+        { id: 'legespesialister', label: 'Legespesialister', categories: legeCategories },
+        { id: 'psykiatere',       label: 'Psykiatere',       categories: psykiaterCategories },
+        { id: 'psykologer',       label: 'Psykologer',       categories: psykologCategories },
+      ].filter((sg) => sg.categories.length > 0),
+    },
+  ]
+}
+
 export function loadPreGeocoded(): GeocodedEntry[] {
   const entries: GeocodedEntry[] = []
-
-  // Build a color/index lookup from raw categories so colours stay consistent
-  const rawKeys = Object.keys(rawModules)
-
   Object.entries(geocodedModules).forEach(([path, mod]) => {
     const filename = path.split('/').pop()!.replace('.json', '')
     const addresses = (mod as { default: PreGeocodedAddress[] }).default
-
-    // Only include entries that actually have coordinates
     addresses.forEach((a, i) => {
       if (typeof a.lat === 'number' && typeof a.lng === 'number') {
         entries.push({
@@ -87,12 +184,7 @@ export function loadPreGeocoded(): GeocodedEntry[] {
         })
       }
     })
-
-    // Keep palette aligned with raw categories
-    const rawIndex = rawKeys.findIndex((k) => k.includes(filename))
-    void rawIndex // used implicitly via loadCategories()
   })
-
   return entries
 }
 

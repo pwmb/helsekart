@@ -1,0 +1,200 @@
+[
+  {
+    "title": "Hessen, Erik",
+    "address": "Nevropsykologisk poliklinikk, Slemdalsveien 70, 0370 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "DPS Vinderen",
+      "tlf": "920 97 373"
+    },
+    "lat": 59.9371951,
+    "lng": 10.7016045
+  },
+  {
+    "title": "Holen, Arne",
+    "address": "Karihaugveien 89, 1086 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "DPS Nedre Romerike",
+      "tlf": "917 71 280"
+    },
+    "lat": 59.9407782,
+    "lng": 10.9204301
+  },
+  {
+    "title": "Haanes, Helen",
+    "address": "Nevropsykologisk Poliklinikk, Slemdalsveien 70, 0370 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "DPS Vinderen",
+      "tlf": "926 63 509"
+    },
+    "lat": 59.9371951,
+    "lng": 10.7016045
+  },
+  {
+    "title": "Jacobsen, Svenn Erik",
+    "address": "Meltzers gate 4, 0257 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "DPS Lovisenberg",
+      "tlf": "922 97 136"
+    },
+    "lat": 59.917479,
+    "lng": 10.7205
+  },
+  {
+    "title": "Karlsen, Nils R.",
+    "address": "Meltzers gate 4, 0257 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "DPS Lovisenberg",
+      "tlf": "481 74 959"
+    },
+    "lat": 59.917479,
+    "lng": 10.7205
+  },
+  {
+    "title": "Krogstad, Jan Magne",
+    "address": "Christiania Medisinske senter, Skippergata 33, 0154 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "DPS Søndre Oslo",
+      "tlf": "+4790644655"
+    },
+    "lat": 59.9113999,
+    "lng": 10.7475356
+  },
+  {
+    "title": "Sundseth, Øyvind Østberg",
+    "address": "Skippergt. 33, 0154 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "DPS Nydalen",
+      "tlf": "936 58 491"
+    },
+    "lat": 59.9113999,
+    "lng": 10.7475356
+  },
+  {
+    "title": "Follesø, Knut",
+    "address": "Kirkebrygga 2-4, 1607 Fredrikstad",
+    "metadata": {
+      "region": "Østfold",
+      "tilknytning": "DPS Sør",
+      "tlf": "920 37 744"
+    },
+    "lat": 59.2092733,
+    "lng": 10.9394213
+  },
+  {
+    "title": "Johansson, Monica",
+    "address": "Kirkebrygga 2-4, 1607 Fredrikstad",
+    "metadata": {
+      "region": "Østfold",
+      "tilknytning": "DPS Sør",
+      "tlf": "957 26 698"
+    },
+    "lat": 59.2092733,
+    "lng": 10.9394213
+  },
+  {
+    "title": "Sprenger, Terje",
+    "address": "Elias Smiths vei 10, 1337 Sandvika",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "Bærum DPS",
+      "tlf": "990 32 280"
+    },
+    "lat": 59.8915453,
+    "lng": 10.5192197
+  },
+  {
+    "title": "Korsnes, Maria Stylianou",
+    "address": "Havnegata 10, 3040 Drammen",
+    "metadata": {
+      "region": "Buskerud",
+      "tilknytning": "Drammen DPS",
+      "tlf": "405 31 500"
+    },
+    "lat": 59.729734,
+    "lng": 10.227034
+  },
+  {
+    "title": "Hovik, Kjell Tore",
+    "address": "Storgata 86, 2615 Lillehammer",
+    "metadata": {
+      "region": "Innlandet",
+      "tilknytning": "DPS Lillehammer",
+      "tlf": "482 30 790"
+    },
+    "lat": 61.1177083,
+    "lng": 10.4640765
+  },
+  {
+    "title": "Sørensen, Håkon",
+    "address": "Torggata 72, 2317 Hamar",
+    "metadata": {
+      "region": "Innlandet",
+      "tilknytning": "DPS Elverum-Hamar",
+      "tlf": "479 79 328"
+    },
+    "lat": 60.7950001,
+    "lng": 11.0706912
+  },
+  {
+    "title": "Tollan, Kristin VIKAR",
+    "address": "Storgata 100, 2615 Lillehammer",
+    "metadata": {
+      "region": "Innlandet",
+      "tilknytning": "DPS Lillehammer",
+      "tlf": "929 61 426"
+    },
+    "lat": 61.118698,
+    "lng": 10.463402
+  },
+  {
+    "title": "Egeland, Jens",
+    "address": "Farmannsveien 18, 3111 Tønsberg",
+    "metadata": {
+      "region": "Vestfold",
+      "tilknytning": "DPS Vestfold",
+      "tlf": "908 91 121"
+    },
+    "lat": 59.2718569,
+    "lng": 10.4073959
+  },
+  {
+    "title": "Furevold-Boland, Erik",
+    "address": "Kjølnes Ring 60, 3918 Porsgrunn",
+    "metadata": {
+      "region": "Telemark",
+      "tilknytning": "DPS Telemark",
+      "tlf": "454 56 512"
+    },
+    "lat": 59.1396488,
+    "lng": 9.6701569
+  },
+  {
+    "title": "Wærnes, Erik",
+    "address": "Helgas gate 10, 3730 Skien",
+    "metadata": {
+      "region": "Telemark",
+      "tilknytning": "DPS Telemark",
+      "tlf": "452 34 398"
+    },
+    "lat": 59.197258,
+    "lng": 9.604571
+  },
+  {
+    "title": "Bergedalen, Anne-Mari",
+    "address": "Havnegaten 1, 4836 Arendal",
+    "metadata": {
+      "region": "Agder",
+      "tilknytning": "DPS Østre Agder",
+      "tlf": "917 26 453"
+    },
+    "lat": 58.460551,
+    "lng": 8.767654
+  }
+]

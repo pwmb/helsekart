@@ -1,0 +1,137 @@
+[
+  {
+    "title": "Eggen, Espen",
+    "address": "0283 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "23 00 70 90",
+      "tlf": "Lilleaker Spesialistlegesenter, Lilleakerveien 23"
+    }
+  },
+  {
+    "title": "Hoff, Jon-Roar",
+    "address": "1177 Oslo, Pb 104 Bekkelagshøgda,1109 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "987 02 359",
+      "tlf": "BESTHELSE Nordstrand, Kongsveien 104"
+    }
+  },
+  {
+    "title": "Oustad, Halvor",
+    "address": "0367 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 20 33 75",
+      "tlf": "Parsennklinikken, Majorstuveien 16"
+    }
+  },
+  {
+    "title": "Zare, Reza",
+    "address": "0596 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "920 97 980",
+      "tlf": "Uroklinikken AS, Veitvedtveien 8"
+    }
+  },
+  {
+    "title": "Hagen, Arvid van der",
+    "address": "1671 Kråkerøy",
+    "metadata": {
+      "region": "Østfold",
+      "tilknytning": "69 33 02 00",
+      "tlf": "Borg Kirurgiske, Kråkerøyveien 2A"
+    }
+  },
+  {
+    "title": "Karlsen, Knut Eilert",
+    "address": "1707 Sarpsborg",
+    "metadata": {
+      "region": "Østfold",
+      "tilknytning": "69 14 10 00",
+      "tlf": "Vatvedtklinikken AS, Nansens gate 2 B"
+    }
+  },
+  {
+    "title": "Davami, Seyed Jalil",
+    "address": "1473 Lørenskog",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "973 00 007",
+      "tlf": "Romerike urologisk senter AS, Boecksgate 3"
+    }
+  },
+  {
+    "title": "Kristoffersen, Karl Fredrik",
+    "address": "1400 Ski",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "64 85 79 35",
+      "tlf": "Ski Urologiske Senter, Jernbaneveien 6A"
+    }
+  },
+  {
+    "title": "Kornmo, Tina Shagufta Munir",
+    "address": "3301 Hokksund, PB 227,3301 Hokksund",
+    "metadata": {
+      "region": "Buskerud",
+      "tilknytning": "32 75 75 00",
+      "tlf": "Viken Urologi, Stasjonsgt 53"
+    }
+  },
+  {
+    "title": "Christiansen, Ola Berger",
+    "address": "2390 Moelv, PB 207,2391 Moelv",
+    "metadata": {
+      "region": "Innlandet",
+      "tilknytning": "62 34 73 90",
+      "tlf": "Moelv Spesialistsenter, Møllergata 18"
+    }
+  },
+  {
+    "title": "Tjälve, Henrik",
+    "address": "2408 Elverum",
+    "metadata": {
+      "region": "Innlandet",
+      "tilknytning": "414 46 868",
+      "tlf": "Hedmark Urologiske Spesialistsenter, Elvarheimgata 10 C, 3 etg"
+    }
+  },
+  {
+    "title": "Låhne, Per Espen",
+    "address": "3140 Nøtterøy, Postboks 145 Borgheim,3140 Nøtterøy",
+    "metadata": {
+      "region": "Vestfold",
+      "tilknytning": "33 32 21 00",
+      "tlf": "Urologiklinikken, Kirkeveien 213"
+    }
+  },
+  {
+    "title": "Halland, Adrian",
+    "address": "3917 Porsgrunn",
+    "metadata": {
+      "region": "Telemark",
+      "tilknytning": "35 55 30 00",
+      "tlf": "C.E. Berg Hanssens gate 26"
+    }
+  },
+  {
+    "title": "Burican, Juraj",
+    "address": "4612 Kristiansand S",
+    "metadata": {
+      "region": "Agder",
+      "tilknytning": "411 99 163",
+      "tlf": "Urologi Sør, Markensgate 45"
+    }
+  },
+  {
+    "title": "Klem, Knut Henning",
+    "address": "4836 Arendal",
+    "metadata": {
+      "region": "Agder",
+      "tilknytning": "37 00 05 55",
+      "tlf": "Dr Klem`s Klinikk, Vesterveien 4"
+    }
+  }
+]

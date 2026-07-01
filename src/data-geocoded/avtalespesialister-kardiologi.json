@@ -1,0 +1,266 @@
+[
+  {
+    "title": "Abrahamsen, Olav Foss",
+    "address": "0160 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "23 01 09 80",
+      "tlf": "Rådhuset Spesialistsenter, Fridtjof Nansens pl 7"
+    },
+    "lat": 59.9120536,
+    "lng": 10.7351387
+  },
+  {
+    "title": "Radunovic, Zoran",
+    "address": "0176 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 99 27 00",
+      "tlf": "Spesialistsenteret Pilestredet Park, Pilestredet Park 12 A"
+    },
+    "lat": 59.9204766,
+    "lng": 10.7387034
+  },
+  {
+    "title": "von Lueder, Thomas G.",
+    "address": "0570 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "69 60 09 00",
+      "tlf": "Oslo Kardiologi AS, Trondheimsveien 135"
+    },
+    "lat": 59.9314175,
+    "lng": 10.778831
+  },
+  {
+    "title": "Westby, Jørgen",
+    "address": "0160 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "23 01 09 80",
+      "tlf": "Rådhuset Spesialistsenter, Fridtjof Nansens pl 7"
+    },
+    "lat": 59.9120536,
+    "lng": 10.7351387
+  },
+  {
+    "title": "Zalmai, Akram",
+    "address": "0161 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 01 70 90",
+      "tlf": "Oslo Hjerteklinikk AS, Olav V`s gate 1"
+    },
+    "lat": 59.9136472,
+    "lng": 10.7331992
+  },
+  {
+    "title": "Aakhus, Svend",
+    "address": "0369 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "23 19 50 25",
+      "tlf": "Sørkedalsveien 10 C"
+    },
+    "lat": 59.9320439,
+    "lng": 10.707273
+  },
+  {
+    "title": "Dalima, Dalles Anthony",
+    "address": "1807 Askim",
+    "metadata": {
+      "region": "Østfold",
+      "tilknytning": "69 67 50 50",
+      "tlf": "Indre Østfold Hjertesenter, Sykehusgata 2"
+    },
+    "lat": 59.5832224,
+    "lng": 11.1641908
+  },
+  {
+    "title": "de Boer, Randi Anita Møyland",
+    "address": "1526 Moss",
+    "metadata": {
+      "region": "Østfold",
+      "tilknytning": "69 20 21 70",
+      "tlf": "Østlandske Hjertesenter, Carlbergveien 6a"
+    },
+    "lat": 59.4133367,
+    "lng": 10.6756664
+  },
+  {
+    "title": "Mielczarek, Wojciech",
+    "address": "1767 Halden",
+    "metadata": {
+      "region": "Østfold",
+      "tilknytning": "69 18 54 27",
+      "tlf": "Medicard AS, Storgata 4 c, 3 etg."
+    },
+    "lat": 59.1174994,
+    "lng": 11.3886893
+  },
+  {
+    "title": "Sharma, Kapil Kishore",
+    "address": "1671 Kråkerøy",
+    "metadata": {
+      "region": "Østfold",
+      "tilknytning": "938 18 938",
+      "tlf": "Fredrikstad Hjertesenter, Kråkerøyveien 2 B"
+    },
+    "lat": 59.1821455,
+    "lng": 10.9237329
+  },
+  {
+    "title": "Glasø, Jan",
+    "address": "2000 Lillestrøm",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "63 80 51 90",
+      "tlf": "Romerike Helsebygg, 4 etg- oppgang A3, Dampsagveien 2"
+    },
+    "lat": 59.9557453,
+    "lng": 11.0600384
+  },
+  {
+    "title": "Herlofsen, Herlof",
+    "address": "1338 Sandvika",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "900 22 991",
+      "tlf": "Sandvika Hjertesenter AS, Brodtkorbsgate 7"
+    },
+    "lat": 59.8921158,
+    "lng": 10.5249914
+  },
+  {
+    "title": "Hussain, Amjad",
+    "address": "2000 Lillestrøm",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "63 80 51 90",
+      "tlf": "Romerike Helsebygg, 4 etg-oppgang A3, Dampsagveien 2"
+    },
+    "lat": 59.9557453,
+    "lng": 11.0600384
+  },
+  {
+    "title": "Karpinska, Julita",
+    "address": "2000 Lillestrøm",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "63 80 51 90",
+      "tlf": "Romerike Helsebygg, 4 etg-oppgang A3, Dampsagveien 2"
+    },
+    "lat": 59.9557453,
+    "lng": 11.0600384
+  },
+  {
+    "title": "Knutsen, Thomas Morgan",
+    "address": "2050 Jessheim",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "63 99 64 00",
+      "tlf": "Gardermoen Hjertesenter, Skogveien 2"
+    },
+    "lat": 60.1415121,
+    "lng": 11.1751516
+  },
+  {
+    "title": "Kontny, Frederic",
+    "address": "3017 Drammen",
+    "metadata": {
+      "region": "Buskerud",
+      "tilknytning": "941 49 000",
+      "tlf": "Drammen Hjertesenter AS, Bragernes Torg 4"
+    },
+    "lat": 59.7443341,
+    "lng": 10.2032802
+  },
+  {
+    "title": "Erdal, Leif Erik",
+    "address": "2609 Lillehammer",
+    "metadata": {
+      "region": "Innlandet",
+      "tilknytning": "912 23 344",
+      "tlf": "Wieses gate 3"
+    },
+    "lat": 61.1130883,
+    "lng": 10.4699884
+  },
+  {
+    "title": "Nanbjør, Arnfinn B",
+    "address": "2317 Hamar",
+    "metadata": {
+      "region": "Innlandet",
+      "tilknytning": "62 52 28 00",
+      "tlf": "Hjertehjelp AS, Torggata 83, Torghjørnet kjøpesenter- Plan 3"
+    },
+    "lat": 60.7952431,
+    "lng": 11.0728855
+  },
+  {
+    "title": "Berg-Johansen, Jan",
+    "address": "3211 Sandefjord",
+    "metadata": {
+      "region": "Vestfold",
+      "tilknytning": "33 44 85 10",
+      "tlf": "Vestfold Hjertesenter, Aagaards plass 5"
+    },
+    "lat": 59.1326707,
+    "lng": 10.2184841
+  },
+  {
+    "title": "Bjørnstad, Carl C. L.",
+    "address": "3211 Sandefjord",
+    "metadata": {
+      "region": "Vestfold",
+      "tilknytning": "33 44 85 10",
+      "tlf": "Vestfold Hjertesenter / Sandefjord Hjerteklinikk"
+    },
+    "lat": 59.1326707,
+    "lng": 10.2184841
+  },
+  {
+    "title": "Gevelt, Lars Erik",
+    "address": "3110 Tønsberg",
+    "metadata": {
+      "region": "Vestfold",
+      "tilknytning": "33 31 21 11",
+      "tlf": "Hjertespesialist Lars Erik Gevelt AS, Bulls gate 2 B"
+    },
+    "lat": 59.2674536,
+    "lng": 10.4122532
+  },
+  {
+    "title": "Solli, Jan Dag",
+    "address": "3915 Porsgrunn",
+    "metadata": {
+      "region": "Telemark",
+      "tilknytning": "35 10 43 50",
+      "tlf": "Telemark Hjertesenter, Storgata 125"
+    },
+    "lat": 59.1435737,
+    "lng": 9.6565404
+  },
+  {
+    "title": "Eivindson, Gunvald",
+    "address": "4611 Kristiansand S",
+    "metadata": {
+      "region": "Agder",
+      "tilknytning": "38 14 90 00",
+      "tlf": "Spesialistsenteret AS, Vestre Strandgate 23"
+    },
+    "lat": 58.1459162,
+    "lng": 7.9937904
+  },
+  {
+    "title": "Munk, Peter Scott",
+    "address": "4612 Kristiansand S",
+    "metadata": {
+      "region": "Agder",
+      "tilknytning": "929 49 214",
+      "tlf": "Kristiansand Hjertepraksis, Vestre Strandgate 42"
+    },
+    "lat": 58.1477221,
+    "lng": 7.9904993
+  }
+]

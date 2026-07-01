@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Kristo, Cybèle",
+    "address": "0667 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "471 41 767",
+      "tlf": "Oslo Revmatologipraksis, Brynsveien 5, Inngang A, 1 etg."
+    },
+    "lat": 59.9068412,
+    "lng": 10.8211357
+  },
+  {
+    "title": "Poyan, Armin",
+    "address": "0369 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "23 19 60 40",
+      "tlf": "Colosseumklinikken Medisinske Senter AS, Sørkedalsveien 10 C"
+    },
+    "lat": 59.9320439,
+    "lng": 10.707273
+  },
+  {
+    "title": "Diamantopoulos, Andreas",
+    "address": "1336 Sandvika",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "465 40 676",
+      "tlf": "Sandvika Reumatologipraksis, Engervannsveien 25 A,"
+    },
+    "lat": 59.8921158,
+    "lng": 10.5249914
+  },
+  {
+    "title": "Minet, Bente",
+    "address": "1337 Sandvika",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "465 40 676",
+      "tlf": "Sandvika Reumatologi Praksis, Egervannsveien 25 A"
+    },
+    "lat": 59.8921158,
+    "lng": 10.5249914
+  },
+  {
+    "title": "Hetland, Helene",
+    "address": "4611 Kristiansand S",
+    "metadata": {
+      "region": "Agder",
+      "tilknytning": "38 10 71 50",
+      "tlf": "Revmatologene i Tollbodgata, Tollbodgata 4"
+    },
+    "lat": 58.1459162,
+    "lng": 7.9937904
+  },
+  {
+    "title": "Noraas, Anne Lindtner",
+    "address": "4611 Kristiansand S",
+    "metadata": {
+      "region": "Agder",
+      "tilknytning": "38 10 71 50",
+      "tlf": "Revmatologene i Tollbodgata, Tollbodgata 4,"
+    },
+    "lat": 58.1459162,
+    "lng": 7.9937904
+  }
+]

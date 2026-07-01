@@ -1,3 +1,16 @@
+export interface CategorySubgroup {
+  id: string
+  label: string
+  categories: Category[]
+}
+
+export interface CategoryGroup {
+  id: string
+  label: string
+  subgroups?: CategorySubgroup[]   // Avtalespesialister has subgroups
+  categories?: Category[]          // Fastleger goes directly to categories
+}
+
 export interface RawAddress {
   address: string
   title: string

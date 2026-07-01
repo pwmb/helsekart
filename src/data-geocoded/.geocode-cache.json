@@ -5403,24 +5403,1107 @@
     "lat": 60.058273,
     "lng": 5.917926
   },
-  "Lumberveien 27E, 4621 KRISTIANSAND S": {
-    "lat": 58.12518,
-    "lng": 7.970174
+  "0277 Oslo, Magnat Center, Postboks 454, Skøyen,0213 Oslo": null,
+  "0369 Oslo": {
+    "lat": 59.9320439,
+    "lng": 10.707273
   },
-  "Jacob Borchs gate 21, 3012 DRAMMEN": {
-    "lat": 59.743348,
-    "lng": 10.23376
+  "0985 Oslo": {
+    "lat": 59.961993,
+    "lng": 10.9254953
   },
-  "Midtvågveien 6, 6630 TINGVOLL": {
-    "lat": 62.9123505,
-    "lng": 8.2068244
+  "2317 Hamar": {
+    "lat": 60.7952431,
+    "lng": 11.0728855
   },
-  "Sørkedalsveien 10B, 0369 OSLO": {
-    "lat": 59.9312563,
-    "lng": 10.7094166
+  "0667 Oslo, BP 32 Bryn Helsesenter,0667 Oslo": null,
+  "0667 Oslo": {
+    "lat": 59.9068412,
+    "lng": 10.8211357
   },
-  "Granden 12, 6723 SVELGEN": {
-    "lat": 61.7684313,
-    "lng": 5.288729
+  "0377 Oslo": {
+    "lat": 59.9318558,
+    "lng": 10.6753866
+  },
+  "0667 Oslo, PB 32 Bryn Helsesenter,0667 Oslo": null,
+  "1177 Oslo, Pb 104 Bekkelagshøgda,1109 Oslo": null,
+  "0176 Oslo": {
+    "lat": 59.9204766,
+    "lng": 10.7387034
+  },
+  "0484 Oslo": {
+    "lat": 59.9484019,
+    "lng": 10.7673604
+  },
+  "1605 Fredrikstad": {
+    "lat": 59.2205656,
+    "lng": 10.9479086
+  },
+  "1523 Moss": {
+    "lat": 59.4238436,
+    "lng": 10.6777674
+  },
+  "1473 Lørenskog": {
+    "lat": 59.9232572,
+    "lng": 10.9599559
+  },
+  "1453 Bjørnemyr": {
+    "lat": 59.8323684,
+    "lng": 10.6423702
+  },
+  "1337 Sandvika, Humana Helse AS, Pb 63,1300 Sandvika": null,
+  "1337 Sandvika": {
+    "lat": 59.8921158,
+    "lng": 10.5249914
+  },
+  "1360 Fornebu, Pb 1052,1307 Fornebu": null,
+  "1400 Ski": {
+    "lat": 59.7199326,
+    "lng": 10.8382736
+  },
+  "1357 Bekkestua": {
+    "lat": 59.9173125,
+    "lng": 10.5900467
+  },
+  "3611 Kongsberg": {
+    "lat": 59.6788766,
+    "lng": 9.6479189
+  },
+  "3015 Drammen": {
+    "lat": 59.743715,
+    "lng": 10.2121956
+  },
+  "3915 Porsgrunn": {
+    "lat": 59.1435737,
+    "lng": 9.6565404
+  },
+  "4848 Arendal": {
+    "lat": 58.476612,
+    "lng": 8.7201137
+  },
+  "1337 Sandvika, PB 107,1301 Sandvika": null,
+  "1337 Sandvika, Pb. 107,1301 Sandvika": null,
+  "0352 Oslo": {
+    "lat": 59.9220126,
+    "lng": 10.7284822
+  },
+  "0364 Oslo": {
+    "lat": 59.9304596,
+    "lng": 10.7212649
+  },
+  "0367 Oslo": {
+    "lat": 59.9264527,
+    "lng": 10.715972
+  },
+  "1177 Oslo, Pb 104, Bekkelagshøgda,1109 Oslo": null,
+  "0364 Oslo, Gynekologene AS, Kirkeveien 64,": null,
+  "1177 Oslo, Pb 104, Bekkelagshøgda ,1109 Oslo": null,
+  "0570 Oslo": {
+    "lat": 59.9314175,
+    "lng": 10.778831
+  },
+  "1532 Moss": {
+    "lat": 59.4300354,
+    "lng": 10.665935
+  },
+  "1607 Fredrikstad": {
+    "lat": 59.2127964,
+    "lng": 10.940221
+  },
+  "1712 Grålum": {
+    "lat": 59.2904945,
+    "lng": 11.0667001
+  },
+  "1767 Halden": {
+    "lat": 59.1174994,
+    "lng": 11.3886893
+  },
+  "2001 Lillestrøm": {
+    "lat": 59.9155396,
+    "lng": 11.2170354
+  },
+  "1410 Kolbotn": {
+    "lat": 59.8106447,
+    "lng": 10.7999058
+  },
+  "2000 Lillestrøm": {
+    "lat": 59.9557453,
+    "lng": 11.0600384
+  },
+  "1337 Sandvika, Pb 107,1301 Sandvika": null,
+  "2053 Jessheim": {
+    "lat": 60.1415121,
+    "lng": 11.1751516
+  },
+  "1440 Drøbak": {
+    "lat": 59.6628948,
+    "lng": 10.6313951
+  },
+  "3616 Kongsberg": {
+    "lat": 59.6598377,
+    "lng": 9.6415287
+  },
+  "3017 Drammen": {
+    "lat": 59.7443341,
+    "lng": 10.2032802
+  },
+  "3012 Drammen": {
+    "lat": 59.7425023,
+    "lng": 10.2248643
+  },
+  "3018 Drammen": {
+    "lat": 59.7490427,
+    "lng": 10.1830318
+  },
+  "2615 Lillehammer": {
+    "lat": 61.1216426,
+    "lng": 10.4595211
+  },
+  "2403 Elverum": {
+    "lat": 60.8814492,
+    "lng": 11.5622121
+  },
+  "3264 Larvik, Pb 4,3285 Larvik": null,
+  "3208 Sandefjord": {
+    "lat": 59.128073,
+    "lng": 10.2157729
+  },
+  "3110 Tønsberg": {
+    "lat": 59.2674536,
+    "lng": 10.4122532
+  },
+  "3285 Larvik, PB 4,3285 Larvik": null,
+  "3117 Tønsberg": {
+    "lat": 59.2768179,
+    "lng": 10.4223549
+  },
+  "3717 Skien": {
+    "lat": 59.2133433,
+    "lng": 9.6035474
+  },
+  "3770 Kragerø, Storgata 125,3915 Porsgrunn": null,
+  "4611 Kristiansand S": {
+    "lat": 58.1459162,
+    "lng": 7.9937904
+  },
+  "4612 Kristiansand S": {
+    "lat": 58.1477221,
+    "lng": 7.9904993
+  },
+  "4630 Kristiansand S": {
+    "lat": 58.1633459,
+    "lng": 7.9950649
+  },
+  "4836 Arendal": {
+    "lat": 58.4591795,
+    "lng": 8.7609843
+  },
+  "0277 Oslo, Magnat Center, PB 454, Skøyen,0213 Oslo": null,
+  "1706 Sarpsborg": {
+    "lat": 59.2821879,
+    "lng": 11.1178412
+  },
+  "1383 Asker": {
+    "lat": 59.8336774,
+    "lng": 10.4123355
+  },
+  "2815 Gjøvik": {
+    "lat": 60.7887617,
+    "lng": 10.6878228
+  },
+  "2390 Moelv, PB 207,2391 Moelv": null,
+  "3724 Skien": {
+    "lat": 59.2022242,
+    "lng": 9.6127897
+  },
+  "4836 Arendal, Postboks 133,4801 Arendal": null,
+  "1177 Oslo": {
+    "lat": 59.8788755,
+    "lng": 10.7818106
+  },
+  "0694 Oslo": {
+    "lat": 59.8675023,
+    "lng": 10.8402894
+  },
+  "0855 Oslo": {
+    "lat": 59.9528559,
+    "lng": 10.7336625
+  },
+  "0366 Oslo": {
+    "lat": 59.9283473,
+    "lng": 10.7182037
+  },
+  "0165 Oslo": {
+    "lat": 59.9188174,
+    "lng": 10.7414485
+  },
+  "0374 Oslo": {
+    "lat": 59.9428169,
+    "lng": 10.6974055
+  },
+  "0165 Oslo, PB 6884, St Olavs Plass,0130 Oslo": null,
+  "0685 Oslo, Olaf Helsets vei 5,0694 Oslo": null,
+  "1724 Sarpsborg": {
+    "lat": 59.2755915,
+    "lng": 11.1000599
+  },
+  "1606 Fredrikstad": {
+    "lat": 59.2078557,
+    "lng": 10.9457351
+  },
+  "1530 Moss": {
+    "lat": 59.4365113,
+    "lng": 10.667312
+  },
+  "1613 Fredrikstad, Postboks 533,1612 Fredrikstad": null,
+  "2007 Kjeller": {
+    "lat": 59.9738693,
+    "lng": 11.0475937
+  },
+  "1341 Slependen": {
+    "lat": 59.877711,
+    "lng": 10.503327
+  },
+  "1414 Trollåsen": {
+    "lat": 59.8155256,
+    "lng": 10.7780069
+  },
+  "1384 Asker": {
+    "lat": 59.8444277,
+    "lng": 10.4386373
+  },
+  "1357 Bekkestua, PB 93,1319 Bekkestua": null,
+  "3511 Hønefoss": {
+    "lat": 60.1662082,
+    "lng": 10.255486
+  },
+  "2609 Lillehammer": {
+    "lat": 61.1130883,
+    "lng": 10.4699884
+  },
+  "2670 Otta, Elvegata 19,2609 Lillehammer": null,
+  "2212 Kongsvinger": {
+    "lat": 60.2035323,
+    "lng": 11.9642643
+  },
+  "2403 Elverum, Elvarheimgata 10 C,2403 Elverum": null,
+  "3212 Sandefjord": {
+    "lat": 59.1184078,
+    "lng": 10.2125513
+  },
+  "3111 Tønsberg": {
+    "lat": 59.2725292,
+    "lng": 10.407404
+  },
+  "3210 Sandefjord": {
+    "lat": 59.1309131,
+    "lng": 10.226799
+  },
+  "3120 Nøtterøy": {
+    "lat": 59.2294611,
+    "lng": 10.4080217
+  },
+  "3734 Skien": {
+    "lat": 59.1826645,
+    "lng": 9.608792
+  },
+  "3674 Notodden, Moen 12,3948 Porsgrunn": null,
+  "3948 Porsgrunn": {
+    "lat": 59.1547051,
+    "lng": 9.7669296
+  },
+  "3722 Skien": {
+    "lat": 59.2101745,
+    "lng": 9.5932748
+  },
+  "4841 Arendal": {
+    "lat": 58.4653539,
+    "lng": 8.7852314
+  },
+  "4610 Kristiansand S": {
+    "lat": 58.1409247,
+    "lng": 7.9986848
+  },
+  "2020 Skedsmokorset": {
+    "lat": 60.0045847,
+    "lng": 11.0327923
+  },
+  "3211 Sandefjord": {
+    "lat": 59.1326707,
+    "lng": 10.2184841
+  },
+  "0160 Oslo": {
+    "lat": 59.9120536,
+    "lng": 10.7351387
+  },
+  "1177 Oslo, Postboks 104, Bekkelagshøgda,1109 Oslo": null,
+  "0161 Oslo": {
+    "lat": 59.9136472,
+    "lng": 10.7331992
+  },
+  "1807 Askim": {
+    "lat": 59.5832224,
+    "lng": 11.1641908
+  },
+  "1526 Moss": {
+    "lat": 59.4133367,
+    "lng": 10.6756664
+  },
+  "1671 Kråkerøy": {
+    "lat": 59.1821455,
+    "lng": 10.9237329
+  },
+  "1338 Sandvika": {
+    "lat": 59.8921158,
+    "lng": 10.5249914
+  },
+  "2050 Jessheim": {
+    "lat": 60.1415121,
+    "lng": 11.1751516
+  },
+  "1337 Sandvika, Humana Helse AS, Pb. 63,1300 Sandvika": null,
+  "3191 Horten, Postboks 28,3191 Horten": null,
+  "4801 Arendal, Pb 117,4801 Arendal": null,
+  "1653 Sellebakk": {
+    "lat": 59.2296472,
+    "lng": 10.9913833
+  },
+  "3922 Porsgrunn": {
+    "lat": 59.1346375,
+    "lng": 9.6508289
+  },
+  "1177 Oslo, Postboks 104 Bekkelagshøgda,1109 Oslo": null,
+  "0663 Oslo": {
+    "lat": 59.9167363,
+    "lng": 10.8007748
+  },
+  "1360 Fornebu, Pb.1052,1307 Fornebu": null,
+  "4790 Lillesand": {
+    "lat": 58.2490796,
+    "lng": 8.3671834
+  },
+  "0277 Oslo, PB 454 Skøyen,0213 Oslo": null,
+  "0154 Oslo": {
+    "lat": 59.9113999,
+    "lng": 10.7475356
+  },
+  "0275 Oslo": {
+    "lat": 59.9260983,
+    "lng": 10.6743847
+  },
+  "1607 Fredrikstad, Pb 453,1601 Fredrikstad": null,
+  "1607 Fredrikstad, PB 453,1601 Fredrikstad": null,
+  "1337 Sandvika, Pb. 63   ,1300 Sandvika": null,
+  "1337 Sandvika, Pb 63,1300 Sandvika": null,
+  "2000 Lillestrøm, Storgata 14 A,2000 Lillestrøm": null,
+  "3044 Drammen, Torgeir Vraas plass 4,3044 Drammen": null,
+  "2500 Tynset, PB 60,2501 Tynset": null,
+  "Nevropsykologisk poliklinikk, Slemdalsveien 70, 0370 Oslo": {
+    "lat": 59.9371951,
+    "lng": 10.7016045
+  },
+  "Karihaugveien 89, 1086 Oslo": {
+    "lat": 59.9407782,
+    "lng": 10.9204301
+  },
+  "Nevropsykologisk Poliklinikk, Slemdalsveien 70, 0370 Oslo": {
+    "lat": 59.9371951,
+    "lng": 10.7016045
+  },
+  "Meltzers gate 4, 0257 Oslo": {
+    "lat": 59.917479,
+    "lng": 10.7205
+  },
+  "Christiania Medisinske senter, Skippergata 33, 0154 Oslo": {
+    "lat": 59.9113999,
+    "lng": 10.7475356
+  },
+  "Skippergt. 33, 0154 Oslo": {
+    "lat": 59.9113999,
+    "lng": 10.7475356
+  },
+  "Kirkebrygga 2-4, 1607 Fredrikstad": {
+    "lat": 59.2092733,
+    "lng": 10.9394213
+  },
+  "Havnegata 10, 3040 Drammen": {
+    "lat": 59.729734,
+    "lng": 10.227034
+  },
+  "Storgata 86, 2615 Lillehammer": {
+    "lat": 61.1177083,
+    "lng": 10.4640765
+  },
+  "Torggata 72, 2317 Hamar": {
+    "lat": 60.7950001,
+    "lng": 11.0706912
+  },
+  "Storgata 100, 2615 Lillehammer": {
+    "lat": 61.118698,
+    "lng": 10.463402
+  },
+  "Farmannsveien 18, 3111 Tønsberg": {
+    "lat": 59.2718569,
+    "lng": 10.4073959
+  },
+  "Kjølnes Ring 60, 3918 Porsgrunn": {
+    "lat": 59.1396488,
+    "lng": 9.6701569
+  },
+  "Helgas gate 10, 3730 Skien": {
+    "lat": 59.197258,
+    "lng": 9.604571
+  },
+  "Havnegaten 1, 4836 Arendal": {
+    "lat": 58.460551,
+    "lng": 8.767654
+  },
+  "0653 Oslo": {
+    "lat": 59.9126798,
+    "lng": 10.7768615
+  },
+  "1177 Oslo, P.b. 104, Bekkelagshøgda,1109 Oslo": null,
+  "0366 Oslo, Valkyriegata 8,0366 Oslo": null,
+  "0176 Oslo, Pilestredet Park 31,0176 Oslo": null,
+  "0752 Oslo, Postboks 191 Røa ,0702 Oslo": null,
+  "0594 Oslo, Pb. 64 Linderud,0517 Oslo": null,
+  "0680 Oslo": {
+    "lat": 59.8898085,
+    "lng": 10.811122
+  },
+  "0159 Oslo": {
+    "lat": 59.9137368,
+    "lng": 10.7420982
+  },
+  "0459 Oslo": {
+    "lat": 59.9304253,
+    "lng": 10.7554699
+  },
+  "0751 Oslo, Postboks 288, Røa,0702 Oslo": null,
+  "0166 Oslo": {
+    "lat": 59.9193428,
+    "lng": 10.7343851
+  },
+  "0680 Oslo, Ryensvingen 5,0680 Oslo": null,
+  "0366 Oslo, Valkyriegt. 8,0366 Oslo": null,
+  "1831 Askim": {
+    "lat": 59.5832224,
+    "lng": 11.1641908
+  },
+  "1707 Sarpsborg": {
+    "lat": 59.2870212,
+    "lng": 11.1124554
+  },
+  "1778 Halden": {
+    "lat": 59.1297852,
+    "lng": 11.3804771
+  },
+  "1661 Rolvsøy": {
+    "lat": 59.2680889,
+    "lng": 11.0179833
+  },
+  "1360 Fornebu": {
+    "lat": 59.8964105,
+    "lng": 10.6155296
+  },
+  "1360 Fornebu, Oksenøyveien 10,1366 Lysaker": null,
+  "2070 Råholt": {
+    "lat": 60.2838578,
+    "lng": 11.1728733
+  },
+  "1373 Asker": {
+    "lat": 59.8353529,
+    "lng": 10.4336047
+  },
+  "1396 Billingstad": {
+    "lat": 59.8743137,
+    "lng": 10.4906908
+  },
+  "1337 Sandvika, ,": {
+    "lat": 59.8921158,
+    "lng": 10.5249914
+  },
+  "3044 Drammen": {
+    "lat": 59.7363601,
+    "lng": 10.2086856
+  },
+  "3513 Hønefoss": {
+    "lat": 60.1662082,
+    "lng": 10.255486
+  },
+  "3540 Nesbyen, Kartverksveien 7,3511 Hønefoss": null,
+  "2406 Elverum, ,": {
+    "lat": 60.8832301,
+    "lng": 11.5397629
+  },
+  "2821 Gjøvik": {
+    "lat": 60.7953096,
+    "lng": 10.6789323
+  },
+  "3264 Larvik, Postboks 4,3285 Larvik": null,
+  "3187 Horten": {
+    "lat": 59.4086847,
+    "lng": 10.4818709
+  },
+  "3770 Kragerø, PB 167,3791 Kragerø": null,
+  "4636 Kristiansand S": {
+    "lat": 58.1767253,
+    "lng": 8.1266911
+  },
+  "0283 Oslo": {
+    "lat": 59.9179689,
+    "lng": 10.6426362
+  },
+  "1632 Gamle Fredrikstad": {
+    "lat": 59.2031332,
+    "lng": 10.9535038
+  },
+  "0168 Oslo": {
+    "lat": 59.9273167,
+    "lng": 10.7343173
+  },
+  "0369 Oslo, Postboks 8853 Youngstorget,0028 Oslo": null,
+  "0164 Oslo": {
+    "lat": 59.9163587,
+    "lng": 10.7388506
+  },
+  "0158 Oslo": {
+    "lat": 59.9115997,
+    "lng": 10.7389671
+  },
+  "0253 Oslo": {
+    "lat": 59.9137449,
+    "lng": 10.7240012
+  },
+  "1163 Oslo": {
+    "lat": 59.8650153,
+    "lng": 10.8028009
+  },
+  "1707 Sarpsborg, Pb. 333,1703 Sarpsborg": null,
+  "2003 Lillestrøm": {
+    "lat": 59.9622385,
+    "lng": 11.0413857
+  },
+  "2052 Jessheim, Postboks 289,2051 Jessheim": null,
+  "1410 Kolbotn, Postboks 1012 Sentrum,1410 Kolbotn": null,
+  "1300 Sandvika, Sandviksveien 176,1337 Sandvika": null,
+  "3510 Hønefoss": {
+    "lat": 60.1662082,
+    "lng": 10.255486
+  },
+  "3510 Hønefoss, Telegrafalleen 2,3510 Hønefoss": null,
+  "2408 Elverum": {
+    "lat": 60.8896167,
+    "lng": 11.5639848
+  },
+  "2317 Hamar, Pb 344,2303 Hamar": null,
+  "2900 Fagernes": {
+    "lat": 60.9860981,
+    "lng": 9.236413
+  },
+  "2212 Kongsvinger, Storgata 40,2212 Kongsvinger": null,
+  "3110 Tønsberg, Pb 205,3101 Tønsberg": null,
+  "3112 Tønsberg, Visjon Sebra AS, Postboks 444,3101 Tønsberg": null,
+  "3251 Larvik": {
+    "lat": 59.053173,
+    "lng": 10.027182
+  },
+  "3110 Tønsberg, PB 205,3101 Tønsberg": null,
+  "3112 Tønsberg": {
+    "lat": 59.2667496,
+    "lng": 10.4225586
+  },
+  "3674 Notodden": {
+    "lat": 59.5601045,
+    "lng": 9.2601305
+  },
+  "4950 Risør": {
+    "lat": 58.7219382,
+    "lng": 9.1949841
+  },
+  "4640 Søgne": {
+    "lat": 58.0953248,
+    "lng": 7.7893494
+  },
+  "4517 Mandal": {
+    "lat": 58.0268181,
+    "lng": 7.4534802
+  },
+  "4400 Flekkefjord, PB 163,4402 Flekkefjord": null,
+  "Dampsagveien 4, 2000 Lillestrøm": {
+    "lat": 59.9535899,
+    "lng": 11.0409066
+  },
+  "Ressurssenteret, Håkonkastet 5, 1453 Bjørnemyr": {
+    "lat": 59.8323684,
+    "lng": 10.6423702
+  },
+  "Olavsgate 7, 3256 Larvik": {
+    "lat": 59.0542134,
+    "lng": 10.0275024
+  },
+  "OH Holtasgate 21, 3678 Notodden": {
+    "lat": 59.5732484,
+    "lng": 9.2673068
+  },
+  "Sverresgt. 19, 3921 Porsgrunn": {
+    "lat": 59.138124,
+    "lng": 9.651214
+  },
+  "Storgaten 10, 1607 Fredrikstad": {
+    "lat": 59.2127964,
+    "lng": 10.940221
+  },
+  "Henrich Gerners gate 11, 1530 Moss": {
+    "lat": 59.438159,
+    "lng": 10.666083
+  },
+  "Henrich Gerners gt. 11, 1530 Moss": {
+    "lat": 59.438159,
+    "lng": 10.666083
+  },
+  "Lilleeng helsepark, Lilleengveien 8, 1523 Moss": {
+    "lat": 59.4238436,
+    "lng": 10.6777674
+  },
+  "Greåker Helsehus, Eikveien 22, 1718 Greåker": {
+    "lat": 59.2659833,
+    "lng": 11.0349667
+  },
+  "Statsminister Torps vei 1, 1722 Sarpsborg": {
+    "lat": 59.275148,
+    "lng": 11.132539
+  },
+  "Skippergata 6-8, 3 etg, 1767 Halden": {
+    "lat": 59.1174994,
+    "lng": 11.3886893
+  },
+  "Stortorvet 5-7, 1607 Fredrikstad": {
+    "lat": 59.213231,
+    "lng": 10.9359202
+  },
+  "Bruket Næringspark, Bruket 35, 1621 Gressvik": {
+    "lat": 59.2182472,
+    "lng": 10.9063889
+  },
+  "Vangsveien 10, 1814 Askim": {
+    "lat": 59.5756509,
+    "lng": 11.1922239
+  },
+  "Statsminister Torps vei 1A, 1738 Borgenhaugen": {
+    "lat": 59.2750869,
+    "lng": 11.1334644
+  },
+  "Torvet 5-7, 1607 Fredrikstad": {
+    "lat": 59.2032749,
+    "lng": 10.9530609
+  },
+  "Henrik Gerners gate 11, 1530 Moss": {
+    "lat": 59.4379596,
+    "lng": 10.6640109
+  },
+  "Kirkegaten 32, 1632 Gamle Fredrikstad": {
+    "lat": 59.2043599,
+    "lng": 10.9547776
+  },
+  "Eikveien 22, 1718 Greåker": {
+    "lat": 59.26878,
+    "lng": 11.032341
+  },
+  "Mosseveien 60, 1640 Råde": {
+    "lat": 59.358827,
+    "lng": 10.83755
+  },
+  "Lysaker helseklinikk DA, Strandveien 8, 1366 Lysaker": {
+    "lat": 59.9193856,
+    "lng": 10.6290559
+  },
+  "Kolbotnvn. 7, 1410 Kolbotn": {
+    "lat": 59.8103044,
+    "lng": 10.8029823
+  },
+  "Solheimveien 112, 1473 Lørenskog": {
+    "lat": 59.928396,
+    "lng": 10.96446
+  },
+  "Dampsagveien 2 - 4, 2000 Lillestrøm": {
+    "lat": 59.9522505,
+    "lng": 11.045446
+  },
+  "Aurskog senter, 1930 Aurskog": {
+    "lat": 59.927938,
+    "lng": 11.4458937
+  },
+  "Idrettsveien 9, 1400 Ski": {
+    "lat": 59.719533,
+    "lng": 10.839788
+  },
+  "Trekanten Senter, Helsehuset, Knud Askers vei 28B, 1383 Asker": {
+    "lat": 59.8336774,
+    "lng": 10.4123355
+  },
+  "Knud Askers vei 26, 1383 Asker": {
+    "lat": 59.8367241,
+    "lng": 10.4336281
+  },
+  "Romerikssenteret, Trondheimsveien 86, 2040 Kløfta": {
+    "lat": 60.0740687,
+    "lng": 11.1380487
+  },
+  "Sandviksveien 157, 1337 Sandvika": {
+    "lat": 59.891029,
+    "lng": 10.528772
+  },
+  "Romerike Helsebygg, Dampsagveien 4, 2000 Lillestrøm": {
+    "lat": 59.9557453,
+    "lng": 11.0600384
+  },
+  "Strandveien 8, 1366 Lysaker": {
+    "lat": 59.9124323,
+    "lng": 10.6385244
+  },
+  "Knud Askers vei 28, 1383 Asker": {
+    "lat": 59.8368287,
+    "lng": 10.4347567
+  },
+  "Trekanten legesenter, Knud Askers vei 28B, 1383 Asker": {
+    "lat": 59.8336774,
+    "lng": 10.4123355
+  },
+  "Storgata 11B, 2050 Jessheim": {
+    "lat": 60.1415802,
+    "lng": 11.1742246
+  },
+  "Seterstøavegen 2C, 1 etg., 2150 Årnes": {
+    "lat": 60.122332,
+    "lng": 11.4701491
+  },
+  "Sandviksveien 26, 1363 Høvik": {
+    "lat": 59.8975901,
+    "lng": 10.5741368
+  },
+  "Kolbotnveien 23, 1410 Kolbotn": {
+    "lat": 59.8114197,
+    "lng": 10.7988683
+  },
+  "Kirkeallen 3 A, 3470 Slemmestad": {
+    "lat": 59.7816522,
+    "lng": 10.4958668
+  },
+  "Varden Spesialistsenter AS, Håkonkastet 5, 1453 Bjørnemyr": {
+    "lat": 59.8323684,
+    "lng": 10.6423702
+  },
+  "Skårersletta 18, 1473 Lørenskog": {
+    "lat": 59.9260045,
+    "lng": 10.9543164
+  },
+  "Holterveien 4 G, 1448 Drøbak": {
+    "lat": 59.675317,
+    "lng": 10.659588
+  },
+  "Trondheimsveien 60, 2050 Jessheim": {
+    "lat": 60.139203,
+    "lng": 11.172932
+  },
+  "Trekanten Senter, Knud Askers vei 28 B, 1383 Asker": {
+    "lat": 59.8336774,
+    "lng": 10.4123355
+  },
+  "Smuget 1, 1383 Asker": {
+    "lat": 59.8351731,
+    "lng": 10.433383
+  },
+  "Sandvikveien 157, 1337 Sandvika": {
+    "lat": 60.5400308,
+    "lng": 11.1881244
+  },
+  "Torgveien 2, 1400 Ski": {
+    "lat": 59.7190635,
+    "lng": 10.8369042
+  },
+  "Idrettsveien 7, 1400 Ski": {
+    "lat": 59.719516,
+    "lng": 10.839187
+  },
+  "Kirkeveien 230, 1383 Asker": {
+    "lat": 59.833796,
+    "lng": 10.4287028
+  },
+  "Alfheim 7, 1384 Asker": {
+    "lat": 59.8338915,
+    "lng": 10.4364324
+  },
+  "Vestheimveien 33, 1540 Vestby": {
+    "lat": 59.6037081,
+    "lng": 10.7516569
+  },
+  "Sønsterudveien 32, 1412 Sofiemyr": {
+    "lat": 59.8015,
+    "lng": 10.817802
+  },
+  "Nedre Storgate 13, 3. etasje, 3015 Drammen": {
+    "lat": 59.743715,
+    "lng": 10.2121956
+  },
+  "Loesmoveien 79, 3300 Hokksund": {
+    "lat": 59.765919,
+    "lng": 9.916146
+  },
+  "Nedre Storgate 13, 3015 Drammen": {
+    "lat": 59.743085,
+    "lng": 10.207952
+  },
+  "Olavsgt 26, 3612 Kongsberg": {
+    "lat": 59.6702116,
+    "lng": 9.6703047
+  },
+  "Sundrevegen 95 B, 3 etg, 3571 Ål": {
+    "lat": 60.6302389,
+    "lng": 8.5607083
+  },
+  "Øvre Torggate 4, 3017 Drammen": {
+    "lat": 59.744465,
+    "lng": 10.203464
+  },
+  "Langesgt. 7, 3044 Drammen": {
+    "lat": 59.737345,
+    "lng": 10.205254
+  },
+  "Hokksund rehab.senter Skogly, 3300 Hokksund": {
+    "lat": 59.7711921,
+    "lng": 9.9094778
+  },
+  "Reins gate 5A, 3611 Kongsberg": {
+    "lat": 59.6726371,
+    "lng": 9.6465381
+  },
+  "Hyttegt. 6, 3616 Kongsberg": {
+    "lat": 59.6598377,
+    "lng": 9.6415287
+  },
+  "Øvre Torggate 9, 3017 Drammen": {
+    "lat": 59.744522,
+    "lng": 10.202132
+  },
+  "Hvervenmoveien 45, 3511 Hønefoss": {
+    "lat": 60.1442755,
+    "lng": 10.258653
+  },
+  "Vestre Kjennervei 2B, 3420 Lierskogen": {
+    "lat": 59.8103863,
+    "lng": 10.3057251
+  },
+  "Osloveien 10, 3511 Hønefoss": {
+    "lat": 60.1570991,
+    "lng": 10.2568726
+  },
+  "Søndre Torv 1, 2. etg., 3510 Hønefoss": {
+    "lat": 60.1662082,
+    "lng": 10.255486
+  },
+  "Vestre Kjennerveg 2B, 3420 Lierskogen": {
+    "lat": 59.8103863,
+    "lng": 10.3057251
+  },
+  "Fjellgata 14, 2212 Kongsvinger": {
+    "lat": 60.1924879,
+    "lng": 11.996849
+  },
+  "Torggt 55, 2317 Hamar": {
+    "lat": 60.7952431,
+    "lng": 11.0728855
+  },
+  "Tajevegen 1, 2211 Kongsvinger": {
+    "lat": 60.1838058,
+    "lng": 12.0131974
+  },
+  "Grindalsvegen 3, 2406 Elverum": {
+    "lat": 60.8826817,
+    "lng": 11.554107
+  },
+  "Lillehammer Psykologsenter, Storgata 86, 2615 Lillehammer": {
+    "lat": 61.1216426,
+    "lng": 10.4595211
+  },
+  "Torggaten 72, 2317 Hamar": {
+    "lat": 60.7952431,
+    "lng": 11.0728855
+  },
+  "Østre gate 5, 2318 Hamar": {
+    "lat": 60.7920651,
+    "lng": 11.0849244
+  },
+  "Torggt. 72, 2317 Hamar": {
+    "lat": 60.7952431,
+    "lng": 11.0728855
+  },
+  "Storgata 111, 2390 Moelv": {
+    "lat": 60.929092,
+    "lng": 10.7012245
+  },
+  "Østregate 13, 2315 Hamar": {
+    "lat": 60.8057622,
+    "lng": 11.0486435
+  },
+  "Psykologspesialistene Innlandet, Storgt 23, 2815 Gjøvik": {
+    "lat": 60.7887617,
+    "lng": 10.6878228
+  },
+  "AMFI, Trontorget kjøpesenter, 2. etg. , Brugt. 1,, 2501 Tynset": {
+    "lat": 62.2742908,
+    "lng": 10.7768676
+  },
+  "Storgaten 23, 2815 Gjøvik": {
+    "lat": 60.7887617,
+    "lng": 10.6878228
+  },
+  "Grindalsveien 3, 2406 Elverum": {
+    "lat": 60.8826817,
+    "lng": 11.554107
+  },
+  "Strandgt. 38, 2803 Gjøvik": {
+    "lat": 60.796633,
+    "lng": 10.6934904
+  },
+  "Øvre Torvgate 3, 2815 Gjøvik": {
+    "lat": 60.795563,
+    "lng": 10.68798
+  },
+  "Bryggerigata 8, 2609 Lillehammer": {
+    "lat": 61.116011,
+    "lng": 10.466651
+  },
+  "Anton Jenssens gate 2, 2 etg., 3125 Tønsberg": {
+    "lat": 59.2806817,
+    "lng": 10.401384
+  },
+  "Sikringssalveien 20, 3208 Sandefjord": {
+    "lat": 59.128073,
+    "lng": 10.2157729
+  },
+  "Storgaten 20, kontor 206, 3126 Tønsberg": {
+    "lat": 59.2664224,
+    "lng": 10.4096031
+  },
+  "Kjernåsveien 13 A, 3142 Vestskogen": {
+    "lat": 59.240291,
+    "lng": 10.396926
+  },
+  "Langgata 2, 3187 Horten": {
+    "lat": 59.4160851,
+    "lng": 10.4856172
+  },
+  "Gjøgriveien 24, 3089 Holmestrand": {
+    "lat": 59.49413,
+    "lng": 10.1733843
+  },
+  "Nygaards allé 4, 3160 Stokke": {
+    "lat": 59.2220282,
+    "lng": 10.2994122
+  },
+  "Apotekergaten 16, 3187 Horten": {
+    "lat": 59.4086847,
+    "lng": 10.4818709
+  },
+  "Tønsbergs Medisinske Senter, Kilengt 18, 3117 Tønsberg": {
+    "lat": 59.2768179,
+    "lng": 10.4223549
+  },
+  "Skiringssalsvei 20, 3208 Sandefjord": {
+    "lat": 59.128073,
+    "lng": 10.2157729
+  },
+  "Skolerønningen 1, 3280 Tjodalyng": {
+    "lat": 59.0536202,
+    "lng": 10.1207393
+  },
+  "Eilert Sundts gate 83, 3725 Skien": {
+    "lat": 59.201666,
+    "lng": 9.591643
+  },
+  "Storgata 141, 3915 Porsgrunn": {
+    "lat": 59.140351,
+    "lng": 9.65457
+  },
+  "Tollboden, Langbrygga 1, 3724 Skien": {
+    "lat": 59.2022242,
+    "lng": 9.6127897
+  },
+  "Langbrygga 1, 3724 Skien": {
+    "lat": 59.2040221,
+    "lng": 9.6125204
+  },
+  "Brøløsvegen 51, 3840 Seljord": {
+    "lat": 59.4854538,
+    "lng": 8.6327239
+  },
+  "Nedre Hjellegate 2, 3724 Skien": {
+    "lat": 59.2068327,
+    "lng": 9.6068278
+  },
+  "Holbergsgate lege- og spesialistsenter, Holbergsgate 6, 2.etg, 3717 Skien": {
+    "lat": 59.2133433,
+    "lng": 9.6035474
+  },
+  "Storgaten 42, 4876 Grimstad": {
+    "lat": 58.343122,
+    "lng": 8.5904171
+  },
+  "Kjøita 17, 4630 Kristiansand S": {
+    "lat": 58.1531172,
+    "lng": 8.0032728
+  },
+  "Havblik Almenlegesenter, Kystveien 154, 4842 Arendal": {
+    "lat": 58.471007,
+    "lng": 8.7969916
+  },
+  "Skippergata 4, 4611 Kristiansand S": {
+    "lat": 58.1456695,
+    "lng": 7.9912767
+  },
+  "Vestregate 7, 4790 Lillesand": {
+    "lat": 58.249657,
+    "lng": 8.376923
+  },
+  "Senterveien 30, 4790 Lillesand": {
+    "lat": 58.2623004,
+    "lng": 8.3966517
+  },
+  "Helsehuset, Markens gate 42, 4612 Kristiansand S": {
+    "lat": 58.1477221,
+    "lng": 7.9904993
+  },
+  "Østre Strandgate 76 A, 4608 Kristiansand S": {
+    "lat": 58.1475709,
+    "lng": 8.0058152
+  },
+  "Terapirommet a/s, Vikaveien 29 A, 4817 His": {
+    "lat": 58.4113039,
+    "lng": 8.7346098
+  },
+  "Vossgt. 1, 4884 Grimstad": {
+    "lat": 58.3420272,
+    "lng": 8.5963408
+  },
+  "Vollgaten 17, 4400 Flekkefjord": {
+    "lat": 58.2957935,
+    "lng": 6.6609623
+  },
+  "1336 Sandvika": {
+    "lat": 59.8921158,
+    "lng": 10.5249914
+  },
+  "1300 Sandvika, Postboks 63,1300 Sandvika": null,
+  "3117 Tønsberg, PB 1248,3105 Tønsberg": null,
+  "0596 Oslo": {
+    "lat": 59.943436,
+    "lng": 10.8466523
+  },
+  "3301 Hokksund, PB 227,3301 Hokksund": null,
+  "3140 Nøtterøy, Postboks 145 Borgheim,3140 Nøtterøy": null,
+  "3917 Porsgrunn": {
+    "lat": 59.1333485,
+    "lng": 9.667768
   }
 }

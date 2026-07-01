@@ -1,0 +1,236 @@
+[
+  {
+    "title": "Bunæs, Maria Haffeld",
+    "address": "0667 Oslo, BP 32 Bryn Helsesenter,0667 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "400 01 098",
+      "tlf": "Maria Bunæs barnelege, Østensjøveien 79"
+    }
+  },
+  {
+    "title": "Fossum, Vibeke",
+    "address": "0667 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "917 57 173",
+      "tlf": "Oslo Barnelegepraksis, Brynsveien 5"
+    }
+  },
+  {
+    "title": "Haraldsen, Cathrine",
+    "address": "0377 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "23 25 44 30",
+      "tlf": "Barneallergiklinikken, Sørkedalsveien 90 B"
+    }
+  },
+  {
+    "title": "Herland, Eirik",
+    "address": "0377 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "23 25 44 30",
+      "tlf": "Barneallergiklinikken, Sørkedalsveien 90 B"
+    }
+  },
+  {
+    "title": "Jensen, Kristin",
+    "address": "0667 Oslo, PB 32 Bryn Helsesenter,0667 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "934 91 001",
+      "tlf": "Bryn Helsesenter, Østensjøveien 79"
+    }
+  },
+  {
+    "title": "Kvenshagen, Bente",
+    "address": "1177 Oslo, Pb 104 Bekkelagshøgda,1109 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "987 02 359",
+      "tlf": "BESTHELSE Nordstrand, Kongsveien 104"
+    }
+  },
+  {
+    "title": "Løvlie, Merethe Michelsen",
+    "address": "0377 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "23 25 44 30",
+      "tlf": "Sørkedalsveien 90 B"
+    }
+  },
+  {
+    "title": "Pedersen, Roger",
+    "address": "0176 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 42 99 60",
+      "tlf": "Christiania ØNH, Pilestredet Park 31"
+    }
+  },
+  {
+    "title": "Vigen, Astri",
+    "address": "0484 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 58 74 00",
+      "tlf": "Nydalen Barnelegesenter, Nydalsveien 36 B"
+    }
+  },
+  {
+    "title": "Aaserud, Laila Hovind",
+    "address": "0377 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "23 25 44 30",
+      "tlf": "Barneallergiklinikken, Sørkedalsveien 90 B"
+    }
+  },
+  {
+    "title": "Gauer, Ragna Katrine Sofie",
+    "address": "1605 Fredrikstad",
+    "metadata": {
+      "region": "Østfold",
+      "tilknytning": "69 68 43 00",
+      "tlf": "Østfold Barneklinikk, Wilbergjordet 10"
+    }
+  },
+  {
+    "title": "Nilsen, Tove",
+    "address": "1523 Moss",
+    "metadata": {
+      "region": "Østfold",
+      "tilknytning": "69 25 35 45",
+      "tlf": "Lilleng Legesenter, Lillengveien 8"
+    }
+  },
+  {
+    "title": "Closs, Ole",
+    "address": "1473 Lørenskog",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "64 84 78 00",
+      "tlf": "Strømmen barnelegesenter, Boecks gate 12"
+    }
+  },
+  {
+    "title": "Dahl, John Michael",
+    "address": "1453 Bjørnemyr",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "66 91 27 98",
+      "tlf": "Bjørnemyr legekontor, Håkonkastet 5"
+    }
+  },
+  {
+    "title": "Erlandsen, Marie A",
+    "address": "1337 Sandvika, Humana Helse AS, Pb 63,1300 Sandvika",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "67 55 31 40",
+      "tlf": "Humana Sandvika, Elias Smiths vei 10"
+    }
+  },
+  {
+    "title": "Håland, Geir",
+    "address": "1473 Lørenskog",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "64 84 78 00",
+      "tlf": "Strømmen barnelegesenter, Boecks gate 12"
+    }
+  },
+  {
+    "title": "Lindvik, Helene",
+    "address": "1337 Sandvika",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "67 56 43 58",
+      "tlf": "Sandvika Barnelegesenter, Malmskriverveien 27"
+    }
+  },
+  {
+    "title": "Olafsen, Frøydis",
+    "address": "1360 Fornebu, Pb 1052,1307 Fornebu",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "67 22 28 70",
+      "tlf": "Moloklinikken, Akerkvartalet, Bygg B, Oksenøyveien 10"
+    }
+  },
+  {
+    "title": "Owczarz, Anna",
+    "address": "1400 Ski",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "24 20 05 11",
+      "tlf": "Ski Barneklinikk, Industriveien 3 A"
+    }
+  },
+  {
+    "title": "Pettersen, Morten",
+    "address": "1473 Lørenskog",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "64 84 78 00",
+      "tlf": "Strømmen barnelegesenter, Boecks gate 12"
+    }
+  },
+  {
+    "title": "Reier-Nilsen, Tonje",
+    "address": "1357 Bekkestua",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "919 07 110",
+      "tlf": "Gamle Ringeriksvei 34"
+    }
+  },
+  {
+    "title": "Rød, Gisle",
+    "address": "1473 Lørenskog",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "64 84 78 00",
+      "tlf": "Strømmen barnelegesenter, Boecks gate 12"
+    }
+  },
+  {
+    "title": "Bjering, Sidsel",
+    "address": "3611 Kongsberg",
+    "metadata": {
+      "region": "Buskerud",
+      "tilknytning": "32 77 08 00",
+      "tlf": "Barnelegen i Kongsberg, Schwabes gt. 11"
+    }
+  },
+  {
+    "title": "Handeland, Kai",
+    "address": "3015 Drammen",
+    "metadata": {
+      "region": "Buskerud",
+      "tilknytning": "32 83 20 60",
+      "tlf": "Sentrum Legekontor, Nedre Storgate 31"
+    }
+  },
+  {
+    "title": "Sannes, Catharina H.",
+    "address": "3915 Porsgrunn",
+    "metadata": {
+      "region": "Telemark",
+      "tilknytning": "35 10 43 50",
+      "tlf": "Telemark barneklinikk, Storgata 125"
+    }
+  },
+  {
+    "title": "Scheck, Oliver",
+    "address": "4848 Arendal",
+    "metadata": {
+      "region": "Agder",
+      "tilknytning": "991 06 090",
+      "tlf": "Sørlandsklinikken, Stoaveien 9"
+    }
+  }
+]

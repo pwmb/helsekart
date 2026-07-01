@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Berge, Gisle",
+    "address": "0374 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 12 02 82",
+      "tlf": "Vinderen Ortopedi, Charlotte Andersens vei 5 A"
+    }
+  },
+  {
+    "title": "Gallefoss, Øyvind",
+    "address": "0680 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "900 17 700",
+      "tlf": "Ortopedisenteret, Ryensvingen 6"
+    }
+  },
+  {
+    "title": "Liavåg, Olav Beito",
+    "address": "0283 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "23 00 70 90",
+      "tlf": "Kirurgisk Klinikk, Lilleaker Spesialistlegesenter as, Lilleakerveien 23"
+    }
+  },
+  {
+    "title": "Bjørgul, Kristian",
+    "address": "1778 Halden",
+    "metadata": {
+      "region": "Østfold",
+      "tilknytning": "69 18 38 90",
+      "tlf": "Halden Ortopedi og Kirurgi, Dyrendalsveien 13 C"
+    }
+  },
+  {
+    "title": "Hochnowski, Jan",
+    "address": "1706 Sarpsborg",
+    "metadata": {
+      "region": "Østfold",
+      "tilknytning": "69 15 44 60",
+      "tlf": "Klinikk Forum, Pellygata 60"
+    }
+  },
+  {
+    "title": "Nsubuga, Martin",
+    "address": "1530 Moss",
+    "metadata": {
+      "region": "Østfold",
+      "tilknytning": "400 88 989",
+      "tlf": "Kase Klinikken, Helsehuset Moss 2 etg, Prinsensgate 9"
+    }
+  },
+  {
+    "title": "Vedeler, Tor",
+    "address": "1632 Gamle Fredrikstad",
+    "metadata": {
+      "region": "Østfold",
+      "tilknytning": "69 30 40 00",
+      "tlf": "OptiKon Medisinske Senter, Spinneriveien 11"
+    }
+  }
+]

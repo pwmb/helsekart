@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Rustad, Nora",
+    "address": "Rosenkrantzgate 7, 0159 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "Nic Waals Institutt",
+      "tlf": "951 66 603"
+    },
+    "lat": 59.9137368,
+    "lng": 10.7420982
+  },
+  {
+    "title": "Blom, Kristin",
+    "address": "Dampsagveien 4, 2000 Lillestrøm",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "BUP Nedre Romerike",
+      "tlf": "466 98 495"
+    },
+    "lat": 59.9535899,
+    "lng": 11.0409066
+  },
+  {
+    "title": "Løkke, Per Are",
+    "address": "Ressurssenteret, Håkonkastet 5, 1453 Bjørnemyr",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "BUP Follo",
+      "tlf": "911 14 064"
+    },
+    "lat": 59.8323684,
+    "lng": 10.6423702
+  },
+  {
+    "title": "Sundberg, Hilde",
+    "address": "Olavsgate 7, 3256 Larvik",
+    "metadata": {
+      "region": "Vestfold",
+      "tilknytning": "BUPA, Sykehuset i Vestfold HF",
+      "tlf": "+4790896406"
+    },
+    "lat": 59.0542134,
+    "lng": 10.0275024
+  },
+  {
+    "title": "Johnsen, Ole Christian Vetle",
+    "address": "OH Holtasgate 21, 3678 Notodden",
+    "metadata": {
+      "region": "Telemark",
+      "tilknytning": "BUP Notodden",
+      "tlf": "473 32 824"
+    },
+    "lat": 59.5732484,
+    "lng": 9.2673068
+  },
+  {
+    "title": "Kvalvik, Belinda Haugerud",
+    "address": "Sverresgt. 19, 3921 Porsgrunn",
+    "metadata": {
+      "region": "Telemark",
+      "tilknytning": "BUP Grenland Sør",
+      "tlf": "930 32 457"
+    },
+    "lat": 59.138124,
+    "lng": 9.651214
+  }
+]

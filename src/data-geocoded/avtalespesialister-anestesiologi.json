@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Torp-Joakimsen, Kjell",
+    "address": "0369 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "23 33 42 50",
+      "tlf": "Sørkedalsveien 10 D, 2 etg"
+    },
+    "lat": 59.9320439,
+    "lng": 10.707273
+  },
+  {
+    "title": "Ødegaard, Alf Kristoffer",
+    "address": "0985 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 50 85 22",
+      "tlf": "Stovnersenter 3"
+    },
+    "lat": 59.961993,
+    "lng": 10.9254953
+  },
+  {
+    "title": "Christensen, Per H",
+    "address": "2317 Hamar",
+    "metadata": {
+      "region": "Innlandet",
+      "tilknytning": "922 45 654",
+      "tlf": "Dr P H Christensen, St. Olavsgate 61"
+    },
+    "lat": 60.7952431,
+    "lng": 11.0728855
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Ali, Asad",
+    "address": "0570 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "920 97 217",
+      "tlf": "Oslo Endoskopi, Trondheimsveien 184"
+    }
+  },
+  {
+    "title": "Stray-Pedersen, Reidulf",
+    "address": "0484 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "21 09 02 80",
+      "tlf": "Oslo Gastroklinikk, Sandakerveien 116"
+    }
+  },
+  {
+    "title": "Andresen, Svend J.",
+    "address": "1706 Sarpsborg",
+    "metadata": {
+      "region": "Østfold",
+      "tilknytning": "69 14 92 92",
+      "tlf": "Østfold Indremedisin, Sverres gate 10"
+    }
+  },
+  {
+    "title": "Günther, Eva Haugset",
+    "address": "1607 Fredrikstad",
+    "metadata": {
+      "region": "Østfold",
+      "tilknytning": "69 36 63 30",
+      "tlf": "Nedre Glommen Legegruppe, Storgata 10"
+    }
+  },
+  {
+    "title": "Remme, Anita",
+    "address": "1607 Fredrikstad",
+    "metadata": {
+      "region": "Østfold",
+      "tilknytning": "69 36 63 30",
+      "tlf": "Nedre Glommen Legegruppe, Storgaten 10"
+    }
+  },
+  {
+    "title": "Rios, Rogelio Oswaldo Barreto",
+    "address": "1383 Asker",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "66 76 06 90",
+      "tlf": "Asker Endoskopiklinikk, Knud Askers vei 28"
+    }
+  },
+  {
+    "title": "Tolås, Per Einar",
+    "address": "1473 Lørenskog",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "23 89 64 26",
+      "tlf": "Lørenskog Gastroklinikk AS, Skårersletta 18"
+    }
+  },
+  {
+    "title": "Asak, Øivind",
+    "address": "2815 Gjøvik",
+    "metadata": {
+      "region": "Innlandet",
+      "tilknytning": "61 17 41 50",
+      "tlf": "Innlandet Gastrosenter A/S, Storgata 23"
+    }
+  },
+  {
+    "title": "Fladsrud, Trond",
+    "address": "2390 Moelv, PB 207,2391 Moelv",
+    "metadata": {
+      "region": "Innlandet",
+      "tilknytning": "907 52 700",
+      "tlf": "Moelv Mage og Tarm, Møllergata 18"
+    }
+  },
+  {
+    "title": "Heitmann, Richard",
+    "address": "3724 Skien",
+    "metadata": {
+      "region": "Telemark",
+      "tilknytning": "405 49 427",
+      "tlf": "Telemark Endoskopiklinikk AS, Torggata 10"
+    }
+  },
+  {
+    "title": "Beitohaugen, Einar",
+    "address": "4836 Arendal, Postboks 133,4801 Arendal",
+    "metadata": {
+      "region": "Agder",
+      "tilknytning": "37 02 00 83",
+      "tlf": "Mage-Tarm-Klinikken, Vestregate 1"
+    }
+  },
+  {
+    "title": "Hære, Petter",
+    "address": "4611 Kristiansand S",
+    "metadata": {
+      "region": "Agder",
+      "tilknytning": "38 14 90 00",
+      "tlf": "Spesialistsenteret AS, Vestre Strandgate 23"
+    }
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Zadeh, Peter Gabriel",
+    "address": "0176 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 99 27 00",
+      "tlf": "Pilestredet Park 12 A"
+    }
+  },
+  {
+    "title": "Krckov, Ersan",
+    "address": "1337 Sandvika, PB 107,1301 Sandvika",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "67 57 58 59",
+      "tlf": "Sandvika Spesialistsenter, Elias Smiths vei 24"
+    }
+  },
+  {
+    "title": "Vanberg, Pål Johan",
+    "address": "1337 Sandvika, Pb. 107,1301 Sandvika",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "67 57 58 59",
+      "tlf": "Sandvika Spesialistsenter, Elias Smiths vei 24"
+    }
+  }
+]

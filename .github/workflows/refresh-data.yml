@@ -1,4 +1,4 @@
-name: Refresh fastlege data
+name: Refresh data
 
 on:
   schedule:
@@ -25,16 +25,19 @@ jobs:
       - name: Fetch latest fastlege data
         run: node scripts/fetch-fastlege.mjs
 
+      - name: Fetch latest avtalespesialister data
+        run: node scripts/fetch-avtalespesialister.mjs
+
       - name: Check if data changed
         id: diff
         run: |
-          if git diff --quiet src/data/fastlege-oslo.json; then
+          if git diff --quiet src/data/; then
             echo "changed=false" >> $GITHUB_OUTPUT
             echo "No changes — skipping geocoding and deploy."
           else
             echo "changed=true" >> $GITHUB_OUTPUT
-            ADDED=$(git diff --unified=0 src/data/fastlege-oslo.json | grep '^+' | grep -c '"title"' || true)
-            REMOVED=$(git diff --unified=0 src/data/fastlege-oslo.json | grep '^-' | grep -c '"title"' || true)
+            ADDED=$(git diff --unified=0 src/data/ | grep '^+' | grep -c '"title"' || true)
+            REMOVED=$(git diff --unified=0 src/data/ | grep '^-' | grep -c '"title"' || true)
             echo "+${ADDED} added, -${REMOVED} removed"
           fi
 
@@ -47,7 +50,7 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add src/data/fastlege-oslo.json src/data-geocoded/
-          git commit -m "chore: refresh fastlege data $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git add src/data/ src/data-geocoded/
+          git commit -m "chore: refresh data $(date -u +'%Y-%m-%d %H:%M UTC')"
           git push
         # Pushing to main will trigger the deploy workflow automatically

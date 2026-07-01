@@ -1,0 +1,1124 @@
+[
+  {
+    "title": "Askheim, Line",
+    "address": "0369 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 93 12 60",
+      "tlf": "Oslo Øyelegesenter, Sørkedalsvn. 10 A, 5 etg"
+    },
+    "lat": 59.9320439,
+    "lng": 10.707273
+  },
+  {
+    "title": "Bakke, Espen Finnøy",
+    "address": "0369 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "23 20 11 80",
+      "tlf": "Colosseum Øyelegesenter, Sørkedalsveien 10 A - 4 etg"
+    },
+    "lat": 59.9320439,
+    "lng": 10.707273
+  },
+  {
+    "title": "Bakke, Lars",
+    "address": "0369 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "23 20 11 80",
+      "tlf": "Colosseum øyelegesenter, Sørkedalsveien 10A - 4 etg"
+    },
+    "lat": 59.9320439,
+    "lng": 10.707273
+  },
+  {
+    "title": "Bløming, Ragnhild",
+    "address": "0369 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 93 12 60",
+      "tlf": "Oslo Øyelegesenter, Sørkedalsveien 10 A"
+    },
+    "lat": 59.9320439,
+    "lng": 10.707273
+  },
+  {
+    "title": "Dye, Joakim Høy",
+    "address": "0369 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 93 12 60",
+      "tlf": "Oslo Øyelegesenter, Sørkedalsveien 10 A"
+    },
+    "lat": 59.9320439,
+    "lng": 10.707273
+  },
+  {
+    "title": "Dysthe, Bjart Erik",
+    "address": "0366 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "23 33 19 19",
+      "tlf": "Majorstuen øyelegesenter, Bogstadveien 51"
+    },
+    "lat": 59.9283473,
+    "lng": 10.7182037
+  },
+  {
+    "title": "Eikland, Anne Møllendal",
+    "address": "0168 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "23 20 44 66",
+      "tlf": "Bislett Øyelegesenter, Thereses gate 40"
+    },
+    "lat": 59.9273167,
+    "lng": 10.7343173
+  },
+  {
+    "title": "Haughom, Bente",
+    "address": "0164 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 41 67 20",
+      "tlf": "Sentrum Øyeleger, Pilestredet 17"
+    },
+    "lat": 59.9163587,
+    "lng": 10.7388506
+  },
+  {
+    "title": "Hultgren, Staale Jacob",
+    "address": "0168 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "23 20 44 66",
+      "tlf": "Bislett Øyelegesenter, Theresesgt. 40"
+    },
+    "lat": 59.9273167,
+    "lng": 10.7343173
+  },
+  {
+    "title": "Kaur, Ranjit",
+    "address": "0158 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 42 22 32",
+      "tlf": "Stortingsklinikken, Akersgt. 30"
+    },
+    "lat": 59.9115997,
+    "lng": 10.7389671
+  },
+  {
+    "title": "Kinge, Bettina",
+    "address": "0369 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 46 33 83",
+      "tlf": "Blikk Øyeklinikk, Slemdalsveien 1"
+    },
+    "lat": 59.9320439,
+    "lng": 10.707273
+  },
+  {
+    "title": "Langsæter, Solfrid",
+    "address": "0369 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "23 20 11 80",
+      "tlf": "Sørkedalsveien 10A"
+    },
+    "lat": 59.9320439,
+    "lng": 10.707273
+  },
+  {
+    "title": "Macpherson, James Fraser",
+    "address": "0168 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "23 20 44 66",
+      "tlf": "Bislett Øyelegesenter, Thereses gate 40"
+    },
+    "lat": 59.9273167,
+    "lng": 10.7343173
+  },
+  {
+    "title": "Oppedal, Truls",
+    "address": "0164 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "23 35 33 92",
+      "tlf": "Øyesenteret, Pilestredet 15 B"
+    },
+    "lat": 59.9163587,
+    "lng": 10.7388506
+  },
+  {
+    "title": "Osnes-Ringen, Øyvind",
+    "address": "0369 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "23 20 11 80",
+      "tlf": "Colosseum Øyelegesenter, Sørkedalsveien 10 A - 4 etg"
+    },
+    "lat": 59.9320439,
+    "lng": 10.707273
+  },
+  {
+    "title": "Piatkowski, Rafael",
+    "address": "0253 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 47 90 62",
+      "tlf": "Arbins gate 11"
+    },
+    "lat": 59.9137449,
+    "lng": 10.7240012
+  },
+  {
+    "title": "Rougne, Kari",
+    "address": "0168 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "23 20 44 66",
+      "tlf": "Bislett Øyelegesenter, Thereses gate 40"
+    },
+    "lat": 59.9273167,
+    "lng": 10.7343173
+  },
+  {
+    "title": "Sandvig, Kjell Ulrik",
+    "address": "0369 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 93 12 60",
+      "tlf": "Oslo Øyelegesenter, Sørkedalsvn. 10 A, 5 etg"
+    },
+    "lat": 59.9320439,
+    "lng": 10.707273
+  },
+  {
+    "title": "Schmitt, Caroline",
+    "address": "0369 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 93 12 60",
+      "tlf": "Oslo Øyelegesenter, Sørkedalsveien 10 A"
+    },
+    "lat": 59.9320439,
+    "lng": 10.707273
+  },
+  {
+    "title": "Schøne, Reier F",
+    "address": "0369 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 93 12 60",
+      "tlf": "Oslo Øyelegesenter, Sørkedalsvn. 10 A, 5 etg"
+    },
+    "lat": 59.9320439,
+    "lng": 10.707273
+  },
+  {
+    "title": "Semb, Svein Ove",
+    "address": "0369 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 46 33 83",
+      "tlf": "Blikk Øyeklinikk, Slemdalsveien 1"
+    },
+    "lat": 59.9320439,
+    "lng": 10.707273
+  },
+  {
+    "title": "Slettedal, Jon Klokk",
+    "address": "0369 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 46 33 83",
+      "tlf": "Blikk Øyeklinikk, Slemdalsveien 1"
+    },
+    "lat": 59.9320439,
+    "lng": 10.707273
+  },
+  {
+    "title": "Stordahl, Per Bjørn",
+    "address": "0369 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 46 33 83",
+      "tlf": "Blikk Øyeklinikk, Slemdalsveien 1"
+    },
+    "lat": 59.9320439,
+    "lng": 10.707273
+  },
+  {
+    "title": "Torkzad, Keyvan",
+    "address": "1163 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 47 61 80",
+      "tlf": "Nordstrand Øyeklinikk, Nordstrandveien 46"
+    },
+    "lat": 59.8650153,
+    "lng": 10.8028009
+  },
+  {
+    "title": "Tveit, Jon Henrik",
+    "address": "0369 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 93 12 60",
+      "tlf": "Oslo Øyelegesenter, Sørkedalsvn. 10 A, 5 etg"
+    },
+    "lat": 59.9320439,
+    "lng": 10.707273
+  },
+  {
+    "title": "Walther, Henriette",
+    "address": "0168 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "23 20 44 66",
+      "tlf": "Bislett Øyelegesenter, Thereses gate 40,"
+    },
+    "lat": 59.9273167,
+    "lng": 10.7343173
+  },
+  {
+    "title": "Wendel, Johan",
+    "address": "0164 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "23 35 33 92",
+      "tlf": "Øyesenteret, Pilestredet 15B"
+    },
+    "lat": 59.9163587,
+    "lng": 10.7388506
+  },
+  {
+    "title": "Wüstenberg, Stephan",
+    "address": "0369 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 93 12 60",
+      "tlf": "Oslo Øyelegesenter, Sørkedalsveien 10 A"
+    },
+    "lat": 59.9320439,
+    "lng": 10.707273
+  },
+  {
+    "title": "Berger, Lars-Haakon",
+    "address": "1526 Moss",
+    "metadata": {
+      "region": "Østfold",
+      "tilknytning": "69 20 42 20",
+      "tlf": "Moss Øyelegesenter, Ekholtveien 114"
+    },
+    "lat": 59.4133367,
+    "lng": 10.6756664
+  },
+  {
+    "title": "Bjordal, Oddbjørn",
+    "address": "1607 Fredrikstad",
+    "metadata": {
+      "region": "Østfold",
+      "tilknytning": "972 66 932",
+      "tlf": "Fredrikstad Øyelegesenter, Storgata 4"
+    },
+    "lat": 59.2127964,
+    "lng": 10.940221
+  },
+  {
+    "title": "Dinparvar, Dianosh",
+    "address": "1831 Askim",
+    "metadata": {
+      "region": "Østfold",
+      "tilknytning": "69 88 19 10",
+      "tlf": "Askim Øyelegekontor, Hovsveien 8"
+    },
+    "lat": 59.5832224,
+    "lng": 11.1641908
+  },
+  {
+    "title": "Ekstrand, Julian Raffael",
+    "address": "1706 Sarpsborg",
+    "metadata": {
+      "region": "Østfold",
+      "tilknytning": "69 12 07 85",
+      "tlf": "St.Marie gt. 96/98"
+    },
+    "lat": 59.2821879,
+    "lng": 11.1178412
+  },
+  {
+    "title": "Grønning, Ingeborg Lund",
+    "address": "1526 Moss",
+    "metadata": {
+      "region": "Østfold",
+      "tilknytning": "69 20 42 20",
+      "tlf": "Moss Øyelegesenter, Ekholtveien 114"
+    },
+    "lat": 59.4133367,
+    "lng": 10.6756664
+  },
+  {
+    "title": "Juul, Jens",
+    "address": "1607 Fredrikstad",
+    "metadata": {
+      "region": "Østfold",
+      "tilknytning": "972 66 932",
+      "tlf": "Fredrikstad Øyelegesenter, Storgata 4"
+    },
+    "lat": 59.2127964,
+    "lng": 10.940221
+  },
+  {
+    "title": "Majlinger, Rafal Jan",
+    "address": "1607 Fredrikstad",
+    "metadata": {
+      "region": "Østfold",
+      "tilknytning": "929 29 123",
+      "tlf": "Fredrikstad Øyeklinikk, Kirkebrygga 2-4"
+    },
+    "lat": 59.2127964,
+    "lng": 10.940221
+  },
+  {
+    "title": "Riazati, Forouzan",
+    "address": "1607 Fredrikstad",
+    "metadata": {
+      "region": "Østfold",
+      "tilknytning": "69 30 14 90",
+      "tlf": "Fredrikstad Øyelegekontor, Nygaardsgata 55"
+    },
+    "lat": 59.2127964,
+    "lng": 10.940221
+  },
+  {
+    "title": "Solberg, Espen Lindstad",
+    "address": "1706 Sarpsborg",
+    "metadata": {
+      "region": "Østfold",
+      "tilknytning": "69 12 66 90",
+      "tlf": "Sarpsborg Øyelegesenter, St. Marie gate 117"
+    },
+    "lat": 59.2821879,
+    "lng": 11.1178412
+  },
+  {
+    "title": "Tran, Thien",
+    "address": "1526 Moss",
+    "metadata": {
+      "region": "Østfold",
+      "tilknytning": "69 25 98 00",
+      "tlf": "Moss Øyeklinikk, Varnaveien 35, 2 etg"
+    },
+    "lat": 59.4133367,
+    "lng": 10.6756664
+  },
+  {
+    "title": "VIKAR Majlinger, Rafal  Jan",
+    "address": "1607 Fredrikstad",
+    "metadata": {
+      "region": "Østfold",
+      "tilknytning": "901 43 082",
+      "tlf": "Øyeklinikk Majlinger AS, Storgata 4"
+    },
+    "lat": 59.2127964,
+    "lng": 10.940221
+  },
+  {
+    "title": "Wendel, Johan",
+    "address": "1778 Halden",
+    "metadata": {
+      "region": "Østfold",
+      "tilknytning": "69 17 75 00",
+      "tlf": "Halden Øyeklinikk, Dyrendalsveien 13 C"
+    },
+    "lat": 59.1297852,
+    "lng": 11.3804771
+  },
+  {
+    "title": "Ahmad, Rafaqat",
+    "address": "2003 Lillestrøm",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "33 99 40 90",
+      "tlf": "Lillestrøm øyeklinikk, Vestbygata 55"
+    },
+    "lat": 59.9622385,
+    "lng": 11.0413857
+  },
+  {
+    "title": "Asadi, Faranak",
+    "address": "1473 Lørenskog",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "63 89 07 90",
+      "tlf": "Lørenskog Øyeklinikk, Skårersletta 18"
+    },
+    "lat": 59.9232572,
+    "lng": 10.9599559
+  },
+  {
+    "title": "Birkelund, John",
+    "address": "2000 Lillestrøm",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "63 80 39 80",
+      "tlf": "Opticus øyeklinikk, Torvet 3"
+    },
+    "lat": 59.9557453,
+    "lng": 11.0600384
+  },
+  {
+    "title": "Borud, Ingrid",
+    "address": "2000 Lillestrøm",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "63 80 39 80",
+      "tlf": "Opticus øyeklinikk, Torvet 3"
+    },
+    "lat": 59.9557453,
+    "lng": 11.0600384
+  },
+  {
+    "title": "Dalsøren, Grunde",
+    "address": "1383 Asker",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "66 78 56 90",
+      "tlf": "Asker Øyelegesenter, Knud Askers vei 28 B"
+    },
+    "lat": 59.8336774,
+    "lng": 10.4123355
+  },
+  {
+    "title": "Fygd, Øyvind",
+    "address": "1337 Sandvika",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "67 56 60 90",
+      "tlf": "Sandvika Øyelegesenter AS, Leif Tronstads plass 6, 3 etasje"
+    },
+    "lat": 59.8921158,
+    "lng": 10.5249914
+  },
+  {
+    "title": "Grøndahl, Tor Øivind",
+    "address": "1337 Sandvika",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "67 57 57 80",
+      "tlf": "Bærum Øyeklinikk, Sandviksveien 176, Sandvika Storsenter, 4 etg ny del"
+    },
+    "lat": 59.8921158,
+    "lng": 10.5249914
+  },
+  {
+    "title": "Kolstad, Kim",
+    "address": "2000 Lillestrøm",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "63 80 39 80",
+      "tlf": "Opticus øyeklinikk, Torvet 3"
+    },
+    "lat": 59.9557453,
+    "lng": 11.0600384
+  },
+  {
+    "title": "Lane, Peter Ronald",
+    "address": "1357 Bekkestua",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "67 10 63 90",
+      "tlf": "Bekkestua Øyelegesenter, Bærumsveien 210"
+    },
+    "lat": 59.9173125,
+    "lng": 10.5900467
+  },
+  {
+    "title": "Mir, Iram Shahzad",
+    "address": "1400 Ski",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "64 87 01 10",
+      "tlf": "Mir Øyeklinikk AS, Åsenveien 1"
+    },
+    "lat": 59.7199326,
+    "lng": 10.8382736
+  },
+  {
+    "title": "Nes, Dragana",
+    "address": "2070 Råholt",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "63 92 49 40",
+      "tlf": "Øvre Romerike Øyelegekontor, Gladbakkvegen 1"
+    },
+    "lat": 60.2838578,
+    "lng": 11.1728733
+  },
+  {
+    "title": "Pavlovic, Aleksandar",
+    "address": "1337 Sandvika",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "67 56 60 90",
+      "tlf": "Sandvika Øyelegesenter AS, Leif Tronstads plass 6, 3 etasje"
+    },
+    "lat": 59.8921158,
+    "lng": 10.5249914
+  },
+  {
+    "title": "Syed, Awn Bin Akil",
+    "address": "1473 Lørenskog",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "63 89 07 90",
+      "tlf": "Lørenskog Øyeklinikk, Skårersletta 18"
+    },
+    "lat": 59.9232572,
+    "lng": 10.9599559
+  },
+  {
+    "title": "Tveter, Tore",
+    "address": "1337 Sandvika",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "67 56 60 90",
+      "tlf": "Sandvika Øyelegesenter AS, Leif Tronstads plass 6, 3 etasje"
+    },
+    "lat": 59.8921158,
+    "lng": 10.5249914
+  },
+  {
+    "title": "Veiby, Nina Charlotte Bille Brahe",
+    "address": "1383 Asker",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "66 78 56 90",
+      "tlf": "Asker Øyelegesenter, Knud Askers vei 28 B"
+    },
+    "lat": 59.8336774,
+    "lng": 10.4123355
+  },
+  {
+    "title": "Wilhelmsen, Solveig Linda",
+    "address": "2000 Lillestrøm",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "63 81 88 10",
+      "tlf": "Øyelege Wilhelmsen, Depotgata 20, 2 etg"
+    },
+    "lat": 59.9557453,
+    "lng": 11.0600384
+  },
+  {
+    "title": "Ystad, Martin Andreas",
+    "address": "1337 Sandvika",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "67 57 57 80",
+      "tlf": "Bærum Øyeklinikk, Sandviksveien 176"
+    },
+    "lat": 59.8921158,
+    "lng": 10.5249914
+  },
+  {
+    "title": "Øritsland, Håkon",
+    "address": "2000 Lillestrøm",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "64 84 70 40",
+      "tlf": "Depotgata 20, 3 etg"
+    },
+    "lat": 59.9557453,
+    "lng": 11.0600384
+  },
+  {
+    "title": "Alme, Rim Nahoui",
+    "address": "3017 Drammen",
+    "metadata": {
+      "region": "Buskerud",
+      "tilknytning": "31 00 20 50",
+      "tlf": "Bragernes Øyeklinikk AS, Bragernes Torg 4"
+    },
+    "lat": 59.7443341,
+    "lng": 10.2032802
+  },
+  {
+    "title": "Evensen, Tore Rytter",
+    "address": "3015 Drammen",
+    "metadata": {
+      "region": "Buskerud",
+      "tilknytning": "32 83 14 20",
+      "tlf": "Drammen Øyelegesenter, Nedre Storgate 22"
+    },
+    "lat": 59.743715,
+    "lng": 10.2121956
+  },
+  {
+    "title": "Khangura, Gurpreet Singh",
+    "address": "3018 Drammen",
+    "metadata": {
+      "region": "Buskerud",
+      "tilknytning": "33 22 12 12",
+      "tlf": "Ypsilon Øyeklinikk, Hotvetalleen 15A"
+    },
+    "lat": 59.7490427,
+    "lng": 10.1830318
+  },
+  {
+    "title": "Nes, Lars Elsrud",
+    "address": "3015 Drammen",
+    "metadata": {
+      "region": "Buskerud",
+      "tilknytning": "32 83 14 20",
+      "tlf": "Drammen Øyelegesenter, Nedre Storgate 22"
+    },
+    "lat": 59.743715,
+    "lng": 10.2121956
+  },
+  {
+    "title": "Nicolaissen, Bjørn Otto",
+    "address": "3510 Hønefoss",
+    "metadata": {
+      "region": "Buskerud",
+      "tilknytning": "32 12 71 00",
+      "tlf": "SeBra Øyeklinikk, Askveien 6"
+    },
+    "lat": 60.1662082,
+    "lng": 10.255486
+  },
+  {
+    "title": "Randjelovic, Goran",
+    "address": "3015 Drammen",
+    "metadata": {
+      "region": "Buskerud",
+      "tilknytning": "32 83 14 20",
+      "tlf": "Drammen Øyelegesenter, Nedre Storgate 22"
+    },
+    "lat": 59.743715,
+    "lng": 10.2121956
+  },
+  {
+    "title": "Sletten , Jarle",
+    "address": "3018 Drammen",
+    "metadata": {
+      "region": "Buskerud",
+      "tilknytning": "33 22 12 12",
+      "tlf": "Ypsilon Øyeklinikk, Hotvetalleen 15A"
+    },
+    "lat": 59.7490427,
+    "lng": 10.1830318
+  },
+  {
+    "title": "Steinkopf, Harald Arne",
+    "address": "3611 Kongsberg",
+    "metadata": {
+      "region": "Buskerud",
+      "tilknytning": "32 72 31 32",
+      "tlf": "Kongsberg Øyeklinikk, Skolegata  7"
+    },
+    "lat": 59.6788766,
+    "lng": 9.6479189
+  },
+  {
+    "title": "Baig, Faisal",
+    "address": "2615 Lillehammer",
+    "metadata": {
+      "region": "Innlandet",
+      "tilknytning": "61 05 43 30",
+      "tlf": "Lillehammer Øyeklinikk, Tomtegata 2 A"
+    },
+    "lat": 61.1216426,
+    "lng": 10.4595211
+  },
+  {
+    "title": "De Luca, Anthony",
+    "address": "2408 Elverum",
+    "metadata": {
+      "region": "Innlandet",
+      "tilknytning": "62 42 50 10",
+      "tlf": "Hedmark Spesialistsenter, Elvarheimgata 10C"
+    },
+    "lat": 60.8896167,
+    "lng": 11.5639848
+  },
+  {
+    "title": "Helgesen, Andreas",
+    "address": "2615 Lillehammer",
+    "metadata": {
+      "region": "Innlandet",
+      "tilknytning": "61 05 43 30",
+      "tlf": "Lillehammer Øyeklinikk, Tomtegata 2 A"
+    },
+    "lat": 61.1216426,
+    "lng": 10.4595211
+  },
+  {
+    "title": "Ivkovic, Goran",
+    "address": "2815 Gjøvik",
+    "metadata": {
+      "region": "Innlandet",
+      "tilknytning": "61 18 79 00",
+      "tlf": "GI Oculus AS, Øyelege Goran Ivkovic, Strandgt. 17 A"
+    },
+    "lat": 60.7887617,
+    "lng": 10.6878228
+  },
+  {
+    "title": "Jacobsen, Jacob Lindbom",
+    "address": "2815 Gjøvik",
+    "metadata": {
+      "region": "Innlandet",
+      "tilknytning": "61 17 23 30",
+      "tlf": "Bakkegt. 3"
+    },
+    "lat": 60.7887617,
+    "lng": 10.6878228
+  },
+  {
+    "title": "Mattsson, Øyvind",
+    "address": "2317 Hamar",
+    "metadata": {
+      "region": "Innlandet",
+      "tilknytning": "62 54 14 50",
+      "tlf": "Østregate 23"
+    },
+    "lat": 60.7952431,
+    "lng": 11.0728855
+  },
+  {
+    "title": "Nordbø, Turid",
+    "address": "2615 Lillehammer",
+    "metadata": {
+      "region": "Innlandet",
+      "tilknytning": "61 05 43 30",
+      "tlf": "Lillehammer Øyeklinikk, Tomtegata 2 A"
+    },
+    "lat": 61.1216426,
+    "lng": 10.4595211
+  },
+  {
+    "title": "Olsen, Birger A",
+    "address": "2615 Lillehammer",
+    "metadata": {
+      "region": "Innlandet",
+      "tilknytning": "61 05 43 30",
+      "tlf": "Lillehammer Øyeklinikk, Tomtegata 2 A"
+    },
+    "lat": 61.1216426,
+    "lng": 10.4595211
+  },
+  {
+    "title": "Ommundsen, Kristoffer",
+    "address": "2900 Fagernes",
+    "metadata": {
+      "region": "Innlandet",
+      "tilknytning": "913 84 535",
+      "tlf": "Valdres øyeklinikk, Valdresvegen 3C"
+    },
+    "lat": 60.9860981,
+    "lng": 9.236413
+  },
+  {
+    "title": "Rønbeck, Margrethe",
+    "address": "2212 Kongsvinger",
+    "metadata": {
+      "region": "Innlandet",
+      "tilknytning": "404 09 440",
+      "tlf": "Kongsvinger Øyeklinikk, Fjellgata 5"
+    },
+    "lat": 60.2035323,
+    "lng": 11.9642643
+  },
+  {
+    "title": "Simensen, Bjørn W.",
+    "address": "2615 Lillehammer",
+    "metadata": {
+      "region": "Innlandet",
+      "tilknytning": "61 05 43 30",
+      "tlf": "Lillehammer Øyeklinikk, Tomtegata 2 A"
+    },
+    "lat": 61.1216426,
+    "lng": 10.4595211
+  },
+  {
+    "title": "Hansli, Cathrine",
+    "address": "3208 Sandefjord",
+    "metadata": {
+      "region": "Vestfold",
+      "tilknytning": "33 50 53 85",
+      "tlf": "Øyespesialistene AS, Skiringssalveien 20"
+    },
+    "lat": 59.128073,
+    "lng": 10.2157729
+  },
+  {
+    "title": "Lindberg, Elisabeth Ancher",
+    "address": "3187 Horten",
+    "metadata": {
+      "region": "Vestfold",
+      "tilknytning": "33 07 35 30",
+      "tlf": "Horten Øyelegesenter, Vektergården, Langgata 2, 2.etg"
+    },
+    "lat": 59.4086847,
+    "lng": 10.4818709
+  },
+  {
+    "title": "Thilesen, Trond",
+    "address": "3208 Sandefjord",
+    "metadata": {
+      "region": "Vestfold",
+      "tilknytning": "33 50 53 83",
+      "tlf": "Øyespesialistene AS, Skiringssalveien 20"
+    },
+    "lat": 59.128073,
+    "lng": 10.2157729
+  },
+  {
+    "title": "Thilesen, Vida Raudonikyte",
+    "address": "3251 Larvik",
+    "metadata": {
+      "region": "Vestfold",
+      "tilknytning": "33 18 66 62",
+      "tlf": "Øyelege Vida R. Thilesen, Torget 1"
+    },
+    "lat": 59.053173,
+    "lng": 10.027182
+  },
+  {
+    "title": "Vatne, Ole Kristian",
+    "address": "3208 Sandefjord",
+    "metadata": {
+      "region": "Vestfold",
+      "tilknytning": "33 12 59 70",
+      "tlf": "Øyespesialistene AS, Skiringssalveien 20"
+    },
+    "lat": 59.128073,
+    "lng": 10.2157729
+  },
+  {
+    "title": "Vu, Theresa",
+    "address": "3112 Tønsberg",
+    "metadata": {
+      "region": "Vestfold",
+      "tilknytning": "33 34 99 44",
+      "tlf": "Øyeklinikken AS, St. Olavs gate 22"
+    },
+    "lat": 59.2667496,
+    "lng": 10.4225586
+  },
+  {
+    "title": "Brauti, Tina Dale",
+    "address": "3717 Skien",
+    "metadata": {
+      "region": "Telemark",
+      "tilknytning": "35 52 17 71",
+      "tlf": "Grenland Øyelegesenter, Kongens gate 9"
+    },
+    "lat": 59.2133433,
+    "lng": 9.6035474
+  },
+  {
+    "title": "Carlsten Petkevic, Irena",
+    "address": "3717 Skien",
+    "metadata": {
+      "region": "Telemark",
+      "tilknytning": "35 52 46 00",
+      "tlf": "Skien Øyelegesenter, Kverndalsgata 2 A"
+    },
+    "lat": 59.2133433,
+    "lng": 9.6035474
+  },
+  {
+    "title": "Garvang, Kira",
+    "address": "3674 Notodden",
+    "metadata": {
+      "region": "Telemark",
+      "tilknytning": "35 90 11 50",
+      "tlf": "Notodden Øyelegesenter, Storgata 48"
+    },
+    "lat": 59.5601045,
+    "lng": 9.2601305
+  },
+  {
+    "title": "Lie, Charlotte",
+    "address": "3915 Porsgrunn",
+    "metadata": {
+      "region": "Telemark",
+      "tilknytning": "35 10 43 50",
+      "tlf": "Porsgrunn Øyeklinikk, Storgata 125"
+    },
+    "lat": 59.1435737,
+    "lng": 9.6565404
+  },
+  {
+    "title": "Nørgaard, Rikke",
+    "address": "3717 Skien",
+    "metadata": {
+      "region": "Telemark",
+      "tilknytning": "35 52 05 05",
+      "tlf": "Telemark Augeklinikk, Holbergs gate 6"
+    },
+    "lat": 59.2133433,
+    "lng": 9.6035474
+  },
+  {
+    "title": "Romtveit, Åsne",
+    "address": "3717 Skien",
+    "metadata": {
+      "region": "Telemark",
+      "tilknytning": "35 52 05 05",
+      "tlf": "Telemark Augeklinikk, Holbergs gate 6"
+    },
+    "lat": 59.2133433,
+    "lng": 9.6035474
+  },
+  {
+    "title": "Tånes, Ivar Solberg",
+    "address": "3734 Skien",
+    "metadata": {
+      "region": "Telemark",
+      "tilknytning": "35 55 59 76",
+      "tlf": "Øyelege Tånes, Infanterivegen 16"
+    },
+    "lat": 59.1826645,
+    "lng": 9.608792
+  },
+  {
+    "title": "Bakke, Elisabeth",
+    "address": "4611 Kristiansand S",
+    "metadata": {
+      "region": "Agder",
+      "tilknytning": "38 04 18 80",
+      "tlf": "Øyelege Elisabeth Bakke, Vestre Strandgt 27"
+    },
+    "lat": 58.1459162,
+    "lng": 7.9937904
+  },
+  {
+    "title": "Birkeland, Sigmund",
+    "address": "4848 Arendal",
+    "metadata": {
+      "region": "Agder",
+      "tilknytning": "37 03 05 00",
+      "tlf": "Arendal Øyelegesenter, Stoaveien 9 B"
+    },
+    "lat": 58.476612,
+    "lng": 8.7201137
+  },
+  {
+    "title": "Eckhoff, Edvard Moen",
+    "address": "4612 Kristiansand S",
+    "metadata": {
+      "region": "Agder",
+      "tilknytning": "38 00 61 50",
+      "tlf": "Øyelege Eckhoff AS, Vestre Strandgate 32"
+    },
+    "lat": 58.1477221,
+    "lng": 7.9904993
+  },
+  {
+    "title": "Fischer, Matthias",
+    "address": "4612 Kristiansand S",
+    "metadata": {
+      "region": "Agder",
+      "tilknytning": "38 10 40 50",
+      "tlf": "Henrik Wergelandsgate 4"
+    },
+    "lat": 58.1477221,
+    "lng": 7.9904993
+  },
+  {
+    "title": "Fiskådal, Hans Jørgen",
+    "address": "4612 Kristiansand S",
+    "metadata": {
+      "region": "Agder",
+      "tilknytning": "38 17 87 60",
+      "tlf": "Vestre Torv, Vestre Strandgate 32"
+    },
+    "lat": 58.1477221,
+    "lng": 7.9904993
+  },
+  {
+    "title": "Gilbo, Hanne Berg",
+    "address": "4848 Arendal",
+    "metadata": {
+      "region": "Agder",
+      "tilknytning": "37 03 05 00",
+      "tlf": "Stoaveien 9A"
+    },
+    "lat": 58.476612,
+    "lng": 8.7201137
+  },
+  {
+    "title": "Halvorsen, Frode",
+    "address": "4950 Risør",
+    "metadata": {
+      "region": "Agder",
+      "tilknytning": "37 15 32 90",
+      "tlf": "Risørklinikken, Storgt. 14"
+    },
+    "lat": 58.7219382,
+    "lng": 9.1949841
+  },
+  {
+    "title": "Jacobsen, Anne Linn Vatne",
+    "address": "4790 Lillesand",
+    "metadata": {
+      "region": "Agder",
+      "tilknytning": "966 45 400",
+      "tlf": "Agder Øyelegesenter, Storgata 2E"
+    },
+    "lat": 58.2490796,
+    "lng": 8.3671834
+  },
+  {
+    "title": "Johansen, Siv Tone",
+    "address": "4848 Arendal",
+    "metadata": {
+      "region": "Agder",
+      "tilknytning": "37 03 05 00",
+      "tlf": "Arendal Øyelegesenter, Stoaveien 9 B"
+    },
+    "lat": 58.476612,
+    "lng": 8.7201137
+  },
+  {
+    "title": "Skjekkeland, Øyvind",
+    "address": "4640 Søgne",
+    "metadata": {
+      "region": "Agder",
+      "tilknytning": "38 60 36 80",
+      "tlf": "Skjekkeland Øyelegepraksis AS, Rådhusveien 51"
+    },
+    "lat": 58.0953248,
+    "lng": 7.7893494
+  },
+  {
+    "title": "Solberg, Olav",
+    "address": "4517 Mandal",
+    "metadata": {
+      "region": "Agder",
+      "tilknytning": "38 60 13 10",
+      "tlf": "Halseveien 5"
+    },
+    "lat": 58.0268181,
+    "lng": 7.4534802
+  },
+  {
+    "title": "Sødal, Erlend",
+    "address": "4848 Arendal",
+    "metadata": {
+      "region": "Agder",
+      "tilknytning": "37 03 05 00",
+      "tlf": "Arendal Øyelegesenter, Stoaveien 9 B"
+    },
+    "lat": 58.476612,
+    "lng": 8.7201137
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "title": "Bansevicius, Dalius",
+    "address": "0277 Oslo, PB 454 Skøyen,0213 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 60 62 00",
+      "tlf": "Oslo Hodepineklinikk v/Magnat Center, Drammensvn. 130, oppgang B8, 2.etg,"
+    }
+  },
+  {
+    "title": "Golparian, Neshat (Nevrofysiolog)",
+    "address": "0364 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "416 24 100",
+      "tlf": "Nevrolab AS, Kirkeveien 61"
+    }
+  },
+  {
+    "title": "Langård, Gunnar",
+    "address": "0154 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 44 08 00",
+      "tlf": "Christiania Nevrologipraksis, Skippergata 33"
+    }
+  },
+  {
+    "title": "Mikkelsen, Marjan M",
+    "address": "0275 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "414 25 444",
+      "tlf": "Oslo Nevrologi Senter, Harbitzallèen 2 A"
+    }
+  },
+  {
+    "title": "Mohammud, Abdullah",
+    "address": "0364 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "23 20 28 00",
+      "tlf": "Smerteklinikken, Kirkeveien 64 A"
+    }
+  },
+  {
+    "title": "Slapø, Geir",
+    "address": "0277 Oslo, Magnat Center, Postboks 454, Skøyen,0213 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 60 62 00",
+      "tlf": "Magnat Center, Drammensveien 130 (inng B8)"
+    }
+  },
+  {
+    "title": "Bjørnstad, Bente",
+    "address": "1607 Fredrikstad, Pb 453,1601 Fredrikstad",
+    "metadata": {
+      "region": "Østfold",
+      "tilknytning": "69 39 46 50",
+      "tlf": "Østfoldnevrologene, Kirkebrygga 2-4, 2 etg"
+    }
+  },
+  {
+    "title": "Kase-Berg, Maria",
+    "address": "1607 Fredrikstad, PB 453,1601 Fredrikstad",
+    "metadata": {
+      "region": "Østfold",
+      "tilknytning": "69 39 46 50",
+      "tlf": "Østfoldnevrologene, Kirkebrygga 2-4, 2 etg"
+    }
+  },
+  {
+    "title": "Norderhus, Bjørn",
+    "address": "1337 Sandvika, Pb. 63   ,1300 Sandvika",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "67 55 31 40",
+      "tlf": "Humana Helse AS, Elias Smiths vei 10"
+    }
+  },
+  {
+    "title": "Pedersen, Elena",
+    "address": "1337 Sandvika, Pb 63,1300 Sandvika",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "67 52 20 80",
+      "tlf": "Humana Helse, Elias Smiths vei 10"
+    }
+  },
+  {
+    "title": "Singh, Narpinder",
+    "address": "1337 Sandvika, Humana Helse AS, Pb 63,1300 Sandvika",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "67 55 31 40",
+      "tlf": "Humana Sandvika, Elias Smithsv. 10"
+    }
+  },
+  {
+    "title": "Sundal, Christina",
+    "address": "2000 Lillestrøm, Storgata 14 A,2000 Lillestrøm",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "973 00 005",
+      "tlf": "NeuroClinic Norway, Storgata 14 A, 4 etg"
+    }
+  },
+  {
+    "title": "Johansen, Ola",
+    "address": "3044 Drammen, Torgeir Vraas plass 4,3044 Drammen",
+    "metadata": {
+      "region": "Buskerud",
+      "tilknytning": "32 83 70 24",
+      "tlf": "Drammen Nevroklinikk, Torgeir Vraas plass 4"
+    }
+  },
+  {
+    "title": "Johanson, Morten",
+    "address": "3044 Drammen, Torgeir Vraas plass 4,3044 Drammen",
+    "metadata": {
+      "region": "Buskerud",
+      "tilknytning": "32 83 70 24",
+      "tlf": "Drammen Nevroklinikk, Torgeir Vraas plass 4"
+    }
+  },
+  {
+    "title": "Mitrovic, Sascha",
+    "address": "2500 Tynset, PB 60,2501 Tynset",
+    "metadata": {
+      "region": "Innlandet",
+      "tilknytning": "62 48 08 30",
+      "tlf": "Tynset Nevrologiske Klinikk, Parkveien 10"
+    }
+  },
+  {
+    "title": "Tobro, Håkon",
+    "address": "3734 Skien",
+    "metadata": {
+      "region": "Telemark",
+      "tilknytning": "35 50 00 10",
+      "tlf": "Telemark Nevrosenter, Infanteriveien 16, 2 etg"
+    }
+  },
+  {
+    "title": "Hansen, Atle Eidet",
+    "address": "4611 Kristiansand S",
+    "metadata": {
+      "region": "Agder",
+      "tilknytning": "38 14 90 08",
+      "tlf": "Spesialistsenteret AS, Vestre Strandgate 23"
+    }
+  },
+  {
+    "title": "Herlofson, Karen",
+    "address": "4848 Arendal",
+    "metadata": {
+      "region": "Agder",
+      "tilknytning": "991 06 090",
+      "tlf": "Sørlandsklinikken, Stoaveien 9 B"
+    }
+  }
+]

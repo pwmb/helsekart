@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Croff, Ida",
+    "address": "0176 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 99 27 00",
+      "tlf": "Pilestredet Park 12 A"
+    },
+    "lat": 59.9204766,
+    "lng": 10.7387034
+  },
+  {
+    "title": "Rustad, Dag Anders",
+    "address": "0176 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 99 27 00",
+      "tlf": "Spesialistsenteret Pilestredet Park, Pilestredet Park 12 A"
+    },
+    "lat": 59.9204766,
+    "lng": 10.7387034
+  },
+  {
+    "title": "Barstad, Johannes",
+    "address": "2000 Lillestrøm",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "63 81 21 74",
+      "tlf": "Johannes Barstad, spesialist i indremedisin, Adolf Tidemandsgt. 20"
+    },
+    "lat": 59.9557453,
+    "lng": 11.0600384
+  },
+  {
+    "title": "Risberg, Knut",
+    "address": "2020 Skedsmokorset",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "64 83 80 70",
+      "tlf": "Skedsmo Medisinske Senter, Prestehagaveien 20"
+    },
+    "lat": 60.0045847,
+    "lng": 11.0327923
+  },
+  {
+    "title": "Græsdal, Asgeir",
+    "address": "3211 Sandefjord",
+    "metadata": {
+      "region": "Vestfold",
+      "tilknytning": "33 46 38 75",
+      "tlf": "Vestfold Indremedisinske Senter, Aagaardsplass 5"
+    },
+    "lat": 59.1326707,
+    "lng": 10.2184841
+  }
+]

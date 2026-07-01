@@ -1,0 +1,497 @@
+[
+  {
+    "title": "Aulie, Line Anette",
+    "address": "0364 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 93 33 60",
+      "tlf": "Hud og leddkontoret på Majorstuhuset, Kirkeveien 64 B"
+    }
+  },
+  {
+    "title": "Berents, Teresa Victoria Løvvold",
+    "address": "0369 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 93 25 30",
+      "tlf": "Sørkedalsv. 10 B, Colosseum senter 3. etg"
+    }
+  },
+  {
+    "title": "Bondevik, Bjørn E",
+    "address": "1177 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "483 81 122",
+      "tlf": "Kongsveien 104"
+    }
+  },
+  {
+    "title": "Dhirad, Anita",
+    "address": "0694 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 26 07 62",
+      "tlf": "Olaf Helsets vei 5"
+    }
+  },
+  {
+    "title": "Gatty, Florian",
+    "address": "0570 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 72 72 90",
+      "tlf": "Oslo Dermatologi AS, Trondheimsveien 135"
+    }
+  },
+  {
+    "title": "Halvorsen, Jon Anders",
+    "address": "0855 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 22 42 42",
+      "tlf": "Sognsveien 77A"
+    }
+  },
+  {
+    "title": "Helgesen, Anne Lise",
+    "address": "0369 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 93 25 30",
+      "tlf": "Sørkedalsvn. 10 B, Colosseum Senter 3 etg"
+    }
+  },
+  {
+    "title": "Kalgaard, Ole Magne",
+    "address": "0366 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "23 33 03 30",
+      "tlf": "Hudlege Kalgaard, Valkyriegata 8"
+    }
+  },
+  {
+    "title": "Koss-Harnes, Dörte",
+    "address": "0165 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 12 06 03",
+      "tlf": "Munchs gate 7"
+    }
+  },
+  {
+    "title": "Lützow-Holm, Claus",
+    "address": "0369 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 93 25 30",
+      "tlf": "Sørkedalsv. 10 B, Colosseum senter 3. etg"
+    }
+  },
+  {
+    "title": "Myhre, Lena",
+    "address": "0374 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "66 10 31 55",
+      "tlf": "Hudlege Myhre AS, Holmenveien 5C"
+    }
+  },
+  {
+    "title": "Mørk, Gro",
+    "address": "0165 Oslo, PB 6884, St Olavs Plass,0130 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 03 65 90",
+      "tlf": "Hudlege Gro Mørk, St. Olavs plass 3"
+    }
+  },
+  {
+    "title": "Sandberg, Morten",
+    "address": "0685 Oslo, Olaf Helsets vei 5,0694 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 26 07 62",
+      "tlf": "Oppsal Hudlegekontor, Skullerud Næringspark, Helsetorget, Inng G"
+    }
+  },
+  {
+    "title": "Dinparvar, Darjosh",
+    "address": "1724 Sarpsborg",
+    "metadata": {
+      "region": "Østfold",
+      "tilknytning": "69 13 00 40",
+      "tlf": "Dermatologisk Poliklinikk Sarpsborg, Sandesundsveien 23"
+    }
+  },
+  {
+    "title": "Guleng, Guttorm Edvin",
+    "address": "1606 Fredrikstad",
+    "metadata": {
+      "region": "Østfold",
+      "tilknytning": "406 46 000",
+      "tlf": "Østfold Hudlegeklinikk, Tordenskioldsgate 12"
+    }
+  },
+  {
+    "title": "Hübner, Malte",
+    "address": "1530 Moss",
+    "metadata": {
+      "region": "Østfold",
+      "tilknytning": "69 10 90 99",
+      "tlf": "DTH Derma Hudlege, Dronningensgate 17"
+    }
+  },
+  {
+    "title": "Sohrabi, Reza",
+    "address": "1530 Moss",
+    "metadata": {
+      "region": "Østfold",
+      "tilknytning": "69 20 98 00",
+      "tlf": "Hudlegeklinikken Sohrabi Funk AS, Prinsensgate 9"
+    }
+  },
+  {
+    "title": "Stefou, Alexandros Lazaros",
+    "address": "1767 Halden",
+    "metadata": {
+      "region": "Østfold",
+      "tilknytning": "69 17 21 50",
+      "tlf": "Hudlegekontoret i Halden, Torget 2"
+    }
+  },
+  {
+    "title": "Valnes, Hans Petter",
+    "address": "1613 Fredrikstad, Postboks 533,1612 Fredrikstad",
+    "metadata": {
+      "region": "Østfold",
+      "tilknytning": "69 31 70 69",
+      "tlf": "Vestre Frydenbergvei 4"
+    }
+  },
+  {
+    "title": "Bjørnevaagen, Guro Sunniva",
+    "address": "2007 Kjeller",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "63 89 97 77",
+      "tlf": "Lillestrøm Hudklinikk, C. J. Hansens vei 7"
+    }
+  },
+  {
+    "title": "Faye, Ragnar",
+    "address": "1341 Slependen",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "67 83 50 00",
+      "tlf": "Bærum Hudlegekontor, Slependveien 48"
+    }
+  },
+  {
+    "title": "Halvorsen, Trine Lilly",
+    "address": "1414 Trollåsen",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "66 80 87 65",
+      "tlf": "Kolbotn Hudlegesenter, Trollåsveien 25"
+    }
+  },
+  {
+    "title": "Helsing, Per",
+    "address": "1384 Asker",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "66 76 15 40",
+      "tlf": "Asker Hudlegekontor, Erteløkka 1"
+    }
+  },
+  {
+    "title": "Høviskeland, Aase",
+    "address": "1337 Sandvika",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "67 57 58 59",
+      "tlf": "Sandvika Spesialistsenter, Elias Smiths vei 24"
+    }
+  },
+  {
+    "title": "Klemeyer, Anne",
+    "address": "1357 Bekkestua, PB 93,1319 Bekkestua",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "67 58 37 77",
+      "tlf": "Bekkestua Hudklinikk, Gamle Ringeriksvei 34, 3 etg"
+    }
+  },
+  {
+    "title": "Loven, Anne Marie",
+    "address": "1341 Slependen",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "67 83 50 00",
+      "tlf": "Bærum Hudlegekontor, Slependveien 48"
+    }
+  },
+  {
+    "title": "Myhre, Lena",
+    "address": "1410 Kolbotn",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "406 01 470",
+      "tlf": "Follo Hudlegesenter, Kolbotnveien 23"
+    }
+  },
+  {
+    "title": "Mørk, Cato",
+    "address": "1473 Lørenskog",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "67 98 00 10",
+      "tlf": "Akershus Hudlegesenter, Skårersletta 18"
+    }
+  },
+  {
+    "title": "Tran, Hong Diem Thi",
+    "address": "1473 Lørenskog",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "67 98 00 10",
+      "tlf": "Akershus Hudlegesenter, Skårersletta 18"
+    }
+  },
+  {
+    "title": "Johnsen, Elin Holthe",
+    "address": "3511 Hønefoss",
+    "metadata": {
+      "region": "Buskerud",
+      "tilknytning": "32 11 55 40",
+      "tlf": "Hønefoss Hudlegekontor, Kartvernsveien 7"
+    }
+  },
+  {
+    "title": "Kramer, Patrick",
+    "address": "3017 Drammen",
+    "metadata": {
+      "region": "Buskerud",
+      "tilknytning": "32 89 65 40",
+      "tlf": "Drammen Hudlegekontor AS, Bragernes Torg 6"
+    }
+  },
+  {
+    "title": "Randjelovic, Ivana",
+    "address": "3611 Kongsberg",
+    "metadata": {
+      "region": "Buskerud",
+      "tilknytning": "32 72 69 00",
+      "tlf": "Kongsberg Hudlegekontor, Skolegata 7"
+    }
+  },
+  {
+    "title": "Stang, Henning Johan",
+    "address": "3015 Drammen",
+    "metadata": {
+      "region": "Buskerud",
+      "tilknytning": "32 89 00 40",
+      "tlf": "Drammen Hudlegesenter, Nedre Storgate 13"
+    }
+  },
+  {
+    "title": "Baig, Somyeh",
+    "address": "2609 Lillehammer",
+    "metadata": {
+      "region": "Innlandet",
+      "tilknytning": "973 12 166",
+      "tlf": "Hudlegeklinikken Innlandet,  Bryggerigata 8 (Rydjordbygget)"
+    }
+  },
+  {
+    "title": "Dotterud, Lars Kåre",
+    "address": "2609 Lillehammer",
+    "metadata": {
+      "region": "Innlandet",
+      "tilknytning": "61 27 07 90",
+      "tlf": "Lillehammer Hudlegekontor, Nymosvingen 2"
+    }
+  },
+  {
+    "title": "Feldborg, Hermund",
+    "address": "2609 Lillehammer",
+    "metadata": {
+      "region": "Innlandet",
+      "tilknytning": "61 27 07 90",
+      "tlf": "Lillehammer Hudlegekontor AS, Nymosvingen 2"
+    }
+  },
+  {
+    "title": "Hoff, Kjell Arne Stene",
+    "address": "2815 Gjøvik",
+    "metadata": {
+      "region": "Innlandet",
+      "tilknytning": "61 17 76 76",
+      "tlf": "Gjøvik Hudlegesenter, Bakkegata 3"
+    }
+  },
+  {
+    "title": "Morrison, Kirsten",
+    "address": "2609 Lillehammer",
+    "metadata": {
+      "region": "Innlandet",
+      "tilknytning": "61 40 90 20",
+      "tlf": "Mesna Hudklinikk, Elvegata 19"
+    }
+  },
+  {
+    "title": "Morrison, Kirsten",
+    "address": "2670 Otta, Elvegata 19,2609 Lillehammer",
+    "metadata": {
+      "region": "Innlandet",
+      "tilknytning": "61 40 90 20",
+      "tlf": "Nord- Gudbrandsdal Lokalmedisinske senter (LMS), Selsvegen 20"
+    }
+  },
+  {
+    "title": "Nielsen, Morten Brekne",
+    "address": "2317 Hamar",
+    "metadata": {
+      "region": "Innlandet",
+      "tilknytning": "62 54 20 30",
+      "tlf": "Hamar Hudlegekontor, Torggt 73"
+    }
+  },
+  {
+    "title": "Thorslund, Kristofer",
+    "address": "2212 Kongsvinger",
+    "metadata": {
+      "region": "Innlandet",
+      "tilknytning": "62 81 59 00",
+      "tlf": "Kongsvinger Hudcenter, Fjellgata 17"
+    }
+  },
+  {
+    "title": "Zmudzinska, Maria Zofia",
+    "address": "2403 Elverum, Elvarheimgata 10 C,2403 Elverum",
+    "metadata": {
+      "region": "Innlandet",
+      "tilknytning": "62 80 90 20",
+      "tlf": "Hedmark Hudlegesenter, Elvarheimgata 10 C"
+    }
+  },
+  {
+    "title": "Andersen, Jon Gottfred",
+    "address": "3212 Sandefjord",
+    "metadata": {
+      "region": "Vestfold",
+      "tilknytning": "21 50 80 00",
+      "tlf": "Langes Gate 12"
+    }
+  },
+  {
+    "title": "Kaur, Narinder",
+    "address": "3111 Tønsberg",
+    "metadata": {
+      "region": "Vestfold",
+      "tilknytning": "33 31 73 30",
+      "tlf": "Hudlegekontoret i Tønsberg, Grev Wedelsgate 10"
+    }
+  },
+  {
+    "title": "Rakovan, Nada",
+    "address": "3210 Sandefjord",
+    "metadata": {
+      "region": "Vestfold",
+      "tilknytning": "33 18 15 12",
+      "tlf": "Hudlegeklinikken, Thor Dahls gate 1"
+    }
+  },
+  {
+    "title": "Singh, Mohabbat Pal",
+    "address": "3120 Nøtterøy",
+    "metadata": {
+      "region": "Vestfold",
+      "tilknytning": "33 35 10 50",
+      "tlf": "Smidsrødveien 6"
+    }
+  },
+  {
+    "title": "Andersen, Jon Gottfred VIKAR",
+    "address": "3734 Skien",
+    "metadata": {
+      "region": "Telemark",
+      "tilknytning": "35 50 00 10",
+      "tlf": "Grenland Spesialistsenter, Infanteriveien 16, 2 etg"
+    }
+  },
+  {
+    "title": "Cheema, Inderjeet Singh",
+    "address": "3674 Notodden, Moen 12,3948 Porsgrunn",
+    "metadata": {
+      "region": "Telemark",
+      "tilknytning": "458 58 672",
+      "tlf": "Telemark Hudlegesenter, Storgata 54 a"
+    }
+  },
+  {
+    "title": "Cheema, Inderjeet Singh",
+    "address": "3948 Porsgrunn",
+    "metadata": {
+      "region": "Telemark",
+      "tilknytning": "458 58 672",
+      "tlf": "Telemark Hudlegesenter, Moen 12"
+    }
+  },
+  {
+    "title": "Løchen, Dag Næs",
+    "address": "3722 Skien",
+    "metadata": {
+      "region": "Telemark",
+      "tilknytning": "35 51 58 90",
+      "tlf": "Skien Hudlegesenter, Bjørnstjerne Bjørnsonsgate 6"
+    }
+  },
+  {
+    "title": "Kristiansen, Frode",
+    "address": "4841 Arendal",
+    "metadata": {
+      "region": "Agder",
+      "tilknytning": "37 02 00 11",
+      "tlf": "Agder Hud AS, Langbryggen 19 C"
+    }
+  },
+  {
+    "title": "Pritzier, Ellen Cathrine",
+    "address": "4612 Kristiansand S",
+    "metadata": {
+      "region": "Agder",
+      "tilknytning": "38 62 08 10",
+      "tlf": "Dermatologene AS, Festningsgata 45"
+    }
+  },
+  {
+    "title": "Scheel, Ane Vedå",
+    "address": "4611 Kristiansand S",
+    "metadata": {
+      "region": "Agder",
+      "tilknytning": "38 14 94 50",
+      "tlf": "Kristiansand Hudlegeklinikk, Markens gate 45"
+    }
+  },
+  {
+    "title": "Veer, Ernst-Jan",
+    "address": "4841 Arendal",
+    "metadata": {
+      "region": "Agder",
+      "tilknytning": "37 02 00 11",
+      "tlf": "Agder Hud AS, Langbryggen 19 C"
+    }
+  },
+  {
+    "title": "Zakout, Saeb S.",
+    "address": "4610 Kristiansand S",
+    "metadata": {
+      "region": "Agder",
+      "tilknytning": "38 02 50 09",
+      "tlf": "Dr Zakout Hudklinikk, Kongens gate 30"
+    }
+  }
+]

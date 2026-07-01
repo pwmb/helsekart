@@ -1,0 +1,560 @@
+[
+  {
+    "title": "Andresen, Martin",
+    "address": "0352 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "23 33 18 00",
+      "tlf": "Smestadgynekologene, Oscars gate 20, 6. etg."
+    }
+  },
+  {
+    "title": "Berg, Anette",
+    "address": "0364 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 69 16 01",
+      "tlf": "Oslogynekologene, Kirkeveien 64 A"
+    }
+  },
+  {
+    "title": "Clausen, Torun Garman",
+    "address": "0364 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 69 16 01",
+      "tlf": "Oslogynekologene, Kirkeveien 64 A"
+    }
+  },
+  {
+    "title": "Falck, Catarina",
+    "address": "0367 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 92 60 92",
+      "tlf": "Dybwadsgynekologene, Dybwadsgt. 2"
+    }
+  },
+  {
+    "title": "Hallquist, Anne Cecilie",
+    "address": "0352 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "23 33 18 00",
+      "tlf": "Smestadgynekologene, Oscars gate 20, 6 etg."
+    }
+  },
+  {
+    "title": "Hancke, Christine",
+    "address": "0364 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 60 25 60",
+      "tlf": "Gynekologene AS, Kirkeveien 64 A"
+    }
+  },
+  {
+    "title": "Herstad, Lina",
+    "address": "0176 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 99 27 00",
+      "tlf": "Spesialistsenteret Pilestredet Park, Pilestredet park 12A"
+    }
+  },
+  {
+    "title": "Ho, Thao",
+    "address": "1177 Oslo, Pb 104, Bekkelagshøgda,1109 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "23 18 06 00",
+      "tlf": "BESTHELSE Nordstrand, Kongsveien 104"
+    }
+  },
+  {
+    "title": "Høgdahl, Heidi",
+    "address": "0364 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 60 25 60",
+      "tlf": "Gynekologene AS, Kirkeveien 64"
+    }
+  },
+  {
+    "title": "Jørgensen, Hilde",
+    "address": "0667 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "411 54 320",
+      "tlf": "Bryn Helsebygg, 5 etg, Østensjøveien 79"
+    }
+  },
+  {
+    "title": "Kleivdal, Kristine",
+    "address": "0176 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 99 27 00",
+      "tlf": "Spesialistsenteret Pilestredet Park, Pilestredet Park 12 A"
+    }
+  },
+  {
+    "title": "Meidell, Kristine",
+    "address": "0484 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "23 20 70 00",
+      "tlf": "Gynklinikk Nydalen AS, Gjerdrums vei 10 D"
+    }
+  },
+  {
+    "title": "Nordlie, Kristian",
+    "address": "0352 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "23 33 18 00",
+      "tlf": "Smestadgynekologene, Oskars gate 20"
+    }
+  },
+  {
+    "title": "Sand, Sverre",
+    "address": "0364 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 69 16 01",
+      "tlf": "Oslogynekologene, Kirkeveien 64 A"
+    }
+  },
+  {
+    "title": "Tromsdal, Trine",
+    "address": "0364 Oslo, Gynekologene AS, Kirkeveien 64,",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 60 25 60",
+      "tlf": "Kirkeveien 64"
+    }
+  },
+  {
+    "title": "Ullern, Åsle-Marit",
+    "address": "1177 Oslo, Pb 104, Bekkelagshøgda ,1109 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "987 02 359",
+      "tlf": "BESTHELSE Nordstrand, Kongsveien 104"
+    }
+  },
+  {
+    "title": "Vikanes, Åse",
+    "address": "0484 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "23 20 70 00",
+      "tlf": "Gynklinikk Nydalen AS, Gjerdrumsvei 10 D, inngang A"
+    }
+  },
+  {
+    "title": "Warsla, Gry",
+    "address": "0570 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 46 50 33",
+      "tlf": "Gry Warsla AS, Trondheimsveien 135"
+    }
+  },
+  {
+    "title": "Wohlfahrt, Victoria Høeg",
+    "address": "0367 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 92 60 92",
+      "tlf": "Dybwadsgynekologene, Dybwadsgt. 2"
+    }
+  },
+  {
+    "title": "Ødegaard, Elin",
+    "address": "0352 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "23 33 18 00",
+      "tlf": "Smestadgynekologene, Oscars gate 20"
+    }
+  },
+  {
+    "title": "Åkesson, Oskar",
+    "address": "0364 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 69 16 01",
+      "tlf": "Oslogynekologene, Kirkeveien 64 A"
+    }
+  },
+  {
+    "title": "Ernø, Lars Espen",
+    "address": "1532 Moss",
+    "metadata": {
+      "region": "Østfold",
+      "tilknytning": "69 51 04 85",
+      "tlf": "DGH-Helse, Høienhaldgate 4"
+    }
+  },
+  {
+    "title": "Kasin, Theresia Maria",
+    "address": "1607 Fredrikstad",
+    "metadata": {
+      "region": "Østfold",
+      "tilknytning": "69 30 17 30",
+      "tlf": "Kirkeparken Spesialistpraksis, Bryggeriveien 6, 3. etg."
+    }
+  },
+  {
+    "title": "Røijen, Mikael",
+    "address": "1712 Grålum",
+    "metadata": {
+      "region": "Østfold",
+      "tilknytning": "69 10 30 00",
+      "tlf": "K5 Klinikken AS, Kalnesveien 5"
+    }
+  },
+  {
+    "title": "Synnestvedt, Hanne S.",
+    "address": "1767 Halden",
+    "metadata": {
+      "region": "Østfold",
+      "tilknytning": "69 21 37 50",
+      "tlf": "Gynekologen i Halden; Johan Stangs Plass 1"
+    }
+  },
+  {
+    "title": "Terkelsen, Cecilie",
+    "address": "1523 Moss",
+    "metadata": {
+      "region": "Østfold",
+      "tilknytning": "69 25 00 31",
+      "tlf": "Lilleeng Helsepark. Lilleengveien 8, inng A, 3 etg"
+    }
+  },
+  {
+    "title": "Bjørke, Cathrine Amalie",
+    "address": "1357 Bekkestua",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "67 53 01 50",
+      "tlf": "Gynekologene på Bekkestua, Bærumsveien 207"
+    }
+  },
+  {
+    "title": "Hellum, Camilla Stadheim",
+    "address": "1357 Bekkestua",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "67 53 01 50",
+      "tlf": "Gynekologene på Bekkestua, Bærumsveien 207"
+    }
+  },
+  {
+    "title": "Kinne, Ingebjørg Helene",
+    "address": "2001 Lillestrøm",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "64 84 60 50",
+      "tlf": "Romerike Helsebygg, Dampsagveien 2 A"
+    }
+  },
+  {
+    "title": "Lyng, Kristin",
+    "address": "1410 Kolbotn",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "66 99 69 00",
+      "tlf": "Gynekologene på Kolbotn, Kolbotnveien 33"
+    }
+  },
+  {
+    "title": "Melbye, Halvor Bakke",
+    "address": "2001 Lillestrøm",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "64 84 60 50",
+      "tlf": "Lillestrømgynekologene, Romerike Helsebygg, Dampsagveien 2 A"
+    }
+  },
+  {
+    "title": "Myhre, Marte",
+    "address": "1410 Kolbotn",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "66 99 69 00",
+      "tlf": "Gynekologene på Kolbotn, Kolbotnveien 33"
+    }
+  },
+  {
+    "title": "Opheim, Gun Lisbet",
+    "address": "2000 Lillestrøm",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "64 84 60 50",
+      "tlf": "Dampsagveien 2 A"
+    }
+  },
+  {
+    "title": "Skår, Oskar Johan",
+    "address": "1337 Sandvika, Pb 107,1301 Sandvika",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "67 57 58 59",
+      "tlf": "Sandvika Spesialistsenter, Elias Smiths vei 24"
+    }
+  },
+  {
+    "title": "Sundhagen, Hilde",
+    "address": "2001 Lillestrøm",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "64 84 60 50",
+      "tlf": "Romerike Helsebygg, Dampsagveien 2 A"
+    }
+  },
+  {
+    "title": "Svanadze, Nargiza",
+    "address": "2053 Jessheim",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "403 38 024",
+      "tlf": "Din gynekolog på Jessheim, Dampsaga Alle` 4 C"
+    }
+  },
+  {
+    "title": "Teufel, Ursula",
+    "address": "1440 Drøbak",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "64 93 11 11",
+      "tlf": "Anima AS, Storgt. 27"
+    }
+  },
+  {
+    "title": "Zandjani, Anne",
+    "address": "1400 Ski",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "64 85 63 30",
+      "tlf": "Ski Spesialistsenter- Anne Zandjani, Idrettsv. 3"
+    }
+  },
+  {
+    "title": "Aabø, Runa Sigrid",
+    "address": "1337 Sandvika, Pb 107,1301 Sandvika",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "67 57 58 59",
+      "tlf": "Sandvika Spesialistsenter, Elias Smiths vei 24"
+    }
+  },
+  {
+    "title": "Kasin, Kolbjørn",
+    "address": "3616 Kongsberg",
+    "metadata": {
+      "region": "Buskerud",
+      "tilknytning": "32 72 70 35",
+      "tlf": "Gyn Kongsberg, Myntgt.4"
+    }
+  },
+  {
+    "title": "Kjøllesdal, Møyfrid",
+    "address": "3017 Drammen",
+    "metadata": {
+      "region": "Buskerud",
+      "tilknytning": "32 80 79 90",
+      "tlf": "Drammens Gynekologen AS ,4. etg, Bragernes torg 4"
+    }
+  },
+  {
+    "title": "Uv, Knut Magne",
+    "address": "3012 Drammen",
+    "metadata": {
+      "region": "Buskerud",
+      "tilknytning": "32 83 75 40",
+      "tlf": "Engene 116"
+    }
+  },
+  {
+    "title": "Willumsen, Nina",
+    "address": "3018 Drammen",
+    "metadata": {
+      "region": "Buskerud",
+      "tilknytning": "32 21 79 21",
+      "tlf": "Dr Willumsen Kvinneklinikk, Øvre Storgt. 4-6"
+    }
+  },
+  {
+    "title": "Beck, Gregor Bernhard",
+    "address": "2317 Hamar",
+    "metadata": {
+      "region": "Innlandet",
+      "tilknytning": "62 55 02 60",
+      "tlf": "Hamar Gynekologi 3. etg, Torggt 83,"
+    }
+  },
+  {
+    "title": "Danielsson, Anna Maria",
+    "address": "2615 Lillehammer",
+    "metadata": {
+      "region": "Innlandet",
+      "tilknytning": "61 26 06 80",
+      "tlf": "Innlandsgynekologen AS, Nordregate 11"
+    }
+  },
+  {
+    "title": "Fremgaarden, Oliv Camilla",
+    "address": "2403 Elverum",
+    "metadata": {
+      "region": "Innlandet",
+      "tilknytning": "921 21 600",
+      "tlf": "Torggata 3"
+    }
+  },
+  {
+    "title": "Grønvold, Ebbe Chr.",
+    "address": "3264 Larvik, Pb 4,3285 Larvik",
+    "metadata": {
+      "region": "Vestfold",
+      "tilknytning": "33 11 81 20",
+      "tlf": "Fritzøe Klinikk, Fritzøe Brygge"
+    }
+  },
+  {
+    "title": "Holmsen, Steinar Fritzner Rafaelsen",
+    "address": "3208 Sandefjord",
+    "metadata": {
+      "region": "Vestfold",
+      "tilknytning": "33 44 82 10",
+      "tlf": "Sandefjord Helsepark, Skiringssalsveien 20"
+    }
+  },
+  {
+    "title": "Karlsen, Jørn-Hugo",
+    "address": "3110 Tønsberg",
+    "metadata": {
+      "region": "Vestfold",
+      "tilknytning": "33 30 03 80",
+      "tlf": "Fayesgate 5"
+    }
+  },
+  {
+    "title": "Lysberg, Hårek Augestad",
+    "address": "3285 Larvik, PB 4,3285 Larvik",
+    "metadata": {
+      "region": "Vestfold",
+      "tilknytning": "33 11 81 20",
+      "tlf": "Fritzøe Klinikk, Fritzøe Brygge, Stavernsveien 1"
+    }
+  },
+  {
+    "title": "Møller-Hansen, Ingrid",
+    "address": "3117 Tønsberg",
+    "metadata": {
+      "region": "Vestfold",
+      "tilknytning": "33 37 63 50",
+      "tlf": "Kilengaten 18"
+    }
+  },
+  {
+    "title": "Berg, Nina Therese",
+    "address": "3717 Skien",
+    "metadata": {
+      "region": "Telemark",
+      "tilknytning": "35 58 84 40",
+      "tlf": "Berg Gynekologi, Holbergsgate 5"
+    }
+  },
+  {
+    "title": "Klovning, Kristin",
+    "address": "3915 Porsgrunn",
+    "metadata": {
+      "region": "Telemark",
+      "tilknytning": "35 10 43 52",
+      "tlf": "Porsgrunngynekologene, Storgata 125"
+    }
+  },
+  {
+    "title": "Røyneland, Linn",
+    "address": "3770 Kragerø, Storgata 125,3915 Porsgrunn",
+    "metadata": {
+      "region": "Telemark",
+      "tilknytning": "35 10 43 52",
+      "tlf": "Porsgrunnsgynekologene, Gamle Kragerøvei 32"
+    }
+  },
+  {
+    "title": "Røyneland, Linn",
+    "address": "3915 Porsgrunn",
+    "metadata": {
+      "region": "Telemark",
+      "tilknytning": "35 10 43 52",
+      "tlf": "Porsgrunnsgynekologene, Storgata 125"
+    }
+  },
+  {
+    "title": "Haugeberg, Birgitt",
+    "address": "4611 Kristiansand S",
+    "metadata": {
+      "region": "Agder",
+      "tilknytning": "38 04 18 85",
+      "tlf": "Gynekologene Haugeberg og Munk, Vestre Strandgate 27-29"
+    }
+  },
+  {
+    "title": "Hoyer-Sørensen, Christian",
+    "address": "4612 Kristiansand S",
+    "metadata": {
+      "region": "Agder",
+      "tilknytning": "38 60 35 10",
+      "tlf": "Gynisør AS, Haanesgården, Vestre Strandgate 42"
+    }
+  },
+  {
+    "title": "Kleggetveit, Odrun",
+    "address": "4630 Kristiansand S",
+    "metadata": {
+      "region": "Agder",
+      "tilknytning": "38 10 66 70",
+      "tlf": "Elvebredden Gynekologipraksis, Nedre Lundsvei 1,"
+    }
+  },
+  {
+    "title": "Munk, Ane Cecilie Dæhli",
+    "address": "4611 Kristiansand S",
+    "metadata": {
+      "region": "Agder",
+      "tilknytning": "38 04 18 85",
+      "tlf": "Gynekologene Haugeberg og Munk, Vestre Strandgate 27-29"
+    }
+  },
+  {
+    "title": "Nyland, Gro Andrea",
+    "address": "4836 Arendal",
+    "metadata": {
+      "region": "Agder",
+      "tilknytning": "37 00 53 59",
+      "tlf": "Tollbodgaten 1"
+    }
+  },
+  {
+    "title": "Sanda, Birgitte",
+    "address": "4836 Arendal",
+    "metadata": {
+      "region": "Agder",
+      "tilknytning": "37 00 53 53",
+      "tlf": "Arendal Gynekologi AS, Tollbodgaten 1"
+    }
+  },
+  {
+    "title": "Vik, Jørgen",
+    "address": "4612 Kristiansand S",
+    "metadata": {
+      "region": "Agder",
+      "tilknytning": "38 12 88 80",
+      "tlf": "Kvadraturen Legesenter, Vestre Strandgate 32"
+    }
+  }
+]

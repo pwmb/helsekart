@@ -1,0 +1,79 @@
+[
+  {
+    "title": "Golparian, Neshat (Nevrofysiolog)",
+    "address": "0364 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "416 24 100",
+      "tlf": "Nevrolab AS, Kirkeveien 61"
+    },
+    "lat": 59.9304596,
+    "lng": 10.7212649
+  },
+  {
+    "title": "Langård, Gunnar",
+    "address": "0154 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 44 08 00",
+      "tlf": "Christiania Nevrologipraksis, Skippergata 33"
+    },
+    "lat": 59.9113999,
+    "lng": 10.7475356
+  },
+  {
+    "title": "Mikkelsen, Marjan M",
+    "address": "0275 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "414 25 444",
+      "tlf": "Oslo Nevrologi Senter, Harbitzallèen 2 A"
+    },
+    "lat": 59.9260983,
+    "lng": 10.6743847
+  },
+  {
+    "title": "Mohammud, Abdullah",
+    "address": "0364 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "23 20 28 00",
+      "tlf": "Smerteklinikken, Kirkeveien 64 A"
+    },
+    "lat": 59.9304596,
+    "lng": 10.7212649
+  },
+  {
+    "title": "Tobro, Håkon",
+    "address": "3734 Skien",
+    "metadata": {
+      "region": "Telemark",
+      "tilknytning": "35 50 00 10",
+      "tlf": "Telemark Nevrosenter, Infanteriveien 16, 2 etg"
+    },
+    "lat": 59.1826645,
+    "lng": 9.608792
+  },
+  {
+    "title": "Hansen, Atle Eidet",
+    "address": "4611 Kristiansand S",
+    "metadata": {
+      "region": "Agder",
+      "tilknytning": "38 14 90 08",
+      "tlf": "Spesialistsenteret AS, Vestre Strandgate 23"
+    },
+    "lat": 58.1459162,
+    "lng": 7.9937904
+  },
+  {
+    "title": "Herlofson, Karen",
+    "address": "4848 Arendal",
+    "metadata": {
+      "region": "Agder",
+      "tilknytning": "991 06 090",
+      "tlf": "Sørlandsklinikken, Stoaveien 9 B"
+    },
+    "lat": 58.476612,
+    "lng": 8.7201137
+  }
+]

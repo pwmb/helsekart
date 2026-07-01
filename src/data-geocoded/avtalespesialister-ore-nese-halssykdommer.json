@@ -1,0 +1,574 @@
+[
+  {
+    "title": "Asante, Oscar Ohene",
+    "address": "0653 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 53 60 63",
+      "tlf": "Øst Helse, Hagegata 39 A"
+    },
+    "lat": 59.9126798,
+    "lng": 10.7768615
+  },
+  {
+    "title": "Gran, Einar Boye",
+    "address": "0366 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 93 07 70",
+      "tlf": "Bogstadveien ØNH, Bogstadveien 36"
+    },
+    "lat": 59.9283473,
+    "lng": 10.7182037
+  },
+  {
+    "title": "Jacobsen, Gita Gupta",
+    "address": "0366 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 93 07 70",
+      "tlf": "Bogstadveien ØNH, Bogstadveien 36"
+    },
+    "lat": 59.9283473,
+    "lng": 10.7182037
+  },
+  {
+    "title": "Løseth, Håvar",
+    "address": "0366 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 93 07 70",
+      "tlf": "Bogstadveien ØNH, Bogstadveien 36"
+    },
+    "lat": 59.9283473,
+    "lng": 10.7182037
+  },
+  {
+    "title": "Mukerji, Sudeep",
+    "address": "0680 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 80 55 00",
+      "tlf": "Ryen Øre Nese Hals, Ryensvingen 5"
+    },
+    "lat": 59.8898085,
+    "lng": 10.811122
+  },
+  {
+    "title": "Myrvoll, Elin Alise",
+    "address": "0366 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 93 07 70",
+      "tlf": "Bogstadveien ØNH, Bogstadveien 36"
+    },
+    "lat": 59.9283473,
+    "lng": 10.7182037
+  },
+  {
+    "title": "Nordfalk, Karl Fredrik",
+    "address": "0159 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 33 55 20",
+      "tlf": "Nordfalk Øre-Nese-Hals, Lille Grensen 7"
+    },
+    "lat": 59.9137368,
+    "lng": 10.7420982
+  },
+  {
+    "title": "Solbakken, Sonja",
+    "address": "0459 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 53 51 01",
+      "tlf": "Solbakken Øre Nese Hals, Sagveien 21 A"
+    },
+    "lat": 59.9304253,
+    "lng": 10.7554699
+  },
+  {
+    "title": "Stræte, Per Oddvar",
+    "address": "0176 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 20 16 22",
+      "tlf": "Pilestredet Park ØNH, Pilestredet Park 31"
+    },
+    "lat": 59.9204766,
+    "lng": 10.7387034
+  },
+  {
+    "title": "Sævarsson, Thorarinn Ørn",
+    "address": "0166 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 11 37 39",
+      "tlf": "Sentrum Øre Nese Hals AS, Tullinsgt 6"
+    },
+    "lat": 59.9193428,
+    "lng": 10.7343851
+  },
+  {
+    "title": "Tetzlaff, Patrick",
+    "address": "0855 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 20 20 00",
+      "tlf": "Ullevål Stadion ØNH, Sognsveien 75A"
+    },
+    "lat": 59.9528559,
+    "lng": 10.7336625
+  },
+  {
+    "title": "Ahmad, Toqir",
+    "address": "1831 Askim",
+    "metadata": {
+      "region": "Østfold",
+      "tilknytning": "69 88 20 66",
+      "tlf": "Askim Øre-Nese-Hals, Roald Amundsens gate 16"
+    },
+    "lat": 59.5832224,
+    "lng": 11.1641908
+  },
+  {
+    "title": "Asadi, Flora",
+    "address": "1707 Sarpsborg",
+    "metadata": {
+      "region": "Østfold",
+      "tilknytning": "69 15 83 00",
+      "tlf": "Øre Nese Halslege Flora Asadi, Roald Amundsens gate 16"
+    },
+    "lat": 59.2870212,
+    "lng": 11.1124554
+  },
+  {
+    "title": "Rusten, Harald",
+    "address": "1778 Halden",
+    "metadata": {
+      "region": "Østfold",
+      "tilknytning": "69 21 16 00",
+      "tlf": "Halden Øre Nese Hals, Dyrendalsveien 13C"
+    },
+    "lat": 59.1297852,
+    "lng": 11.3804771
+  },
+  {
+    "title": "Shather, Qussay (Abdulrazaq)",
+    "address": "1661 Rolvsøy",
+    "metadata": {
+      "region": "Østfold",
+      "tilknytning": "69 67 57 97",
+      "tlf": "Fredrikstad Øre-Nese-Hals, Dikeveien 44"
+    },
+    "lat": 59.2680889,
+    "lng": 11.0179833
+  },
+  {
+    "title": "Vegsgaard, Kristian Mydske",
+    "address": "1523 Moss",
+    "metadata": {
+      "region": "Østfold",
+      "tilknytning": "69 20 21 50",
+      "tlf": "ØreNeseHals Klinikken, Lilleng Helsepark, Rosenvinges vei 8"
+    },
+    "lat": 59.4238436,
+    "lng": 10.6777674
+  },
+  {
+    "title": "Eskeland, Øystein",
+    "address": "1440 Drøbak",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "64 90 59 20",
+      "tlf": "Drøbak Øre Nese Hals, Storgata 27"
+    },
+    "lat": 59.6628948,
+    "lng": 10.6313951
+  },
+  {
+    "title": "Green-Stensrud, Erlend",
+    "address": "1360 Fornebu",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "67 22 28 70",
+      "tlf": "Moloklinikken Øre Nese Hals, Oksenøyveien 10"
+    },
+    "lat": 59.8964105,
+    "lng": 10.6155296
+  },
+  {
+    "title": "Halse, Stian",
+    "address": "1473 Lørenskog",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "67 90 60 10",
+      "tlf": "Diploma AS. Senter for ønh-sykdommer, Boecksgate 3,"
+    },
+    "lat": 59.9232572,
+    "lng": 10.9599559
+  },
+  {
+    "title": "Hemiö, Kalle",
+    "address": "1440 Drøbak",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "64 90 59 20",
+      "tlf": "Drøbak Øre Nese Hals , Storgata 27"
+    },
+    "lat": 59.6628948,
+    "lng": 10.6313951
+  },
+  {
+    "title": "Niaz, Amer Mohammad",
+    "address": "2070 Råholt",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "63 97 93 30",
+      "tlf": "Råholt Øre Nese Hals, Gladbakkvegen 2A"
+    },
+    "lat": 60.2838578,
+    "lng": 11.1728733
+  },
+  {
+    "title": "Nicklasson, Nicolai",
+    "address": "1373 Asker",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "960 13 630",
+      "tlf": "Asker ØNH-klinikk, Kirkeveien 230"
+    },
+    "lat": 59.8353529,
+    "lng": 10.4336047
+  },
+  {
+    "title": "Rennemo, Erlend",
+    "address": "1400 Ski",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "64 85 61 20",
+      "tlf": "Ski ØNH, Åsenveien 1"
+    },
+    "lat": 59.7199326,
+    "lng": 10.8382736
+  },
+  {
+    "title": "Ringen, Lars Gisle Heiberg",
+    "address": "1473 Lørenskog",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "67 90 60 10",
+      "tlf": "Diploma AS. Senter for ønh-sykdommer, Boecks gate 3"
+    },
+    "lat": 59.9232572,
+    "lng": 10.9599559
+  },
+  {
+    "title": "Roarsen, Robby",
+    "address": "1383 Asker",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "66 75 21 21",
+      "tlf": "AGRO ØNH- klinikk, Bankveien 1"
+    },
+    "lat": 59.8336774,
+    "lng": 10.4123355
+  },
+  {
+    "title": "Rudjord, Bjørn Helge",
+    "address": "2000 Lillestrøm",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "63 84 90 10",
+      "tlf": "Lillestrøm Øre Nese Hals, Dampsagveien 2-4, inngang E"
+    },
+    "lat": 59.9557453,
+    "lng": 11.0600384
+  },
+  {
+    "title": "Serck-Hansen, Joakim",
+    "address": "1400 Ski",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "64 85 61 20",
+      "tlf": "Ski ØNH, Åsenveien 1"
+    },
+    "lat": 59.7199326,
+    "lng": 10.8382736
+  },
+  {
+    "title": "Siem, Geir",
+    "address": "1473 Lørenskog",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "67 90 60 10",
+      "tlf": "Diploma AS. Senter for ØNH-sykdommer, Boecks gate 3"
+    },
+    "lat": 59.9232572,
+    "lng": 10.9599559
+  },
+  {
+    "title": "Skaug, Håkon Pharo",
+    "address": "1396 Billingstad",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "67 80 47 20",
+      "tlf": "Sandvika ØNH Senter, Billingstadsletta 19 A"
+    },
+    "lat": 59.8743137,
+    "lng": 10.4906908
+  },
+  {
+    "title": "Sohrabi, Mohammad",
+    "address": "1337 Sandvika, ,",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "67 98 90 90",
+      "tlf": "Vital ØNH & Hørselsenter AS, Jørgen Kanitz´ gate 28"
+    },
+    "lat": 59.8921158,
+    "lng": 10.5249914
+  },
+  {
+    "title": "Bakke, Harald",
+    "address": "3012 Drammen",
+    "metadata": {
+      "region": "Buskerud",
+      "tilknytning": "32 80 84 70",
+      "tlf": "Drammen ØNH-senter, Tomtegata 31"
+    },
+    "lat": 59.7425023,
+    "lng": 10.2248643
+  },
+  {
+    "title": "Haagensen, Kristian",
+    "address": "3044 Drammen",
+    "metadata": {
+      "region": "Buskerud",
+      "tilknytning": "400 98 007",
+      "tlf": "Gyldenløve Øre-Nese-Hals, Tollbugata 63"
+    },
+    "lat": 59.7363601,
+    "lng": 10.2086856
+  },
+  {
+    "title": "Lystad, Morten Boye",
+    "address": "3611 Kongsberg",
+    "metadata": {
+      "region": "Buskerud",
+      "tilknytning": "32 76 96 00",
+      "tlf": "Kongsberg ØNH, Nymoens Torg 9 C"
+    },
+    "lat": 59.6788766,
+    "lng": 9.6479189
+  },
+  {
+    "title": "Mahler, Vera",
+    "address": "3513 Hønefoss",
+    "metadata": {
+      "region": "Buskerud",
+      "tilknytning": "32 12 15 90",
+      "tlf": "Ringerike ØNH-Klinikk, Vesterngata 5"
+    },
+    "lat": 60.1662082,
+    "lng": 10.255486
+  },
+  {
+    "title": "Mo, Birger",
+    "address": "3012 Drammen",
+    "metadata": {
+      "region": "Buskerud",
+      "tilknytning": "32 80 84 70",
+      "tlf": "Drammen ØNH-senter, Tomtegata 31"
+    },
+    "lat": 59.7425023,
+    "lng": 10.2248643
+  },
+  {
+    "title": "Rubasha, Chubaka",
+    "address": "3511 Hønefoss",
+    "metadata": {
+      "region": "Buskerud",
+      "tilknytning": "32 18 10 90",
+      "tlf": "Viken Øre-Nese-Hals & Hørselssenter AS, Kartverksveien 7"
+    },
+    "lat": 60.1662082,
+    "lng": 10.255486
+  },
+  {
+    "title": "Wenus, Siegfried",
+    "address": "3044 Drammen",
+    "metadata": {
+      "region": "Buskerud",
+      "tilknytning": "400 98 007",
+      "tlf": "Øre Nese Hals Klinikken, Tollbugata 63"
+    },
+    "lat": 59.7363601,
+    "lng": 10.2086856
+  },
+  {
+    "title": "Berre, Frode",
+    "address": "2406 Elverum, ,",
+    "metadata": {
+      "region": "Innlandet",
+      "tilknytning": "62 41 50 03",
+      "tlf": "Vestad ØNH, Grindalsveien 3"
+    },
+    "lat": 60.8832301,
+    "lng": 11.5397629
+  },
+  {
+    "title": "Ellingsen, Thorleif",
+    "address": "2212 Kongsvinger",
+    "metadata": {
+      "region": "Innlandet",
+      "tilknytning": "62 00 64 50",
+      "tlf": "Kongsvinger Øre Nese Hals AS, Brugata 10"
+    },
+    "lat": 60.2035323,
+    "lng": 11.9642643
+  },
+  {
+    "title": "Eng, Fredrik Aaserud",
+    "address": "2317 Hamar",
+    "metadata": {
+      "region": "Innlandet",
+      "tilknytning": "62 51 19 10",
+      "tlf": "Stortorget Øre Nese Hals AS, Torggata 83"
+    },
+    "lat": 60.7952431,
+    "lng": 11.0728855
+  },
+  {
+    "title": "Fang, Pei",
+    "address": "2609 Lillehammer",
+    "metadata": {
+      "region": "Innlandet",
+      "tilknytning": "61 05 44 80",
+      "tlf": "Lillehammer ØNH, Kirkegata 55"
+    },
+    "lat": 61.1130883,
+    "lng": 10.4699884
+  },
+  {
+    "title": "Fira, Rafal Marcin",
+    "address": "2609 Lillehammer",
+    "metadata": {
+      "region": "Innlandet",
+      "tilknytning": "61 05 44 80",
+      "tlf": "Lillehammer ØNH, Kirkegata 55"
+    },
+    "lat": 61.1130883,
+    "lng": 10.4699884
+  },
+  {
+    "title": "Røysland, Tov",
+    "address": "2821 Gjøvik",
+    "metadata": {
+      "region": "Innlandet",
+      "tilknytning": "61 14 06 30",
+      "tlf": "Gjøvik ØNH, Mustad Næringspark Bygg F, 2 etg, Raufossvegen 40"
+    },
+    "lat": 60.7953096,
+    "lng": 10.6789323
+  },
+  {
+    "title": "Formo, Per Ivar",
+    "address": "3110 Tønsberg",
+    "metadata": {
+      "region": "Vestfold",
+      "tilknytning": "33 38 16 40",
+      "tlf": "Tønsberg Øre Nese Hals, Fayes gate 5"
+    },
+    "lat": 59.2674536,
+    "lng": 10.4122532
+  },
+  {
+    "title": "Getz, Christian",
+    "address": "3187 Horten",
+    "metadata": {
+      "region": "Vestfold",
+      "tilknytning": "33 04 70 50",
+      "tlf": "Horten Øre Nese Hals, Apotekergata 16"
+    },
+    "lat": 59.4086847,
+    "lng": 10.4818709
+  },
+  {
+    "title": "Høstmark, Karianne",
+    "address": "3208 Sandefjord",
+    "metadata": {
+      "region": "Vestfold",
+      "tilknytning": "33 46 39 16",
+      "tlf": "Sandefjord Øre Nese Hals, Skiringssalsveien 20"
+    },
+    "lat": 59.128073,
+    "lng": 10.2157729
+  },
+  {
+    "title": "Beckstrøm, Henning",
+    "address": "3734 Skien",
+    "metadata": {
+      "region": "Telemark",
+      "tilknytning": "35 50 00 10",
+      "tlf": "Grenland ØNH, Infanterivegen 16, 2 etg."
+    },
+    "lat": 59.1826645,
+    "lng": 9.608792
+  },
+  {
+    "title": "Magnussen, Pål Aa.",
+    "address": "3734 Skien",
+    "metadata": {
+      "region": "Telemark",
+      "tilknytning": "35 50 00 10",
+      "tlf": "Grenland ØNH, Infanterivegen 16, 2 etg."
+    },
+    "lat": 59.1826645,
+    "lng": 9.608792
+  },
+  {
+    "title": "Damsgaard, Inger Marie Broers",
+    "address": "4636 Kristiansand S",
+    "metadata": {
+      "region": "Agder",
+      "tilknytning": "38 12 30 40",
+      "tlf": "Sørlandsparken ØNH, Barstølveien 34"
+    },
+    "lat": 58.1767253,
+    "lng": 8.1266911
+  },
+  {
+    "title": "Lilleaas, Alf Bjarne",
+    "address": "4848 Arendal",
+    "metadata": {
+      "region": "Agder",
+      "tilknytning": "991 06 090",
+      "tlf": "Sørlandsklinikken, Stoaveien 9 B"
+    },
+    "lat": 58.476612,
+    "lng": 8.7201137
+  },
+  {
+    "title": "Ljunggren, Douglas",
+    "address": "4848 Arendal",
+    "metadata": {
+      "region": "Agder",
+      "tilknytning": "991 06 090",
+      "tlf": "Sørlandsklinikken, Stoaveien 9 B"
+    },
+    "lat": 58.476612,
+    "lng": 8.7201137
+  },
+  {
+    "title": "Torp, Anders",
+    "address": "4612 Kristiansand S",
+    "metadata": {
+      "region": "Agder",
+      "tilknytning": "38 10 33 36",
+      "tlf": "Kristiansand øre-nese-hals, Vestre Strandgate 42"
+    },
+    "lat": 58.1477221,
+    "lng": 7.9904993
+  }
+]

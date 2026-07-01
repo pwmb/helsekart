@@ -1,0 +1,156 @@
+[
+  {
+    "title": "Humerfelt, Sjur",
+    "address": "0176 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 99 27 00",
+      "tlf": "Pilestredet Park 12A"
+    },
+    "lat": 59.9204766,
+    "lng": 10.7387034
+  },
+  {
+    "title": "Qvarfort, Magnus",
+    "address": "0663 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "21 04 04 00",
+      "tlf": "Oslo Lungelege, Grenseveien 107"
+    },
+    "lat": 59.9167363,
+    "lng": 10.8007748
+  },
+  {
+    "title": "Wang, Ying",
+    "address": "0176 Oslo",
+    "metadata": {
+      "region": "Oslo",
+      "tilknytning": "22 99 27 00",
+      "tlf": "Pilestredet Park 12 A"
+    },
+    "lat": 59.9204766,
+    "lng": 10.7387034
+  },
+  {
+    "title": "Nordlie, Anna Maria Sypula",
+    "address": "1607 Fredrikstad",
+    "metadata": {
+      "region": "Østfold",
+      "tilknytning": "69 30 10 22",
+      "tlf": "Fredrikstad Lungeklinikk, Farmanns gate 16"
+    },
+    "lat": 59.2127964,
+    "lng": 10.940221
+  },
+  {
+    "title": "Sandweg-Zähler, Sabine",
+    "address": "1671 Kråkerøy",
+    "metadata": {
+      "region": "Østfold",
+      "tilknytning": "69 31 06 05",
+      "tlf": "Astma og allergiklinikken, Kråkerøyveien 2 A"
+    },
+    "lat": 59.1821455,
+    "lng": 10.9237329
+  },
+  {
+    "title": "Tangen, Morten",
+    "address": "1671 Kråkerøy",
+    "metadata": {
+      "region": "Østfold",
+      "tilknytning": "69 31 06 05",
+      "tlf": "Astma og allergiklinikken, Kråkerøyveien 2 A"
+    },
+    "lat": 59.1821455,
+    "lng": 10.9237329
+  },
+  {
+    "title": "Borna, Eivind",
+    "address": "2000 Lillestrøm",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "67 79 04 44",
+      "tlf": "Lillestrøm Lungeklinikk, Depotgata 20"
+    },
+    "lat": 59.9557453,
+    "lng": 11.0600384
+  },
+  {
+    "title": "Grotli, Øyvor Mathisen",
+    "address": "1400 Ski",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "64 80 98 05",
+      "tlf": "Follo Lungeklinikk, Jernbaneveien 5"
+    },
+    "lat": 59.7199326,
+    "lng": 10.8382736
+  },
+  {
+    "title": "Vahedi, Saeed Boroujeni",
+    "address": "1338 Sandvika",
+    "metadata": {
+      "region": "Akershus",
+      "tilknytning": "67 79 99 11",
+      "tlf": "Bærum Lungeklinikk, Sandvika Storsenter, Servicebygget, 4 etasje, Brodtkorbs gate 7"
+    },
+    "lat": 59.8921158,
+    "lng": 10.5249914
+  },
+  {
+    "title": "Nguyen, Duc Hoa",
+    "address": "3015 Drammen",
+    "metadata": {
+      "region": "Buskerud",
+      "tilknytning": "32 83 70 85",
+      "tlf": "Lungeklinikken , Nedre Storgate 7"
+    },
+    "lat": 59.743715,
+    "lng": 10.2121956
+  },
+  {
+    "title": "Lunde, Adina",
+    "address": "3110 Tønsberg",
+    "metadata": {
+      "region": "Vestfold",
+      "tilknytning": "33 99 38 11",
+      "tlf": "Tønsberg Lungeklinikk, Øvre Langgt. 57"
+    },
+    "lat": 59.2674536,
+    "lng": 10.4122532
+  },
+  {
+    "title": "Gross-Maurer, Clemens",
+    "address": "3915 Porsgrunn",
+    "metadata": {
+      "region": "Telemark",
+      "tilknytning": "35 10 43 53",
+      "tlf": "Porsgrunn Lungeklinikk, Telemark Spesialistsenter, Storgata 125"
+    },
+    "lat": 59.1435737,
+    "lng": 9.6565404
+  },
+  {
+    "title": "Lærum, Dan",
+    "address": "4612 Kristiansand S",
+    "metadata": {
+      "region": "Agder",
+      "tilknytning": "38 09 57 05",
+      "tlf": "Astma og Allergisenteret, Vestre Strandgate 32"
+    },
+    "lat": 58.1477221,
+    "lng": 7.9904993
+  },
+  {
+    "title": "Rolke, Heidi C Berg",
+    "address": "4790 Lillesand",
+    "metadata": {
+      "region": "Agder",
+      "tilknytning": "37 09 77 25",
+      "tlf": "Agder Lunge og Allergi Senter AS, Storgt. 2 E"
+    },
+    "lat": 58.2490796,
+    "lng": 8.3671834
+  }
+]
