@@ -5,7 +5,7 @@
     "metadata": {
       "legekontor": "Sande Legesenter",
       "tlf": "33 78 58 30",
-      "ledigePlasser": 81,
+      "ledigePlasser": 80,
       "antallPlasser": 1900,
       "valgbar": true
     },
@@ -51,7 +51,7 @@
     "metadata": {
       "legekontor": "Byskogen Legesenter",
       "tlf": "33 11 66 66",
-      "ledigePlasser": 22,
+      "ledigePlasser": 18,
       "antallPlasser": 2250,
       "valgbar": true
     },
@@ -119,7 +119,7 @@
     "metadata": {
       "legekontor": "Sandefjord Helsepark",
       "tlf": "33 44 82 20",
-      "ledigePlasser": 13,
+      "ledigePlasser": 15,
       "antallPlasser": 1200,
       "valgbar": true
     },
@@ -356,7 +356,7 @@
     "metadata": {
       "legekontor": "Horten kommunale legesenter",
       "tlf": "33 08 70 30",
-      "ledigePlasser": 39,
+      "ledigePlasser": 41,
       "antallPlasser": 650,
       "valgbar": true
     },
@@ -437,7 +437,7 @@
     "metadata": {
       "legekontor": "Torget medisinske senter",
       "tlf": "33 13 91 60",
-      "ledigePlasser": 21,
+      "ledigePlasser": 22,
       "antallPlasser": 1100,
       "valgbar": true
     },
@@ -538,7 +538,7 @@
     "metadata": {
       "legekontor": "Tønsberg Legekontor",
       "tlf": "33 29 25 99",
-      "ledigePlasser": 33,
+      "ledigePlasser": 31,
       "antallPlasser": 500,
       "valgbar": true
     },
@@ -606,7 +606,7 @@
     "metadata": {
       "legekontor": "3 leger",
       "tlf": "33 30 99 99",
-      "ledigePlasser": 2,
+      "ledigePlasser": 1,
       "antallPlasser": 1300,
       "valgbar": true
     },
@@ -665,7 +665,7 @@
     "metadata": {
       "legekontor": "Sentrum Legekontor Horten AS",
       "tlf": "33 08 44 60",
-      "ledigePlasser": 223,
+      "ledigePlasser": 222,
       "antallPlasser": 1600,
       "valgbar": true
     },
@@ -838,7 +838,7 @@
     "metadata": {
       "legekontor": "Grand Medisinske Senter",
       "tlf": "31 01 27 00",
-      "ledigePlasser": 3,
+      "ledigePlasser": 4,
       "antallPlasser": 1100,
       "valgbar": true
     },
@@ -919,7 +919,7 @@
     "metadata": {
       "legekontor": "Sandefjord Helsepark",
       "tlf": "33 44 82 20",
-      "ledigePlasser": 6,
+      "ledigePlasser": 4,
       "antallPlasser": 575,
       "valgbar": true
     },
@@ -954,7 +954,7 @@
     "metadata": {
       "legekontor": "Sandefjord Helsepark",
       "tlf": "33 44 82 20",
-      "ledigePlasser": 5,
+      "ledigePlasser": 4,
       "antallPlasser": 650,
       "valgbar": true
     },
@@ -1033,7 +1033,7 @@
     "metadata": {
       "legekontor": "Lunden Kommunale Fastlegekontor",
       "tlf": "33 42 31 42",
-      "ledigePlasser": 8,
+      "ledigePlasser": 7,
       "antallPlasser": 550,
       "valgbar": true
     },
@@ -1070,7 +1070,7 @@
     "metadata": {
       "legekontor": "Din Fastlege i Tønsberg AS",
       "tlf": "403 47 926",
-      "ledigePlasser": 292,
+      "ledigePlasser": 294,
       "antallPlasser": 1400,
       "valgbar": true
     },
@@ -1162,7 +1162,7 @@
     "metadata": {
       "legekontor": "Kilen Legekontor Tønsberg DA",
       "tlf": "33 35 05 60",
-      "ledigePlasser": 49,
+      "ledigePlasser": 48,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -1175,7 +1175,7 @@
     "metadata": {
       "legekontor": "Sandefjord Helsepark",
       "tlf": "33 44 82 20",
-      "ledigePlasser": 275,
+      "ledigePlasser": 276,
       "antallPlasser": 1500,
       "valgbar": true
     },
@@ -1221,7 +1221,7 @@
     "metadata": {
       "legekontor": "Vestskogen Medisinske Senter",
       "tlf": "33 35 17 80",
-      "ledigePlasser": 56,
+      "ledigePlasser": 55,
       "antallPlasser": 1400,
       "valgbar": true
     },
@@ -1291,7 +1291,7 @@
     "metadata": {
       "legekontor": "Tjølling Legekontor",
       "tlf": "33 18 05 80",
-      "ledigePlasser": 227,
+      "ledigePlasser": 226,
       "antallPlasser": 800,
       "valgbar": true
     },
@@ -1304,7 +1304,7 @@
     "metadata": {
       "legekontor": "Horten kommunale legesenter",
       "tlf": "33 08 70 30",
-      "ledigePlasser": 23,
+      "ledigePlasser": 22,
       "antallPlasser": 1300,
       "valgbar": true
     },
@@ -1343,7 +1343,7 @@
     "metadata": {
       "legekontor": "Sentrum Legekontor Horten AS",
       "tlf": "33 08 44 60",
-      "ledigePlasser": 29,
+      "ledigePlasser": 30,
       "antallPlasser": 750,
       "valgbar": true
     },
@@ -1446,7 +1446,7 @@
     "metadata": {
       "legekontor": "Gleditschgården Legesenter AS",
       "tlf": "33 44 60 10",
-      "ledigePlasser": 58,
+      "ledigePlasser": 97,
       "antallPlasser": 900,
       "valgbar": true
     },
@@ -1520,7 +1520,7 @@
     "metadata": {
       "legekontor": "Grand Medisinske Senter",
       "tlf": "31 01 27 00",
-      "ledigePlasser": 1594,
+      "ledigePlasser": 1593,
       "antallPlasser": 1800,
       "valgbar": true
     },
@@ -1559,7 +1559,7 @@
     "metadata": {
       "legekontor": "Åsgårdstrand Legekontor",
       "tlf": "33 03 03 90",
-      "ledigePlasser": 230,
+      "ledigePlasser": 231,
       "antallPlasser": 1050,
       "valgbar": true
     },
@@ -1572,7 +1572,7 @@
     "metadata": {
       "legekontor": "Jarlsberg Legesenter AS",
       "tlf": "31 33 30 00",
-      "ledigePlasser": 381,
+      "ledigePlasser": 380,
       "antallPlasser": 700,
       "valgbar": true
     },
@@ -1626,12 +1626,25 @@
     "lng": 10.212466
   },
   {
+    "title": "Martha Christin Lamøy",
+    "address": "Dronningensgate 3, 3211 SANDEFJORD",
+    "metadata": {
+      "legekontor": "Gleditschgården Legesenter AS",
+      "tlf": "33 44 60 10",
+      "ledigePlasser": 447,
+      "antallPlasser": 500,
+      "valgbar": true
+    },
+    "lat": 59.1326707,
+    "lng": 10.2184841
+  },
+  {
     "title": "Helge Magnus Larsen",
     "address": "Danholmen 3, 3128 NØTTERØY",
     "metadata": {
       "legekontor": "Nøtterøy Legesenter",
       "tlf": "33 35 17 50",
-      "ledigePlasser": 4,
+      "ledigePlasser": 5,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -1968,7 +1981,7 @@
     "metadata": {
       "legekontor": "Sandefjord Helsepark",
       "tlf": "33 44 82 20",
-      "ledigePlasser": 18,
+      "ledigePlasser": 14,
       "antallPlasser": 950,
       "valgbar": true
     },
@@ -2047,7 +2060,7 @@
     "metadata": {
       "legekontor": "Sandefjord Helsepark",
       "tlf": "33 44 82 20",
-      "ledigePlasser": 5,
+      "ledigePlasser": 4,
       "antallPlasser": 950,
       "valgbar": true
     },
@@ -2130,7 +2143,7 @@
     "metadata": {
       "legekontor": "Åsgårdstrand Legekontor",
       "tlf": "33 03 03 90",
-      "ledigePlasser": 84,
+      "ledigePlasser": 85,
       "antallPlasser": 900,
       "valgbar": true
     },
@@ -2270,7 +2283,7 @@
     "metadata": {
       "legekontor": "Torget medisinske senter",
       "tlf": "33 13 91 60",
-      "ledigePlasser": 350,
+      "ledigePlasser": 349,
       "antallPlasser": 800,
       "valgbar": true
     },
@@ -2292,7 +2305,7 @@
     "address": "Grev Wedels gate 44, 3179 ÅSGÅRDSTRAND",
     "metadata": {
       "legekontor": "Åsgårdstrand Helsesenter AS",
-      "ledigePlasser": 66,
+      "ledigePlasser": 65,
       "antallPlasser": 1950,
       "valgbar": true
     },
@@ -2316,7 +2329,9 @@
     "metadata": {
       "legekontor": "Vektergården legesenter",
       "tlf": "33 07 17 60",
-      "antallPlasser": 1600
+      "ledigePlasser": 7,
+      "antallPlasser": 1600,
+      "valgbar": true
     },
     "lat": 59.4160851,
     "lng": 10.4856172
@@ -2362,7 +2377,7 @@
     "metadata": {
       "legekontor": "Torget medisinske senter",
       "tlf": "33 13 91 60",
-      "ledigePlasser": 148,
+      "ledigePlasser": 147,
       "antallPlasser": 1030,
       "valgbar": true
     },
@@ -2458,7 +2473,7 @@
     "metadata": {
       "legekontor": "Tønsberg Medisinske Senter AS",
       "tlf": "33 37 63 00",
-      "ledigePlasser": 53,
+      "ledigePlasser": 54,
       "antallPlasser": 1500,
       "valgbar": true
     },
@@ -2471,7 +2486,7 @@
     "metadata": {
       "legekontor": "Sandefjord Helsepark",
       "tlf": "33 44 82 20",
-      "ledigePlasser": 15,
+      "ledigePlasser": 17,
       "antallPlasser": 900,
       "valgbar": true
     },
@@ -2495,7 +2510,7 @@
     "metadata": {
       "legekontor": "Legegruppen AS",
       "tlf": "33 18 05 00",
-      "ledigePlasser": 155,
+      "ledigePlasser": 152,
       "antallPlasser": 900,
       "valgbar": true
     },
@@ -2547,7 +2562,7 @@
     "metadata": {
       "legekontor": "Atlaslegene",
       "tlf": "33 30 19 00",
-      "ledigePlasser": 107,
+      "ledigePlasser": 106,
       "antallPlasser": 1100,
       "valgbar": true
     },
@@ -2718,7 +2733,7 @@
     "metadata": {
       "legekontor": "Fastlegene AS",
       "tlf": "33 04 47 60",
-      "ledigePlasser": 10,
+      "ledigePlasser": 11,
       "antallPlasser": 950,
       "valgbar": true
     },
@@ -2882,7 +2897,7 @@
     "metadata": {
       "legekontor": "Vestskogen Medisinske Senter",
       "tlf": "33 35 17 80",
-      "ledigePlasser": 75,
+      "ledigePlasser": 74,
       "antallPlasser": 815,
       "valgbar": true
     },
@@ -3031,7 +3046,7 @@
     "metadata": {
       "legekontor": "Fastlegene AS",
       "tlf": "33 04 47 60",
-      "ledigePlasser": 213,
+      "ledigePlasser": 215,
       "antallPlasser": 600,
       "valgbar": true
     },
@@ -3136,7 +3151,7 @@
     "metadata": {
       "legekontor": "Legene Blystad og Rasting",
       "tlf": "33 35 03 30",
-      "ledigePlasser": 423,
+      "ledigePlasser": 421,
       "antallPlasser": 1500,
       "valgbar": true
     },
@@ -3186,7 +3201,7 @@
     "metadata": {
       "legekontor": "Tønsberg Legekontor",
       "tlf": "33 29 25 99",
-      "ledigePlasser": 40,
+      "ledigePlasser": 41,
       "antallPlasser": 500,
       "valgbar": true
     },
@@ -3199,7 +3214,7 @@
     "metadata": {
       "legekontor": "Søeberg legesenter",
       "tlf": "33 29 65 30",
-      "ledigePlasser": 42,
+      "ledigePlasser": 36,
       "antallPlasser": 700,
       "valgbar": true
     },

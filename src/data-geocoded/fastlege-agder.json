@@ -16,7 +16,7 @@
     "metadata": {
       "legekontor": "Øvrebyen Legesenter",
       "tlf": "38 60 65 00",
-      "ledigePlasser": 14,
+      "ledigePlasser": 15,
       "antallPlasser": 800,
       "valgbar": true
     },
@@ -332,7 +332,7 @@
     "metadata": {
       "legekontor": "Bjønneslegene AS",
       "tlf": "37 00 34 50",
-      "ledigePlasser": 83,
+      "ledigePlasser": 81,
       "antallPlasser": 800,
       "valgbar": true
     },
@@ -363,27 +363,25 @@
   },
   {
     "title": "Anders Øgrey Brandsdal",
-    "address": "Lumberveien 49, 4621 Kristiansand S",
+    "address": "Lumberveien 27E, 4621 KRISTIANSAND S",
     "metadata": {
-      "legekontor": "Trekanten legesenter",
-      "tlf": "38 01 85 10",
-      "ledigePlasser": 29,
+      "legekontor": "Havkanten Legesenter AS",
+      "ledigePlasser": 30,
       "antallPlasser": 1250,
       "valgbar": true
     },
-    "lat": 58.1230247,
-    "lng": 7.9685098
+    "lat": 58.12518,
+    "lng": 7.970174
   },
   {
     "title": "Lisa Helene Øgrey Brandsdal",
-    "address": "Lumberveien 49, 4621 Kristiansand S",
+    "address": "Lumberveien 27E, 4621 KRISTIANSAND S",
     "metadata": {
-      "legekontor": "Trekanten legesenter",
-      "tlf": "38 01 85 10",
+      "legekontor": "Havkanten Legesenter AS",
       "antallPlasser": 1200
     },
-    "lat": 58.1230247,
-    "lng": 7.9685098
+    "lat": 58.12518,
+    "lng": 7.970174
   },
   {
     "title": "Monica Øgrey Brandsdal",
@@ -391,7 +389,7 @@
     "metadata": {
       "legekontor": "Ditt Legesenter",
       "tlf": "38 00 05 50",
-      "ledigePlasser": 3,
+      "ledigePlasser": 1,
       "antallPlasser": 1180,
       "valgbar": true
     },
@@ -404,7 +402,7 @@
     "metadata": {
       "legekontor": "Klinkenberg Legesenter",
       "tlf": "37 00 98 98",
-      "ledigePlasser": 72,
+      "ledigePlasser": 73,
       "antallPlasser": 350,
       "valgbar": true
     },
@@ -483,7 +481,7 @@
     "metadata": {
       "legekontor": "Bjønneslegene AS",
       "tlf": "37 00 34 50",
-      "ledigePlasser": 57,
+      "ledigePlasser": 59,
       "antallPlasser": 750,
       "valgbar": true
     },
@@ -496,7 +494,7 @@
     "metadata": {
       "legekontor": "Sandens Medisinske Senter",
       "tlf": "38 00 66 90",
-      "ledigePlasser": 98,
+      "ledigePlasser": 99,
       "antallPlasser": 1350,
       "valgbar": true
     },
@@ -623,7 +621,7 @@
     "metadata": {
       "legekontor": "Sentrum Legesenter Kristiansand AS",
       "tlf": "38 07 90 00",
-      "ledigePlasser": 139,
+      "ledigePlasser": 140,
       "antallPlasser": 1500,
       "valgbar": true
     },
@@ -774,7 +772,7 @@
     "metadata": {
       "legekontor": "Ditt Legesenter",
       "tlf": "38 00 05 50",
-      "ledigePlasser": 155,
+      "ledigePlasser": 153,
       "antallPlasser": 1200,
       "valgbar": true
     },
@@ -1074,7 +1072,7 @@
     "metadata": {
       "legekontor": "Havblikklegene",
       "tlf": "37 09 77 00",
-      "ledigePlasser": 9,
+      "ledigePlasser": 10,
       "antallPlasser": 1400,
       "valgbar": true
     },
@@ -1205,7 +1203,7 @@
     "metadata": {
       "legekontor": "Sandens Medisinske Senter",
       "tlf": "38 00 66 90",
-      "ledigePlasser": 63,
+      "ledigePlasser": 61,
       "antallPlasser": 1350,
       "valgbar": true
     },
@@ -1544,7 +1542,9 @@
     "metadata": {
       "legekontor": "Sørlandsparken legesenter",
       "tlf": "38 04 88 88",
-      "antallPlasser": 1400
+      "ledigePlasser": 8,
+      "antallPlasser": 1400,
+      "valgbar": true
     },
     "lat": 58.1712817,
     "lng": 8.1263211
@@ -1682,7 +1682,7 @@
     "metadata": {
       "legekontor": "Tromøy legesenter",
       "tlf": "37 05 83 50",
-      "ledigePlasser": 265,
+      "ledigePlasser": 262,
       "antallPlasser": 750,
       "valgbar": true
     },
@@ -1796,7 +1796,7 @@
     "metadata": {
       "legekontor": "Legegruppen Arendal",
       "tlf": "37 00 34 00",
-      "ledigePlasser": 23,
+      "ledigePlasser": 24,
       "antallPlasser": 1200,
       "valgbar": true
     },
@@ -1855,7 +1855,7 @@
     "metadata": {
       "legekontor": "Søgne Legesenter",
       "tlf": "38 05 39 40",
-      "ledigePlasser": 9,
+      "ledigePlasser": 6,
       "antallPlasser": 850,
       "valgbar": true
     },
@@ -1868,7 +1868,7 @@
     "metadata": {
       "legekontor": "Åseral Legekontor",
       "tlf": "38 28 59 00",
-      "ledigePlasser": 143,
+      "ledigePlasser": 142,
       "antallPlasser": 550,
       "valgbar": true
     },
@@ -1892,7 +1892,7 @@
     "metadata": {
       "legekontor": "Lund Legesenter",
       "tlf": "38 09 50 00",
-      "ledigePlasser": 392,
+      "ledigePlasser": 389,
       "antallPlasser": 1250,
       "valgbar": true
     },
@@ -1916,7 +1916,7 @@
     "metadata": {
       "legekontor": "Tresse Legesenter",
       "tlf": "38 60 06 00",
-      "ledigePlasser": 112,
+      "ledigePlasser": 115,
       "antallPlasser": 1150,
       "valgbar": true
     },
@@ -1940,7 +1940,7 @@
     "metadata": {
       "legekontor": "Nedeneslegene AS",
       "tlf": "61 40 18 10",
-      "ledigePlasser": 794,
+      "ledigePlasser": 795,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -1979,7 +1979,7 @@
     "metadata": {
       "legekontor": "Nedeneslegene AS",
       "tlf": "61 40 18 10",
-      "ledigePlasser": 12,
+      "ledigePlasser": 11,
       "antallPlasser": 1100,
       "valgbar": true
     },
@@ -2128,7 +2128,7 @@
     "metadata": {
       "legekontor": "Bjønneslegene AS",
       "tlf": "37 00 34 50",
-      "ledigePlasser": 283,
+      "ledigePlasser": 280,
       "antallPlasser": 800,
       "valgbar": true
     },
@@ -2163,7 +2163,7 @@
     "metadata": {
       "legekontor": "Vestre legesenter",
       "tlf": "38 10 49 49",
-      "ledigePlasser": 45,
+      "ledigePlasser": 46,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -2274,7 +2274,7 @@
     "metadata": {
       "legekontor": "Vegårshei Kommune Legekontoret",
       "tlf": "37 17 02 45",
-      "ledigePlasser": 73,
+      "ledigePlasser": 74,
       "antallPlasser": 800,
       "valgbar": true
     },
@@ -2344,7 +2344,7 @@
     "metadata": {
       "legekontor": "Dronningensgate Legesenter",
       "tlf": "38 07 91 40",
-      "ledigePlasser": 6,
+      "ledigePlasser": 5,
       "antallPlasser": 1300,
       "valgbar": true
     },
@@ -2368,7 +2368,7 @@
     "metadata": {
       "legekontor": "Lundsen Legesenter",
       "tlf": "38 32 05 20",
-      "ledigePlasser": 51,
+      "ledigePlasser": 49,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -2381,7 +2381,7 @@
     "metadata": {
       "legekontor": "Vennesla legekontor",
       "tlf": "38 15 01 50",
-      "ledigePlasser": 23,
+      "ledigePlasser": 20,
       "antallPlasser": 850,
       "valgbar": true
     },
@@ -2442,7 +2442,7 @@
     "metadata": {
       "legekontor": "Sandens Medisinske Senter",
       "tlf": "38 00 66 90",
-      "ledigePlasser": 85,
+      "ledigePlasser": 84,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -2512,7 +2512,7 @@
     "metadata": {
       "legekontor": "Maxis legesenter as",
       "tlf": "37 01 28 00",
-      "ledigePlasser": 113,
+      "ledigePlasser": 114,
       "antallPlasser": 750,
       "valgbar": true
     },
@@ -2547,7 +2547,7 @@
     "metadata": {
       "legekontor": "Andøya Legesenter",
       "tlf": "38 00 23 50",
-      "ledigePlasser": 3,
+      "ledigePlasser": 1,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -2771,7 +2771,7 @@
     "metadata": {
       "legekontor": "Vågsbygd Torv Legesenter AS",
       "tlf": "73 60 94 50",
-      "ledigePlasser": 439,
+      "ledigePlasser": 438,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -2815,16 +2815,15 @@
   },
   {
     "title": "Luiz Gustavo Revollo Saucedo",
-    "address": "Lumberveien 49, 4621 Kristiansand S",
+    "address": "Lumberveien 27E, 4621 KRISTIANSAND S",
     "metadata": {
-      "legekontor": "Trekanten legesenter",
-      "tlf": "38 01 85 10",
+      "legekontor": "Havkanten Legesenter AS",
       "ledigePlasser": 15,
       "antallPlasser": 1250,
       "valgbar": true
     },
-    "lat": 58.1230247,
-    "lng": 7.9685098
+    "lat": 58.12518,
+    "lng": 7.970174
   },
   {
     "title": "Leif Erik Riddervold",
@@ -2867,7 +2866,7 @@
     "metadata": {
       "legekontor": "Nedeneslegene AS",
       "tlf": "61 40 18 10",
-      "ledigePlasser": 60,
+      "ledigePlasser": 59,
       "antallPlasser": 1200,
       "valgbar": true
     },
@@ -3125,7 +3124,7 @@
     "metadata": {
       "legekontor": "Bystranda legesenter",
       "tlf": "38 70 86 50",
-      "ledigePlasser": 67,
+      "ledigePlasser": 66,
       "antallPlasser": 1245,
       "valgbar": true
     },
@@ -3267,7 +3266,7 @@
     "metadata": {
       "legekontor": "Evje og Bygland legesenter",
       "tlf": "37 40 79 00",
-      "ledigePlasser": 70,
+      "ledigePlasser": 74,
       "antallPlasser": 800,
       "valgbar": true
     },
@@ -3333,16 +3332,15 @@
   },
   {
     "title": "Miriam Stensrød",
-    "address": "Lumberveien 49, 4621 Kristiansand S",
+    "address": "Lumberveien 27E, 4621 KRISTIANSAND S",
     "metadata": {
-      "legekontor": "Trekanten legesenter",
-      "tlf": "38 01 85 10",
-      "ledigePlasser": 56,
+      "legekontor": "Havkanten Legesenter AS",
+      "ledigePlasser": 55,
       "antallPlasser": 1200,
       "valgbar": true
     },
-    "lat": 58.1230247,
-    "lng": 7.9685098
+    "lat": 58.12518,
+    "lng": 7.970174
   },
   {
     "title": "Gunnhild Stephansen",
@@ -3361,7 +3359,7 @@
     "metadata": {
       "legekontor": "Halse Legesenter AS",
       "tlf": "38 27 38 80",
-      "ledigePlasser": 72,
+      "ledigePlasser": 71,
       "antallPlasser": 900,
       "valgbar": true
     },
@@ -3703,14 +3701,13 @@
   },
   {
     "title": "Kenneth Undhjem",
-    "address": "Lumberveien 49, 4621 Kristiansand S",
+    "address": "Lumberveien 27E, 4621 KRISTIANSAND S",
     "metadata": {
-      "legekontor": "Trekanten legesenter",
-      "tlf": "38 01 85 10",
+      "legekontor": "Havkanten Legesenter AS",
       "antallPlasser": 1100
     },
-    "lat": 58.1230247,
-    "lng": 7.9685098
+    "lat": 58.12518,
+    "lng": 7.970174
   },
   {
     "title": "Else Matilde Vangstad",
@@ -3764,7 +3761,7 @@
     "metadata": {
       "legekontor": "Halse Legesenter AS",
       "tlf": "38 27 38 80",
-      "ledigePlasser": 24,
+      "ledigePlasser": 23,
       "antallPlasser": 750,
       "valgbar": true
     },
@@ -3941,7 +3938,7 @@
     "metadata": {
       "legekontor": "Songdalen legesenter",
       "tlf": "38 18 51 20",
-      "ledigePlasser": 154,
+      "ledigePlasser": 153,
       "antallPlasser": 860,
       "valgbar": true
     },
@@ -3961,14 +3958,13 @@
   },
   {
     "title": "Jostein Klungsøyr Woje",
-    "address": "Lumberveien 49, 4621 Kristiansand S",
+    "address": "Lumberveien 27E, 4621 KRISTIANSAND S",
     "metadata": {
-      "legekontor": "Trekanten legesenter",
-      "tlf": "38 01 85 10",
+      "legekontor": "Havkanten Legesenter AS",
       "antallPlasser": 820
     },
-    "lat": 58.1230247,
-    "lng": 7.9685098
+    "lat": 58.12518,
+    "lng": 7.970174
   },
   {
     "title": "Brita Merete Zinck",
@@ -4125,7 +4121,7 @@
     "metadata": {
       "legekontor": "Vågsbygd Torv Legesenter AS",
       "tlf": "73 60 94 50",
-      "ledigePlasser": 258,
+      "ledigePlasser": 257,
       "antallPlasser": 1550,
       "valgbar": true
     },

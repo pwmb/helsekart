@@ -152,7 +152,7 @@
     "metadata": {
       "legekontor": "Sørås Legesenter",
       "tlf": "53 00 65 00",
-      "ledigePlasser": 43,
+      "ledigePlasser": 40,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -530,7 +530,7 @@
     "metadata": {
       "legekontor": "Osøyro Legesenter AS",
       "tlf": "56 57 00 20",
-      "ledigePlasser": 8,
+      "ledigePlasser": 7,
       "antallPlasser": 600,
       "valgbar": true
     },
@@ -776,7 +776,7 @@
     "metadata": {
       "legekontor": "Osøyro Legesenter AS",
       "tlf": "56 57 00 20",
-      "ledigePlasser": 5,
+      "ledigePlasser": 2,
       "antallPlasser": 600,
       "valgbar": true
     },
@@ -1492,7 +1492,7 @@
     "metadata": {
       "legekontor": "Vik legekontor",
       "tlf": "57 69 87 00",
-      "ledigePlasser": 176,
+      "ledigePlasser": 177,
       "antallPlasser": 750,
       "valgbar": true
     },
@@ -1560,7 +1560,7 @@
     "metadata": {
       "legekontor": "Os Allmennpraksis DA",
       "tlf": "56 57 01 20",
-      "ledigePlasser": 56,
+      "ledigePlasser": 55,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -2160,7 +2160,7 @@
     "metadata": {
       "legekontor": "Årdal legekontor",
       "tlf": "57 66 53 90",
-      "ledigePlasser": 13,
+      "ledigePlasser": 14,
       "antallPlasser": 930,
       "valgbar": true
     },
@@ -4744,7 +4744,7 @@
     "metadata": {
       "legekontor": "Luster legekontor",
       "tlf": "57 68 56 00",
-      "ledigePlasser": 2,
+      "ledigePlasser": 1,
       "antallPlasser": 400,
       "valgbar": true
     },
@@ -5203,7 +5203,7 @@
     "metadata": {
       "legekontor": "Årdal legekontor",
       "tlf": "57 66 53 90",
-      "ledigePlasser": 12,
+      "ledigePlasser": 11,
       "antallPlasser": 930,
       "valgbar": true
     },
@@ -5260,7 +5260,7 @@
     "metadata": {
       "legekontor": "Arkaden legesenter",
       "tlf": "56 31 59 00",
-      "ledigePlasser": 36,
+      "ledigePlasser": 34,
       "antallPlasser": 1300,
       "valgbar": true
     },
@@ -5295,7 +5295,7 @@
     "metadata": {
       "legekontor": "Eikelandsosen Legekontor",
       "tlf": "56 58 02 90",
-      "ledigePlasser": 5,
+      "ledigePlasser": 4,
       "antallPlasser": 100,
       "valgbar": true
     },
@@ -5466,7 +5466,7 @@
     "metadata": {
       "legekontor": "Jølster Legekontor",
       "tlf": "57 72 62 50",
-      "ledigePlasser": 54,
+      "ledigePlasser": 55,
       "antallPlasser": 800,
       "valgbar": true
     },
@@ -5633,7 +5633,7 @@
     "metadata": {
       "legekontor": "Sogndal legesenter",
       "tlf": "57 62 97 00",
-      "ledigePlasser": 4,
+      "ledigePlasser": 2,
       "antallPlasser": 900,
       "valgbar": true
     },
@@ -5791,7 +5791,7 @@
     "metadata": {
       "legekontor": "Sørås Legesenter",
       "tlf": "53 00 65 00",
-      "ledigePlasser": 11,
+      "ledigePlasser": 7,
       "antallPlasser": 1450,
       "valgbar": true
     },
@@ -6164,9 +6164,7 @@
     "metadata": {
       "legekontor": "Legene i andre DA",
       "tlf": "55 55 09 55",
-      "ledigePlasser": 4,
-      "antallPlasser": 2150,
-      "valgbar": true
+      "antallPlasser": 2150
     },
     "lat": 60.3892364,
     "lng": 5.324623
@@ -6322,7 +6320,7 @@
     "metadata": {
       "legekontor": "Flåten Legesenter",
       "tlf": "56 30 36 00",
-      "ledigePlasser": 125,
+      "ledigePlasser": 126,
       "antallPlasser": 800,
       "valgbar": true
     },

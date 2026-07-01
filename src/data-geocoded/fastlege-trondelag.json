@@ -49,7 +49,7 @@
     "metadata": {
       "legekontor": "Midt Legesenter AS",
       "tlf": "73 18 88 80",
-      "ledigePlasser": 20,
+      "ledigePlasser": 23,
       "antallPlasser": 1100,
       "valgbar": true
     },
@@ -354,7 +354,7 @@
     "metadata": {
       "legekontor": "Sjøsiden Legesenter",
       "tlf": "73 80 95 00",
-      "ledigePlasser": 24,
+      "ledigePlasser": 22,
       "antallPlasser": 1150,
       "valgbar": true
     },
@@ -378,7 +378,7 @@
     "metadata": {
       "legekontor": "Inderøy Legesenter",
       "tlf": "74 70 15 13",
-      "ledigePlasser": 5,
+      "ledigePlasser": 7,
       "antallPlasser": 640,
       "valgbar": true
     },
@@ -424,7 +424,7 @@
     "metadata": {
       "legekontor": "Namdalseid Legekontor",
       "tlf": "74 22 72 70",
-      "ledigePlasser": 138,
+      "ledigePlasser": 136,
       "antallPlasser": 600,
       "valgbar": true
     },
@@ -437,7 +437,7 @@
     "metadata": {
       "legekontor": "Gløshaugen legesenter AS",
       "tlf": "400 01 223",
-      "ledigePlasser": 27,
+      "ledigePlasser": 30,
       "antallPlasser": 2400,
       "valgbar": true
     },
@@ -450,7 +450,7 @@
     "metadata": {
       "legekontor": "Møllenberg Legesenter",
       "tlf": "73 80 87 70",
-      "ledigePlasser": 16,
+      "ledigePlasser": 20,
       "antallPlasser": 1250,
       "valgbar": true
     },
@@ -529,12 +529,25 @@
     "metadata": {
       "legekontor": "Halsa Legekontor",
       "tlf": "71 55 96 50",
-      "ledigePlasser": 282,
+      "ledigePlasser": 281,
       "antallPlasser": 800,
       "valgbar": true
     },
     "lat": 63.1184718,
     "lng": 8.3120264
+  },
+  {
+    "title": "Camilla Bottenhaug",
+    "address": "Vassliveien 83, 7391 RENNEBU",
+    "metadata": {
+      "legekontor": "Rennebu legekontor",
+      "tlf": "908 80 140",
+      "ledigePlasser": 102,
+      "antallPlasser": 500,
+      "valgbar": true
+    },
+    "lat": 62.834434,
+    "lng": 10.006455
   },
   {
     "title": "Viktor Aron Bottenhaug",
@@ -586,7 +599,7 @@
     "metadata": {
       "legekontor": "Klæbu legesenter AS",
       "tlf": "72 83 01 70",
-      "ledigePlasser": 6,
+      "ledigePlasser": 5,
       "antallPlasser": 1010,
       "valgbar": true
     },
@@ -612,7 +625,7 @@
     "metadata": {
       "legekontor": "Mathesongården Legesenter",
       "tlf": "73 87 04 80",
-      "ledigePlasser": 7,
+      "ledigePlasser": 8,
       "antallPlasser": 1800,
       "valgbar": true
     },
@@ -739,7 +752,7 @@
     "metadata": {
       "legekontor": "Sjøsiden Legesenter",
       "tlf": "73 80 95 00",
-      "ledigePlasser": 20,
+      "ledigePlasser": 19,
       "antallPlasser": 1100,
       "valgbar": true
     },
@@ -998,7 +1011,7 @@
     "metadata": {
       "legekontor": "Åsen Legekontor",
       "tlf": "74 05 62 99",
-      "ledigePlasser": 38,
+      "ledigePlasser": 39,
       "antallPlasser": 675,
       "valgbar": true
     },
@@ -1055,7 +1068,7 @@
     "metadata": {
       "legekontor": "Edda Legesenter DA",
       "tlf": "73 83 19 00",
-      "ledigePlasser": 93,
+      "ledigePlasser": 91,
       "antallPlasser": 1200,
       "valgbar": true
     },
@@ -1123,7 +1136,7 @@
     "metadata": {
       "legekontor": "Solsiden Legesenter AS",
       "tlf": "23 89 10 87",
-      "ledigePlasser": 159,
+      "ledigePlasser": 158,
       "antallPlasser": 800,
       "valgbar": true
     },
@@ -1256,7 +1269,7 @@
     "metadata": {
       "legekontor": "Valentinlyst Legesenter",
       "tlf": "73 82 97 97",
-      "ledigePlasser": 5,
+      "ledigePlasser": 3,
       "antallPlasser": 1200,
       "valgbar": true
     },
@@ -1315,7 +1328,7 @@
     "metadata": {
       "legekontor": "Nidaros Legekontor",
       "tlf": "73 52 56 20",
-      "ledigePlasser": 16,
+      "ledigePlasser": 14,
       "antallPlasser": 1350,
       "valgbar": true
     },
@@ -1528,7 +1541,7 @@
     "metadata": {
       "legekontor": "Idungården Legesenter DA",
       "tlf": "73 83 36 10",
-      "ledigePlasser": 218,
+      "ledigePlasser": 221,
       "antallPlasser": 1550,
       "valgbar": true
     },
@@ -1622,7 +1635,7 @@
     "metadata": {
       "legekontor": "Meråker legekontor",
       "tlf": "74 81 33 30",
-      "ledigePlasser": 243,
+      "ledigePlasser": 242,
       "antallPlasser": 800,
       "valgbar": true
     },
@@ -1657,7 +1670,7 @@
     "metadata": {
       "legekontor": "Skaun Legekontor AS",
       "tlf": "72 86 73 00",
-      "ledigePlasser": 31,
+      "ledigePlasser": 29,
       "antallPlasser": 1200,
       "valgbar": true
     },
@@ -1905,7 +1918,7 @@
     "metadata": {
       "legekontor": "Sannan Legesenter AS",
       "tlf": "73 60 42 60",
-      "ledigePlasser": 47,
+      "ledigePlasser": 43,
       "antallPlasser": 1100,
       "valgbar": true
     },
@@ -1986,7 +1999,7 @@
     "metadata": {
       "legekontor": "Indre Fosen Legetjeneste",
       "tlf": "417 02 400",
-      "ledigePlasser": 91,
+      "ledigePlasser": 90,
       "antallPlasser": 1120,
       "valgbar": true
     },
@@ -2054,7 +2067,7 @@
     "metadata": {
       "legekontor": "Din Doktor",
       "tlf": "73 98 28 80",
-      "ledigePlasser": 21,
+      "ledigePlasser": 22,
       "antallPlasser": 1300,
       "valgbar": true
     },
@@ -2203,7 +2216,7 @@
     "metadata": {
       "legekontor": "Møllenberg Legesenter",
       "tlf": "73 80 87 70",
-      "ledigePlasser": 30,
+      "ledigePlasser": 29,
       "antallPlasser": 1100,
       "valgbar": true
     },
@@ -2238,7 +2251,7 @@
     "metadata": {
       "legekontor": "Møllenberg Legesenter",
       "tlf": "73 80 87 70",
-      "ledigePlasser": 5,
+      "ledigePlasser": 4,
       "antallPlasser": 1300,
       "valgbar": true
     },
@@ -2474,7 +2487,7 @@
     "metadata": {
       "legekontor": "Åfjord Legetjeneste",
       "tlf": "72 53 02 00",
-      "ledigePlasser": 33,
+      "ledigePlasser": 32,
       "antallPlasser": 1100,
       "valgbar": true
     },
@@ -2498,7 +2511,7 @@
     "metadata": {
       "legekontor": "MediSyd A/S",
       "tlf": "72 88 77 55",
-      "ledigePlasser": 51,
+      "ledigePlasser": 53,
       "antallPlasser": 1500,
       "valgbar": true
     },
@@ -2599,7 +2612,7 @@
     "metadata": {
       "legekontor": "Strinda Legesenter AS",
       "tlf": "73 98 40 10",
-      "ledigePlasser": 8,
+      "ledigePlasser": 9,
       "antallPlasser": 1200,
       "valgbar": true
     },
@@ -2829,9 +2842,7 @@
     "metadata": {
       "legekontor": "Hallset Legesenter AS",
       "tlf": "72 55 71 60",
-      "ledigePlasser": 3,
-      "antallPlasser": 900,
-      "valgbar": true
+      "antallPlasser": 900
     },
     "lat": 63.394501,
     "lng": 10.368786
@@ -3134,7 +3145,7 @@
     "metadata": {
       "legekontor": "Strinda Legesenter AS",
       "tlf": "73 98 40 10",
-      "ledigePlasser": 14,
+      "ledigePlasser": 15,
       "antallPlasser": 1200,
       "valgbar": true
     },
@@ -3169,7 +3180,7 @@
     "metadata": {
       "legekontor": "Charlottenlund Legesenter",
       "tlf": "73 84 81 80",
-      "ledigePlasser": 6,
+      "ledigePlasser": 5,
       "antallPlasser": 1150,
       "valgbar": true
     },
@@ -3239,7 +3250,7 @@
     "metadata": {
       "legekontor": "Tydal legekontor",
       "tlf": "73 81 58 40",
-      "ledigePlasser": 208,
+      "ledigePlasser": 207,
       "antallPlasser": 600,
       "valgbar": true
     },
@@ -3263,7 +3274,7 @@
     "metadata": {
       "legekontor": "Mathesongården Legesenter",
       "tlf": "73 87 04 80",
-      "ledigePlasser": 4,
+      "ledigePlasser": 5,
       "antallPlasser": 1100,
       "valgbar": true
     },
@@ -3276,7 +3287,7 @@
     "metadata": {
       "legekontor": "Øya Legesenter",
       "tlf": "72 54 38 60",
-      "ledigePlasser": 9,
+      "ledigePlasser": 8,
       "antallPlasser": 500,
       "valgbar": true
     },
@@ -3609,7 +3620,7 @@
     "metadata": {
       "legekontor": "Din Doktor",
       "tlf": "73 98 28 80",
-      "ledigePlasser": 18,
+      "ledigePlasser": 15,
       "antallPlasser": 1400,
       "valgbar": true
     },
@@ -3646,7 +3657,7 @@
     "metadata": {
       "legekontor": "Din Doktor",
       "tlf": "73 98 28 80",
-      "ledigePlasser": 14,
+      "ledigePlasser": 13,
       "antallPlasser": 1750,
       "valgbar": true
     },
@@ -3670,7 +3681,7 @@
     "metadata": {
       "legekontor": "Rennebu legekontor",
       "tlf": "908 80 140",
-      "ledigePlasser": 86,
+      "ledigePlasser": 84,
       "antallPlasser": 400,
       "valgbar": true
     },
@@ -3753,7 +3764,7 @@
     "metadata": {
       "legekontor": "Klæbu legesenter AS",
       "tlf": "72 83 01 70",
-      "ledigePlasser": 2,
+      "ledigePlasser": 1,
       "antallPlasser": 1100,
       "valgbar": true
     },
@@ -3864,7 +3875,7 @@
     "metadata": {
       "legekontor": "Skatval Legekontor",
       "tlf": "74 83 19 90",
-      "ledigePlasser": 20,
+      "ledigePlasser": 19,
       "antallPlasser": 900,
       "valgbar": true
     },
@@ -3888,7 +3899,7 @@
     "metadata": {
       "legekontor": "Nærøysund Legekontor",
       "tlf": "948 12 953",
-      "ledigePlasser": 243,
+      "ledigePlasser": 241,
       "antallPlasser": 700,
       "valgbar": true
     },
@@ -4061,7 +4072,7 @@
     "metadata": {
       "legekontor": "Rennebu legekontor",
       "tlf": "908 80 140",
-      "ledigePlasser": 152,
+      "ledigePlasser": 150,
       "antallPlasser": 800,
       "valgbar": true
     },
@@ -4223,7 +4234,7 @@
     "metadata": {
       "legekontor": "Midtbyen Legesenter AS",
       "tlf": "73 92 38 80",
-      "ledigePlasser": 7,
+      "ledigePlasser": 6,
       "antallPlasser": 1200,
       "valgbar": true
     },
@@ -4260,9 +4271,7 @@
     "metadata": {
       "legekontor": "Orkanger Legesenter",
       "tlf": "72 47 11 50",
-      "ledigePlasser": 3,
-      "antallPlasser": 1150,
-      "valgbar": true
+      "antallPlasser": 1150
     },
     "lat": 63.3050429,
     "lng": 9.849584
@@ -4273,7 +4282,7 @@
     "metadata": {
       "legekontor": "Hitra legekontor",
       "tlf": "72 44 42 42",
-      "ledigePlasser": 66,
+      "ledigePlasser": 67,
       "antallPlasser": 1300,
       "valgbar": true
     },
@@ -4510,7 +4519,7 @@
     "metadata": {
       "legekontor": "Indre Namdal legetjeneste",
       "tlf": "902 35 363",
-      "ledigePlasser": 57,
+      "ledigePlasser": 58,
       "antallPlasser": 700,
       "valgbar": true
     },
@@ -4571,7 +4580,7 @@
     "metadata": {
       "legekontor": "Melhus Legesenter AS",
       "tlf": "72 87 70 00",
-      "ledigePlasser": 16,
+      "ledigePlasser": 12,
       "antallPlasser": 1450,
       "valgbar": true
     },
@@ -4632,7 +4641,7 @@
     "metadata": {
       "legekontor": "Flatåsen Legesenter DA",
       "tlf": "72 59 58 58",
-      "ledigePlasser": 3,
+      "ledigePlasser": 4,
       "antallPlasser": 950,
       "valgbar": true
     },
@@ -4739,7 +4748,7 @@
     "metadata": {
       "legekontor": "Hegra Legekontor",
       "tlf": "74 83 46 80",
-      "ledigePlasser": 84,
+      "ledigePlasser": 85,
       "antallPlasser": 900,
       "valgbar": true
     },
@@ -4763,7 +4772,7 @@
     "metadata": {
       "legekontor": "Sjøsiden Legesenter",
       "tlf": "73 80 95 00",
-      "ledigePlasser": 295,
+      "ledigePlasser": 296,
       "antallPlasser": 1300,
       "valgbar": true
     },
@@ -4855,7 +4864,7 @@
     "metadata": {
       "legekontor": "Melhus Legesenter AS",
       "tlf": "72 87 70 00",
-      "ledigePlasser": 31,
+      "ledigePlasser": 32,
       "antallPlasser": 1200,
       "valgbar": true
     },
@@ -4967,7 +4976,7 @@
     "metadata": {
       "legekontor": "Mathesongården Legesenter",
       "tlf": "73 87 04 80",
-      "ledigePlasser": 6,
+      "ledigePlasser": 4,
       "antallPlasser": 1500,
       "valgbar": true
     },
@@ -5107,7 +5116,7 @@
     "metadata": {
       "legekontor": "Øya Legesenter",
       "tlf": "72 54 38 60",
-      "ledigePlasser": 13,
+      "ledigePlasser": 16,
       "antallPlasser": 500,
       "valgbar": true
     },
@@ -5131,7 +5140,7 @@
     "metadata": {
       "legekontor": "Mathesongården Legesenter",
       "tlf": "73 87 04 80",
-      "ledigePlasser": 61,
+      "ledigePlasser": 62,
       "antallPlasser": 1100,
       "valgbar": true
     },
@@ -5168,7 +5177,7 @@
     "metadata": {
       "legekontor": "Valentinlyst Legesenter",
       "tlf": "73 82 97 97",
-      "ledigePlasser": 3,
+      "ledigePlasser": 2,
       "antallPlasser": 1300,
       "valgbar": true
     },
@@ -5282,7 +5291,7 @@
     "metadata": {
       "legekontor": "Nidelven legekontor AS",
       "tlf": "73 99 43 40",
-      "ledigePlasser": 39,
+      "ledigePlasser": 40,
       "antallPlasser": 700,
       "valgbar": true
     },
@@ -5464,7 +5473,7 @@
     "metadata": {
       "legekontor": "Tydal legekontor",
       "tlf": "73 81 58 40",
-      "ledigePlasser": 181,
+      "ledigePlasser": 183,
       "antallPlasser": 600,
       "valgbar": true
     },
@@ -5566,7 +5575,7 @@
     "metadata": {
       "legekontor": "Midtre Gauldal legekontor",
       "tlf": "72 43 03 20",
-      "ledigePlasser": 80,
+      "ledigePlasser": 79,
       "antallPlasser": 1030,
       "valgbar": true
     },
@@ -5702,7 +5711,7 @@
     "metadata": {
       "legekontor": "Ranheim Legesenter",
       "tlf": "73 82 58 00",
-      "ledigePlasser": 112,
+      "ledigePlasser": 114,
       "antallPlasser": 1300,
       "valgbar": true
     },

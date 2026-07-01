@@ -5,7 +5,7 @@
     "metadata": {
       "legekontor": "Gransdalen Legesenter Drift AS",
       "tlf": "22 90 26 26",
-      "ledigePlasser": 6,
+      "ledigePlasser": 2,
       "antallPlasser": 1350,
       "valgbar": true
     },
@@ -44,7 +44,7 @@
     "metadata": {
       "legekontor": "Vestkanttorget Legekontor AS",
       "tlf": "901 28 728",
-      "ledigePlasser": 18,
+      "ledigePlasser": 20,
       "antallPlasser": 2000,
       "valgbar": true
     },
@@ -68,7 +68,7 @@
     "metadata": {
       "legekontor": "Lindeberg Legesenter AS",
       "tlf": "23 14 20 20",
-      "ledigePlasser": 369,
+      "ledigePlasser": 373,
       "antallPlasser": 1200,
       "valgbar": true
     },
@@ -94,7 +94,7 @@
     "metadata": {
       "legekontor": "Bjerke Legesenter",
       "tlf": "23 37 13 30",
-      "ledigePlasser": 2,
+      "ledigePlasser": 3,
       "antallPlasser": 1100,
       "valgbar": true
     },
@@ -107,7 +107,7 @@
     "metadata": {
       "legekontor": "Grorud Legesenter",
       "tlf": "22 82 10 60",
-      "ledigePlasser": 29,
+      "ledigePlasser": 27,
       "antallPlasser": 1450,
       "valgbar": true
     },
@@ -175,7 +175,7 @@
     "metadata": {
       "legekontor": "Skøyenåsenlegene AS",
       "tlf": "22 75 72 70",
-      "ledigePlasser": 192,
+      "ledigePlasser": 191,
       "antallPlasser": 1750,
       "valgbar": true
     },
@@ -188,7 +188,7 @@
     "metadata": {
       "legekontor": "Lindeberg Legesenter AS",
       "tlf": "23 14 20 20",
-      "ledigePlasser": 125,
+      "ledigePlasser": 126,
       "antallPlasser": 1200,
       "valgbar": true
     },
@@ -201,7 +201,7 @@
     "metadata": {
       "legekontor": "Grønland Helsesenteret  AS",
       "tlf": "22 05 96 60",
-      "ledigePlasser": 13,
+      "ledigePlasser": 16,
       "antallPlasser": 2000,
       "valgbar": true
     },
@@ -260,7 +260,7 @@
     "metadata": {
       "legekontor": "Holmen Fastlegekontor",
       "tlf": "22 14 70 41",
-      "ledigePlasser": 607,
+      "ledigePlasser": 608,
       "antallPlasser": 1300,
       "valgbar": true
     },
@@ -273,7 +273,7 @@
     "metadata": {
       "legekontor": "Ensjøbyen Medisinske Senter",
       "tlf": "21 05 08 05",
-      "ledigePlasser": 8,
+      "ledigePlasser": 7,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -319,7 +319,7 @@
     "metadata": {
       "legekontor": "Storoklinikken",
       "tlf": "22 09 88 88",
-      "ledigePlasser": 278,
+      "ledigePlasser": 280,
       "antallPlasser": 2000,
       "valgbar": true
     },
@@ -343,7 +343,7 @@
     "metadata": {
       "legekontor": "Stovner Legesenter AS",
       "tlf": "23 34 41 40",
-      "ledigePlasser": 158,
+      "ledigePlasser": 161,
       "antallPlasser": 1200,
       "valgbar": true
     },
@@ -402,7 +402,7 @@
     "metadata": {
       "legekontor": "Groruddalen Legekontor",
       "tlf": "22 25 21 00",
-      "ledigePlasser": 153,
+      "ledigePlasser": 154,
       "antallPlasser": 1300,
       "valgbar": true
     },
@@ -509,7 +509,7 @@
     "metadata": {
       "legekontor": "Brynklinikken AS",
       "tlf": "22 06 65 50",
-      "ledigePlasser": 315,
+      "ledigePlasser": 317,
       "antallPlasser": 1550,
       "valgbar": true
     },
@@ -593,7 +593,7 @@
     "address": "Maridalsveien 323, 0872 OSLO",
     "metadata": {
       "legekontor": "Sterk Helse og Trening Nydalen AS",
-      "ledigePlasser": 281,
+      "ledigePlasser": 280,
       "antallPlasser": 1450,
       "valgbar": true
     },
@@ -617,7 +617,7 @@
     "metadata": {
       "legekontor": "Holbergs Plads Legesenter",
       "tlf": "23 29 29 70",
-      "ledigePlasser": 43,
+      "ledigePlasser": 45,
       "antallPlasser": 2200,
       "valgbar": true
     },
@@ -630,7 +630,7 @@
     "metadata": {
       "legekontor": "Frysja legekontor",
       "tlf": "22 02 62 10",
-      "ledigePlasser": 55,
+      "ledigePlasser": 56,
       "antallPlasser": 1100,
       "valgbar": true
     },
@@ -643,7 +643,7 @@
     "metadata": {
       "legekontor": "Legegruppen Manglerud",
       "tlf": "22 75 77 90",
-      "ledigePlasser": 206,
+      "ledigePlasser": 207,
       "antallPlasser": 1250,
       "valgbar": true
     },
@@ -737,7 +737,7 @@
     "metadata": {
       "legekontor": "Torshovdalen Legesenter AS",
       "tlf": "22 09 76 00",
-      "ledigePlasser": 252,
+      "ledigePlasser": 254,
       "antallPlasser": 1600,
       "valgbar": true
     },
@@ -763,7 +763,7 @@
     "metadata": {
       "legekontor": "Veitvetklinikken",
       "tlf": "22 80 39 60",
-      "ledigePlasser": 51,
+      "ledigePlasser": 49,
       "antallPlasser": 1300,
       "valgbar": true
     },
@@ -1044,7 +1044,7 @@
     "metadata": {
       "legekontor": "Lille Grensen Legesenter",
       "tlf": "23 10 40 20",
-      "ledigePlasser": 2,
+      "ledigePlasser": 1,
       "antallPlasser": 1400,
       "valgbar": true
     },
@@ -1079,7 +1079,7 @@
     "metadata": {
       "legekontor": "Bjørnsletta Legesenter",
       "tlf": "22 51 06 60",
-      "ledigePlasser": 18,
+      "ledigePlasser": 17,
       "antallPlasser": 1530,
       "valgbar": true
     },
@@ -1103,7 +1103,7 @@
     "metadata": {
       "legekontor": "Løren legesenter",
       "tlf": "21 04 01 50",
-      "ledigePlasser": 1183,
+      "ledigePlasser": 1181,
       "antallPlasser": 2500,
       "valgbar": true
     },
@@ -1116,7 +1116,7 @@
     "metadata": {
       "legekontor": "Mortensrud Mediclinic AS",
       "tlf": "23 19 19 00",
-      "ledigePlasser": 66,
+      "ledigePlasser": 63,
       "antallPlasser": 1300,
       "valgbar": true
     },
@@ -1142,7 +1142,7 @@
     "metadata": {
       "legekontor": "SiO Helse",
       "tlf": "22 85 33 00",
-      "ledigePlasser": 3,
+      "ledigePlasser": 2,
       "antallPlasser": 1150,
       "valgbar": true
     },
@@ -1247,7 +1247,7 @@
     "metadata": {
       "legekontor": "Bentsebro legesenter",
       "tlf": "23 18 31 00",
-      "ledigePlasser": 55,
+      "ledigePlasser": 56,
       "antallPlasser": 1400,
       "valgbar": true
     },
@@ -1317,7 +1317,7 @@
     "metadata": {
       "legekontor": "Harbitzalléen Legesenter A/S",
       "tlf": "22 51 58 58",
-      "ledigePlasser": 4,
+      "ledigePlasser": 6,
       "antallPlasser": 1300,
       "valgbar": true
     },
@@ -1398,7 +1398,7 @@
     "metadata": {
       "legekontor": "Centrum Fastlegegruppe AS",
       "tlf": "22 41 41 20",
-      "ledigePlasser": 6,
+      "ledigePlasser": 3,
       "antallPlasser": 1400,
       "valgbar": true
     },
@@ -1455,9 +1455,8 @@
     "title": "Somaye Darvishi",
     "address": "Armauer Hansens gate 14B, 0455 OSLO",
     "metadata": {
-      "legekontor": "Lindernklinikken AS",
-      "tlf": "400 22 867",
-      "ledigePlasser": 63,
+      "legekontor": "Capio Fastleger Lindern",
+      "ledigePlasser": 64,
       "antallPlasser": 1800,
       "valgbar": true
     },
@@ -1499,11 +1498,11 @@
   },
   {
     "title": "Aleksander Halvorsen Diesen",
-    "address": "Sørkedalsveien 10 C, 0369 Oslo",
+    "address": "Sørkedalsveien 10B, 0369 OSLO",
     "metadata": {
-      "legekontor": "Colosseumklinikken Allmennseksjonen",
-      "tlf": "23 19 60 40",
-      "ledigePlasser": 333,
+      "legekontor": "Frogner Spesialistsenter",
+      "tlf": "952 25 995",
+      "ledigePlasser": 332,
       "antallPlasser": 2000,
       "valgbar": true
     },
@@ -1549,7 +1548,7 @@
     "metadata": {
       "legekontor": "Sandaker Legekontor",
       "tlf": "23 39 58 00",
-      "ledigePlasser": 109,
+      "ledigePlasser": 108,
       "antallPlasser": 1100,
       "valgbar": true
     },
@@ -1573,7 +1572,7 @@
     "metadata": {
       "legekontor": "Romsås Legesenter",
       "tlf": "21 61 96 00",
-      "ledigePlasser": 157,
+      "ledigePlasser": 155,
       "antallPlasser": 1100,
       "valgbar": true
     },
@@ -1597,7 +1596,7 @@
     "metadata": {
       "legekontor": "Bertramjordet medisinske senter AS",
       "tlf": "22 75 29 70",
-      "ledigePlasser": 4,
+      "ledigePlasser": 3,
       "antallPlasser": 500,
       "valgbar": true
     },
@@ -1610,7 +1609,7 @@
     "metadata": {
       "legekontor": "Lille Grensen Legesenter",
       "tlf": "23 10 40 20",
-      "ledigePlasser": 14,
+      "ledigePlasser": 13,
       "antallPlasser": 2500,
       "valgbar": true
     },
@@ -1703,7 +1702,7 @@
     "metadata": {
       "legekontor": "SiO Helse",
       "tlf": "22 85 33 00",
-      "ledigePlasser": 211,
+      "ledigePlasser": 212,
       "antallPlasser": 1035,
       "valgbar": true
     },
@@ -1749,7 +1748,7 @@
     "metadata": {
       "legekontor": "Stovner Legesenter AS",
       "tlf": "23 34 41 40",
-      "ledigePlasser": 63,
+      "ledigePlasser": 62,
       "antallPlasser": 1200,
       "valgbar": true
     },
@@ -1918,7 +1917,7 @@
     "metadata": {
       "legekontor": "Ringen Livsstil og Legesenter AS",
       "tlf": "22 22 42 42",
-      "ledigePlasser": 49,
+      "ledigePlasser": 45,
       "antallPlasser": 700,
       "valgbar": true
     },
@@ -1953,7 +1952,7 @@
     "metadata": {
       "legekontor": "Din Lege AS",
       "tlf": "22 54 05 00",
-      "ledigePlasser": 9,
+      "ledigePlasser": 8,
       "antallPlasser": 2100,
       "valgbar": true
     },
@@ -2034,7 +2033,7 @@
     "metadata": {
       "legekontor": "SiO Helse",
       "tlf": "22 85 33 00",
-      "ledigePlasser": 9,
+      "ledigePlasser": 11,
       "antallPlasser": 1035,
       "valgbar": true
     },
@@ -2192,7 +2191,7 @@
     "address": "Niels Henrik Abels vei 2C, 0851 OSLO",
     "metadata": {
       "legekontor": "Ullevål Hageby Legesenter",
-      "ledigePlasser": 96,
+      "ledigePlasser": 97,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -2249,7 +2248,7 @@
     "metadata": {
       "legekontor": "SiO Helse",
       "tlf": "22 85 33 00",
-      "ledigePlasser": 8,
+      "ledigePlasser": 11,
       "antallPlasser": 1150,
       "valgbar": true
     },
@@ -2272,7 +2271,7 @@
     "address": "Niels Henrik Abels vei 2C, 0851 OSLO",
     "metadata": {
       "legekontor": "Ullevål Hageby Legesenter",
-      "ledigePlasser": 18,
+      "ledigePlasser": 17,
       "antallPlasser": 1200,
       "valgbar": true
     },
@@ -2329,7 +2328,7 @@
     "metadata": {
       "legekontor": "Brattlikollen Legesenter",
       "tlf": "23 38 32 50",
-      "ledigePlasser": 4,
+      "ledigePlasser": 3,
       "antallPlasser": 1450,
       "valgbar": true
     },
@@ -2342,7 +2341,7 @@
     "metadata": {
       "legekontor": "Kjelsås Legesenter",
       "tlf": "22 09 20 00",
-      "ledigePlasser": 98,
+      "ledigePlasser": 97,
       "antallPlasser": 1100,
       "valgbar": true
     },
@@ -2379,7 +2378,7 @@
     "metadata": {
       "legekontor": "Berg Legekontor DA",
       "tlf": "22 58 19 85",
-      "ledigePlasser": 54,
+      "ledigePlasser": 55,
       "antallPlasser": 1350,
       "valgbar": true
     },
@@ -2462,7 +2461,7 @@
     "metadata": {
       "legekontor": "Brynklinikken AS",
       "tlf": "22 06 65 50",
-      "ledigePlasser": 135,
+      "ledigePlasser": 136,
       "antallPlasser": 1100,
       "valgbar": true
     },
@@ -2475,7 +2474,7 @@
     "metadata": {
       "legekontor": "Grorud Legesenter",
       "tlf": "22 82 10 60",
-      "ledigePlasser": 31,
+      "ledigePlasser": 30,
       "antallPlasser": 1050,
       "valgbar": true
     },
@@ -2488,7 +2487,7 @@
     "metadata": {
       "legekontor": "Brattlikollen Legesenter",
       "tlf": "23 38 32 50",
-      "ledigePlasser": 79,
+      "ledigePlasser": 77,
       "antallPlasser": 500,
       "valgbar": true
     },
@@ -2501,7 +2500,7 @@
     "metadata": {
       "legekontor": "Storoklinikken",
       "tlf": "22 09 88 88",
-      "ledigePlasser": 143,
+      "ledigePlasser": 144,
       "antallPlasser": 2000,
       "valgbar": true
     },
@@ -2525,7 +2524,7 @@
     "metadata": {
       "legekontor": "Hoffsveien Legesenter",
       "tlf": "23 25 49 90",
-      "ledigePlasser": 73,
+      "ledigePlasser": 74,
       "antallPlasser": 1200,
       "valgbar": true
     },
@@ -2656,7 +2655,7 @@
     "metadata": {
       "legekontor": "Stensparken Medisinske Senter",
       "tlf": "23 33 35 80",
-      "ledigePlasser": 677,
+      "ledigePlasser": 674,
       "antallPlasser": 2000,
       "valgbar": true
     },
@@ -2669,7 +2668,7 @@
     "metadata": {
       "legekontor": "Kjelsåsmyra Legesenter AS",
       "tlf": "934 72 050",
-      "ledigePlasser": 259,
+      "ledigePlasser": 260,
       "antallPlasser": 800,
       "valgbar": true
     },
@@ -2728,7 +2727,7 @@
     "metadata": {
       "legekontor": "Centrum Fastlegegruppe AS",
       "tlf": "22 41 41 20",
-      "ledigePlasser": 4,
+      "ledigePlasser": 5,
       "antallPlasser": 600,
       "valgbar": true
     },
@@ -2741,7 +2740,7 @@
     "metadata": {
       "legekontor": "Grünerløkka Legesenter AS",
       "tlf": "22 37 00 39",
-      "ledigePlasser": 13,
+      "ledigePlasser": 12,
       "antallPlasser": 2500,
       "valgbar": true
     },
@@ -2778,7 +2777,7 @@
     "metadata": {
       "legekontor": "Østmarka legekontor AS",
       "tlf": "22 26 61 40",
-      "ledigePlasser": 568,
+      "ledigePlasser": 566,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -2813,7 +2812,7 @@
     "metadata": {
       "legekontor": "Lille Grensen Legesenter",
       "tlf": "23 10 40 20",
-      "ledigePlasser": 46,
+      "ledigePlasser": 45,
       "antallPlasser": 1400,
       "valgbar": true
     },
@@ -2885,7 +2884,7 @@
     "metadata": {
       "legekontor": "Sagene Allmennklinikk",
       "tlf": "22 02 61 00",
-      "ledigePlasser": 72,
+      "ledigePlasser": 71,
       "antallPlasser": 1400,
       "valgbar": true
     },
@@ -2898,7 +2897,7 @@
     "metadata": {
       "legekontor": "Vestli Legesenter",
       "tlf": "23 34 41 20",
-      "ledigePlasser": 59,
+      "ledigePlasser": 62,
       "antallPlasser": 1300,
       "valgbar": true
     },
@@ -2922,7 +2921,7 @@
     "metadata": {
       "legekontor": "SiO Helse",
       "tlf": "22 85 33 00",
-      "ledigePlasser": 14,
+      "ledigePlasser": 15,
       "antallPlasser": 1035,
       "valgbar": true
     },
@@ -2934,7 +2933,7 @@
     "address": "Niels Henrik Abels vei 2C, 0851 OSLO",
     "metadata": {
       "legekontor": "Ullevål Hageby Legesenter",
-      "ledigePlasser": 83,
+      "ledigePlasser": 84,
       "antallPlasser": 900,
       "valgbar": true
     },
@@ -2993,7 +2992,7 @@
     "metadata": {
       "legekontor": "Bøler Legesenter AS",
       "tlf": "22 75 71 00",
-      "ledigePlasser": 721,
+      "ledigePlasser": 720,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -3006,7 +3005,7 @@
     "metadata": {
       "legekontor": "Sinsen Legesenter AS",
       "tlf": "23 12 18 80",
-      "ledigePlasser": 58,
+      "ledigePlasser": 62,
       "antallPlasser": 2300,
       "valgbar": true
     },
@@ -3032,7 +3031,7 @@
     "metadata": {
       "legekontor": "Magnat Fastlegesenter AS",
       "tlf": "22 60 62 00",
-      "ledigePlasser": 203,
+      "ledigePlasser": 204,
       "antallPlasser": 1150,
       "valgbar": true
     },
@@ -3104,7 +3103,7 @@
     "metadata": {
       "legekontor": "Kantarellen Legesenter",
       "tlf": "22 76 33 60",
-      "ledigePlasser": 24,
+      "ledigePlasser": 25,
       "antallPlasser": 1650,
       "valgbar": true
     },
@@ -3175,7 +3174,7 @@
     "address": "Maridalsveien 323, 0872 OSLO",
     "metadata": {
       "legekontor": "Sterk Helse og Trening Nydalen AS",
-      "ledigePlasser": 92,
+      "ledigePlasser": 91,
       "antallPlasser": 500,
       "valgbar": true
     },
@@ -3244,7 +3243,7 @@
     "metadata": {
       "legekontor": "CC Vest legesenter",
       "tlf": "22 50 05 80",
-      "ledigePlasser": 83,
+      "ledigePlasser": 84,
       "antallPlasser": 1950,
       "valgbar": true
     },
@@ -3257,7 +3256,7 @@
     "metadata": {
       "legekontor": "Øvre Nydalen Legesenter AS",
       "tlf": "22 02 03 30",
-      "ledigePlasser": 14,
+      "ledigePlasser": 16,
       "antallPlasser": 1250,
       "valgbar": true
     },
@@ -3303,7 +3302,7 @@
     "metadata": {
       "legekontor": "Majorstuen Spesialist -og Fastlegekontor AS",
       "tlf": "22 36 85 00",
-      "ledigePlasser": 146,
+      "ledigePlasser": 144,
       "antallPlasser": 2180,
       "valgbar": true
     },
@@ -3454,7 +3453,7 @@
     "metadata": {
       "legekontor": "Rosenhoff Legegruppe AS",
       "tlf": "23 40 11 00",
-      "ledigePlasser": 10,
+      "ledigePlasser": 9,
       "antallPlasser": 1600,
       "valgbar": true
     },
@@ -3478,7 +3477,7 @@
     "metadata": {
       "legekontor": "Gamlebyen Legesenter",
       "tlf": "23 23 49 50",
-      "ledigePlasser": 75,
+      "ledigePlasser": 74,
       "antallPlasser": 2200,
       "valgbar": true
     },
@@ -3502,7 +3501,7 @@
     "metadata": {
       "legekontor": "Vital Legesenter AS",
       "tlf": "400 04 782",
-      "ledigePlasser": 16,
+      "ledigePlasser": 13,
       "antallPlasser": 1750,
       "valgbar": true
     },
@@ -3570,7 +3569,7 @@
     "metadata": {
       "legekontor": "SiO Helse",
       "tlf": "22 85 33 00",
-      "ledigePlasser": 17,
+      "ledigePlasser": 19,
       "antallPlasser": 1150,
       "valgbar": true
     },
@@ -3583,7 +3582,7 @@
     "metadata": {
       "legekontor": "Legene på Sinsen",
       "tlf": "23 22 73 00",
-      "ledigePlasser": 3,
+      "ledigePlasser": 2,
       "antallPlasser": 1400,
       "valgbar": true
     },
@@ -3662,7 +3661,7 @@
     "metadata": {
       "legekontor": "Rodeløkka Legesenter Fastlegegruppe",
       "tlf": "24 13 13 00",
-      "ledigePlasser": 73,
+      "ledigePlasser": 72,
       "antallPlasser": 1900,
       "valgbar": true
     },
@@ -3797,7 +3796,7 @@
     "metadata": {
       "legekontor": "Thor-Helge Langsholdt Legekontor",
       "tlf": "22 11 52 30",
-      "ledigePlasser": 15,
+      "ledigePlasser": 14,
       "antallPlasser": 1950,
       "valgbar": true
     },
@@ -3810,7 +3809,7 @@
     "metadata": {
       "legekontor": "Medpoint AS",
       "tlf": "23 19 50 00",
-      "ledigePlasser": 106,
+      "ledigePlasser": 102,
       "antallPlasser": 2300,
       "valgbar": true
     },
@@ -4011,7 +4010,7 @@
     "metadata": {
       "legekontor": "ABC Medisinske Senter",
       "tlf": "24 09 04 20",
-      "ledigePlasser": 196,
+      "ledigePlasser": 200,
       "antallPlasser": 1350,
       "valgbar": true
     },
@@ -4024,7 +4023,7 @@
     "metadata": {
       "legekontor": "Sæter legegruppe",
       "tlf": "23 13 40 50",
-      "ledigePlasser": 168,
+      "ledigePlasser": 167,
       "antallPlasser": 1500,
       "valgbar": true
     },
@@ -4037,7 +4036,7 @@
     "metadata": {
       "legekontor": "Grønland Helsesenteret  AS",
       "tlf": "22 05 96 60",
-      "ledigePlasser": 259,
+      "ledigePlasser": 258,
       "antallPlasser": 2000,
       "valgbar": true
     },
@@ -4050,7 +4049,7 @@
     "metadata": {
       "legekontor": "Mortensrud Mediclinic AS",
       "tlf": "23 19 19 00",
-      "ledigePlasser": 117,
+      "ledigePlasser": 115,
       "antallPlasser": 1300,
       "valgbar": true
     },
@@ -4087,7 +4086,7 @@
     "metadata": {
       "legekontor": "Øvre Nydalen Legesenter AS",
       "tlf": "22 02 03 30",
-      "ledigePlasser": 242,
+      "ledigePlasser": 239,
       "antallPlasser": 1300,
       "valgbar": true
     },
@@ -4113,7 +4112,7 @@
     "metadata": {
       "legekontor": "Oslo Mediq AS",
       "tlf": "21 39 07 11",
-      "ledigePlasser": 44,
+      "ledigePlasser": 45,
       "antallPlasser": 1950,
       "valgbar": true
     },
@@ -4137,7 +4136,7 @@
     "metadata": {
       "legekontor": "Christiania Medisinske Senter AS",
       "tlf": "22 44 08 00",
-      "ledigePlasser": 458,
+      "ledigePlasser": 457,
       "antallPlasser": 1500,
       "valgbar": true
     },
@@ -4150,7 +4149,7 @@
     "metadata": {
       "legekontor": "Bjørnsletta Legesenter",
       "tlf": "22 51 06 60",
-      "ledigePlasser": 4,
+      "ledigePlasser": 5,
       "antallPlasser": 1200,
       "valgbar": true
     },
@@ -4231,7 +4230,7 @@
     "metadata": {
       "legekontor": "Grønland Helsesenteret  AS",
       "tlf": "22 05 96 60",
-      "ledigePlasser": 215,
+      "ledigePlasser": 214,
       "antallPlasser": 1900,
       "valgbar": true
     },
@@ -4270,7 +4269,7 @@
     "metadata": {
       "legekontor": "Veitvetklinikken",
       "tlf": "22 80 39 60",
-      "ledigePlasser": 59,
+      "ledigePlasser": 60,
       "antallPlasser": 1300,
       "valgbar": true
     },
@@ -4283,7 +4282,7 @@
     "metadata": {
       "legekontor": "Vital Legesenter AS",
       "tlf": "400 04 782",
-      "ledigePlasser": 218,
+      "ledigePlasser": 219,
       "antallPlasser": 1500,
       "valgbar": true
     },
@@ -4296,7 +4295,7 @@
     "metadata": {
       "legekontor": "Magnat Fastlegesenter AS",
       "tlf": "22 60 62 00",
-      "ledigePlasser": 40,
+      "ledigePlasser": 41,
       "antallPlasser": 1250,
       "valgbar": true
     },
@@ -4309,7 +4308,7 @@
     "metadata": {
       "legekontor": "Rødtvedt Legesenter AS",
       "tlf": "22 82 10 20",
-      "ledigePlasser": 90,
+      "ledigePlasser": 88,
       "antallPlasser": 1400,
       "valgbar": true
     },
@@ -4396,7 +4395,7 @@
     "metadata": {
       "legekontor": "Marienlyst Legesenter",
       "tlf": "22 56 70 90",
-      "ledigePlasser": 480,
+      "ledigePlasser": 481,
       "antallPlasser": 1500,
       "valgbar": true
     },
@@ -4422,7 +4421,7 @@
     "metadata": {
       "legekontor": "Veitvetklinikken",
       "tlf": "22 80 39 60",
-      "ledigePlasser": 108,
+      "ledigePlasser": 107,
       "antallPlasser": 1300,
       "valgbar": true
     },
@@ -4468,7 +4467,7 @@
     "metadata": {
       "legekontor": "Stadion Medisinske Senter AS",
       "tlf": "22 23 23 33",
-      "ledigePlasser": 79,
+      "ledigePlasser": 78,
       "antallPlasser": 1400,
       "valgbar": true
     },
@@ -4481,7 +4480,7 @@
     "metadata": {
       "legekontor": "Gransdalen Legesenter Drift AS",
       "tlf": "22 90 26 26",
-      "ledigePlasser": 206,
+      "ledigePlasser": 207,
       "antallPlasser": 1200,
       "valgbar": true
     },
@@ -4577,7 +4576,7 @@
     "metadata": {
       "legekontor": "Nordseter Legekontor AS",
       "tlf": "23 16 83 90",
-      "ledigePlasser": 20,
+      "ledigePlasser": 19,
       "antallPlasser": 1350,
       "valgbar": true
     },
@@ -4634,7 +4633,7 @@
     "metadata": {
       "legekontor": "Kantarellen Legesenter",
       "tlf": "22 76 33 60",
-      "ledigePlasser": 75,
+      "ledigePlasser": 74,
       "antallPlasser": 950,
       "valgbar": true
     },
@@ -4647,7 +4646,7 @@
     "metadata": {
       "legekontor": "Furuset Legesenter DA",
       "tlf": "22 90 71 70",
-      "ledigePlasser": 193,
+      "ledigePlasser": 192,
       "antallPlasser": 1500,
       "valgbar": true
     },
@@ -4660,7 +4659,7 @@
     "metadata": {
       "legekontor": "Tåsenklinikken",
       "tlf": "23 00 59 40",
-      "ledigePlasser": 10,
+      "ledigePlasser": 9,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -4695,7 +4694,7 @@
     "metadata": {
       "legekontor": "St. Olav Medisinske",
       "tlf": "22 03 34 44",
-      "ledigePlasser": 130,
+      "ledigePlasser": 131,
       "antallPlasser": 2000,
       "valgbar": true
     },
@@ -4708,7 +4707,7 @@
     "metadata": {
       "legekontor": "Skøyenåsenlegene AS",
       "tlf": "22 75 72 70",
-      "ledigePlasser": 102,
+      "ledigePlasser": 103,
       "antallPlasser": 1500,
       "valgbar": true
     },
@@ -4732,7 +4731,7 @@
     "metadata": {
       "legekontor": "SiO Helse",
       "tlf": "22 85 33 00",
-      "ledigePlasser": 139,
+      "ledigePlasser": 140,
       "antallPlasser": 1150,
       "valgbar": true
     },
@@ -4745,7 +4744,7 @@
     "metadata": {
       "legekontor": "Oslo Helse",
       "tlf": "481 78 957",
-      "ledigePlasser": 246,
+      "ledigePlasser": 245,
       "antallPlasser": 1150,
       "valgbar": true
     },
@@ -4850,7 +4849,7 @@
     "metadata": {
       "legekontor": "Stovner Legesenter AS",
       "tlf": "23 34 41 40",
-      "ledigePlasser": 458,
+      "ledigePlasser": 456,
       "antallPlasser": 1200,
       "valgbar": true
     },
@@ -4863,7 +4862,7 @@
     "metadata": {
       "legekontor": "Bjølsen Legesenter",
       "tlf": "21 45 60 70",
-      "ledigePlasser": 134,
+      "ledigePlasser": 135,
       "antallPlasser": 1500,
       "valgbar": true
     },
@@ -5007,7 +5006,7 @@
     "metadata": {
       "legekontor": "Grünerløkka Legesenter AS",
       "tlf": "22 37 00 39",
-      "ledigePlasser": 2463,
+      "ledigePlasser": 2462,
       "antallPlasser": 2500,
       "valgbar": true
     },
@@ -5044,7 +5043,7 @@
     "metadata": {
       "legekontor": "Majorstukrysset legegruppe",
       "tlf": "22 95 55 90",
-      "ledigePlasser": 129,
+      "ledigePlasser": 130,
       "antallPlasser": 1450,
       "valgbar": true
     },
@@ -5057,7 +5056,7 @@
     "metadata": {
       "legekontor": "Best Helse Allmennleger",
       "tlf": "987 02 359",
-      "ledigePlasser": 395,
+      "ledigePlasser": 394,
       "antallPlasser": 2000,
       "valgbar": true
     },
@@ -5070,7 +5069,7 @@
     "metadata": {
       "legekontor": "Magnat Fastlegesenter AS",
       "tlf": "22 60 62 00",
-      "ledigePlasser": 14,
+      "ledigePlasser": 11,
       "antallPlasser": 650,
       "valgbar": true
     },
@@ -5083,7 +5082,7 @@
     "metadata": {
       "legekontor": "Ensjø Legesenter",
       "tlf": "23 03 50 10",
-      "ledigePlasser": 88,
+      "ledigePlasser": 86,
       "antallPlasser": 1200,
       "valgbar": true
     },
@@ -5155,7 +5154,7 @@
     "metadata": {
       "legekontor": "Øvre Nydalen Legesenter AS",
       "tlf": "22 02 03 30",
-      "ledigePlasser": 42,
+      "ledigePlasser": 36,
       "antallPlasser": 1400,
       "valgbar": true
     },
@@ -5214,7 +5213,7 @@
     "metadata": {
       "legekontor": "Kurbadet Legesenter",
       "tlf": "23 35 30 50",
-      "ledigePlasser": 2,
+      "ledigePlasser": 1,
       "antallPlasser": 1150,
       "valgbar": true
     },
@@ -5249,7 +5248,7 @@
     "metadata": {
       "legekontor": "Romsås Legesenter",
       "tlf": "21 61 96 00",
-      "ledigePlasser": 173,
+      "ledigePlasser": 172,
       "antallPlasser": 1400,
       "valgbar": true
     },
@@ -5288,7 +5287,7 @@
     "metadata": {
       "legekontor": "Medical City, avd. Sinsenklinikken",
       "tlf": "23 37 47 57",
-      "ledigePlasser": 14,
+      "ledigePlasser": 18,
       "antallPlasser": 1200,
       "valgbar": true
     },
@@ -5314,7 +5313,7 @@
     "metadata": {
       "legekontor": "Bøler Legesenter AS",
       "tlf": "22 75 71 00",
-      "ledigePlasser": 217,
+      "ledigePlasser": 218,
       "antallPlasser": 1400,
       "valgbar": true
     },
@@ -5340,7 +5339,7 @@
     "metadata": {
       "legekontor": "Symra Legesenter AS",
       "tlf": "22 28 03 11",
-      "ledigePlasser": 173,
+      "ledigePlasser": 170,
       "antallPlasser": 900,
       "valgbar": true
     },
@@ -5408,7 +5407,7 @@
     "metadata": {
       "legekontor": "SiO Helse",
       "tlf": "22 85 33 00",
-      "ledigePlasser": 20,
+      "ledigePlasser": 21,
       "antallPlasser": 460,
       "valgbar": true
     },
@@ -5488,7 +5487,7 @@
     "metadata": {
       "legekontor": "SiO Helse",
       "tlf": "22 85 33 00",
-      "ledigePlasser": 349,
+      "ledigePlasser": 351,
       "antallPlasser": 1150,
       "valgbar": true
     },
@@ -5630,7 +5629,7 @@
     "metadata": {
       "legekontor": "Carl Berner Legekontor AS",
       "tlf": "23 22 75 90",
-      "ledigePlasser": 101,
+      "ledigePlasser": 95,
       "antallPlasser": 2000,
       "valgbar": true
     },
@@ -5654,7 +5653,7 @@
     "metadata": {
       "legekontor": "Legene på St.Hanshaugen AS",
       "tlf": "23 19 60 80",
-      "ledigePlasser": 11,
+      "ledigePlasser": 10,
       "antallPlasser": 700,
       "valgbar": true
     },
@@ -5702,7 +5701,9 @@
     "metadata": {
       "legekontor": "Borgen Legesenter",
       "tlf": "22 96 09 60",
-      "antallPlasser": 1100
+      "ledigePlasser": 3,
+      "antallPlasser": 1100,
+      "valgbar": true
     },
     "lat": 59.937323,
     "lng": 10.702892
@@ -5713,7 +5714,7 @@
     "metadata": {
       "legekontor": "Alpha legegruppe",
       "tlf": "22 76 39 90",
-      "ledigePlasser": 27,
+      "ledigePlasser": 24,
       "antallPlasser": 1600,
       "valgbar": true
     },
@@ -5794,7 +5795,7 @@
     "metadata": {
       "legekontor": "SiO Helse",
       "tlf": "22 85 33 00",
-      "ledigePlasser": 11,
+      "ledigePlasser": 12,
       "antallPlasser": 920,
       "valgbar": true
     },
@@ -5820,7 +5821,7 @@
     "metadata": {
       "legekontor": "Frysja legekontor",
       "tlf": "22 02 62 10",
-      "ledigePlasser": 129,
+      "ledigePlasser": 131,
       "antallPlasser": 1800,
       "valgbar": true
     },
@@ -5833,7 +5834,7 @@
     "metadata": {
       "legekontor": "Lille Grensen Legesenter",
       "tlf": "23 10 40 20",
-      "ledigePlasser": 5,
+      "ledigePlasser": 6,
       "antallPlasser": 2000,
       "valgbar": true
     },
@@ -5947,7 +5948,7 @@
     "metadata": {
       "legekontor": "Din Lege AS",
       "tlf": "22 54 05 00",
-      "ledigePlasser": 63,
+      "ledigePlasser": 62,
       "antallPlasser": 1400,
       "valgbar": true
     },
@@ -6004,7 +6005,7 @@
     "metadata": {
       "legekontor": "Din Lege AS",
       "tlf": "22 54 05 00",
-      "ledigePlasser": 99,
+      "ledigePlasser": 100,
       "antallPlasser": 2500,
       "valgbar": true
     },
@@ -6098,7 +6099,7 @@
     "metadata": {
       "legekontor": "St. Olav Medisinske",
       "tlf": "22 03 34 44",
-      "ledigePlasser": 83,
+      "ledigePlasser": 84,
       "antallPlasser": 1700,
       "valgbar": true
     },
@@ -6194,7 +6195,7 @@
     "metadata": {
       "legekontor": "Christiania Medisinske Senter AS",
       "tlf": "22 44 08 00",
-      "ledigePlasser": 154,
+      "ledigePlasser": 157,
       "antallPlasser": 2000,
       "valgbar": true
     },
@@ -6203,11 +6204,11 @@
   },
   {
     "title": "Mathias Nicolai Johannessen Svanevik",
-    "address": "Sørkedalsveien 10 C, 0369 Oslo",
+    "address": "Sørkedalsveien 10B, 0369 OSLO",
     "metadata": {
-      "legekontor": "Colosseumklinikken Allmennseksjonen",
-      "tlf": "23 19 60 40",
-      "ledigePlasser": 232,
+      "legekontor": "Frogner Spesialistsenter",
+      "tlf": "952 25 995",
+      "ledigePlasser": 230,
       "antallPlasser": 2200,
       "valgbar": true
     },
@@ -6244,7 +6245,7 @@
     "metadata": {
       "legekontor": "Ringen Livsstil og Legesenter AS",
       "tlf": "22 22 42 42",
-      "ledigePlasser": 161,
+      "ledigePlasser": 160,
       "antallPlasser": 700,
       "valgbar": true
     },
@@ -6291,9 +6292,7 @@
     "address": "Sandakerveien 56G, 0477 OSLO",
     "metadata": {
       "legekontor": "Lilleborg Legekontor AS",
-      "ledigePlasser": 2,
-      "antallPlasser": 1200,
-      "valgbar": true
+      "antallPlasser": 1200
     },
     "lat": 59.938096,
     "lng": 10.767402
@@ -6304,7 +6303,7 @@
     "metadata": {
       "legekontor": "Bjørnsletta Legesenter",
       "tlf": "22 51 06 60",
-      "ledigePlasser": 18,
+      "ledigePlasser": 19,
       "antallPlasser": 1600,
       "valgbar": true
     },
@@ -6354,7 +6353,7 @@
     "metadata": {
       "legekontor": "Hoffsveien Legesenter",
       "tlf": "23 25 49 90",
-      "ledigePlasser": 170,
+      "ledigePlasser": 169,
       "antallPlasser": 1300,
       "valgbar": true
     },
@@ -6424,7 +6423,7 @@
     "metadata": {
       "legekontor": "Avesta Medics Legesenter",
       "tlf": "400 44 741",
-      "ledigePlasser": 83,
+      "ledigePlasser": 84,
       "antallPlasser": 1500,
       "valgbar": true
     },
@@ -6437,7 +6436,7 @@
     "metadata": {
       "legekontor": "Ullern Legesenter",
       "tlf": "22 51 11 00",
-      "ledigePlasser": 17,
+      "ledigePlasser": 16,
       "antallPlasser": 1450,
       "valgbar": true
     },
@@ -6450,7 +6449,7 @@
     "metadata": {
       "legekontor": "SiO Helse",
       "tlf": "22 85 33 00",
-      "ledigePlasser": 458,
+      "ledigePlasser": 460,
       "antallPlasser": 1350,
       "valgbar": true
     },
@@ -6645,7 +6644,7 @@
     "metadata": {
       "legekontor": "Skøyen Helsesenter AS",
       "tlf": "22 06 43 00",
-      "ledigePlasser": 12,
+      "ledigePlasser": 14,
       "antallPlasser": 1650,
       "valgbar": true
     },
@@ -6658,7 +6657,7 @@
     "metadata": {
       "legekontor": "Øvre Nydalen Legesenter AS",
       "tlf": "22 02 03 30",
-      "ledigePlasser": 149,
+      "ledigePlasser": 152,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -6682,7 +6681,7 @@
     "metadata": {
       "legekontor": "Kurbadet Legesenter",
       "tlf": "23 35 30 50",
-      "ledigePlasser": 76,
+      "ledigePlasser": 78,
       "antallPlasser": 1250,
       "valgbar": true
     },
@@ -6774,7 +6773,7 @@
     "metadata": {
       "legekontor": "Bjørndal Legesenter AS",
       "tlf": "22 75 34 80",
-      "ledigePlasser": 565,
+      "ledigePlasser": 568,
       "antallPlasser": 2000,
       "valgbar": true
     },
@@ -6833,7 +6832,7 @@
     "metadata": {
       "legekontor": "Sagene Allmennklinikk",
       "tlf": "22 02 61 00",
-      "ledigePlasser": 7,
+      "ledigePlasser": 6,
       "antallPlasser": 1125,
       "valgbar": true
     },
@@ -6846,7 +6845,7 @@
     "metadata": {
       "legekontor": "Vital Legesenter AS",
       "tlf": "400 04 782",
-      "ledigePlasser": 670,
+      "ledigePlasser": 673,
       "antallPlasser": 1500,
       "valgbar": true
     },
@@ -6859,7 +6858,7 @@
     "metadata": {
       "legekontor": "Stovner Legesenter AS",
       "tlf": "23 34 41 40",
-      "ledigePlasser": 51,
+      "ledigePlasser": 50,
       "antallPlasser": 1200,
       "valgbar": true
     },
@@ -6920,7 +6919,7 @@
     "metadata": {
       "legekontor": "Tøyen legekontor",
       "tlf": "22 19 35 23",
-      "ledigePlasser": 24,
+      "ledigePlasser": 23,
       "antallPlasser": 1800,
       "valgbar": true
     },
@@ -6941,12 +6940,24 @@
     "lng": 10.9024571
   },
   {
+    "title": "Hans Jørgen Zerwekh",
+    "address": "Armauer Hansens gate 14B, 0455 OSLO",
+    "metadata": {
+      "legekontor": "Capio Fastleger Lindern",
+      "ledigePlasser": 501,
+      "antallPlasser": 501,
+      "valgbar": true
+    },
+    "lat": 59.934474,
+    "lng": 10.740186
+  },
+  {
     "title": "Ben Li Zhang",
     "address": "Eckersbergsgate 30, 0260 OSLO",
     "metadata": {
       "legekontor": "Atrium legesenter",
       "tlf": "22 44 56 00",
-      "ledigePlasser": 100,
+      "ledigePlasser": 102,
       "antallPlasser": 1800,
       "valgbar": true
     },
@@ -7064,7 +7075,7 @@
     "metadata": {
       "legekontor": "SiO Helse",
       "tlf": "22 85 33 00",
-      "ledigePlasser": 100,
+      "ledigePlasser": 102,
       "antallPlasser": 1150,
       "valgbar": true
     },
@@ -7123,7 +7134,7 @@
     "metadata": {
       "legekontor": "Øvre Nydalen Legesenter AS",
       "tlf": "22 02 03 30",
-      "ledigePlasser": 86,
+      "ledigePlasser": 87,
       "antallPlasser": 1700,
       "valgbar": true
     },
@@ -7136,7 +7147,7 @@
     "metadata": {
       "legekontor": "Oslo Mediq AS",
       "tlf": "21 39 07 11",
-      "ledigePlasser": 412,
+      "ledigePlasser": 407,
       "antallPlasser": 500,
       "valgbar": true
     },

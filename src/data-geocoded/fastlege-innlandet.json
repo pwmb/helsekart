@@ -5,7 +5,7 @@
     "metadata": {
       "legekontor": "Elverum Helsesenter AS",
       "tlf": "62 41 61 66",
-      "ledigePlasser": 35,
+      "ledigePlasser": 33,
       "antallPlasser": 1050,
       "valgbar": true
     },
@@ -18,7 +18,7 @@
     "metadata": {
       "legekontor": "Tangen Legesenter",
       "tlf": "62 58 22 00",
-      "ledigePlasser": 6,
+      "ledigePlasser": 3,
       "antallPlasser": 1150,
       "valgbar": true
     },
@@ -31,7 +31,7 @@
     "metadata": {
       "legekontor": "Åsnes Legesenter",
       "tlf": "62 95 08 40",
-      "ledigePlasser": 133,
+      "ledigePlasser": 134,
       "antallPlasser": 900,
       "valgbar": true
     },
@@ -57,7 +57,7 @@
     "metadata": {
       "legekontor": "Brugata Legekontor",
       "tlf": "62 81 40 00",
-      "ledigePlasser": 48,
+      "ledigePlasser": 49,
       "antallPlasser": 1300,
       "valgbar": true
     },
@@ -118,7 +118,7 @@
     "metadata": {
       "legekontor": "Kolbu Legesenter",
       "tlf": "61 19 88 00",
-      "ledigePlasser": 5,
+      "ledigePlasser": 4,
       "antallPlasser": 675,
       "valgbar": true
     },
@@ -153,7 +153,7 @@
     "metadata": {
       "legekontor": "Våler Legesenter",
       "tlf": "62 42 41 70",
-      "ledigePlasser": 26,
+      "ledigePlasser": 27,
       "antallPlasser": 800,
       "valgbar": true
     },
@@ -188,9 +188,7 @@
     "metadata": {
       "legekontor": "Brumunddal Legesenter",
       "tlf": "62 33 03 00",
-      "ledigePlasser": 1,
-      "antallPlasser": 1200,
-      "valgbar": true
+      "antallPlasser": 1200
     },
     "lat": 60.8839554,
     "lng": 10.9403037
@@ -238,7 +236,9 @@
     "metadata": {
       "legekontor": "Midtbyen Legesenter Kongsvinger",
       "tlf": "62 88 80 20",
-      "antallPlasser": 800
+      "ledigePlasser": 41,
+      "antallPlasser": 850,
+      "valgbar": true
     },
     "lat": 60.1918904,
     "lng": 11.996254
@@ -295,7 +295,7 @@
     "metadata": {
       "legekontor": "Åsnes Legesenter",
       "tlf": "62 95 08 40",
-      "ledigePlasser": 114,
+      "ledigePlasser": 115,
       "antallPlasser": 900,
       "valgbar": true
     },
@@ -319,7 +319,7 @@
     "metadata": {
       "legekontor": "Dovre kommunale legesenter",
       "tlf": "61 24 22 00",
-      "ledigePlasser": 695,
+      "ledigePlasser": 694,
       "antallPlasser": 1200,
       "valgbar": true
     },
@@ -367,7 +367,7 @@
     "metadata": {
       "legekontor": "Vinstra legekontor",
       "tlf": "61 21 63 00",
-      "ledigePlasser": 8,
+      "ledigePlasser": 7,
       "antallPlasser": 600,
       "valgbar": true
     },
@@ -391,7 +391,7 @@
     "metadata": {
       "legekontor": "Labyrinten Legesenter",
       "tlf": "62 41 91 60",
-      "ledigePlasser": 223,
+      "ledigePlasser": 224,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -639,7 +639,7 @@
     "metadata": {
       "legekontor": "Hov Legesenter",
       "tlf": "61 12 99 20",
-      "ledigePlasser": 3,
+      "ledigePlasser": 1,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -707,7 +707,7 @@
     "metadata": {
       "legekontor": "Hov Legesenter",
       "tlf": "61 12 99 20",
-      "ledigePlasser": 9,
+      "ledigePlasser": 8,
       "antallPlasser": 950,
       "valgbar": true
     },
@@ -836,7 +836,7 @@
     "metadata": {
       "legekontor": "Innlandet Legesenter AS",
       "tlf": "62 55 54 00",
-      "ledigePlasser": 121,
+      "ledigePlasser": 120,
       "antallPlasser": 1700,
       "valgbar": true
     },
@@ -939,7 +939,7 @@
     "metadata": {
       "legekontor": "Nymosvingen Legesenter AS",
       "tlf": "61 59 60 00",
-      "ledigePlasser": 373,
+      "ledigePlasser": 371,
       "antallPlasser": 950,
       "valgbar": true
     },
@@ -985,7 +985,7 @@
     "metadata": {
       "legekontor": "Nymosvingen Legesenter AS",
       "tlf": "61 59 60 00",
-      "ledigePlasser": 271,
+      "ledigePlasser": 272,
       "antallPlasser": 1300,
       "valgbar": true
     },
@@ -1109,6 +1109,17 @@
     "lng": 10.7767469
   },
   {
+    "title": "Joseph Lakmaal Fernando",
+    "address": "Tiurveien 15, 2120 SAGSTUA",
+    "metadata": {
+      "legekontor": "Nord-Odal Legesenter",
+      "tlf": "62 97 82 00",
+      "antallPlasser": 880
+    },
+    "lat": 60.3933483,
+    "lng": 11.5444546
+  },
+  {
     "title": "Mads Engdal Fjellheim",
     "address": "Stasjonsvegen 7, 2340 LØTEN",
     "metadata": {
@@ -1230,7 +1241,7 @@
     "metadata": {
       "legekontor": "Elverum Helsesenter AS",
       "tlf": "62 41 61 66",
-      "ledigePlasser": 11,
+      "ledigePlasser": 10,
       "antallPlasser": 875,
       "valgbar": true
     },
@@ -1322,9 +1333,7 @@
     "metadata": {
       "legekontor": "Gjøvik Legesenter",
       "tlf": "61 14 05 00",
-      "ledigePlasser": 10,
-      "antallPlasser": 900,
-      "valgbar": true
+      "antallPlasser": 900
     },
     "lat": 60.7887617,
     "lng": 10.6878228
@@ -1853,7 +1862,7 @@
     "metadata": {
       "legekontor": "Moelv Legesenter",
       "tlf": "62 33 55 30",
-      "ledigePlasser": 193,
+      "ledigePlasser": 191,
       "antallPlasser": 800,
       "valgbar": true
     },
@@ -2087,7 +2096,7 @@
     "metadata": {
       "legekontor": "Antonia Karper",
       "tlf": "61 05 50 90",
-      "ledigePlasser": 25,
+      "ledigePlasser": 26,
       "antallPlasser": 900,
       "valgbar": true
     },
@@ -2166,7 +2175,7 @@
     "metadata": {
       "legekontor": "Elverum Helsesenter AS",
       "tlf": "62 41 61 66",
-      "ledigePlasser": 26,
+      "ledigePlasser": 25,
       "antallPlasser": 1300,
       "valgbar": true
     },
@@ -2190,7 +2199,7 @@
     "metadata": {
       "legekontor": "Capio Fastleger Gjøvik",
       "tlf": "61 17 42 50",
-      "ledigePlasser": 94,
+      "ledigePlasser": 91,
       "antallPlasser": 2200,
       "valgbar": true
     },
@@ -2378,7 +2387,7 @@
     "metadata": {
       "legekontor": "Brumunddal Legesenter",
       "tlf": "62 33 03 00",
-      "ledigePlasser": 251,
+      "ledigePlasser": 249,
       "antallPlasser": 800,
       "valgbar": true
     },
@@ -2402,7 +2411,7 @@
     "metadata": {
       "legekontor": "Nymosvingen Legesenter AS",
       "tlf": "61 59 60 00",
-      "ledigePlasser": 11,
+      "ledigePlasser": 12,
       "antallPlasser": 600,
       "valgbar": true
     },
@@ -2733,7 +2742,7 @@
     "metadata": {
       "legekontor": "Rendalen Legekontor",
       "tlf": "62 46 63 50",
-      "ledigePlasser": 386,
+      "ledigePlasser": 387,
       "antallPlasser": 900,
       "valgbar": true
     },
@@ -2867,7 +2876,7 @@
     "metadata": {
       "legekontor": "Åsnes Legesenter",
       "tlf": "62 95 08 40",
-      "ledigePlasser": 145,
+      "ledigePlasser": 144,
       "antallPlasser": 750,
       "valgbar": true
     },
@@ -2926,7 +2935,7 @@
     "metadata": {
       "legekontor": "Legetorget, Lillehammer DA",
       "tlf": "917 66 000",
-      "ledigePlasser": 10,
+      "ledigePlasser": 7,
       "antallPlasser": 600,
       "valgbar": true
     },
@@ -2939,7 +2948,7 @@
     "metadata": {
       "legekontor": "Bryggeriet Legesenter DA",
       "tlf": "61 22 19 10",
-      "ledigePlasser": 5,
+      "ledigePlasser": 6,
       "antallPlasser": 1300,
       "valgbar": true
     },
@@ -3033,7 +3042,7 @@
     "metadata": {
       "legekontor": "Øyer og Tretten Legekontor",
       "tlf": "61 26 82 00",
-      "ledigePlasser": 271,
+      "ledigePlasser": 270,
       "antallPlasser": 750,
       "valgbar": true
     },
@@ -3068,7 +3077,7 @@
     "metadata": {
       "legekontor": "Labyrinten Legesenter",
       "tlf": "62 41 91 60",
-      "ledigePlasser": 56,
+      "ledigePlasser": 55,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -3149,7 +3158,7 @@
     "metadata": {
       "legekontor": "Vinstra legekontor",
       "tlf": "61 21 63 00",
-      "ledigePlasser": 38,
+      "ledigePlasser": 39,
       "antallPlasser": 700,
       "valgbar": true
     },
@@ -3421,7 +3430,7 @@
     "metadata": {
       "legekontor": "Brumunddal Legesenter",
       "tlf": "62 33 03 00",
-      "ledigePlasser": 207,
+      "ledigePlasser": 204,
       "antallPlasser": 1400,
       "valgbar": true
     },
@@ -3504,7 +3513,7 @@
     "metadata": {
       "legekontor": "Kommunelegene i Stor-Elvdal",
       "tlf": "62 46 34 00",
-      "ledigePlasser": 14,
+      "ledigePlasser": 13,
       "antallPlasser": 400,
       "valgbar": true
     },
@@ -3550,7 +3559,7 @@
     "metadata": {
       "legekontor": "Vågå Helsesenter",
       "tlf": "61 29 37 00",
-      "ledigePlasser": 9,
+      "ledigePlasser": 10,
       "antallPlasser": 800,
       "valgbar": true
     },
@@ -3596,7 +3605,7 @@
     "metadata": {
       "legekontor": "Lillehammer Legesenter DA",
       "tlf": "61 05 45 00",
-      "ledigePlasser": 5,
+      "ledigePlasser": 2,
       "antallPlasser": 400,
       "valgbar": true
     },
@@ -3745,7 +3754,7 @@
     "metadata": {
       "legekontor": "Midtbyen Legesenter Kongsvinger",
       "tlf": "62 88 80 20",
-      "ledigePlasser": 357,
+      "ledigePlasser": 360,
       "antallPlasser": 1200,
       "valgbar": true
     },
@@ -4427,7 +4436,7 @@
     "metadata": {
       "legekontor": "Innlandet Legesenter AS",
       "tlf": "62 55 54 00",
-      "ledigePlasser": 5,
+      "ledigePlasser": 6,
       "antallPlasser": 1250,
       "valgbar": true
     },
@@ -4723,7 +4732,7 @@
     "metadata": {
       "legekontor": "Stortorget Legesenter",
       "tlf": "62 53 82 00",
-      "ledigePlasser": 15,
+      "ledigePlasser": 14,
       "antallPlasser": 1200,
       "valgbar": true
     },
@@ -4782,7 +4791,7 @@
     "metadata": {
       "legekontor": "Gausdal legesenter",
       "tlf": "61 25 66 00",
-      "ledigePlasser": 5,
+      "ledigePlasser": 4,
       "antallPlasser": 733,
       "valgbar": true
     },

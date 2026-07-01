@@ -5402,5 +5402,21 @@
   "Tongavegen 20, 5635 HATLESTRAND": {
     "lat": 60.058273,
     "lng": 5.917926
+  },
+  "Lumberveien 27E, 4621 KRISTIANSAND S": {
+    "lat": 58.12518,
+    "lng": 7.970174
+  },
+  "Jacob Borchs gate 21, 3012 DRAMMEN": {
+    "lat": 59.743348,
+    "lng": 10.23376
+  },
+  "Midtvågveien 6, 6630 TINGVOLL": {
+    "lat": 62.9123505,
+    "lng": 8.2068244
+  },
+  "Sørkedalsveien 10B, 0369 OSLO": {
+    "lat": 59.9312563,
+    "lng": 10.7094166
   }
 }

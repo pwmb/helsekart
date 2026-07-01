@@ -244,7 +244,7 @@
     "metadata": {
       "legekontor": "ETS Medisinske Senter",
       "tlf": "77 08 95 65",
-      "ledigePlasser": 36,
+      "ledigePlasser": 34,
       "antallPlasser": 850,
       "valgbar": true
     },
@@ -503,7 +503,7 @@
     "metadata": {
       "legekontor": "Bardu Legekontor",
       "tlf": "77 18 55 00",
-      "ledigePlasser": 45,
+      "ledigePlasser": 44,
       "antallPlasser": 500,
       "valgbar": true
     },
@@ -619,7 +619,7 @@
     "metadata": {
       "legekontor": "Skjervøy legekontor",
       "tlf": "77 77 57 00",
-      "ledigePlasser": 111,
+      "ledigePlasser": 110,
       "antallPlasser": 750,
       "valgbar": true
     },
@@ -821,7 +821,7 @@
     "metadata": {
       "legekontor": "Astafjordlegen",
       "tlf": "77 17 40 00",
-      "ledigePlasser": 43,
+      "ledigePlasser": 42,
       "antallPlasser": 600,
       "valgbar": true
     },
@@ -847,7 +847,7 @@
     "metadata": {
       "legekontor": "Tromsøya Legesenter AS",
       "tlf": "77 33 30 00",
-      "ledigePlasser": 34,
+      "ledigePlasser": 33,
       "antallPlasser": 800,
       "valgbar": true
     },
@@ -882,7 +882,7 @@
     "metadata": {
       "legekontor": "Bardu Legekontor",
       "tlf": "77 18 55 00",
-      "ledigePlasser": 37,
+      "ledigePlasser": 38,
       "antallPlasser": 320,
       "valgbar": true
     },
@@ -928,7 +928,7 @@
     "metadata": {
       "legekontor": "Storsteinnes Legekontor",
       "tlf": "77 72 21 50",
-      "ledigePlasser": 53,
+      "ledigePlasser": 52,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -941,7 +941,9 @@
     "metadata": {
       "legekontor": "Kaia Legesenter",
       "tlf": "77 60 80 50",
-      "antallPlasser": 720
+      "ledigePlasser": 3,
+      "antallPlasser": 720,
+      "valgbar": true
     },
     "lat": 69.6510011,
     "lng": 18.9594511
@@ -1412,7 +1414,7 @@
     "metadata": {
       "legekontor": "Tromsdalen Legesenter",
       "tlf": "77 63 60 00",
-      "ledigePlasser": 108,
+      "ledigePlasser": 109,
       "antallPlasser": 970,
       "valgbar": true
     },
@@ -1519,7 +1521,7 @@
     "metadata": {
       "legekontor": "Legekontoret i Nordreisa",
       "tlf": "77 58 81 00",
-      "ledigePlasser": 9,
+      "ledigePlasser": 7,
       "antallPlasser": 680,
       "valgbar": true
     },
@@ -1589,7 +1591,7 @@
     "metadata": {
       "legekontor": "Bardu Legekontor",
       "tlf": "77 18 55 00",
-      "ledigePlasser": 88,
+      "ledigePlasser": 87,
       "antallPlasser": 700,
       "valgbar": true
     },
@@ -1670,7 +1672,7 @@
     "metadata": {
       "legekontor": "Tromsøya Legesenter AS",
       "tlf": "77 33 30 00",
-      "ledigePlasser": 489,
+      "ledigePlasser": 490,
       "antallPlasser": 900,
       "valgbar": true
     },
@@ -1777,7 +1779,7 @@
     "metadata": {
       "legekontor": "Bardu Legekontor",
       "tlf": "77 18 55 00",
-      "ledigePlasser": 46,
+      "ledigePlasser": 45,
       "antallPlasser": 320,
       "valgbar": true
     },
@@ -1983,7 +1985,7 @@
     "metadata": {
       "legekontor": "Kraft universitetshelsesenter",
       "tlf": "950 47 400",
-      "ledigePlasser": 11,
+      "ledigePlasser": 12,
       "antallPlasser": 500,
       "valgbar": true
     },
@@ -2031,7 +2033,7 @@
     "metadata": {
       "legekontor": "Sørbyen legesenter",
       "tlf": "77 66 11 50",
-      "ledigePlasser": 9,
+      "ledigePlasser": 10,
       "antallPlasser": 1100,
       "valgbar": true
     },
@@ -2090,7 +2092,7 @@
     "metadata": {
       "legekontor": "Kaia Legesenter",
       "tlf": "77 60 80 50",
-      "ledigePlasser": 11,
+      "ledigePlasser": 10,
       "antallPlasser": 1100,
       "valgbar": true
     },
@@ -2385,9 +2387,7 @@
     "metadata": {
       "legekontor": "Utsikten Legesenter DA",
       "tlf": "77 60 63 30",
-      "ledigePlasser": 1,
-      "antallPlasser": 1100,
-      "valgbar": true
+      "antallPlasser": 1100
     },
     "lat": 69.6946752,
     "lng": 19.0021419
@@ -2525,7 +2525,7 @@
     "metadata": {
       "legekontor": "Skansen Legekontor",
       "tlf": "77 60 17 17",
-      "ledigePlasser": 6,
+      "ledigePlasser": 5,
       "antallPlasser": 1100,
       "valgbar": true
     },
@@ -2549,7 +2549,7 @@
     "metadata": {
       "legekontor": "Storsteinnes Legekontor",
       "tlf": "77 72 21 50",
-      "ledigePlasser": 97,
+      "ledigePlasser": 96,
       "antallPlasser": 600,
       "valgbar": true
     },

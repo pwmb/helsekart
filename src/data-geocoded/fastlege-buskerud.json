@@ -75,7 +75,7 @@
     "metadata": {
       "legekontor": "Kommunelegen i Flå",
       "tlf": "32 05 36 27",
-      "ledigePlasser": 287,
+      "ledigePlasser": 286,
       "antallPlasser": 700,
       "valgbar": true
     },
@@ -129,6 +129,19 @@
     },
     "lat": 59.7349584,
     "lng": 9.8694428
+  },
+  {
+    "title": "Theodore Averroes",
+    "address": "Jacob Borchs gate 21, 3012 DRAMMEN",
+    "metadata": {
+      "legekontor": "Nor Medic",
+      "tlf": "940 02 044",
+      "ledigePlasser": 500,
+      "antallPlasser": 500,
+      "valgbar": true
+    },
+    "lat": 59.743348,
+    "lng": 10.23376
   },
   {
     "title": "Ida Bang",
@@ -323,7 +336,7 @@
     "metadata": {
       "legekontor": "Noresund legekontor",
       "tlf": "32 15 09 00",
-      "ledigePlasser": 219,
+      "ledigePlasser": 222,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -336,7 +349,7 @@
     "metadata": {
       "legekontor": "Fredfoss Legesenter AS",
       "tlf": "32 75 75 50",
-      "ledigePlasser": 53,
+      "ledigePlasser": 52,
       "antallPlasser": 500,
       "valgbar": true
     },
@@ -349,7 +362,7 @@
     "metadata": {
       "legekontor": "Hotvet legesenter AS",
       "tlf": "31 02 13 00",
-      "ledigePlasser": 298,
+      "ledigePlasser": 296,
       "antallPlasser": 500,
       "valgbar": true
     },
@@ -531,7 +544,7 @@
     "metadata": {
       "legekontor": "Legene på Sundvollen",
       "tlf": "31 41 50 05",
-      "ledigePlasser": 154,
+      "ledigePlasser": 153,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -555,7 +568,7 @@
     "metadata": {
       "legekontor": "Hotvet legesenter AS",
       "tlf": "31 02 13 00",
-      "ledigePlasser": 413,
+      "ledigePlasser": 412,
       "antallPlasser": 500,
       "valgbar": true
     },
@@ -627,7 +640,7 @@
     "metadata": {
       "legekontor": "Numedal Legesenter",
       "tlf": "31 02 28 60",
-      "ledigePlasser": 82,
+      "ledigePlasser": 83,
       "antallPlasser": 800,
       "valgbar": true
     },
@@ -640,7 +653,7 @@
     "metadata": {
       "legekontor": "Drammen Legesenter DA",
       "tlf": "32 25 41 20",
-      "ledigePlasser": 18,
+      "ledigePlasser": 17,
       "antallPlasser": 2000,
       "valgbar": true
     },
@@ -712,7 +725,7 @@
     "metadata": {
       "legekontor": "Tranby Legesenter",
       "tlf": "32 85 87 10",
-      "ledigePlasser": 4,
+      "ledigePlasser": 2,
       "antallPlasser": 1100,
       "valgbar": true
     },
@@ -905,7 +918,7 @@
     "metadata": {
       "legekontor": "Sentrum Legekontor Drammen",
       "tlf": "32 83 20 60",
-      "ledigePlasser": 14,
+      "ledigePlasser": 16,
       "antallPlasser": 1650,
       "valgbar": true
     },
@@ -962,7 +975,7 @@
     "metadata": {
       "legekontor": "Regnbuen Legekontor",
       "tlf": "32 24 04 42",
-      "ledigePlasser": 151,
+      "ledigePlasser": 152,
       "antallPlasser": 700,
       "valgbar": true
     },
@@ -1210,7 +1223,7 @@
     "metadata": {
       "legekontor": "Strømsø Legesenter",
       "tlf": "32 21 38 60",
-      "ledigePlasser": 8,
+      "ledigePlasser": 10,
       "antallPlasser": 1500,
       "valgbar": true
     },
@@ -1247,7 +1260,7 @@
     "metadata": {
       "legekontor": "Hol kommune Legetjenesten",
       "tlf": "32 09 22 50",
-      "ledigePlasser": 13,
+      "ledigePlasser": 14,
       "antallPlasser": 400,
       "valgbar": true
     },
@@ -1363,7 +1376,7 @@
     "metadata": {
       "legekontor": "Eiker Legekontor AS",
       "tlf": "450 74 499",
-      "ledigePlasser": 160,
+      "ledigePlasser": 159,
       "antallPlasser": 1100,
       "valgbar": true
     },
@@ -1433,7 +1446,7 @@
     "metadata": {
       "legekontor": "Drammen Legesenter DA",
       "tlf": "32 25 41 20",
-      "ledigePlasser": 43,
+      "ledigePlasser": 44,
       "antallPlasser": 1300,
       "valgbar": true
     },
@@ -1470,7 +1483,7 @@
     "metadata": {
       "legekontor": "Torget Helsesenter AS",
       "tlf": "32 83 32 83",
-      "ledigePlasser": 218,
+      "ledigePlasser": 222,
       "antallPlasser": 1700,
       "valgbar": true
     },
@@ -1494,7 +1507,7 @@
     "metadata": {
       "legekontor": "Geithus Helsesenter",
       "tlf": "32 78 10 33",
-      "ledigePlasser": 95,
+      "ledigePlasser": 93,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -1540,7 +1553,7 @@
     "metadata": {
       "legekontor": "Gulskogen legesenter",
       "tlf": "32 25 44 90",
-      "ledigePlasser": 118,
+      "ledigePlasser": 120,
       "antallPlasser": 2000,
       "valgbar": true
     },
@@ -1553,7 +1566,7 @@
     "metadata": {
       "legekontor": "Geithus Helsesenter",
       "tlf": "32 78 10 33",
-      "ledigePlasser": 15,
+      "ledigePlasser": 16,
       "antallPlasser": 800,
       "valgbar": true
     },
@@ -1634,9 +1647,7 @@
     "metadata": {
       "legekontor": "Ringerike Medisinske Senter",
       "tlf": "32 17 91 50",
-      "ledigePlasser": 3,
-      "antallPlasser": 900,
-      "valgbar": true
+      "antallPlasser": 900
     },
     "lat": 60.1459858,
     "lng": 10.2478949
@@ -1693,7 +1704,7 @@
     "metadata": {
       "legekontor": "Numedal Legesenter",
       "tlf": "31 02 28 60",
-      "ledigePlasser": 87,
+      "ledigePlasser": 83,
       "antallPlasser": 800,
       "valgbar": true
     },
@@ -1752,7 +1763,7 @@
     "metadata": {
       "legekontor": "Landfalløya Legesenter",
       "tlf": "32 21 87 70",
-      "ledigePlasser": 87,
+      "ledigePlasser": 88,
       "antallPlasser": 1100,
       "valgbar": true
     },
@@ -1848,6 +1859,19 @@
     "lng": 10.0226941
   },
   {
+    "title": "Thuy-Linda Nguyen Luu",
+    "address": "Jacob Borchs gate 21, 3012 DRAMMEN",
+    "metadata": {
+      "legekontor": "Nor Medic",
+      "tlf": "940 02 044",
+      "ledigePlasser": 500,
+      "antallPlasser": 500,
+      "valgbar": true
+    },
+    "lat": 59.743348,
+    "lng": 10.23376
+  },
+  {
     "title": "Martine Myhre Løberg",
     "address": "Gamle Riksvei 106 A, 3057 SOLBERGELVA",
     "metadata": {
@@ -1875,7 +1899,7 @@
     "metadata": {
       "legekontor": "Hotvet legesenter AS",
       "tlf": "31 02 13 00",
-      "ledigePlasser": 471,
+      "ledigePlasser": 469,
       "antallPlasser": 500,
       "valgbar": true
     },
@@ -2011,7 +2035,7 @@
     "metadata": {
       "legekontor": "Tranby Legesenter",
       "tlf": "32 85 87 10",
-      "ledigePlasser": 76,
+      "ledigePlasser": 74,
       "antallPlasser": 900,
       "valgbar": true
     },
@@ -2035,7 +2059,7 @@
     "metadata": {
       "legekontor": "Noresund legekontor",
       "tlf": "32 15 09 00",
-      "ledigePlasser": 67,
+      "ledigePlasser": 65,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -2131,7 +2155,7 @@
     "metadata": {
       "legekontor": "Torget Helsesenter AS",
       "tlf": "32 83 32 83",
-      "ledigePlasser": 126,
+      "ledigePlasser": 124,
       "antallPlasser": 1200,
       "valgbar": true
     },
@@ -2232,7 +2256,7 @@
     "metadata": {
       "legekontor": "Fjell Legesenter",
       "tlf": "32 20 80 90",
-      "ledigePlasser": 16,
+      "ledigePlasser": 15,
       "antallPlasser": 1100,
       "valgbar": true
     },
@@ -2271,7 +2295,7 @@
     "metadata": {
       "legekontor": "Konnerud Legesenter",
       "tlf": "32 88 81 00",
-      "ledigePlasser": 31,
+      "ledigePlasser": 32,
       "antallPlasser": 1550,
       "valgbar": true
     },
@@ -2527,7 +2551,7 @@
     "metadata": {
       "legekontor": "Legehuset AS",
       "tlf": "32 75 58 00",
-      "ledigePlasser": 56,
+      "ledigePlasser": 54,
       "antallPlasser": 1040,
       "valgbar": true
     },
@@ -2564,12 +2588,25 @@
     "metadata": {
       "legekontor": "Fjell Legesenter",
       "tlf": "32 20 80 90",
-      "ledigePlasser": 46,
+      "ledigePlasser": 47,
       "antallPlasser": 1000,
       "valgbar": true
     },
     "lat": 59.7214501,
     "lng": 10.2235844
+  },
+  {
+    "title": "Chong Shing Henry Shek",
+    "address": "Jacob Borchs gate 21, 3012 DRAMMEN",
+    "metadata": {
+      "legekontor": "Nor Medic",
+      "tlf": "940 02 044",
+      "ledigePlasser": 500,
+      "antallPlasser": 500,
+      "valgbar": true
+    },
+    "lat": 59.743348,
+    "lng": 10.23376
   },
   {
     "title": "Hubert Shema",
@@ -2680,7 +2717,7 @@
     "metadata": {
       "legekontor": "Helsehuset Legekontor",
       "tlf": "32 23 68 00",
-      "ledigePlasser": 116,
+      "ledigePlasser": 117,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -2947,7 +2984,7 @@
     "metadata": {
       "legekontor": "Hol kommune Legetjenesten",
       "tlf": "32 09 22 50",
-      "ledigePlasser": 177,
+      "ledigePlasser": 176,
       "antallPlasser": 600,
       "valgbar": true
     },
@@ -3026,7 +3063,7 @@
     "metadata": {
       "legekontor": "Hol kommune Legetjenesten",
       "tlf": "32 09 22 50",
-      "ledigePlasser": 39,
+      "ledigePlasser": 38,
       "antallPlasser": 600,
       "valgbar": true
     },
@@ -3061,7 +3098,7 @@
     "metadata": {
       "legekontor": "Sentrum Legekontor Drammen",
       "tlf": "32 83 20 60",
-      "ledigePlasser": 3,
+      "ledigePlasser": 2,
       "antallPlasser": 1400,
       "valgbar": true
     },
@@ -3151,7 +3188,7 @@
     "metadata": {
       "legekontor": "Torget Helsesenter AS",
       "tlf": "32 83 32 83",
-      "ledigePlasser": 126,
+      "ledigePlasser": 125,
       "antallPlasser": 1200,
       "valgbar": true
     },

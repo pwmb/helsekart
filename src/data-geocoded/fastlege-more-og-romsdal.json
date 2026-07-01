@@ -23,10 +23,9 @@
   },
   {
     "title": "Mahdiyeh Amirideram",
-    "address": "Midtvågvegen 6, 6630 TINGVOLL",
+    "address": "Midtvågveien 6, 6630 TINGVOLL",
     "metadata": {
-      "legekontor": "Tingvoll Legesenter AS",
-      "tlf": "71 53 24 50",
+      "legekontor": "Tingvoll Kommune Legetjenesten",
       "antallPlasser": 974
     },
     "lat": 62.9123505,
@@ -192,9 +191,7 @@
     "metadata": {
       "legekontor": "Daaeskogen Legesenter",
       "tlf": "70 16 41 50",
-      "ledigePlasser": 1,
-      "antallPlasser": 900,
-      "valgbar": true
+      "antallPlasser": 900
     },
     "lat": 62.4642898,
     "lng": 6.348683
@@ -340,7 +337,7 @@
     "metadata": {
       "legekontor": "Stranda Legekontor",
       "tlf": "70 26 81 20",
-      "ledigePlasser": 2,
+      "ledigePlasser": 1,
       "antallPlasser": 600,
       "valgbar": true
     },
@@ -363,19 +360,16 @@
     "metadata": {
       "legekontor": "Sundgata Helsesenter",
       "tlf": "21 04 78 50",
-      "ledigePlasser": 14,
-      "antallPlasser": 1000,
-      "valgbar": true
+      "antallPlasser": 1000
     },
     "lat": 62.4710208,
     "lng": 6.1679297
   },
   {
     "title": "Thomas Alexander Bulling",
-    "address": "Midtvågvegen 6, 6630 TINGVOLL",
+    "address": "Midtvågveien 6, 6630 TINGVOLL",
     "metadata": {
-      "legekontor": "Tingvoll Legesenter AS",
-      "tlf": "71 53 24 50",
+      "legekontor": "Tingvoll Kommune Legetjenesten",
       "antallPlasser": 1000
     },
     "lat": 62.9123505,
@@ -866,7 +860,7 @@
     "metadata": {
       "legekontor": "Sunndal Medisinske Senter DA",
       "tlf": "71 68 90 00",
-      "ledigePlasser": 9,
+      "ledigePlasser": 10,
       "antallPlasser": 1400,
       "valgbar": true
     },
@@ -1034,7 +1028,7 @@
     "metadata": {
       "legekontor": "Aure Legekontor",
       "tlf": "71 64 75 70",
-      "ledigePlasser": 62,
+      "ledigePlasser": 60,
       "antallPlasser": 750,
       "valgbar": true
     },
@@ -1082,7 +1076,7 @@
     "metadata": {
       "legekontor": "Gjemnes legesenter",
       "tlf": "71 29 11 80",
-      "ledigePlasser": 135,
+      "ledigePlasser": 134,
       "antallPlasser": 900,
       "valgbar": true
     },
@@ -1139,7 +1133,7 @@
     "metadata": {
       "legekontor": "Rauma Legesenter",
       "tlf": "71 16 67 00",
-      "ledigePlasser": 32,
+      "ledigePlasser": 22,
       "antallPlasser": 800,
       "valgbar": true
     },
@@ -1185,7 +1179,7 @@
     "metadata": {
       "legekontor": "Gjemnes legesenter",
       "tlf": "71 29 11 80",
-      "ledigePlasser": 100,
+      "ledigePlasser": 99,
       "antallPlasser": 900,
       "valgbar": true
     },
@@ -1266,7 +1260,7 @@
     "metadata": {
       "legekontor": "Midsund legekontor",
       "tlf": "71 27 05 50",
-      "ledigePlasser": 86,
+      "ledigePlasser": 85,
       "antallPlasser": 500,
       "valgbar": true
     },
@@ -1471,7 +1465,7 @@
     "metadata": {
       "legekontor": "Hornindal Legekontor",
       "tlf": "57 87 98 70",
-      "ledigePlasser": 107,
+      "ledigePlasser": 106,
       "antallPlasser": 600,
       "valgbar": true
     },
@@ -1484,7 +1478,7 @@
     "metadata": {
       "legekontor": "Stranda Legekontor",
       "tlf": "70 26 81 20",
-      "ledigePlasser": 15,
+      "ledigePlasser": 17,
       "antallPlasser": 600,
       "valgbar": true
     },
@@ -1552,7 +1546,7 @@
     "metadata": {
       "legekontor": "Kommunelegekontoret i Sula",
       "tlf": "70 19 91 60",
-      "ledigePlasser": 6,
+      "ledigePlasser": 5,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -1740,7 +1734,7 @@
     "metadata": {
       "legekontor": "Rauma Legesenter",
       "tlf": "71 16 67 00",
-      "ledigePlasser": 103,
+      "ledigePlasser": 113,
       "antallPlasser": 800,
       "valgbar": true
     },
@@ -1923,7 +1917,7 @@
     "metadata": {
       "legekontor": "Rauma Legesenter",
       "tlf": "71 16 67 00",
-      "ledigePlasser": 38,
+      "ledigePlasser": 39,
       "antallPlasser": 800,
       "valgbar": true
     },
@@ -2123,7 +2117,7 @@
     "metadata": {
       "legekontor": "Hustadvika legetjenester",
       "tlf": "71 26 82 00",
-      "ledigePlasser": 58,
+      "ledigePlasser": 57,
       "antallPlasser": 1056,
       "valgbar": true
     },
@@ -2322,9 +2316,7 @@
     "metadata": {
       "legekontor": "Ørskog Legekontor",
       "tlf": "70 16 59 80",
-      "ledigePlasser": 2,
-      "antallPlasser": 800,
-      "valgbar": true
+      "antallPlasser": 800
     },
     "lat": 62.4823206,
     "lng": 6.8311473
@@ -2467,7 +2459,7 @@
     "metadata": {
       "legekontor": "Hustadvika legetjenester",
       "tlf": "71 26 82 00",
-      "ledigePlasser": 73,
+      "ledigePlasser": 72,
       "antallPlasser": 1400,
       "valgbar": true
     },
@@ -3016,7 +3008,7 @@
     "metadata": {
       "legekontor": "Gjemnes legesenter",
       "tlf": "71 29 11 80",
-      "ledigePlasser": 8,
+      "ledigePlasser": 9,
       "antallPlasser": 800,
       "valgbar": true
     },
@@ -3040,7 +3032,7 @@
     "metadata": {
       "legekontor": "Daaeskogen Legesenter",
       "tlf": "70 16 41 50",
-      "ledigePlasser": 305,
+      "ledigePlasser": 304,
       "antallPlasser": 850,
       "valgbar": true
     },
@@ -3119,7 +3111,7 @@
     "metadata": {
       "legekontor": "Myrvåg Legesenter",
       "tlf": "70 08 03 00",
-      "ledigePlasser": 36,
+      "ledigePlasser": 35,
       "antallPlasser": 750,
       "valgbar": true
     },
@@ -3132,7 +3124,7 @@
     "metadata": {
       "legekontor": "Sande legekontor",
       "tlf": "70 02 67 50",
-      "ledigePlasser": 4,
+      "ledigePlasser": 3,
       "antallPlasser": 700,
       "valgbar": true
     },
@@ -3156,7 +3148,7 @@
     "metadata": {
       "legekontor": "Sunndal Medisinske Senter DA",
       "tlf": "71 68 90 00",
-      "ledigePlasser": 12,
+      "ledigePlasser": 14,
       "antallPlasser": 1340,
       "valgbar": true
     },
@@ -3280,7 +3272,7 @@
     "metadata": {
       "legekontor": "Medicalis legesenter",
       "tlf": "70 10 00 22",
-      "ledigePlasser": 352,
+      "ledigePlasser": 350,
       "antallPlasser": 1400,
       "valgbar": true
     },
@@ -3326,7 +3318,7 @@
     "metadata": {
       "legekontor": "Medicalis legesenter",
       "tlf": "70 10 00 22",
-      "ledigePlasser": 366,
+      "ledigePlasser": 361,
       "antallPlasser": 1800,
       "valgbar": true
     },

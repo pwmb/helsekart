@@ -64,7 +64,7 @@
     "metadata": {
       "legekontor": "Sentrum Legesenter Moss",
       "tlf": "69 10 99 99",
-      "ledigePlasser": 191,
+      "ledigePlasser": 192,
       "antallPlasser": 900,
       "valgbar": true
     },
@@ -101,7 +101,7 @@
     "metadata": {
       "legekontor": "Amfi Medisinske Senter AS",
       "tlf": "69 10 97 77",
-      "ledigePlasser": 35,
+      "ledigePlasser": 34,
       "antallPlasser": 900,
       "valgbar": true
     },
@@ -112,9 +112,9 @@
     "title": "Basharat Ali",
     "address": "Prinsens gate 7, 1530 MOSS",
     "metadata": {
-      "legekontor": "Moss Helsesenter AS",
-      "tlf": "69 20 40 40",
-      "ledigePlasser": 137,
+      "legekontor": "Moss Legesenter AS",
+      "tlf": "932 90 009",
+      "ledigePlasser": 136,
       "antallPlasser": 1126,
       "valgbar": true
     },
@@ -127,7 +127,7 @@
     "metadata": {
       "legekontor": "Skjønhauglegene",
       "tlf": "940 01 082",
-      "ledigePlasser": 26,
+      "ledigePlasser": 25,
       "antallPlasser": 1051,
       "valgbar": true
     },
@@ -308,7 +308,7 @@
     "metadata": {
       "legekontor": "Ringvoll Helse AS",
       "tlf": "69 92 43 80",
-      "ledigePlasser": 418,
+      "ledigePlasser": 416,
       "antallPlasser": 800,
       "valgbar": true
     },
@@ -379,7 +379,7 @@
     "metadata": {
       "legekontor": "Landsbylegene",
       "tlf": "69 85 67 00",
-      "ledigePlasser": 373,
+      "ledigePlasser": 372,
       "antallPlasser": 1350,
       "valgbar": true
     },
@@ -403,7 +403,7 @@
     "metadata": {
       "legekontor": "Borge Legesenter AS",
       "tlf": "69 35 20 50",
-      "ledigePlasser": 20,
+      "ledigePlasser": 16,
       "antallPlasser": 900,
       "valgbar": true
     },
@@ -594,7 +594,7 @@
     "metadata": {
       "legekontor": "Mysen legesenter AS",
       "tlf": "69 84 64 20",
-      "ledigePlasser": 228,
+      "ledigePlasser": 231,
       "antallPlasser": 1300,
       "valgbar": true
     },
@@ -807,9 +807,7 @@
     "metadata": {
       "legekontor": "Torget legesenter",
       "tlf": "69 84 40 00",
-      "ledigePlasser": 3,
-      "antallPlasser": 1600,
-      "valgbar": true
+      "antallPlasser": 1600
     },
     "lat": 59.5848208,
     "lng": 11.1659902
@@ -886,7 +884,7 @@
     "metadata": {
       "legekontor": "Kongsten Legekontor",
       "tlf": "69 32 39 00",
-      "ledigePlasser": 25,
+      "ledigePlasser": 26,
       "antallPlasser": 800,
       "valgbar": true
     },
@@ -980,7 +978,7 @@
     "metadata": {
       "legekontor": "Nedre Glommen Legegruppe DA",
       "tlf": "69 36 63 30",
-      "ledigePlasser": 7,
+      "ledigePlasser": 6,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -993,7 +991,7 @@
     "metadata": {
       "legekontor": "Sellebakk Legekontor AS",
       "tlf": "69 36 17 97",
-      "ledigePlasser": 48,
+      "ledigePlasser": 49,
       "antallPlasser": 500,
       "valgbar": true
     },
@@ -1017,8 +1015,8 @@
     "title": "Sabah Goran",
     "address": "Prinsens gate 7, 1530 MOSS",
     "metadata": {
-      "legekontor": "Moss Helsesenter AS",
-      "tlf": "69 20 40 40",
+      "legekontor": "Moss Legesenter AS",
+      "tlf": "932 90 009",
       "antallPlasser": 1200
     },
     "lat": 59.43726,
@@ -1040,7 +1038,7 @@
     "address": "Helsehuset Jens Wilhelmsens gate 1, 1671 KRÅKERØY",
     "metadata": {
       "legekontor": "Spesialistklinikken Kråkerøy AS",
-      "ledigePlasser": 249,
+      "ledigePlasser": 248,
       "antallPlasser": 700,
       "valgbar": true
     },
@@ -1211,7 +1209,7 @@
     "metadata": {
       "legekontor": "Landsbylegene",
       "tlf": "69 85 67 00",
-      "ledigePlasser": 121,
+      "ledigePlasser": 120,
       "antallPlasser": 1300,
       "valgbar": true
     },
@@ -1246,7 +1244,7 @@
     "metadata": {
       "legekontor": "Ørebekk Legesenter AS",
       "tlf": "69 32 86 00",
-      "ledigePlasser": 67,
+      "ledigePlasser": 66,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -1259,7 +1257,7 @@
     "metadata": {
       "legekontor": "Skjærhalden Legekontor",
       "tlf": "69 37 49 70",
-      "ledigePlasser": 328,
+      "ledigePlasser": 330,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -1362,7 +1360,7 @@
     "metadata": {
       "legekontor": "Onsøy Legesenter",
       "tlf": "69 33 75 30",
-      "ledigePlasser": 37,
+      "ledigePlasser": 38,
       "antallPlasser": 900,
       "valgbar": true
     },
@@ -1399,7 +1397,7 @@
     "metadata": {
       "legekontor": "Skjønhauglegene",
       "tlf": "940 01 082",
-      "ledigePlasser": 254,
+      "ledigePlasser": 255,
       "antallPlasser": 1300,
       "valgbar": true
     },
@@ -1547,7 +1545,7 @@
     "address": "Helsehuset Jens Wilhelmsens gate 1, 1671 KRÅKERØY",
     "metadata": {
       "legekontor": "Spesialistklinikken Kråkerøy AS",
-      "ledigePlasser": 381,
+      "ledigePlasser": 380,
       "antallPlasser": 500,
       "valgbar": true
     },
@@ -1560,7 +1558,7 @@
     "metadata": {
       "legekontor": "Onsøy Legesenter",
       "tlf": "69 33 75 30",
-      "ledigePlasser": 30,
+      "ledigePlasser": 31,
       "antallPlasser": 600,
       "valgbar": true
     },
@@ -1597,7 +1595,7 @@
     "metadata": {
       "legekontor": "Amfi Medisinske Senter AS",
       "tlf": "69 10 97 77",
-      "ledigePlasser": 465,
+      "ledigePlasser": 464,
       "antallPlasser": 900,
       "valgbar": true
     },
@@ -1739,7 +1737,7 @@
     "metadata": {
       "legekontor": "Bylegene Moss",
       "tlf": "69 24 08 16",
-      "ledigePlasser": 3,
+      "ledigePlasser": 2,
       "antallPlasser": 1250,
       "valgbar": true
     },
@@ -1763,7 +1761,7 @@
     "metadata": {
       "legekontor": "Bylegene Moss",
       "tlf": "69 24 08 16",
-      "ledigePlasser": 19,
+      "ledigePlasser": 18,
       "antallPlasser": 1250,
       "valgbar": true
     },
@@ -1857,7 +1855,7 @@
     "metadata": {
       "legekontor": "Vincent Medisinske Senter",
       "tlf": "69 95 55 44",
-      "ledigePlasser": 39,
+      "ledigePlasser": 37,
       "antallPlasser": 900,
       "valgbar": true
     },
@@ -1881,7 +1879,7 @@
     "metadata": {
       "legekontor": "Glomma Legesenter",
       "tlf": "69 36 66 80",
-      "ledigePlasser": 53,
+      "ledigePlasser": 52,
       "antallPlasser": 650,
       "valgbar": true
     },
@@ -2195,7 +2193,7 @@
     "metadata": {
       "legekontor": "Torget Legesenter Sarpsborg AS",
       "tlf": "69 13 09 00",
-      "ledigePlasser": 3,
+      "ledigePlasser": 4,
       "antallPlasser": 1200,
       "valgbar": true
     },
@@ -2254,7 +2252,7 @@
     "metadata": {
       "legekontor": "Sentrum Legesenter Moss",
       "tlf": "69 10 99 99",
-      "ledigePlasser": 192,
+      "ledigePlasser": 191,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -2288,7 +2286,7 @@
     "metadata": {
       "legekontor": "Karl Johans Legesenter",
       "tlf": "69 15 22 00",
-      "ledigePlasser": 110,
+      "ledigePlasser": 109,
       "antallPlasser": 1200,
       "valgbar": true
     },
@@ -2429,7 +2427,7 @@
     "metadata": {
       "legekontor": "Hvaler Legesenter",
       "tlf": "69 37 54 80",
-      "ledigePlasser": 19,
+      "ledigePlasser": 20,
       "antallPlasser": 650,
       "valgbar": true
     },
@@ -2486,7 +2484,7 @@
     "metadata": {
       "legekontor": "Helsegaarden AS",
       "tlf": "21 04 78 78",
-      "ledigePlasser": 76,
+      "ledigePlasser": 77,
       "antallPlasser": 500,
       "valgbar": true
     },
@@ -2606,7 +2604,7 @@
     "metadata": {
       "legekontor": "Legesenter Nygaardsgata",
       "tlf": "69 31 18 35",
-      "ledigePlasser": 335,
+      "ledigePlasser": 338,
       "antallPlasser": 1200,
       "valgbar": true
     },
@@ -2700,7 +2698,7 @@
     "metadata": {
       "legekontor": "Bylegen Legesenter",
       "tlf": "69 30 02 20",
-      "ledigePlasser": 120,
+      "ledigePlasser": 121,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -2772,7 +2770,7 @@
     "metadata": {
       "legekontor": "Sellebakk Legekontor AS",
       "tlf": "69 36 17 97",
-      "ledigePlasser": 9,
+      "ledigePlasser": 7,
       "antallPlasser": 900,
       "valgbar": true
     },
@@ -2886,7 +2884,7 @@
     "metadata": {
       "legekontor": "Halmstad legekontor",
       "tlf": "69 95 66 00",
-      "ledigePlasser": 48,
+      "ledigePlasser": 47,
       "antallPlasser": 1050,
       "valgbar": true
     },
@@ -2936,7 +2934,9 @@
     "metadata": {
       "legekontor": "Sellebakk Legekontor AS",
       "tlf": "69 36 17 97",
-      "antallPlasser": 700
+      "ledigePlasser": 9,
+      "antallPlasser": 700,
+      "valgbar": true
     },
     "lat": 59.2281753,
     "lng": 10.9937353
@@ -2971,7 +2971,7 @@
     "metadata": {
       "legekontor": "Moss Medisinske senter",
       "tlf": "22 34 34 00",
-      "ledigePlasser": 88,
+      "ledigePlasser": 89,
       "antallPlasser": 1000,
       "valgbar": true
     },
@@ -3043,7 +3043,7 @@
     "metadata": {
       "legekontor": "Avicenna Legesenter",
       "tlf": "61 10 00 30",
-      "ledigePlasser": 70,
+      "ledigePlasser": 68,
       "antallPlasser": 1100,
       "valgbar": true
     },
@@ -3091,7 +3091,7 @@
     "metadata": {
       "legekontor": "Onsøy Legesenter",
       "tlf": "69 33 75 30",
-      "ledigePlasser": 148,
+      "ledigePlasser": 146,
       "antallPlasser": 700,
       "valgbar": true
     },
@@ -3151,7 +3151,7 @@
     "metadata": {
       "legekontor": "Sentrum Legesenter Moss",
       "tlf": "69 10 99 99",
-      "ledigePlasser": 361,
+      "ledigePlasser": 360,
       "antallPlasser": 1150,
       "valgbar": true
     },
@@ -3458,7 +3458,7 @@
     "metadata": {
       "legekontor": "Ekholt legekontor",
       "tlf": "69 23 62 30",
-      "ledigePlasser": 156,
+      "ledigePlasser": 155,
       "antallPlasser": 1400,
       "valgbar": true
     },
@@ -3504,7 +3504,7 @@
     "metadata": {
       "legekontor": "Nedre Glommen Legegruppe DA",
       "tlf": "69 36 63 30",
-      "ledigePlasser": 16,
+      "ledigePlasser": 19,
       "antallPlasser": 1200,
       "valgbar": true
     },
@@ -3605,7 +3605,7 @@
     "metadata": {
       "legekontor": "Gressvik Legekontor",
       "tlf": "69 36 18 00",
-      "ledigePlasser": 308,
+      "ledigePlasser": 307,
       "antallPlasser": 800,
       "valgbar": true
     },
